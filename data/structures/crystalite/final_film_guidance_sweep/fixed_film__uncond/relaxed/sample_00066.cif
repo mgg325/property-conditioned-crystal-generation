@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Al5(BiO4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99465605
+_cell_length_b   6.44123853
+_cell_length_c   9.10147317
+_cell_angle_alpha   67.57651966
+_cell_angle_beta   68.03829728
+_cell_angle_gamma   85.48104621
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al5(BiO4)3
+_chemical_formula_sum   'Al5 Bi3 O12'
+_cell_volume   300.45192962
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.14996302  0.05182170  0.01923935  1
+  Al  Al1  1  0.65823152  0.22891891  -0.03056405  1
+  Al  Al2  1  0.80903605  0.59899675  0.31260506  1
+  Al  Al3  1  0.39234293  0.31460420  0.63525407  1
+  Al  Al4  1  0.93667781  0.18354257  0.60781751  1
+  Bi  Bi5  1  0.60461781  0.81399478  0.65493146  1
+  Bi  Bi6  1  0.28312935  0.75734343  0.32920106  1
+  Bi  Bi7  1  -0.00706224  0.64924509  0.88283218  1
+  O  O8  1  0.00586955  0.90040860  0.61953596  1
+  O  O9  1  0.78889840  0.77539102  0.42276798  1
+  O  O10  1  0.26251990  0.05890412  0.80795489  1
+  O  O11  1  0.10201903  0.74002245  0.15151572  1
+  O  O12  1  0.67695322  0.53281422  0.86457748  1
+  O  O13  1  0.73409262  0.11623094  0.81327627  1
+  O  O14  1  0.61187647  0.63315394  0.20439492  1
+  O  O15  1  0.90294038  0.22311317  0.03732723  1
+  O  O16  1  0.35633102  0.11094637  0.10230856  1
+  O  O17  1  0.20178656  0.36442592  0.51411149  1
+  O  O18  1  0.72159944  0.32317547  0.49526590  1
+  O  O19  1  0.33023453  0.53303848  0.71703690  1

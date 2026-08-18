@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_YNiPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.52020346
+_cell_length_b   3.51872312
+_cell_length_c   5.01142498
+_cell_angle_alpha   110.63449933
+_cell_angle_beta   110.58501201
+_cell_angle_gamma   89.98977201
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YNiPt
+_chemical_formula_sum   'Y1 Ni1 Pt1'
+_cell_volume   53.83822228
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.42562213  1.00027540  0.15574078  1
+  Ni  Ni1  1  0.75079343  0.32536739  0.80663266  1
+  Pt  Pt2  1  0.09992073  0.67559937  0.50373850  1

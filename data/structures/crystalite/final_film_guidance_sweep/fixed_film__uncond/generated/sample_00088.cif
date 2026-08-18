@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sr2CaPrScTi3O12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66335487
+_cell_length_b   5.61315107
+_cell_length_c   7.89422607
+_cell_angle_alpha   90.02532196
+_cell_angle_beta   90.01001740
+_cell_angle_gamma   89.94563293
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CaPrScTi3O12
+_chemical_formula_sum   'Sr2 Ca1 Pr1 Sc1 Ti3 O12'
+_cell_volume   250.95151509
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.45813304  0.01295444  0.82146323  1
+  O  O1  1  0.29678982  0.74353755  0.10918504  1
+  O  O2  1  0.72597015  0.31525117  0.04674599  1
+  Ca  Ca3  1  0.51379484  0.56865680  0.82659256  1
+  Sr  Sr4  1  0.01797646  0.00219876  0.32432646  1
+  O  O5  1  0.93842936  0.53633213  0.32405573  1
+  Pr  Pr6  1  0.50603992  0.48959073  0.32862616  1
+  Ti  Ti7  1  0.00915697  0.52391523  0.06729594  1
+  O  O8  1  0.24259776  0.25172061  0.10644495  1
+  O  O9  1  0.79152226  0.80794168  0.04376596  1
+  O  O10  1  0.24112496  0.25368971  0.54472059  1
+  Ti  Ti11  1  0.51443839  0.03469124  0.57675654  1
+  O  O12  1  0.29645848  0.75210392  0.53927153  1
+  Sr  Sr13  1  0.00799164  0.05986878  0.82529157  1
+  Ti  Ti14  1  0.01111901  0.52926421  0.57853055  1
+  O  O15  1  0.08409780  0.52020514  0.82575238  1
+  O  O16  1  0.56677741  0.04416957  0.32842323  1
+  Sc  Sc17  1  0.51117027  0.02562392  0.07266787  1
+  O  O18  1  0.72902977  0.32564753  0.60492969  1
+  O  O19  1  0.79168165  0.80835319  0.59970009  1

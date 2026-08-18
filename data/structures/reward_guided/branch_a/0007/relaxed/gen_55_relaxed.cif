@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K3Dy(SbTe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.81867530
+_cell_length_b   7.82363377
+_cell_length_c   8.66126347
+_cell_angle_alpha   81.30195480
+_cell_angle_beta   72.43792698
+_cell_angle_gamma   60.00709893
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Dy(SbTe3)2
+_chemical_formula_sum   'K3 Dy1 Sb2 Te6'
+_cell_volume   437.47723367
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.70111888  0.40959175  0.05964593  1
+  K  K1  1  0.03601599  0.74187722  0.05966685  1
+  K  K2  1  0.36920956  0.07219491  0.05936843  1
+  Dy  Dy3  1  0.53644980  0.74080581  0.55949995  1
+  Sb  Sb4  1  0.20189680  0.40903551  0.55912327  1
+  Sb  Sb5  1  0.86861832  0.07507222  0.55930198  1
+  Te  Te6  1  0.46634911  0.41088529  0.76890691  1
+  Te  Te7  1  0.79539572  0.74154343  0.76938333  1
+  Te  Te8  1  0.93556302  0.41191887  0.34951204  1
+  Te  Te9  1  0.27631826  0.74104832  0.34979846  1
+  Te  Te10  1  0.13576924  0.07086529  0.76815110  1
+  Te  Te11  1  0.60480436  0.07122792  0.34992837  1

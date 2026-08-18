@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaCaSiF9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18243122
+_cell_length_b   6.71916342
+_cell_length_c   6.53123760
+_cell_angle_alpha   90.08694458
+_cell_angle_beta   90.32736206
+_cell_angle_gamma   90.23164368
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCaSiF9
+_chemical_formula_sum   'Ba1 Ca1 Si1 F9'
+_cell_volume   227.42231745
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.69108242  0.36236662  0.06602475  1
+  F  F1  1  0.17518538  0.75407130  0.17580593  1
+  F  F2  1  0.64101994  0.99833423  0.82210016  1
+  Ca  Ca3  1  0.16057953  0.43354172  0.29781622  1
+  F  F4  1  0.61495745  0.72337985  0.06216869  1
+  F  F5  1  0.61286432  0.99516797  0.30035573  1
+  Si  Si6  1  0.41226032  0.96867836  0.05030990  1
+  F  F7  1  0.15167445  0.31260282  0.50922000  1
+  F  F8  1  0.18765327  0.18286756  0.00869510  1
+  Ba  Ba9  1  0.73996401  0.40003866  0.67824221  1
+  F  F10  1  0.68177843  0.56876016  0.43484852  1
+  F  F11  1  0.15894100  0.65890682  0.80821866  1

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiNiPt2
+_chemical_formula_sum              "Li1 Ni1 Pt2"
+_cell_length_a       2.703486693089386
+_cell_length_b       3.6023274977451702
+_cell_length_c       5.418056488037109
+_cell_angle_alpha    92.32943865052866
+_cell_angle_beta     92.44928097394242
+_cell_angle_gamma    91.82856722853306
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.1389404684305191  0.982614576816559  0.3804177939891815  1.0000
+  Ni  Ni1       1.0  0.1410414427518845  0.9838539958000184  0.8835253119468688  1.0000
+  Pt  Pt1       1.0  0.6381382346153259  0.48343971371650696  0.13254272937774658  1.0000
+  Pt  Pt2       1.0  0.639557421207428  0.4824978411197663  0.6295870542526245  1.0000

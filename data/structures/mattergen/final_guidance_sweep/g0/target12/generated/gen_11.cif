@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ClNaAuCl
+_chemical_formula_sum              "Cl2 Na1 Au1"
+_cell_length_a       4.375606810052901
+_cell_length_b       4.372917939540925
+_cell_length_c       7.7662787437438965
+_cell_angle_alpha    106.21942560172873
+_cell_angle_beta     90.1352675918471
+_cell_angle_gamma    120.05348163378828
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.06612008064985281  0.6263404488563539  0.997056484222412  1.0000
+  Na  Na1       1.0  0.671273946762085  0.8374318480491639  0.8129899501800537  1.0000
+  Au  Au1       1.0  0.17243389785289773  0.838979482650757  0.3118295967578888  1.0000
+  Cl  Cl2       1.0  0.27814584970474243  0.048457641154527664  0.6252977848052979  1.0000

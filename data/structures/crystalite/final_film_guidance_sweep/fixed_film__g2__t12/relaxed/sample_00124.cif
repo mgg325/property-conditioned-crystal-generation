@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_GaSnHg2Bi6Sb2AsPb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.85175504
+_cell_length_b   9.25006975
+_cell_length_c   8.83819040
+_cell_angle_alpha   121.40786307
+_cell_angle_beta   117.35854183
+_cell_angle_gamma   90.31524162
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaSnHg2Bi6Sb2AsPb
+_chemical_formula_sum   'Ga1 Sn1 Hg2 Bi6 Sb2 As1 Pb1'
+_cell_volume   460.46505426
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.47213646  0.79201997  0.62485096  1
+  Sn  Sn1  1  0.52358120  0.48091947  -0.02001154  1
+  Hg  Hg2  1  0.64535213  0.87770352  0.16625460  1
+  Hg  Hg3  1  0.28899023  0.99398482  0.85627861  1
+  Bi  Bi4  1  0.37523078  0.17719191  0.31657176  1
+  Bi  Bi5  1  0.87460711  0.44537950  0.71421335  1
+  Bi  Bi6  1  0.25856497  0.50143117  0.59416759  1
+  Bi  Bi7  1  0.25439736  0.53193828  0.14919535  1
+  Bi  Bi8  1  0.76762614  0.28549837  0.15491461  1
+  Bi  Bi9  1  0.63991623  0.09182315  0.63402179  1
+  Sb  Sb10  1  0.90288011  -0.03423846  0.93713721  1
+  Sb  Sb11  1  0.92506665  0.68666916  0.57126203  1
+  As  As12  1  0.90233348  0.65796880  0.09913253  1
+  Pb  Pb13  1  0.12997590  0.02531842  0.48447587  1

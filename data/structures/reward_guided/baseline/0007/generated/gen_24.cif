@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ErPtErRh
+_chemical_formula_sum              "Er2 Pt1 Rh1"
+_cell_length_a       3.424295362046205
+_cell_length_b       3.4230473978848037
+_cell_length_c       6.884788513183594
+_cell_angle_alpha    90.19292802679087
+_cell_angle_beta     90.08746307510475
+_cell_angle_gamma    90.05456206024266
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.7869150638580322  0.46258118748664856  0.9468430280685425  1.0000
+  Pt  Pt1       1.0  0.28722062706947327  0.9626740217208862  0.6940051317214966  1.0000
+  Er  Er2       1.0  0.7875306010246277  0.462809681892395  0.44173136353492737  1.0000
+  Rh  Rh1       1.0  0.2872057557106018  0.9625520706176758  0.19425635039806366  1.0000

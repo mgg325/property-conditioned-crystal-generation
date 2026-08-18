@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ca3(ZnAg2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.70298352
+_cell_length_b   5.92139254
+_cell_length_c   8.82976627
+_cell_angle_alpha   70.93497992
+_cell_angle_beta   74.59766392
+_cell_angle_gamma   66.64830237
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3(ZnAg2)2
+_chemical_formula_sum   'Ca3 Zn2 Ag4'
+_cell_volume   210.72727496
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.73656256  0.19717655  0.55626106  1
+  Ca  Ca1  1  0.37936255  0.59620880  0.86989886  1
+  Ca  Ca2  1  0.09202363  0.79800109  0.24276806  1
+  Zn  Zn3  1  0.39253021  0.21005210  0.22873837  1
+  Zn  Zn4  1  0.07795945  0.18394052  0.88548028  1
+  Ag  Ag5  1  0.01296489  0.57394421  0.62648377  1
+  Ag  Ag6  1  0.64828546  0.96086442  0.96765041  1
+  Ag  Ag7  1  0.82339316  0.43302791  0.14580458  1
+  Ag  Ag8  1  0.46064484  0.81891616  0.48643857  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BaTlPbSO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.82834963
+_cell_length_b   5.80334614
+_cell_length_c   6.92211344
+_cell_angle_alpha   74.06158800
+_cell_angle_beta   90.30241119
+_cell_angle_gamma   87.22696814
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaTlPbSO6
+_chemical_formula_sum   'Ba1 Tl1 Pb1 S1 O6'
+_cell_volume   186.25208370
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.36868583  0.14413093  0.48298349  1
+  Tl  Tl1  1  0.88231813  0.65241802  0.62311552  1
+  Pb  Pb2  1  0.19054704  0.76096329  0.08271765  1
+  S  S3  1  0.66761170  0.19660035  1.02359700  1
+  O  O4  1  0.74926885  0.42265637  0.06336270  1
+  O  O5  1  0.35923492  0.17562471  0.05002919  1
+  O  O6  1  0.26801041  0.78565500  0.77645776  1
+  O  O7  1  0.80318342  0.98831872  0.18608515  1
+  O  O8  1  0.74294659  0.17366764  0.82131068  1
+  O  O9  1  0.30553930  0.62381286  0.39140307  1

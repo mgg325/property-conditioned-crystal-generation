@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NF3
+_chemical_formula_sum              "N1 F3"
+_cell_length_a       3.6492506205407818
+_cell_length_b       4.24182075352936
+_cell_length_c       4.260091304779053
+_cell_angle_alpha    115.99585983734204
+_cell_angle_beta     109.9279872072728
+_cell_angle_gamma    75.10383023035914
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.8589117527008057  0.6887506246566772  0.09436360001564026  1.0000
+  F   F1        1.0  0.5047032833099365  0.5815767645835876  0.8336949944496155  1.0000
+  F   F2        1.0  0.05985587835311889  0.3535540997982025  0.1231205090880394  1.0000
+  F   F3        1.0  0.7592059969902039  0.8782868981361388  0.4206888675689697  1.0000

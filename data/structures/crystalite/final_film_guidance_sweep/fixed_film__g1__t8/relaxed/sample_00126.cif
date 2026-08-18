@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ba2AlSiSe8S
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.46528102
+_cell_length_b   6.67348808
+_cell_length_c   9.60942656
+_cell_angle_alpha   90.76320104
+_cell_angle_beta   90.38351801
+_cell_angle_gamma   106.30195292
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2AlSiSe8S
+_chemical_formula_sum   'Ba2 Al1 Si1 Se8 S1'
+_cell_volume   397.88025480
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.86917126  0.18266375  0.14277536  1
+  Ba  Ba1  1  0.18572715  0.07412091  0.69055292  1
+  Al  Al2  1  0.35932006  0.73097944  -0.02843901  1
+  Si  Si3  1  0.74910216  0.39881014  0.45758580  1
+  Se  Se4  1  0.75802839  0.06687435  0.47540372  1
+  Se  Se5  1  0.68334122  0.65133746  0.07214970  1
+  Se  Se6  1  0.87590217  0.54782529  0.67326743  1
+  Se  Se7  1  0.27234537  0.57564501  0.59322987  1
+  Se  Se8  1  0.30310169  1.04999699  0.03071270  1
+  Se  Se9  1  0.95340104  0.64515867  0.31557424  1
+  Se  Se10  1  0.38787880  0.37823320  0.40761758  1
+  Se  Se11  1  0.71848941  0.84737415  0.85904814  1
+  S  S12  1  0.12464878  0.43692269  0.89764008  1

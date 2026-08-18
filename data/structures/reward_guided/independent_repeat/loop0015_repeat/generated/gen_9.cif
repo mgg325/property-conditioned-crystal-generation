@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       InSnPb2InPb4
+_chemical_formula_sum              "In2 Sn1 Pb6"
+_cell_length_a       4.7818793386500715
+_cell_length_b       8.26957789385374
+_cell_length_c       8.215227127075195
+_cell_angle_alpha    120.34327364098777
+_cell_angle_beta     89.111476849639
+_cell_angle_gamma    89.78767920563607
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.6249215602874756  0.8208900094032288  0.15952990949153906  1.0000
+  Sn  Sn1       1.0  0.12230134755373001  0.4830015897750855  0.49716317653656006  1.0000
+  Pb  Pb1       1.0  0.6229076981544495  0.4851061701774597  0.7596376538276672  1.0000
+  Pb  Pb2       1.0  0.12436702102422714  0.08124114573001862  0.4932622015476227  1.0000
+  In  In2       1.0  0.6245051026344299  0.15352590382099154  0.8288323879241944  1.0000
+  Pb  Pb3       1.0  0.6252597570419312  0.7490927577018738  0.4931500554084778  1.0000
+  Pb  Pb4       1.0  0.1242145448923111  0.887525200843811  0.8979654908180237  1.0000
+  Pb  Pb5       1.0  0.6216909289360046  0.2191009521484375  0.22554387152194977  1.0000
+  Pb  Pb6       1.0  0.12342984974384308  0.48570716381073  0.08889947086572647  1.0000

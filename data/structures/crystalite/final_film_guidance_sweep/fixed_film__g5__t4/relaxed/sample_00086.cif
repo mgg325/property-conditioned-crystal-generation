@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_AlSi(ClO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.26077725
+_cell_length_b   6.00751084
+_cell_length_c   4.38751144
+_cell_angle_alpha   125.34111822
+_cell_angle_beta   91.09692902
+_cell_angle_gamma   90.11039455
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlSi(ClO5)2
+_chemical_formula_sum   'Al1 Si1 Cl2 O10'
+_cell_volume   70.08768544
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.36807348  0.13089754  0.30761533  1
+  Si  Si1  1  0.61505636  0.99653093  0.78754726  1
+  Cl  Cl2  1  0.12735340  0.75373187  0.29932376  1
+  Cl  Cl3  1  0.47670704  0.19598148  0.92424551  1
+  O  O4  1  0.17706286  0.95044030  0.79749794  1
+  O  O5  1  0.82507891  0.33620567  0.81574989  1
+  O  O6  1  0.39259517  0.26221307  0.95901743  1
+  O  O7  1  0.88984666  0.16867512  0.08533890  1
+  O  O8  1  0.41478655  0.35830918  0.26906427  1
+  O  O9  1  0.19135913  0.13904892  0.63201227  1
+  O  O10  1  0.13691613  0.71442490  0.32335524  1
+  O  O11  1  0.51791112  0.97302067  0.70668042  1
+  O  O12  1  0.10549786  0.61026579  0.57848497  1
+  O  O13  1  0.57027758  0.58412955  0.92762340  1

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HAsHBr
+_chemical_formula_sum              "H2 As1 Br1"
+_cell_length_a       4.823130320054439
+_cell_length_b       5.456114251528038
+_cell_length_c       5.684034092546119
+_cell_angle_alpha    120.45487523420496
+_cell_angle_beta     117.23984248157637
+_cell_angle_gamma    86.71548605622543
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.8386915479359246  0.2835345334658734  0.9691138101664736  1.0000
+  As  As1       1.0  0.9354794629565053  0.14073976676576952  0.7117703959116926  1.0000
+  H   H2        1.0  0.5825699560073685  0.017836964854043957  0.4436219827117337  1.0000
+  Br  Br1       1.0  0.9773721577850563  0.639255637426882  0.7122871152258091  1.0000

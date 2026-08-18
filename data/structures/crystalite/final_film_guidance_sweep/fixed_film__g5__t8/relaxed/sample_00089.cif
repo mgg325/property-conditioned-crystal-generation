@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ZnCd2GaBC3Br3N4F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.45231524
+_cell_length_b   2.35825330
+_cell_length_c   11.10416008
+_cell_angle_alpha   89.58603141
+_cell_angle_beta   90.61448395
+_cell_angle_gamma   125.78091639
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCd2GaBC3Br3N4F
+_chemical_formula_sum   'Zn1 Cd2 Ga1 B1 C3 Br3 N4 F1'
+_cell_volume   52.09385570
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.86896251  0.89862634  0.17904571  1
+  Cd  Cd1  1  0.26965995  0.41665544  0.78815965  1
+  Cd  Cd2  1  0.87561793  0.86273922  0.51394099  1
+  Ga  Ga3  1  0.88349310  0.94889040  0.94601039  1
+  B  B4  1  0.30220187  0.53506470  0.35775489  1
+  C  C5  1  0.13653312  0.60551665  0.24133154  1
+  C  C6  1  0.51990616  0.25463677  0.24020530  1
+  C  C7  1  0.55067701  0.19088136  0.32995746  1
+  Br  Br8  1  0.58718266  0.18573676  0.36770435  1
+  Br  Br9  1  0.76664544  0.90950302  0.76952392  1
+  Br  Br10  1  0.57138421  0.16153076  0.06461656  1
+  N  N11  1  0.20886672  0.53534654  0.24406525  1
+  N  N12  1  0.65039579  0.12086778  0.56152033  1
+  N  N13  1  0.89181522  0.94608858  0.73980262  1
+  N  N14  1  0.57086498  0.18920160  0.34258998  1
+  F  F15  1  0.57894360  0.15084952  0.52816274  1

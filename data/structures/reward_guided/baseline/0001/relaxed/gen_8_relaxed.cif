@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Tl(HgPb)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73699327
+_cell_length_b   9.24720823
+_cell_length_c   9.14900874
+_cell_angle_alpha   118.95304161
+_cell_angle_beta   89.97723418
+_cell_angle_gamma   90.01142020
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl(HgPb)3
+_chemical_formula_sum   'Tl2 Hg6 Pb6'
+_cell_volume   424.70302467
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.63226109  0.64846258  0.82782442  1
+  Tl  Tl1  1  0.13225823  0.97223216  0.48084105  1
+  Hg  Hg2  1  0.13262471  0.82770037  0.05913527  1
+  Hg  Hg3  1  0.13204341  0.68861954  0.62922606  1
+  Hg  Hg4  1  0.63230110  0.06870170  0.11175489  1
+  Hg  Hg5  1  0.13202317  0.26194144  0.34412017  1
+  Hg  Hg6  1  0.63163803  0.50384824  0.39745594  1
+  Hg  Hg7  1  0.63249578  0.78328000  0.25300475  1
+  Pb  Pb8  1  0.63213859  0.93119622  0.67902024  1
+  Pb  Pb9  1  0.13206961  0.40242203  0.77418061  1
+  Pb  Pb10  1  0.63212187  0.22042312  0.53448944  1
+  Pb  Pb11  1  0.63185415  0.34957200  0.96802380  1
+  Pb  Pb12  1  0.13191000  0.10960247  0.92076794  1
+  Pb  Pb13  1  0.13163324  0.53659208  0.20289571  1

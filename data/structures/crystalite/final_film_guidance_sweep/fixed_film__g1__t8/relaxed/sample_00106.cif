@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_K4LiSiPbS7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.10435775
+_cell_length_b   7.86659999
+_cell_length_c   8.63053295
+_cell_angle_alpha   65.18158627
+_cell_angle_beta   64.68100554
+_cell_angle_gamma   62.94796010
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K4LiSiPbS7
+_chemical_formula_sum   'K4 Li1 Si1 Pb1 S7'
+_cell_volume   425.26687572
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.15981895  0.28439794  0.32179631  1
+  K  K1  1  0.67918415  0.50238508  0.17918798  1
+  K  K2  1  0.38694238  0.56432235  0.83632734  1
+  K  K3  1  0.55802643  0.88291037  0.45478019  1
+  Li  Li4  1  0.05748670  0.62810517  0.57090615  1
+  Si  Si5  1  0.30933168  0.04316338  0.92004809  1
+  Pb  Pb6  1  0.87365694  0.12447400  0.82223336  1
+  S  S7  1  0.60368705  0.91000406  0.91315981  1
+  S  S8  1  0.12304742  0.32340480  0.97102740  1
+  S  S9  1  0.60936582  0.19894223  0.10324990  1
+  S  S10  1  0.82924864  0.48001792  0.60917930  1
+  S  S11  1  0.31416918  0.23316553  0.64627443  1
+  S  S12  1  0.16000307  0.83722383  0.09608306  1
+  S  S13  1  0.09508414  0.89945386  0.61479759  1

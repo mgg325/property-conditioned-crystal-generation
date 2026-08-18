@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HCaHCuS
+_chemical_formula_sum              "H2 Ca1 Cu1 S1"
+_cell_length_a       4.048182190799878
+_cell_length_b       4.0499230299008495
+_cell_length_c       5.333544287176869
+_cell_angle_alpha    67.69598571345097
+_cell_angle_beta     67.7273983840064
+_cell_angle_gamma    60.003690724097694
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.07043322781173257  0.46123808487944784  0.9042004329942466  1.0000
+  Ca  Ca1       1.0  0.6653772571997602  0.05743791836643807  0.11604858206904795  1.0000
+  H   H2        1.0  0.30072738961184714  0.6923902008225495  0.21068495061148  1.0000
+  Cu  Cu1       1.0  0.18285400138776095  0.5736312439162645  0.5658511538465122  1.0000
+  S   S1        1.0  0.8606812704576864  0.2512665027304347  0.5326250329749755  1.0000

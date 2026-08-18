@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       NiKF2RhF4
+_chemical_formula_sum              "Ni1 K1 F6 Rh1"
+_cell_length_a       5.650018255986942
+_cell_length_b       5.249226635873464
+_cell_length_c       5.198051929473877
+_cell_angle_alpha    119.40747260708696
+_cell_angle_beta     90.9129323950397
+_cell_angle_gamma    90.46175066034778
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.0641024112701416  0.633502721786499  0.27153608202934265  1.0000
+  K   K1        1.0  0.566290020942688  0.965388059616089  0.9400880336761475  1.0000
+  F   F1        1.0  0.2522284984588623  0.6024082899093628  0.9362363219261169  1.0000
+  F   F2        1.0  0.8738879561424255  0.6074574589729309  0.5812390446662903  1.0000
+  Rh  Rh1       1.0  0.06396567076444626  0.2972901165485382  0.6082351803779602  1.0000
+  F   F3        1.0  0.8748284578323364  0.32247620820999146  0.9380096197128296  1.0000
+  F   F4        1.0  0.8750032186508179  0.9686082005500793  0.3004779219627379  1.0000
+  F   F5        1.0  0.25136876106262207  0.3245047628879547  0.3006677031517029  1.0000
+  F   F6        1.0  0.25369471311569214  0.970207691192627  0.5809963345527649  1.0000

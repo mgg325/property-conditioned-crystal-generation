@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LaCeAlNi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25846187
+_cell_length_b   6.16295720
+_cell_length_c   5.51090727
+_cell_angle_alpha   69.52009248
+_cell_angle_beta   67.69522162
+_cell_angle_gamma   69.74425896
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCeAlNi3
+_chemical_formula_sum   'La1 Ce1 Al1 Ni3'
+_cell_volume   121.49315071
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.37825162  0.70671689  0.58770171  1
+  Ce  Ce1  1  0.79492784  0.28246259  0.18727923  1
+  Al  Al2  1  0.57358214  0.01683536  0.87227956  1
+  Ni  Ni3  1  0.03221437  0.87268133  0.09544356  1
+  Ni  Ni4  1  0.06134046  0.20675242  0.70023310  1
+  Ni  Ni5  1  0.15434594  0.47395827  0.28214338  1

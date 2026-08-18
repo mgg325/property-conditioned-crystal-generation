@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ti2CuAsO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20333570
+_cell_length_b   5.38786355
+_cell_length_c   5.72531423
+_cell_angle_alpha   88.87502089
+_cell_angle_beta   116.04086835
+_cell_angle_gamma   121.57032355
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2CuAsO6
+_chemical_formula_sum   'Ti2 Cu1 As1 O6'
+_cell_volume   118.14650115
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.91341223  0.67134173  0.95372904  1
+  Ti  Ti1  1  0.30828541  0.37272938  0.01960240  1
+  Cu  Cu2  1  0.43807222  0.92663932  0.72120207  1
+  As  As3  1  0.89767734  0.10799945  0.40353965  1
+  O  O4  1  0.11061119  0.08527055  0.21209505  1
+  O  O5  1  0.44339324  0.75955801  0.20526481  1
+  O  O6  1  0.76439875  0.48071832  0.19482852  1
+  O  O7  1  0.46575399  0.58009001  0.75136821  1
+  O  O8  1  0.85930909  0.33869860  0.78950783  1
+  O  O9  1  0.09167081  0.98092109  0.73655195  1

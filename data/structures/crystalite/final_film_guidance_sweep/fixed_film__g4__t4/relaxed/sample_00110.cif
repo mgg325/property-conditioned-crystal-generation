@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cs2SiP2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.69653995
+_cell_length_b   5.57088714
+_cell_length_c   6.28447159
+_cell_angle_alpha   70.25884538
+_cell_angle_beta   65.66672979
+_cell_angle_gamma   61.70159653
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2SiP2O9
+_chemical_formula_sum   'Cs2 Si1 P2 O9'
+_cell_volume   129.81879901
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.81325095  -0.00573720  0.01066039  1
+  Cs  Cs1  1  0.08731073  0.42778838  0.33630350  1
+  Si  Si2  1  0.45917709  0.52480709  0.87980876  1
+  P  P3  1  0.18800078  0.39921636  0.28428465  1
+  P  P4  1  0.71933623  0.92726230  0.49086145  1
+  O  O5  1  0.33791640  0.29517839  0.96008868  1
+  O  O6  1  0.89280948  0.63109341  0.87975108  1
+  O  O7  1  0.28773602  0.06518187  0.59982196  1
+  O  O8  1  0.26862011  0.78021223  0.74769573  1
+  O  O9  1  0.60060642  0.18808128  0.61717722  1
+  O  O10  1  0.47007121  0.19389849  0.69217899  1
+  O  O11  1  0.10126400  0.28143606  0.26265955  1
+  O  O12  1  0.77072009  0.28672759  0.28338286  1
+  O  O13  1  0.57568237  0.22213735  0.24117661  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_RbHoUSbSeXe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.47018242
+_cell_length_b   3.75062156
+_cell_length_c   8.70812607
+_cell_angle_alpha   104.19938660
+_cell_angle_beta   101.74535370
+_cell_angle_gamma   90.90521240
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbHoUSbSeXe
+_chemical_formula_sum   'Rb1 Ho1 U1 Sb1 Se1 Xe1'
+_cell_volume   107.31761525
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.52502358  0.04782939  0.74664438  1
+  U  U1  1  0.25914207  0.93366051  0.37433395  1
+  Xe  Xe2  1  0.36110556  0.60769832  0.90053242  1
+  Ho  Ho3  1  0.00524032  0.19203997  0.07600063  1
+  Se  Se4  1  0.63414186  0.65605104  0.18168706  1
+  Rb  Rb5  1  0.84086871  0.44710267  0.57719934  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Li7TeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74169064
+_cell_length_b   5.84093142
+_cell_length_c   6.21065474
+_cell_angle_alpha   86.09553528
+_cell_angle_beta   63.47721863
+_cell_angle_gamma   61.55511093
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li7TeO6
+_chemical_formula_sum   'Li7 Te1 O6'
+_cell_volume   161.07436740
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.97473109  0.92966348  0.34889799  1
+  Li  Li1  1  0.74009758  0.26518363  0.36798894  1
+  Li  Li2  1  0.28155369  0.46058756  0.60927445  1
+  O  O3  1  0.73881984  0.52004355  0.72123718  1
+  O  O4  1  0.52033591  0.15193155  0.94865847  1
+  Li  Li5  1  0.27990317  0.96748865  0.18735784  1
+  O  O6  1  0.29964113  0.22332042  0.48900315  1
+  Te  Te7  1  0.52672899  0.55899066  0.95763397  1
+  Li  Li8  1  0.89722073  0.95447111  0.75168443  1
+  Li  Li9  1  0.99241579  0.62443429  0.32651460  1
+  Li  Li10  1  0.49501830  0.88965702  0.51889491  1
+  O  O11  1  0.18325898  0.77564251  0.85722256  1
+  Li  Li12  1  0.08018181  0.28013515  0.96126723  1
+  O  O13  1  0.61934477  0.59525675  0.26021659  1

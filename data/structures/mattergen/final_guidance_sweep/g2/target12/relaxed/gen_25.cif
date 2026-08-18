@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Bi4Sn
+_chemical_formula_sum              "Bi4 Sn1"
+_cell_length_a       4.535249450770065
+_cell_length_b       4.535312298482666
+_cell_length_c       9.555498887914359
+_cell_angle_alpha    76.27203140434492
+_cell_angle_beta     76.2716020215629
+_cell_angle_gamma    59.9961843682336
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.24234930451891024  0.8623962589600362  0.38025727468069026  1.0000
+  Bi  Bi2       1.0  0.4465771829705835  0.06653529424053675  0.7675536549505505  1.0000
+  Bi  Bi3       1.0  0.6434972661530778  0.26381575099952015  0.1760781328309072  1.0000
+  Bi  Bi4       1.0  0.04537513832670387  0.6652166270890429  0.9717515899581234  1.0000
+  Sn  Sn1       1.0  0.8447386054568349  0.46426563885954336  0.5739335361416739  1.0000

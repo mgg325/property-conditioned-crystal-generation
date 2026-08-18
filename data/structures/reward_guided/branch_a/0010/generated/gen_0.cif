@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TiFe2Rh
+_chemical_formula_sum              "Ti1 Fe2 Rh1"
+_cell_length_a       3.5915176716019213
+_cell_length_b       3.6189319997913807
+_cell_length_c       4.103185653686523
+_cell_angle_alpha    90.69477617732467
+_cell_angle_beta     88.51036548091224
+_cell_angle_gamma    89.13480875862015
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.8636767864227295  0.0731719881296158  0.4431388080120086  1.0000
+  Fe  Fe1       1.0  0.36690765619277954  0.07546164095401764  0.9436095952987671  1.0000
+  Fe  Fe2       1.0  0.8647212982177734  0.5740845799446106  0.9452329277992249  1.0000
+  Rh  Rh1       1.0  0.36430662870407104  0.5747562050819397  0.4446781277656555  1.0000

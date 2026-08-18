@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Mn(GaNi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.74791362
+_cell_length_b   6.89267685
+_cell_length_c   6.89376020
+_cell_angle_alpha   89.99627854
+_cell_angle_beta   89.99996725
+_cell_angle_gamma   90.00018115
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn(GaNi)2
+_chemical_formula_sum   'Mn2 Ga4 Ni4'
+_cell_volume   130.57113107
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.02761251  0.44895391  0.24842238  1
+  Mn  Mn1  1  0.02815691  0.94892363  0.74870265  1
+  Ga  Ga2  1  0.02771636  0.80028935  0.39773878  1
+  Ga  Ga3  1  0.02761546  0.59758085  0.89776668  1
+  Ga  Ga4  1  0.02771923  0.09774223  0.09961073  1
+  Ga  Ga5  1  0.02758617  0.30029706  0.59946347  1
+  Ni  Ni6  1  0.52746178  0.30000866  0.89721560  1
+  Ni  Ni7  1  0.52769543  0.09784996  0.39735587  1
+  Ni  Ni8  1  0.52762624  0.80011260  0.09991710  1
+  Ni  Ni9  1  0.52765232  0.59795322  0.60008618  1

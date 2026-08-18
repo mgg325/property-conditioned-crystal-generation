@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PbAuPbRbPb
+_chemical_formula_sum              "Pb3 Au1 Rb1"
+_cell_length_a       5.084060064649634
+_cell_length_b       5.11915080046678
+_cell_length_c       7.184033393859863
+_cell_angle_alpha    109.82935854769306
+_cell_angle_beta     110.4728788992588
+_cell_angle_gamma    92.41546529033783
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.0027333307079970845  0.8069048523902893  0.30091920495033264  1.0000
+  Au  Au1       1.0  0.3887680172920227  0.6919430494308472  0.0702832043170929  1.0000
+  Pb  Pb2       1.0  0.4973776042461396  0.3072047233581543  0.3021749258041382  1.0000
+  Rb  Rb1       1.0  0.7635759711265564  0.06808687001466751  0.821202278137207  1.0000
+  Pb  Pb3       1.0  0.15501441061496737  0.4625482559204102  0.6128042340278625  1.0000

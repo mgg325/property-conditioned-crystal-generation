@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ca2In4Ni
+_chemical_formula_sum              "Ca2 In4 Ni1"
+_cell_length_a       4.717848112698122
+_cell_length_b       6.180852305381553
+_cell_length_c       6.874622344970703
+_cell_angle_alpha    110.53590226769796
+_cell_angle_beta     89.88026245878316
+_cell_angle_gamma    113.53183305843915
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.6996045112609863  0.46722289919853205  0.8101492524147034  1.0000
+  Ca  Ca2       1.0  0.00011932849884033313  0.07099220156669617  0.35737913846969604  1.0000
+  In  In1       1.0  0.011568319983780386  0.09673821926116943  0.8596535325050354  1.0000
+  In  In2       1.0  0.4053115844726562  0.8771448135375975  0.012174896895885403  1.0000
+  In  In3       1.0  0.6921291947364807  0.4495426416397095  0.2915028929710388  1.0000
+  In  In4       1.0  0.3572743833065033  0.7831764817237854  0.5609931349754333  1.0000
+  Ni  Ni1       1.0  0.2368787676095962  0.5414230823516845  0.16260281205177304  1.0000

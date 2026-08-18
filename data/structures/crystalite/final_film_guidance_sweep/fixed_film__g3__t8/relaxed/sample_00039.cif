@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_SrCa2TiSiSn2S9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38870520
+_cell_length_b   4.92306670
+_cell_length_c   18.79646684
+_cell_angle_alpha   90.05496571
+_cell_angle_beta   89.58804741
+_cell_angle_gamma   87.96625489
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCa2TiSiSn2S9
+_chemical_formula_sum   'Sr1 Ca2 Ti1 Si1 Sn2 S9'
+_cell_volume   405.84776422
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.73601772  0.52330033  0.44474303  1
+  Ca  Ca1  1  0.72664107  0.48759447  0.18845819  1
+  Ca  Ca2  1  0.79932838  0.01528759  0.89860820  1
+  Ti  Ti3  1  0.23413641  0.03711096  0.32002018  1
+  Si  Si4  1  0.72189402  0.59864763  0.75925831  1
+  Sn  Sn5  1  0.24102861  0.04903915  0.62079925  1
+  Sn  Sn6  1  0.25333836  -0.05650919  0.04104853  1
+  S  S7  1  0.72461458  0.62711929  0.02441454  1
+  S  S8  1  0.25001805  0.10003579  0.16539041  1
+  S  S9  1  0.23262181  0.00046087  0.44053066  1
+  S  S10  1  0.01644104  0.49143225  0.85491096  1
+  S  S11  1  0.33269817  -0.19938891  0.81944639  1
+  S  S12  1  0.22307554  0.58964231  0.29126752  1
+  S  S13  1  0.69071536  0.19399579  0.72356101  1
+  S  S14  1  0.73020913  0.15094479  0.31140307  1
+  S  S15  1  0.23193496  0.50275843  0.56145196  1

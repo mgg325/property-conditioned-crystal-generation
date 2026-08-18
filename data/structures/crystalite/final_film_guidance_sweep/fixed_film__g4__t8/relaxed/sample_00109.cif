@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Cd2TeRh(Se5O2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44865134
+_cell_length_b   4.39859863
+_cell_length_c   6.46294226
+_cell_angle_alpha   93.18857258
+_cell_angle_beta   121.44786480
+_cell_angle_gamma   91.90489712
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd2TeRh(Se5O2)2
+_chemical_formula_sum   'Cd2 Te1 Rh1 Se10 O4'
+_cell_volume   107.43470389
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.58673417  0.85399817  0.94986412  1
+  Cd  Cd1  1  0.28702073  0.00041571  0.19212095  1
+  Te  Te2  1  0.23857345  0.76302417  0.56926533  1
+  Rh  Rh3  1  0.38140851  0.28875083  0.58238951  1
+  Se  Se4  1  0.71486947  0.94216763  0.48406484  1
+  Se  Se5  1  0.40643136  0.04912963  0.86069976  1
+  Se  Se6  1  0.14434860  0.46413229  0.88683093  1
+  Se  Se7  1  1.03696121  0.09143679  0.61135928  1
+  Se  Se8  1  0.35802009  0.12702524  0.86985310  1
+  Se  Se9  1  0.91961048  0.19125662  0.17093168  1
+  Se  Se10  1  0.86246114  0.03007237  0.37113803  1
+  Se  Se11  1  0.91605298  0.19831823  0.16874550  1
+  Se  Se12  1  0.27804589  0.72436364  0.64182687  1
+  Se  Se13  1  0.32012234  0.76580561  0.58630312  1
+  O  O14  1  0.84558909  0.20517546  0.69468663  1
+  O  O15  1  0.07350243  0.53192992  0.86136939  1
+  O  O16  1  0.36954666  0.38006150  0.93182461  1
+  O  O17  1  0.94583253  0.00850053  0.35973318  1

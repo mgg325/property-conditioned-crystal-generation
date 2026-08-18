@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sc3Bi2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43616309
+_cell_length_b   6.42589121
+_cell_length_c   7.69135298
+_cell_angle_alpha   106.46735886
+_cell_angle_beta   81.82611627
+_cell_angle_gamma   119.93083078
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc3Bi2C
+_chemical_formula_sum   'Sc6 Bi4 C2'
+_cell_volume   264.36628386
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.60747423  0.76082110  0.94986985  1
+  Sc  Sc1  1  0.21179370  0.15603733  0.95155329  1
+  Sc  Sc2  1  0.81596401  0.36491173  0.94949946  1
+  Sc  Sc3  1  0.60704524  0.27390115  0.30350023  1
+  Sc  Sc4  1  0.21105831  0.48313934  0.30092405  1
+  Sc  Sc5  1  0.81488087  0.87849873  0.30379668  1
+  Bi  Bi6  1  0.20998127  0.31873269  0.62669307  1
+  Bi  Bi7  1  0.90577408  0.66698013  0.62611397  1
+  Bi  Bi8  1  0.51474711  0.97018997  0.62758528  1
+  Bi  Bi9  1  0.21103057  0.81924200  0.12684777  1
+  C  C10  1  0.54713081  0.48731802  0.12597695  1
+  C  C11  1  0.87542149  0.15177694  0.12683280  1

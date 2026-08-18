@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       GaLiI2
+_chemical_formula_sum              "Ga1 Li1 I2"
+_cell_length_a       4.441542402323322
+_cell_length_b       4.435669640942284
+_cell_length_c       7.968105792999268
+_cell_angle_alpha    73.7606946407077
+_cell_angle_beta     73.82534110754453
+_cell_angle_gamma    59.90226143176805
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.541326642036438  0.5551204681396484  0.3971154391765594  1.0000
+  Li  Li1       1.0  0.04147862270474434  0.05495806410908699  0.897606074810028  1.0000
+  I   I1        1.0  0.7816479206085205  0.7955076694488525  0.6755973696708678  1.0000
+  I   I2        1.0  0.3012789785861969  0.3147335648536682  0.11798623204231262  1.0000

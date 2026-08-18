@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2RbNaRbNaSb2
+_chemical_formula_sum              "Na4 Rb2 Sb2"
+_cell_length_a       5.421100567800806
+_cell_length_b       7.502501557810804
+_cell_length_c       7.171131134033203
+_cell_angle_alpha    90.29329764545719
+_cell_angle_beta     89.79341660170005
+_cell_angle_gamma    89.75878071501508
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.2768831253051758  0.9345861077308655  0.6792396306991577  1.0000
+  Na  Na2       1.0  0.7775663733482361  0.15797416865825653  0.6185414791107178  1.0000
+  Rb  Rb1       1.0  0.7768996953964233  0.626564085483551  0.40004566311836237  1.0000
+  Na  Na3       1.0  0.2768819332122803  0.9345304369926453  0.11907219886779784  1.0000
+  Rb  Rb2       1.0  0.2759559750556946  0.46950793266296387  0.8975628614425658  1.0000
+  Na  Na4       1.0  0.7764756679534912  0.15786385536193845  0.17872017621994016  1.0000
+  Sb  Sb1       1.0  0.27682843804359436  0.2565382421016693  0.3987358212471008  1.0000
+  Sb  Sb2       1.0  0.7765651345252991  0.8353905081748962  0.898333966732025  1.0000

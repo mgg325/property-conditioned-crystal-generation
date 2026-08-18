@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_CsInSnSeO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.19790056
+_cell_length_b   5.28848520
+_cell_length_c   9.98296545
+_cell_angle_alpha   87.86531551
+_cell_angle_beta   91.62761235
+_cell_angle_gamma   118.92504591
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsInSnSeO9
+_chemical_formula_sum   'Cs1 In1 Sn1 Se1 O9'
+_cell_volume   240.00506376
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.88063483  0.48126524  0.54928514  1
+  In  In1  1  0.89481462  0.53756994  0.07151047  1
+  Sn  Sn2  1  0.58705225  0.83530239  0.86298153  1
+  Se  Se3  1  0.22528397  0.19938113  0.27169178  1
+  O  O4  1  0.57111596  0.79549715  0.66820883  1
+  O  O5  1  0.48025607  0.55921845  0.02694637  1
+  O  O6  1  0.11580484  0.54417455  0.87271880  1
+  O  O7  1  0.96270648  0.91437578  0.19199196  1
+  O  O8  1  1.01221429  0.89437690  0.91179293  1
+  O  O9  1  0.56718541  0.27149600  0.23715791  1
+  O  O10  1  0.18936601  0.14888555  0.43610080  1
+  O  O11  1  0.61232764  0.18603882  0.94439747  1
+  O  O12  1  0.15987696  0.48235250  0.23360466  1

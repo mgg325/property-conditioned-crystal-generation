@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       VHgVO2HgO2
+_chemical_formula_sum              "V2 Hg2 O4"
+_cell_length_a       2.994011026454352
+_cell_length_b       5.226663838882602
+_cell_length_c       8.150446891784668
+_cell_angle_alpha    86.65400925179226
+_cell_angle_beta     97.23929937873105
+_cell_angle_gamma    87.3091880517931
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.02731465548276901  0.560013473033905  0.6833372712135315  1.0000
+  Hg  Hg1       1.0  0.3258117139339447  0.5478056669235231  0.2549247145652771  1.0000
+  V   V2        1.0  0.5324334502220154  0.052722439169883735  0.6566206812858582  1.0000
+  O   O1        1.0  0.08524008095264436  0.1991575509309769  0.7906628847122192  1.0000
+  O   O2        1.0  0.5798318386077881  0.7141176462173462  0.7984400987625122  1.0000
+  Hg  Hg2       1.0  0.23538717627525332  0.060802701860666275  0.08812762051820755  1.0000
+  O   O3        1.0  0.9667534828186036  0.898464024066925  0.5440798401832581  1.0000
+  O   O4        1.0  0.4745688736438752  0.40866312384605413  0.5497056245803833  1.0000

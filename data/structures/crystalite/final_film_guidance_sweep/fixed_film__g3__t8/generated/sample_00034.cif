@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_NaSn3Te(SeS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.70267725
+_cell_length_b   6.87426758
+_cell_length_c   7.64084053
+_cell_angle_alpha   90.48025513
+_cell_angle_beta   89.94850159
+_cell_angle_gamma   122.04292297
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSn3Te(SeS3)2
+_chemical_formula_sum   'Na1 Sn3 Te1 Se2 S6'
+_cell_volume   298.41031202
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.41203287  0.01718777  0.85003316  1
+  Te  Te1  1  0.37514561  0.52694052  0.24265191  1
+  Sn  Sn2  1  0.66844285  0.19077948  0.51037806  1
+  S  S3  1  0.14962646  0.65097654  0.80733627  1
+  Se  Se4  1  0.84041822  0.52454072  0.33400482  1
+  S  S5  1  0.73842865  0.76509392  0.72422290  1
+  S  S6  1  0.31587279  0.83916211  0.34195215  1
+  S  S7  1  0.05941752  0.34153956  0.30605626  1
+  S  S8  1  0.19581309  0.32826245  0.77990246  1
+  Sn  Sn9  1  0.01250836  0.94501758  0.50225836  1
+  Sn  Sn10  1  0.39455068  0.63883436  0.48717684  1
+  Na  Na11  1  0.60233563  0.14657873  0.93776977  1
+  Se  Se12  1  0.63349897  0.50516385  0.31984726  1

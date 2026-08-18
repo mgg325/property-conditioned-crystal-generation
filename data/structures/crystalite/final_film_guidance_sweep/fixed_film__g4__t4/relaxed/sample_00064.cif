@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_BaLiO4F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89005529
+_cell_length_b   4.64293889
+_cell_length_c   7.57556578
+_cell_angle_alpha   71.41512419
+_cell_angle_beta   72.51934734
+_cell_angle_gamma   66.01587057
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLiO4F
+_chemical_formula_sum   'Ba1 Li1 O4 F1'
+_cell_volume   116.16347420
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.89739345  0.30832069  0.13161873  1
+  Li  Li1  1  0.38293586  0.87704403  0.44944355  1
+  O  O2  1  0.56539784  0.88227192  0.20013732  1
+  O  O3  1  0.18187531  0.59561559  0.70084219  1
+  O  O4  1  0.29294466  0.78176879  -0.07476850  1
+  O  O5  1  0.40641660  0.69857442  0.75722501  1
+  F  F6  1  0.80952496  0.04148986  0.48661519  1

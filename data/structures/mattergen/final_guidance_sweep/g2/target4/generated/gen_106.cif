@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MgGaTlS4
+_chemical_formula_sum              "Mg1 Ga1 Tl1 S4"
+_cell_length_a       5.563299565541449
+_cell_length_b       5.562047069987203
+_cell_length_c       6.936456680297852
+_cell_angle_alpha    113.68312992088977
+_cell_angle_beta     113.73021017106524
+_cell_angle_gamma    90.02077328430771
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.46705687046051025  0.42277333140373236  0.6060579419136047  1.0000
+  Ga  Ga1       1.0  0.9673577547073364  0.9221933484077454  0.6059006452560425  1.0000
+  Tl  Tl1       1.0  0.7178813219070435  0.17282724380493164  0.10571226477622982  1.0000
+  S   S1        1.0  0.8746678829193115  0.7857751846313477  0.8487016558647156  1.0000
+  S   S2        1.0  0.5876553058624268  0.015235429629683496  0.36225154995918274  1.0000
+  S   S3        1.0  0.30351704359054565  0.3019184470176697  0.8490954041481018  1.0000
+  S   S4        1.0  0.10371439158916473  0.5867272615432739  0.3621493875980377  1.0000

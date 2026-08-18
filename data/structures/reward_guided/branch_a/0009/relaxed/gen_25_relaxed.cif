@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2Zn4AgAu3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.71906803
+_cell_length_b   4.71811194
+_cell_length_c   10.56792146
+_cell_angle_alpha   90.00066438
+_cell_angle_beta   90.01485815
+_cell_angle_gamma   90.06150159
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Zn4AgAu3
+_chemical_formula_sum   'Ba2 Zn4 Ag1 Au3'
+_cell_volume   235.29559144
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.68619752  0.60315451  0.42577232  1
+  Ba  Ba1  1  0.18681078  0.10389447  0.93089205  1
+  Zn  Zn2  1  0.18671665  0.60419182  0.17830501  1
+  Zn  Zn3  1  0.18586469  0.10384991  0.55438164  1
+  Zn  Zn4  1  0.68723652  0.10364077  0.17845942  1
+  Zn  Zn5  1  0.68621123  0.60229698  0.80221509  1
+  Ag  Ag6  1  0.18639109  0.60377520  0.67821451  1
+  Au  Au7  1  0.18746880  0.10414203  0.30242728  1
+  Au  Au8  1  0.68648726  0.60342286  0.05423974  1
+  Au  Au9  1  0.68589311  0.10227853  0.67826387  1

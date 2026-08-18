@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_SiCClO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.37548256
+_cell_length_b   5.76670837
+_cell_length_c   11.02497292
+_cell_angle_alpha   103.08426666
+_cell_angle_beta   98.37331390
+_cell_angle_gamma   114.44411469
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiCClO
+_chemical_formula_sum   'Si1 C1 Cl1 O1'
+_cell_volume   508.94480144
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.33940265  0.73747468  0.34814724  1
+  O  O1  1  0.45132437  0.46368411  0.16762128  1
+  Cl  Cl2  1  0.38303003  0.53578603  0.17724177  1
+  C  C3  1  0.86448812  0.43435612  0.11422759  1

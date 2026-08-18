@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Zr2ScAl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27772802
+_cell_length_b   4.30852540
+_cell_length_c   5.55168966
+_cell_angle_alpha   112.88158189
+_cell_angle_beta   112.66491044
+_cell_angle_gamma   89.99721545
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2ScAl
+_chemical_formula_sum   'Zr2 Sc1 Al1'
+_cell_volume   85.62910764
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.33803584  0.37785181  0.40654537  1
+  Zr  Zr1  1  0.83422469  0.87402428  0.39892421  1
+  Sc  Sc2  1  0.58612452  0.12591552  0.90272271  1
+  Al  Al3  1  0.08612627  0.62592398  0.90271976  1

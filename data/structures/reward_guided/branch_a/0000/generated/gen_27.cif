@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ErCdEr2ZrCd
+_chemical_formula_sum              "Er3 Cd2 Zr1"
+_cell_length_a       3.425174970411734
+_cell_length_b       3.4026749505935037
+_cell_length_c       13.079129219055176
+_cell_angle_alpha    90.1578413436851
+_cell_angle_beta     89.22888096332633
+_cell_angle_gamma    90.29652833148974
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.6316890716552734  0.7031880021095276  0.6365655064582825  1.0000
+  Cd  Cd1       1.0  0.13130171597003937  0.20312511920928955  0.797664225101471  1.0000
+  Er  Er2       1.0  0.6310954689979553  0.7023931741714479  0.3071548044681549  1.0000
+  Er  Er3       1.0  0.6303973197937012  0.7025253772735597  0.9673517346382141  1.0000
+  Zr  Zr1       1.0  0.1295175552368164  0.20247954130172732  0.1376182734966278  1.0000
+  Cd  Cd2       1.0  0.13043731451034546  0.20354105532169342  0.4746987223625183  1.0000

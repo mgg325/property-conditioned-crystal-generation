@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Mg3(TlBr4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.94322457
+_cell_length_b   7.99819968
+_cell_length_c   9.11562838
+_cell_angle_alpha   116.01268087
+_cell_angle_beta   104.52212024
+_cell_angle_gamma   90.00395974
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg3(TlBr4)2
+_chemical_formula_sum   'Mg3 Tl2 Br8'
+_cell_volume   436.86706244
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.13239032  0.56572268  0.42362239  1
+  Mg  Mg1  1  0.13228325  0.08296447  0.42357819  1
+  Mg  Mg2  1  0.63239633  0.82427231  0.42368865  1
+  Tl  Tl3  1  0.46692049  0.09009316  0.95537501  1
+  Tl  Tl4  1  0.79797159  0.55821472  0.89185036  1
+  Br  Br5  1  0.06802642  0.42571836  0.62664493  1
+  Br  Br6  1  0.02615255  0.91822398  0.61129944  1
+  Br  Br7  1  0.52226080  0.15483253  0.61381600  1
+  Br  Br8  1  0.52232598  0.68412941  0.61409078  1
+  Br  Br9  1  0.74235007  0.96437496  0.23312072  1
+  Br  Br10  1  0.23860410  0.73042726  0.23590449  1
+  Br  Br11  1  0.19658824  0.22280530  0.22056133  1
+  Br  Br12  1  0.74243264  0.49371042  0.23336165  1

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Se2Ta2Se2TaSe
+_chemical_formula_sum              "Se5 Ta3"
+_cell_length_a       3.4479176137009624
+_cell_length_b       3.4477936575056876
+_cell_length_c       17.382123957856763
+_cell_angle_alpha    90.00242611254806
+_cell_angle_beta     90.005532283283
+_cell_angle_gamma    120.0063231437753
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.14607964148762811  0.5286228224264363  0.5293603571458807  1.0000
+  Se  Se2       1.0  0.8122131974145013  0.8624892282787313  0.9268267332763778  1.0000
+  Ta  Ta1       1.0  0.8129493699463947  0.8618480293264621  0.6266256040817457  1.0000
+  Ta  Ta2       1.0  0.14550388792955232  0.5293347364090312  0.022073161111606232  1.0000
+  Se  Se3       1.0  0.14630397616623209  0.5283753654024167  0.7239061567218028  1.0000
+  Se  Se4       1.0  0.8124032698243926  0.8629361129105305  0.12473939968153258  1.0000
+  Ta  Ta3       1.0  0.14600676394334125  0.5300744118448986  0.2274403209255627  1.0000
+  Se  Se5       1.0  0.8126376849667417  0.8633145008974009  0.3226231089637685  1.0000

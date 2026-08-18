@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_TmMgHg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.76657607
+_cell_length_b   4.94176644
+_cell_length_c   4.93887708
+_cell_angle_alpha   89.94019158
+_cell_angle_beta   90.02893604
+_cell_angle_gamma   90.06572134
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmMgHg2
+_chemical_formula_sum   'Tm1 Mg1 Hg2'
+_cell_volume   91.92986010
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.53571135  0.10560450  0.57894941  1
+  Mg  Mg1  1  0.53467795  0.60477609  0.07873248  1
+  Hg  Hg2  1  0.03557084  0.60578152  0.57889332  1
+  Hg  Hg3  1  0.03527993  0.10485941  0.07902738  1

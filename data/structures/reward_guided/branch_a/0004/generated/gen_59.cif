@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SmSiSmTb2GaSi2
+_chemical_formula_sum              "Sm2 Si3 Tb2 Ga1"
+_cell_length_a       3.8725375858166684
+_cell_length_b       4.261591918908642
+_cell_length_c       10.674269676208496
+_cell_angle_alpha    89.20098647290783
+_cell_angle_beta     89.87789239057177
+_cell_angle_gamma    89.97451906956242
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.3803849518299103  0.7714678049087524  0.9292696118354797  1.0000
+  Si  Si1       1.0  0.380621075630188  0.2693016231060028  0.714614748954773  1.0000
+  Sm  Sm2       1.0  0.3789813816547394  0.27101591229438776  0.4313775599002838  1.0000
+  Tb  Tb1       1.0  0.8827024698257446  0.2704644799232483  0.1444205641746521  1.0000
+  Tb  Tb2       1.0  0.8797975778579712  0.7693926095962523  0.6492856144905091  1.0000
+  Ga  Ga1       1.0  0.8801135420799255  0.770721435546875  0.36170485615730286  1.0000
+  Si  Si2       1.0  0.8804405927658081  0.2684304416179657  0.8611223101615906  1.0000
+  Si  Si3       1.0  0.379536509513855  0.7700326442718506  0.20937350392341614  1.0000

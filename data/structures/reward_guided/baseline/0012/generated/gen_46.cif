@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ErHg2In
+_chemical_formula_sum              "Er1 Hg2 In1"
+_cell_length_a       3.6855712867517716
+_cell_length_b       3.6839793810578483
+_cell_length_c       7.496029853820801
+_cell_angle_alpha    89.96770937157558
+_cell_angle_beta     89.90924978337699
+_cell_angle_gamma    89.97498352109064
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.5631006956100464  0.5504508018493651  0.7005684971809387  1.0000
+  Hg  Hg1       1.0  0.06263484805822372  0.050903506577014916  0.9421854019165039  1.0000
+  Hg  Hg2       1.0  0.06253120303153992  0.05069365352392197  0.4587568938732147  1.0000
+  In  In1       1.0  0.5628728866577148  0.5507811903953552  0.20042891800403595  1.0000

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_KBiTe2AsSeS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.00725507
+_cell_length_b   7.38669593
+_cell_length_c   6.23935061
+_cell_angle_alpha   102.98076154
+_cell_angle_beta   109.56606427
+_cell_angle_gamma   118.67324189
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBiTe2AsSeS
+_chemical_formula_sum   'K1 Bi1 Te2 As1 Se1 S1'
+_cell_volume   236.21460753
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.89184952  0.96601908  0.78276593  1
+  Bi  Bi1  1  0.91041735  0.46394236  0.29374759  1
+  Te  Te2  1  0.28864667  -0.13237165  0.27537816  1
+  Te  Te3  1  0.27825748  0.36948823  0.54070898  1
+  As  As4  1  0.52401084  0.52256748  0.07255124  1
+  Se  Se5  1  -0.04664944  0.50215094  0.83013997  1
+  S  S6  1  0.76769427  0.90522885  0.21857090  1

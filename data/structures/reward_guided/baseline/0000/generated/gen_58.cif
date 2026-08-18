@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SnLiYSn
+_chemical_formula_sum              "Sn2 Li1 Y1"
+_cell_length_a       4.414845586921566
+_cell_length_b       4.630545727845201
+_cell_length_c       4.633552074432373
+_cell_angle_alpha    90.04676197622001
+_cell_angle_beta     90.01337601535666
+_cell_angle_gamma    90.07128235696479
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.2045806497335434  0.024091998115181923  0.5408908128738403  1.0000
+  Li  Li1       1.0  0.704685628414154  0.5240814089775085  0.5408863425254822  1.0000
+  Y   Y1        1.0  0.7046013474464417  0.02418345771729946  0.040847279131412506  1.0000
+  Sn  Sn2       1.0  0.20485848188400269  0.5242294073104858  0.04078671708703041  1.0000

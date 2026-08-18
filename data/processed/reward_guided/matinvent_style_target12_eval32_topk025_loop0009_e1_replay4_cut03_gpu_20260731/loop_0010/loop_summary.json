@@ -1,0 +1,75 @@
+{
+  "iteration": 10,
+  "current_policy_dir": "provenance://mattergen/outputs/dielectric_rl/direct_rl_target12_online/matinvent_style_target12_eval24_topk025_from_loop0020/loop_0009/policy_for_generation",
+  "generated_dir": "provenance://mattergen/outputs/dielectric_rl/direct_rl_target12_online/matinvent_style_target12_eval32_topk025_loop0009_e1_replay4_cut03_gpu_20260731/loop_0010/generated",
+  "n_generated": 64,
+  "n_prefiltered_eval": 14,
+  "n_topk": 8,
+  "n_replay_sampled": 4,
+  "n_finetune_records": 12,
+  "n_anchor_records": 56,
+  "diversity_tol_hits": 0,
+  "diversity_buff_hits": 0,
+  "reward_summary": {
+    "n_samples": 14,
+    "mean_predicted_dielectric_scalar": 10.235776532350652,
+    "mean_abs_error": 4.572642497960063,
+    "mean_reward_final": 0.3495758625621956,
+    "within_1.0": 4,
+    "within_2.0": 4,
+    "reward_gt_0p1": 6,
+    "reward_gt_0p5": 5
+  },
+  "training_result": {
+    "trainable_parameters": [
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.0.0.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.0.0.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.0.2.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.0.2.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.1.0.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.1.0.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.1.2.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.1.2.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.2.0.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.2.0.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.2.2.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.2.2.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.3.0.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.3.0.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.3.2.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.3.2.bias",
+      "diffusion_module.model.gemnet.cond_mixin_layers.dft_dielectric_scalar.0.weight",
+      "diffusion_module.model.gemnet.cond_mixin_layers.dft_dielectric_scalar.1.weight",
+      "diffusion_module.model.gemnet.cond_mixin_layers.dft_dielectric_scalar.2.weight",
+      "diffusion_module.model.gemnet.cond_mixin_layers.dft_dielectric_scalar.3.weight"
+    ],
+    "history": [
+      {
+        "loss_total": 1.0496010839473455,
+        "loss_diffusion": 1.034539512872696,
+        "loss_reference_kl": 1.5061596381985704e-11,
+        "loss_diffusion_raw": 1.699387677371502,
+        "loss_kl_raw": 1.5061596381985704e-11,
+        "loss_pos": 3.699276969989769,
+        "loss_cell": 1.179690414392855,
+        "loss_atomic_numbers": 0.14976956436054023,
+        "epoch": 0
+      }
+    ],
+    "topk_stats": {
+      "topk_count": 12.0,
+      "topk_reward_min": 0.06533662974834442,
+      "topk_reward_mean": 0.6829216480255127,
+      "topk_reward_max": 0.998842179775238,
+      "topk_dielectric_min": 7.328210353851318,
+      "topk_dielectric_mean": 11.9998779296875,
+      "topk_dielectric_max": 16.43616485595703,
+      "topk_within_target_1": 0.5833333333333334
+    },
+    "anchor_batch_count": 56,
+    "total_trainable_numel": 4198400,
+    "kl_step_trace_path": "provenance://mattergen/outputs/dielectric_rl/direct_rl_target12_online/matinvent_style_target12_eval32_topk025_loop0009_e1_replay4_cut03_gpu_20260731/loop_0010/rl_update/kl_step_trace.csv",
+    "optimizer_step_count": 20
+  },
+  "next_policy_dir": "provenance://mattergen/outputs/dielectric_rl/direct_rl_target12_online/matinvent_style_target12_eval32_topk025_loop0009_e1_replay4_cut03_gpu_20260731/loop_0010/policy_for_generation"
+}

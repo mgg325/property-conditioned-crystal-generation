@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Sr5H2CO10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.41586417
+_cell_length_b   7.68176565
+_cell_length_c   10.89140370
+_cell_angle_alpha   86.93235121
+_cell_angle_beta   89.97018627
+_cell_angle_gamma   90.03962124
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr5H2CO10
+_chemical_formula_sum   'Sr5 H2 C1 O10'
+_cell_volume   285.37936075
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.96858548  0.26103633  0.98244851  1
+  Sr  Sr1  1  0.96760281  0.78334307  0.71169714  1
+  Sr  Sr2  1  0.96894790  0.22508170  0.60578296  1
+  Sr  Sr3  1  0.96833314  0.68028913  0.04884765  1
+  Sr  Sr4  1  0.96828775  0.01810729  0.29985283  1
+  H  H5  1  0.46872178  0.32737443  0.36210626  1
+  H  H6  1  0.46853995  0.10933432  0.77209985  1
+  C  C7  1  0.46809983  0.61246591  0.45662018  1
+  O  O8  1  0.46834716  0.44911588  0.07943139  1
+  O  O9  1  0.46799756  0.79951966  0.88796282  1
+  O  O10  1  0.46851830  0.07795646  0.13117410  1
+  O  O11  1  0.46827524  0.99325761  0.63512199  1
+  O  O12  1  0.46789218  0.76220006  0.41172615  1
+  O  O13  1  0.46857328  0.21411901  0.40878011  1
+  O  O14  1  0.46674990  0.62087267  0.84164422  1
+  O  O15  1  0.46854954  0.54291934  0.56291635  1
+  O  O16  1  0.46880794  0.22963349  0.80331277  1
+  O  O17  1  0.46837944  0.88440644  0.16268410  1

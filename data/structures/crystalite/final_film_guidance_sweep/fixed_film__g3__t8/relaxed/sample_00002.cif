@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Li2BCSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.94690332
+_cell_length_b   5.57145112
+_cell_length_c   6.20479198
+_cell_angle_alpha   87.23712807
+_cell_angle_beta   96.85167299
+_cell_angle_gamma   88.24849578
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2BCSe4
+_chemical_formula_sum   'Li2 B1 C1 Se4'
+_cell_volume   169.48050417
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.95377762  0.89054438  0.81592484  1
+  Li  Li1  1  0.50730799  0.34402654  0.89199438  1
+  B  B2  1  0.00941111  0.39404770  0.32784792  1
+  C  C3  1  0.52769506  0.60970515  0.53208108  1
+  Se  Se4  1  0.33099622  0.57610612  0.25436565  1
+  Se  Se5  1  0.44285267  0.87239391  0.68686681  1
+  Se  Se6  1  0.87118780  0.14118169  0.15264766  1
+  Se  Se7  1  -0.12174935  0.45144579  0.61628065  1

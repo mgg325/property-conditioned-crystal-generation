@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OGaOTaO2
+_chemical_formula_sum              "O4 Ga1 Ta1"
+_cell_length_a       3.0589973587690205
+_cell_length_b       4.70056001656764
+_cell_length_c       4.702049319866017
+_cell_angle_alpha    91.91094657980275
+_cell_angle_beta     90.00348866336884
+_cell_angle_gamma    89.98887065707518
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.8818602446702922  0.05120777960424168  0.5198761586453482  1.0000
+  Ga  Ga1       1.0  0.38138779575595494  0.8541713280449013  0.3236515769078002  1.0000
+  O   O2        1.0  0.38122970721441857  0.16063382355747122  0.017454154272360092  1.0000
+  Ta  Ta1       1.0  0.8813168954972705  0.35442586769300516  0.8234482278863334  1.0000
+  O   O3        1.0  0.880833881126158  0.6572667439227039  0.1272988729719517  1.0000
+  O   O4        1.0  0.3809886830942753  0.5487783381427884  0.6300481186075441  1.0000

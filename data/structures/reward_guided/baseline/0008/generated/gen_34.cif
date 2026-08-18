@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       KBa3Ir
+_chemical_formula_sum              "K1 Ba3 Ir1"
+_cell_length_a       6.309078532226102
+_cell_length_b       6.316502251453447
+_cell_length_c       6.324950218200684
+_cell_angle_alpha    90.13418840635306
+_cell_angle_beta     89.98187518272196
+_cell_angle_gamma    90.01930461941313
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.7567220330238341  0.18522755801677704  0.777529239654541  1.0000
+  Ba  Ba1       1.0  0.2567407190799713  0.1844540536403656  0.2776448726654053  1.0000
+  Ba  Ba2       1.0  0.7564992308616637  0.6852702498435974  0.27761679887771606  1.0000
+  Ba  Ba3       1.0  0.25654667615890503  0.684995710849762  0.7778056859970093  1.0000
+  Ir  Ir1       1.0  0.25642338395118713  0.6854876279830933  0.2776009440422058  1.0000

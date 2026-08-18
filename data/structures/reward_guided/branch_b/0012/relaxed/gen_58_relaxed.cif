@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Tb4ErSe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08485092
+_cell_length_b   4.08510662
+_cell_length_c   14.73177182
+_cell_angle_alpha   97.96161872
+_cell_angle_beta   97.96858614
+_cell_angle_gamma   89.99994935
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb4ErSe5
+_chemical_formula_sum   'Tb4 Er1 Se5'
+_cell_volume   241.06329607
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.49109370  0.78538019  0.19118672  1
+  Tb  Tb1  1  0.29199372  0.58390941  0.78937992  1
+  Tb  Tb2  1  0.88833578  0.18035044  0.98456635  1
+  Tb  Tb3  1  0.08992788  0.38251102  0.38687655  1
+  Er  Er4  1  0.68965622  0.98279686  0.58781256  1
+  Se  Se5  1  0.59186832  0.88435053  0.39098141  1
+  Se  Se6  1  0.78962315  0.08147711  0.78469364  1
+  Se  Se7  1  0.39109884  0.68317357  0.99004445  1
+  Se  Se8  1  0.98832783  0.28255016  0.18587219  1
+  Se  Se9  1  0.18956057  0.48287615  0.58807660  1

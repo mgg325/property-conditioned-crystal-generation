@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li4PbAu
+_chemical_formula_sum              "Li4 Pb1 Au1"
+_cell_length_a       3.477790460278846
+_cell_length_b       3.477571281473537
+_cell_length_c       8.723771095275879
+_cell_angle_alpha    90.04314881131236
+_cell_angle_beta     90.01405220399113
+_cell_angle_gamma    89.91900328924861
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9814087748527528  0.9630605578422547  0.5901259779930115  1.0000
+  Li  Li2       1.0  0.48227047920227056  0.4631356894969941  0.7572919726371765  1.0000
+  Li  Li3       1.0  0.9826940894126893  0.9615536928176881  0.22141936421394348  1.0000
+  Li  Li4       1.0  0.48201018571853643  0.4621431231498719  0.05382310226559639  1.0000
+  Pb  Pb1       1.0  0.4821637868881226  0.46248906850814825  0.40499117970466614  1.0000
+  Au  Au1       1.0  0.981763243675232  0.9623801112174988  0.9059233069419861  1.0000

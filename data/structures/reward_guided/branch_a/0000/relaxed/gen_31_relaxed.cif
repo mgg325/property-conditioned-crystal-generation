@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Li5Mg2Cd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.91298392
+_cell_length_b   5.91292089
+_cell_length_c   5.90943176
+_cell_angle_alpha   115.19975665
+_cell_angle_beta   115.22869415
+_cell_angle_gamma   98.53706101
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li5Mg2Cd
+_chemical_formula_sum   'Li5 Mg2 Cd1'
+_cell_volume   154.76886723
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.60952759  0.08847662  0.11514268  1
+  Li  Li1  1  0.10966260  0.58866689  0.61553940  1
+  Li  Li2  1  0.10961092  0.08808572  0.61501276  1
+  Li  Li3  1  0.11012101  0.58922814  0.11614388  1
+  Li  Li4  1  0.60962783  0.58905987  0.61565619  1
+  Mg  Mg5  1  0.10978789  0.08892174  0.11554677  1
+  Mg  Mg6  1  0.60919582  0.58845344  0.11502413  1
+  Cd  Cd7  1  0.60973900  0.08918670  0.61558091  1

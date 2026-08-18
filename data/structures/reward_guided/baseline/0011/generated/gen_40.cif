@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       AsPdNd
+_chemical_formula_sum              "As1 Pd1 Nd1"
+_cell_length_a       3.964613635791043
+_cell_length_b       4.339282320436905
+_cell_length_c       4.333856105804443
+_cell_angle_alpha    119.96847577119756
+_cell_angle_beta     89.97311204985984
+_cell_angle_gamma    90.0109103173476
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.20486420392990112  0.2955792546272278  0.9686622023582458  1.0000
+  Pd  Pd1       1.0  0.20475712418556213  0.9624013900756835  0.30156585574150074  1.0000
+  Nd  Nd1       1.0  0.7047297954559326  0.6287987232208252  0.6355661153793335  1.0000

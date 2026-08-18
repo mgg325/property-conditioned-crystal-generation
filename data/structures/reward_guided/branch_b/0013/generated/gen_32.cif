@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       SmCuSm2CuGaCuGaCu2
+_chemical_formula_sum              "Sm3 Cu5 Ga2"
+_cell_length_a       4.0918263252316045
+_cell_length_b       4.1901485281561355
+_cell_length_c       11.215631484985352
+_cell_angle_alpha    87.30037687796728
+_cell_angle_beta     89.65589074375453
+_cell_angle_gamma    90.89466172745918
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.12821899354457855  0.636379599571228  0.5510492920875549  1.0000
+  Cu  Cu1       1.0  0.129988431930542  0.13460424542427063  0.3368297815322876  1.0000
+  Sm  Sm2       1.0  0.12701943516731262  0.13348686695098877  0.8389543890953064  1.0000
+  Sm  Sm3       1.0  0.6272878646850586  0.1362337023019791  0.12338782101869583  1.0000
+  Cu  Cu2       1.0  0.6277074217796326  0.6393501162528992  0.8380442261695862  1.0000
+  Ga  Ga1       1.0  0.6275215148925781  0.13405033946037292  0.6591779589653015  1.0000
+  Cu  Cu3       1.0  0.6286615133285522  0.6355893015861511  0.3363965153694153  1.0000
+  Ga  Ga2       1.0  0.12848642468452454  0.6361095309257508  0.01269604917615652  1.0000
+  Cu  Cu4       1.0  0.12884333729743958  0.6349939107894897  0.22254857420921326  1.0000
+  Cu  Cu5       1.0  0.6291447877883911  0.13546942174434662  0.45209288597106934  1.0000

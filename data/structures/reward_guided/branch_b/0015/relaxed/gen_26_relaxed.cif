@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaTl4Cd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.35732381
+_cell_length_b   8.49957794
+_cell_length_c   8.49752244
+_cell_angle_alpha   99.95490641
+_cell_angle_beta   90.02581130
+_cell_angle_gamma   90.00121530
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaTl4Cd
+_chemical_formula_sum   'Ba2 Tl8 Cd2'
+_cell_volume   381.10892675
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.33716720  0.15634902  0.60607762  1
+  Ba  Ba1  1  0.83696198  0.48359711  0.29287432  1
+  Tl  Tl2  1  0.83704183  0.84382690  0.61260279  1
+  Tl  Tl3  1  0.33668944  0.79572745  0.28700450  1
+  Tl  Tl4  1  0.33550756  0.89430046  0.89170935  1
+  Tl  Tl5  1  0.83588149  0.74585129  0.00857383  1
+  Tl  Tl6  1  0.33768444  0.59004483  0.59334131  1
+  Tl  Tl7  1  0.83677947  0.04948679  0.30669271  1
+  Tl  Tl8  1  0.83610511  0.16983603  0.92777956  1
+  Tl  Tl9  1  0.33677931  0.47057966  0.97158358  1
+  Cd  Cd10  1  0.83772723  0.45515289  0.72583936  1
+  Cd  Cd11  1  0.33655937  0.18482675  0.17387289  1

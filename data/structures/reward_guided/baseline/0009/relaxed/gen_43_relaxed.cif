@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TbEr5Cd4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.72955781
+_cell_length_b   3.72953006
+_cell_length_c   19.32073820
+_cell_angle_alpha   90.00049509
+_cell_angle_beta   89.99993527
+_cell_angle_gamma   90.00000895
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbEr5Cd4
+_chemical_formula_sum   'Tb1 Er5 Cd4'
+_cell_volume   268.74176812
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.06916198  0.04162032  0.75010177  1
+  Er  Er1  1  0.56929859  0.54183172  0.25051407  1
+  Er  Er2  1  0.06935249  0.04187958  0.13314698  1
+  Er  Er3  1  0.06932209  0.04185623  0.94374084  1
+  Er  Er4  1  0.06919182  0.04150554  0.55666787  1
+  Er  Er5  1  0.06928242  0.04158780  0.36781392  1
+  Cd  Cd6  1  0.56904457  0.54161622  0.46213097  1
+  Cd  Cd7  1  0.56914365  0.54157444  0.65212649  1
+  Cd  Cd8  1  0.56930166  0.54179519  0.84818802  1
+  Cd  Cd9  1  0.56942888  0.54192895  0.03859520  1

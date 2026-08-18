@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HgAsNaCa
+_chemical_formula_sum              "Hg1 As1 Na1 Ca1"
+_cell_length_a       5.079942123962784
+_cell_length_b       5.090359684985455
+_cell_length_c       5.035871982574463
+_cell_angle_alpha    60.40777338743574
+_cell_angle_beta     59.9033623917927
+_cell_angle_gamma    60.43484098427143
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.9680087566375732  0.2220124453306198  0.26228341460227966  1.0000
+  As  As1       1.0  0.4676986336708069  0.7208645939826965  0.76218581199646  1.0000
+  Na  Na1       1.0  0.21601195633411407  0.47159951925277716  0.5105155110359192  1.0000
+  Ca  Ca1       1.0  0.7162334322929382  0.9720037579536439  0.012089332565665245  1.0000

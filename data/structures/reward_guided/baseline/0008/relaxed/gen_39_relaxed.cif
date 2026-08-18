@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Hg2TeI8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.19695807
+_cell_length_b   9.21460113
+_cell_length_c   8.60114986
+_cell_angle_alpha   108.25126271
+_cell_angle_beta   91.24736291
+_cell_angle_gamma   85.97291992
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg2TeI8
+_chemical_formula_sum   'Hg2 Te1 I8'
+_cell_volume   540.37006873
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.49794098  0.65042396  0.26699128  1
+  Hg  Hg1  1  0.00037348  0.15164101  0.27148977  1
+  Te  Te2  1  0.00160380  0.65124592  0.77091736  1
+  I  I3  1  0.26205438  0.46522217  0.91117245  1
+  I  I4  1  0.72520091  0.25354307  0.11148608  1
+  I  I5  1  0.27682334  0.04822876  0.42912485  1
+  I  I6  1  0.76239264  0.73564143  0.09616207  1
+  I  I7  1  0.24139954  0.56719171  0.44675800  1
+  I  I8  1  0.74245716  0.83655993  0.63224163  1
+  I  I9  1  0.78129755  0.38613064  0.62691065  1
+  I  I10  1  0.22292921  0.91511199  0.91487104  1

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Si2DyRh2DySi2RhAu
+_chemical_formula_sum              "Si4 Dy2 Rh3 Au1"
+_cell_length_a       4.126893754931969
+_cell_length_b       4.12587482985135
+_cell_length_c       9.971864700317383
+_cell_angle_alpha    90.0353965448355
+_cell_angle_beta     90.01931828041562
+_cell_angle_gamma    90.0580317889485
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.36190930008888245  0.5385087132453918  0.32809001207351685  1.0000
+  Si  Si2       1.0  0.3618323802947998  0.03877686709165573  0.9714621901512146  1.0000
+  Dy  Dy1       1.0  0.36237940192222595  0.5388131141662597  0.7331251502037048  1.0000
+  Rh  Rh1       1.0  0.3619895577430725  0.0385252870619297  0.4718211889266968  1.0000
+  Rh  Rh2       1.0  0.3618028163909912  0.5388470888137817  0.0939294695854187  1.0000
+  Dy  Dy2       1.0  0.8620645403862  0.038352645933628075  0.21011723577976227  1.0000
+  Si  Si3       1.0  0.8622975945472717  0.5381096005439758  0.9716772437095642  1.0000
+  Si  Si4       1.0  0.8623182773590088  0.0386844277381897  0.6146867871284485  1.0000
+  Rh  Rh3       1.0  0.8624193668365479  0.03844437748193741  0.8487149477005005  1.0000
+  Au  Au1       1.0  0.8619691729545593  0.5384625196456909  0.4711526334285736  1.0000

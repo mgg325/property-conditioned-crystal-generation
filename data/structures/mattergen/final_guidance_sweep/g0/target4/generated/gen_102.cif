@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Lu2BrOBrO
+_chemical_formula_sum              "Lu2 Br2 O2"
+_cell_length_a       3.7967019991006166
+_cell_length_b       3.797447509267873
+_cell_length_c       9.394396781921387
+_cell_angle_alpha    89.92601788957876
+_cell_angle_beta     90.02386718506435
+_cell_angle_gamma    90.04344933764509
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.8878487944602966  0.8820951581001281  0.0238687451928854  1.0000
+  Lu  Lu2       1.0  0.3878430724143982  0.3823254406452179  0.25761938095092773  1.0000
+  Br  Br1       1.0  0.38783299922943115  0.38266780972480774  0.8449668884277344  1.0000
+  O   O1        1.0  0.3879709541797638  0.8818610310554503  0.14043328166007996  1.0000
+  Br  Br2       1.0  0.8880051374435425  0.8818358182907103  0.4362841248512268  1.0000
+  O   O2        1.0  0.8878267407417297  0.382061630487442  0.1404973566532135  1.0000

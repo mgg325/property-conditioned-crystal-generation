@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Tl4GaSi2SnBi5SbAsPbAuSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.43386767
+_cell_length_b   10.36077881
+_cell_length_c   9.66150527
+_cell_angle_alpha   121.48009449
+_cell_angle_beta   118.92489883
+_cell_angle_gamma   90.32482709
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl4GaSi2SnBi5SbAsPbAuSe
+_chemical_formula_sum   'Tl4 Ga1 Si2 Sn1 Bi5 Sb1 As1 Pb1 Au1 Se1'
+_cell_volume   591.25421724
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.15260942  1.07374207  1.00990346  1
+  Tl  Tl1  1  -0.00611239  0.27889332  0.38056155  1
+  Tl  Tl2  1  0.14502413  0.66973560  0.50860536  1
+  Tl  Tl3  1  0.76797514  0.80351083  0.87563337  1
+  Ga  Ga4  1  0.34634469  0.23124856  0.67652260  1
+  Si  Si5  1  0.36701596  -0.00985909  0.69048127  1
+  Si  Si6  1  0.45536567  0.29332152  0.00204971  1
+  Sn  Sn7  1  0.66541061  1.02172659  0.66086820  1
+  Bi  Bi8  1  0.68973754  0.72975144  0.32996519  1
+  Bi  Bi9  1  0.49744643  0.44745451  0.62370729  1
+  Bi  Bi10  1  0.40960084  0.73302966  0.97663989  1
+  Bi  Bi11  1  0.99384167  0.53781083  0.79089053  1
+  Bi  Bi12  1  0.03976791  0.90764095  0.32893998  1
+  Sb  Sb13  1  0.75430198  0.43477200  0.04486808  1
+  As  As14  1  0.54452336  0.08250171  0.03848151  1
+  Pb  Pb15  1  0.63182667  0.15572164  0.42628509  1
+  Au  Au16  1  0.94922366  0.30646321  0.86718011  1
+  Se  Se17  1  0.30974088  0.43625530  0.15773179  1

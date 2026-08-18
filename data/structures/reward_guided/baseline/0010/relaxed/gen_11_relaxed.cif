@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_BaSrZn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.56293660
+_cell_length_b   4.56327119
+_cell_length_c   8.72822408
+_cell_angle_alpha   74.82328391
+_cell_angle_beta   74.85675048
+_cell_angle_gamma   60.02406202
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrZn2
+_chemical_formula_sum   'Ba1 Sr1 Zn2'
+_cell_volume   150.07709637
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.09734215  0.25939583  0.31256583  1
+  Sr  Sr1  1  0.92593748  0.08655991  0.82727022  1
+  Zn  Zn2  1  0.34029425  0.50094818  0.58436585  1
+  Zn  Zn3  1  0.67394871  0.83440292  0.58415749  1

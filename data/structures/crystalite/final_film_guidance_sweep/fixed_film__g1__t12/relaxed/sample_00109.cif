@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_GaCu4TeSeO11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.92456739
+_cell_length_b   5.24850304
+_cell_length_c   8.22504524
+_cell_angle_alpha   90.85573751
+_cell_angle_beta   91.16327900
+_cell_angle_gamma   92.87116253
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaCu4TeSeO11
+_chemical_formula_sum   'Ga1 Cu4 Te1 Se1 O11'
+_cell_volume   212.25179769
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.19831016  0.21259015  0.13328513  1
+  Cu  Cu1  1  0.25168355  0.16834833  0.72740181  1
+  Cu  Cu2  1  0.71669591  0.65769852  0.61468348  1
+  Cu  Cu3  1  0.74210339  0.66054567  0.23218778  1
+  Cu  Cu4  1  0.21039051  0.71429774  0.51430415  1
+  Te  Te5  1  0.23130839  0.67068276  0.91262642  1
+  Se  Se6  1  0.73093071  0.15841968  0.41968208  1
+  O  O7  1  0.52656212  0.84668155  0.39603322  1
+  O  O8  1  0.94217664  -0.01041064  0.57846683  1
+  O  O9  1  0.00964550  0.51951735  0.08590560  1
+  O  O10  1  1.07231391  0.99576201  0.94300171  1
+  O  O11  1  0.47315814  0.84744467  0.76494018  1
+  O  O12  1  0.43897454  0.37755040  0.93927983  1
+  O  O13  1  0.94011577  1.00899191  0.25863078  1
+  O  O14  1  0.51946589  0.30952470  0.25646577  1
+  O  O15  1  0.94906545  0.44042175  0.41391661  1
+  O  O16  1  0.03482538  0.50956931  0.73426156  1
+  O  O17  1  0.52995540  0.30726119  0.57506378  1

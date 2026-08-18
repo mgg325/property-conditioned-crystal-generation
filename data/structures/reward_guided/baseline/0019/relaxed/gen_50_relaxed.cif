@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sm2Cu3Sn4Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55367304
+_cell_length_b   4.55134751
+_cell_length_c   10.34793844
+_cell_angle_alpha   90.02203187
+_cell_angle_beta   90.05194241
+_cell_angle_gamma   90.00236553
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2Cu3Sn4Ir
+_chemical_formula_sum   'Sm2 Cu3 Sn4 Ir1'
+_cell_volume   214.46452597
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.44761226  0.35045233  0.39728921  1
+  Sm  Sm1  1  0.94781759  0.85046357  0.93532324  1
+  Cu  Cu2  1  0.44858098  0.35050926  0.79594243  1
+  Cu  Cu3  1  0.94827368  0.35021700  0.16606075  1
+  Cu  Cu4  1  0.94721471  0.85017663  0.53641496  1
+  Sn  Sn5  1  0.94727143  0.85037948  0.29440991  1
+  Sn  Sn6  1  0.44759859  0.85042883  0.66604424  1
+  Sn  Sn7  1  0.94813813  0.35034473  0.66638788  1
+  Sn  Sn8  1  0.44803673  0.35066214  0.03793237  1
+  Ir  Ir9  1  0.44688053  0.85083179  0.16629864  1

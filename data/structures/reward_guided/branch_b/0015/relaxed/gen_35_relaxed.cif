@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_HfTaMn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38337691
+_cell_length_b   4.38071713
+_cell_length_c   4.38328725
+_cell_angle_alpha   60.05037608
+_cell_angle_beta   60.06566564
+_cell_angle_gamma   60.04809379
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfTaMn2
+_chemical_formula_sum   'Hf1 Ta1 Mn2'
+_cell_volume   59.59051508
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.68380638  0.60230818  0.79254241  1
+  Ta  Ta1  1  0.18402745  0.10206508  0.29265071  1
+  Mn  Mn2  1  0.43272283  0.35192371  0.54286258  1
+  Mn  Mn3  1  0.93425686  0.85219757  0.04249288  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_K3NaMgCO11F3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.54399416
+_cell_length_b   6.56705590
+_cell_length_c   9.06948394
+_cell_angle_alpha   90.66086369
+_cell_angle_beta   91.83270934
+_cell_angle_gamma   92.26359667
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3NaMgCO11F3
+_chemical_formula_sum   'K3 Na1 Mg1 C1 O11 F3'
+_cell_volume   151.31170117
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.65500175  0.53835423  0.90404575  1
+  K  K1  1  0.70991935  0.24159941  0.65050620  1
+  K  K2  1  0.22022747  0.69178768  0.32570424  1
+  Na  Na3  1  0.45056877  0.14403098  0.12306700  1
+  Mg  Mg4  1  0.14646054  0.45706040  0.49124860  1
+  C  C5  1  0.73644299  0.84936485  0.73268083  1
+  O  O6  1  0.16522953  1.04387480  0.80847989  1
+  O  O7  1  0.85384775  0.87959167  0.17958180  1
+  O  O8  1  0.23811776  0.51918054  0.68582669  1
+  O  O9  1  0.17287253  0.06184910  0.82915716  1
+  O  O10  1  0.66306788  0.49424395  0.16755547  1
+  O  O11  1  0.25441030  0.78407339  1.00202600  1
+  O  O12  1  0.73314307  0.92474204  0.99843799  1
+  O  O13  1  0.67618319  0.96942848  0.29882780  1
+  O  O14  1  0.01757577  0.35100565  0.05185994  1
+  O  O15  1  -0.12050004  0.76370481  0.60346624  1
+  O  O16  1  0.74361959  0.84267858  0.73368958  1
+  F  F17  1  0.20453450  0.28203047  0.34335751  1
+  F  F18  1  0.60673052  -0.00700288  0.48729992  1
+  F  F19  1  0.20511271  0.26925225  0.35041685  1

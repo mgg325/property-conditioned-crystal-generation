@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_ZnCdCu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.92425340
+_cell_length_b   2.92425528
+_cell_length_c   5.98707637
+_cell_angle_alpha   104.14357698
+_cell_angle_beta   104.15219385
+_cell_angle_gamma   90.00016855
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCdCu
+_chemical_formula_sum   'Zn1 Cd1 Cu1'
+_cell_volume   48.04107529
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.65689779  0.69088337  0.38839254  1
+  Cd  Cd1  1  0.35008154  0.38432628  0.77587541  1
+  Cu  Cu2  1  0.02178134  0.05591688  0.11850644  1

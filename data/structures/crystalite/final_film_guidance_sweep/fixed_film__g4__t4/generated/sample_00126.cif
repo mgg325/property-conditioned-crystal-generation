@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ba2SiPClO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20003462
+_cell_length_b   6.04975939
+_cell_length_c   8.35155106
+_cell_angle_alpha   97.23229980
+_cell_angle_beta   92.67111206
+_cell_angle_gamma   112.00491333
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2SiPClO8
+_chemical_formula_sum   'Ba2 Si1 P1 Cl1 O8'
+_cell_volume   240.39436636
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.38983244  0.05799639  0.59083313  1
+  O  O1  1  0.48531672  0.99483496  0.05158287  1
+  O  O2  1  0.81588519  0.37993419  0.42887476  1
+  P  P3  1  0.56820989  0.64497519  0.63439882  1
+  Si  Si4  1  0.41548699  0.42773858  0.10276002  1
+  Cl  Cl5  1  0.46072906  0.39165515  0.93991685  1
+  O  O6  1  0.41919819  0.55974984  0.40578938  1
+  O  O7  1  0.76323986  0.37328854  0.09263170  1
+  O  O8  1  0.40852201  0.47888285  0.76950872  1
+  Ba  Ba9  1  0.98459613  0.34494257  0.32427508  1
+  O  O10  1  0.51805043  0.36684629  0.02586311  1
+  O  O11  1  0.61576241  0.83814126  0.66535950  1
+  Ba  Ba12  1  0.23392347  0.91654634  0.95491695  1

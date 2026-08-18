@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ce2NdZn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.24817386
+_cell_length_b   4.99989201
+_cell_length_c   10.79041604
+_cell_angle_alpha   103.71301601
+_cell_angle_beta   101.35342688
+_cell_angle_gamma   90.00900798
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2NdZn
+_chemical_formula_sum   'Ce4 Nd2 Zn2'
+_cell_volume   218.03872332
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.35598448  0.86114282  0.69722954  1
+  Ce  Ce1  1  0.07191280  0.57283497  0.12876004  1
+  Ce  Ce2  1  0.43974252  0.43820592  0.86323058  1
+  Ce  Ce3  1  0.57370290  0.07489064  0.13261722  1
+  Nd  Nd4  1  0.21433338  0.21660723  0.41311797  1
+  Nd  Nd5  1  0.71285223  0.71509483  0.41016113  1
+  Zn  Zn6  1  0.96572905  0.96507932  0.91640105  1
+  Zn  Zn7  1  0.82524540  0.32898801  0.63466884  1

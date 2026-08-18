@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_La4In2Bi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.52870200
+_cell_length_b   8.55518397
+_cell_length_c   8.56145044
+_cell_angle_alpha   109.56209821
+_cell_angle_beta   109.40635142
+_cell_angle_gamma   109.39783615
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La4In2Bi
+_chemical_formula_sum   'La8 In4 Bi2'
+_cell_volume   481.16116379
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.67451501  0.54882140  0.83732237  1
+  La  La1  1  0.02360130  0.75322433  0.68595187  1
+  La  La2  1  0.17532890  0.40446027  0.48541093  1
+  La  La3  1  0.67353248  0.05281173  0.83602439  1
+  La  La4  1  0.17396613  0.40188314  0.98497035  1
+  La  La5  1  0.52875520  0.25745905  0.19156897  1
+  La  La6  1  0.32272564  0.90213081  0.33780773  1
+  La  La7  1  0.82369228  0.90412388  0.33863172  1
+  In  In8  1  0.29995938  0.15230915  0.71050945  1
+  In  In9  1  0.55120657  0.65422498  0.46146165  1
+  In  In10  1  0.92366679  0.52850461  0.21378831  1
+  In  In11  1  0.79956973  0.27866006  0.58882090  1
+  Bi  Bi12  1  0.42381554  0.77772473  0.96163871  1
+  Bi  Bi13  1  0.04881335  0.02808753  0.08689989  1

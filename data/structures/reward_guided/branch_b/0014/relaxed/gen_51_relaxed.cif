@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_ErCuGe2Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.10973417
+_cell_length_b   4.12600286
+_cell_length_c   5.96231811
+_cell_angle_alpha   110.25914178
+_cell_angle_beta   110.06849208
+_cell_angle_gamma   89.99929509
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErCuGe2Pt
+_chemical_formula_sum   'Er1 Cu1 Ge2 Pt1'
+_cell_volume   88.27485747
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.58403152  0.27251413  0.52745555  1
+  Cu  Cu1  1  0.33206360  0.52320041  0.02769158  1
+  Ge  Ge2  1  0.96548433  0.65586312  0.29436060  1
+  Ge  Ge3  1  0.19928950  0.88933004  0.76131316  1
+  Pt  Pt4  1  0.83257053  0.02360172  0.02971060  1

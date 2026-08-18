@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_NaCa4(MgS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.25212240
+_cell_length_b   6.55396795
+_cell_length_c   5.51050472
+_cell_angle_alpha   96.21588135
+_cell_angle_beta   120.37961578
+_cell_angle_gamma   110.36381531
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCa4(MgS3)2
+_chemical_formula_sum   'Na1 Ca4 Mg2 S6'
+_cell_volume   88.93244891
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.48644167  0.41601926  0.82965803  1
+  Ca  Ca1  1  0.75425375  0.90071917  0.89548069  1
+  Ca  Ca2  1  0.00707570  0.65117162  0.61908722  1
+  S  S3  1  0.89451009  0.21785262  0.43474215  1
+  Mg  Mg4  1  0.24974650  0.06526282  0.79033208  1
+  Ca  Ca5  1  0.90851271  0.74112403  0.20934942  1
+  S  S6  1  0.67852747  0.54032505  0.17154732  1
+  S  S7  1  0.25372356  0.77797776  0.32150880  1
+  Na  Na8  1  0.71122199  0.45677373  0.99594438  1
+  S  S9  1  0.07255894  0.41735011  0.06124881  1
+  S  S10  1  0.39709607  0.98234534  0.72261757  1
+  Ca  Ca11  1  0.42887276  0.36551517  0.20857695  1
+  Mg  Mg12  1  0.20655200  0.81012011  0.00130135  1

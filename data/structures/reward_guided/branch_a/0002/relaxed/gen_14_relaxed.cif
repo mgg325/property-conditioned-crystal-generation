@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_YbIn5Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.69944750
+_cell_length_b   4.70292639
+_cell_length_c   7.51602538
+_cell_angle_alpha   89.93919425
+_cell_angle_beta   90.03772970
+_cell_angle_gamma   89.98786687
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbIn5Ru
+_chemical_formula_sum   'Yb1 In5 Ru1'
+_cell_volume   166.11271360
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.19652860  0.14343225  0.64834454  1
+  In  In1  1  0.19573966  0.64410386  0.95129159  1
+  In  In2  1  0.19581228  0.64255980  0.34786276  1
+  In  In3  1  0.69591365  0.64319133  0.64960054  1
+  In  In4  1  0.69528556  0.14164494  0.95021557  1
+  In  In5  1  0.69644146  0.14292430  0.34834975  1
+  Ru  Ru6  1  0.19612250  0.14392124  0.14988856  1

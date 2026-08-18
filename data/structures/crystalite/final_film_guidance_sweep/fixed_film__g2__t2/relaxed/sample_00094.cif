@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SiGeF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.69892105
+_cell_length_b   5.88185564
+_cell_length_c   8.26571476
+_cell_angle_alpha   97.35226892
+_cell_angle_beta   89.38973789
+_cell_angle_gamma   105.20960690
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiGeF8
+_chemical_formula_sum   'Si1 Ge1 F8'
+_cell_volume   172.05793307
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.67056359  0.94846691  0.93564890  1
+  Ge  Ge1  1  0.35249970  0.49697313  0.40331752  1
+  F  F2  1  0.08679957  0.49259332  0.57586083  1
+  F  F3  1  0.90203854  0.95083761  0.09793213  1
+  F  F4  1  0.47614332  0.23246618  0.37511102  1
+  F  F5  1  0.34074613  0.71181862  0.91946359  1
+  F  F6  1  0.09961584  0.50468563  0.23288497  1
+  F  F7  1  0.90422619  0.94539918  0.77359854  1
+  F  F8  1  0.69448277  0.75915587  0.42653408  1
+  F  F9  1  0.53424562  0.18544614  0.95683223  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_KBaHg6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53187467
+_cell_length_b   7.26020624
+_cell_length_c   7.26058780
+_cell_angle_alpha   119.68032889
+_cell_angle_beta   90.12744371
+_cell_angle_gamma   89.94030350
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBaHg6
+_chemical_formula_sum   'K1 Ba1 Hg6'
+_cell_volume   253.34514831
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.15575899  0.43660601  0.01280026  1
+  Ba  Ba1  1  0.65553047  0.10705991  0.34230190  1
+  Hg  Hg2  1  0.65709067  0.62246369  0.37646497  1
+  Hg  Hg3  1  0.15587224  0.92638567  0.52466862  1
+  Hg  Hg4  1  0.15505018  0.46777757  0.52690214  1
+  Hg  Hg5  1  0.65446376  0.61751593  0.83319399  1
+  Hg  Hg6  1  0.15563014  0.92195095  0.98094277  1
+  Hg  Hg7  1  0.65618518  0.07655138  0.82819349  1

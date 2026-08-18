@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_RbLiReTcTe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.59973601
+_cell_length_b   4.71214325
+_cell_length_c   8.03869372
+_cell_angle_alpha   84.12118431
+_cell_angle_beta   91.42660070
+_cell_angle_gamma   113.05543078
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbLiReTcTe
+_chemical_formula_sum   'Rb1 Li1 Re1 Tc1 Te1'
+_cell_volume   124.78776628
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.37138824  0.13746089  0.34993901  1
+  Li  Li1  1  0.30254056  0.06979330  0.80196263  1
+  Re  Re2  1  0.00819705  0.46627561  -0.04779245  1
+  Tc  Tc3  1  0.68204775  0.80081940  0.01645028  1
+  Te  Te4  1  0.58417505  0.64420392  0.68930224  1

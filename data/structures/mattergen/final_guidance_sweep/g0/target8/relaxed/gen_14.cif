@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ErSeErO2
+_chemical_formula_sum              "Er2 Se1 O2"
+_cell_length_a       3.805875355975416
+_cell_length_b       3.8053014317318925
+_cell_length_c       6.57224064029124
+_cell_angle_alpha    106.82883767510184
+_cell_angle_beta     106.84265771555167
+_cell_angle_gamma    90.00036045491332
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.5802522574945038  0.9897982028468078  0.6478735180654589  1.0000
+  Se  Se1       1.0  0.2372369985772717  0.6473062556265258  0.9620420364607407  1.0000
+  Er  Er2       1.0  0.894266215263635  0.304005510716407  0.27635210838024743  1.0000
+  O   O1        1.0  0.9874149028419813  0.8970617097354663  0.46223172530581336  1.0000
+  O   O2        1.0  0.48719852053511115  0.39700691339181227  0.4620537770717591  1.0000

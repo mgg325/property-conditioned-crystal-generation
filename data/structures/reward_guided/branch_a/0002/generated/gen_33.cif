@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       MnCe2CSiMnSiCr2C
+_chemical_formula_sum              "Mn2 Ce2 C2 Si2 Cr2"
+_cell_length_a       3.752483639551974
+_cell_length_b       5.64640643756661
+_cell_length_c       7.055105209350586
+_cell_angle_alpha    90.16575754046548
+_cell_angle_beta     88.55789000305674
+_cell_angle_gamma    109.64677524627102
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.16002537310123444  0.5744532346725464  0.83761864900589  1.0000
+  Ce  Ce1       1.0  0.7845174074172974  0.8271928429603576  0.1464083194732666  1.0000
+  Ce  Ce2       1.0  0.8743301033973694  0.00415032496675849  0.647527039051056  1.0000
+  C   C1        1.0  0.3276658356189728  0.9131371378898621  0.8968358635902406  1.0000
+  Si  Si1       1.0  0.06746780127286911  0.38938525319099426  0.15048424899578094  1.0000
+  Mn  Mn2       1.0  0.5010368824005127  0.2572002708911896  0.33680266141891485  1.0000
+  Si  Si2       1.0  0.5929638743400574  0.44229754805564875  0.6495191454887391  1.0000
+  Cr  Cr1       1.0  0.4999956786632538  0.254444420337677  0.9600108861923219  1.0000
+  Cr  Cr2       1.0  0.16056734323501587  0.5749492645263672  0.45842343568801885  1.0000
+  C   C2        1.0  0.3300748765468597  0.9151875972747802  0.39713805913925176  1.0000

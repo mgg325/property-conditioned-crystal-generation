@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiPr2HgS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.24897342
+_cell_length_b   8.20763879
+_cell_length_c   8.12489432
+_cell_angle_alpha   118.87763380
+_cell_angle_beta   120.04092311
+_cell_angle_gamma   91.01320156
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPr2HgS4
+_chemical_formula_sum   'Li2 Pr4 Hg2 S8'
+_cell_volume   391.79830609
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.80494191  0.45944548  0.51271114  1
+  Li  Li1  1  0.80508983  0.95957110  0.51271809  1
+  Pr  Pr2  1  0.80489200  0.95938020  0.01272851  1
+  Pr  Pr3  1  0.30486466  0.45935097  0.51272080  1
+  Pr  Pr4  1  0.30486588  0.45941566  0.01273851  1
+  Pr  Pr5  1  0.30484743  0.95938224  0.01267235  1
+  Hg  Hg6  1  0.80478806  0.45936864  0.01256683  1
+  Hg  Hg7  1  0.30505140  0.95927423  0.51285564  1
+  S  S8  1  0.51432011  0.17581646  0.49970537  1
+  S  S9  1  0.03525231  0.23021835  0.51286475  1
+  S  S10  1  0.54755500  0.72154816  0.01757696  1
+  S  S11  1  0.09530480  0.74280782  0.52562526  1
+  S  S12  1  0.03739402  0.69179906  0.96334838  1
+  S  S13  1  0.57234130  0.22697587  0.06204447  1
+  S  S14  1  0.06219589  0.19727490  0.00787679  1
+  S  S15  1  0.57444649  0.68849369  0.51257536  1

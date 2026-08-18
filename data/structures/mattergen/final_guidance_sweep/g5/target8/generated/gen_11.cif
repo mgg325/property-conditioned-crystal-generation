@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ErTeScTe
+_chemical_formula_sum              "Er1 Te2 Sc1"
+_cell_length_a       4.224675908431998
+_cell_length_b       4.218355953215863
+_cell_length_c       7.3206305503845215
+_cell_angle_alpha    73.27466511698411
+_cell_angle_beta     73.21781151969776
+_cell_angle_gamma    60.02830789326849
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.9198644757270814  0.5911200046539306  0.6010540723800659  1.0000
+  Te  Te1       1.0  0.6738296151161194  0.3454521298408508  0.33874160051345825  1.0000
+  Sc  Sc1       1.0  0.42009198665618896  0.09097236394882202  0.10072850435972214  1.0000
+  Te  Te2       1.0  0.16584384441375732  0.8374243974685669  0.8628920316696167  1.0000

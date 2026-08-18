@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_CrCuAgO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32990409
+_cell_length_b   5.33235031
+_cell_length_c   5.36032109
+_cell_angle_alpha   119.86774869
+_cell_angle_beta   119.82875508
+_cell_angle_gamma   89.95462298
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrCuAgO4
+_chemical_formula_sum   'Cr1 Cu1 Ag1 O4'
+_cell_volume   108.25862043
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.63427925  0.67405694  0.73467667  1
+  Cu  Cu1  1  0.88413840  0.42388345  0.23433525  1
+  Ag  Ag2  1  0.38470794  0.92403235  0.23514673  1
+  O  O3  1  0.91612225  0.01516694  0.99397625  1
+  O  O4  1  0.61169512  0.59188848  0.99371131  1
+  O  O5  1  0.29304433  0.69727922  0.47625420  1
+  O  O6  1  0.71650669  0.39207628  0.47553336  1

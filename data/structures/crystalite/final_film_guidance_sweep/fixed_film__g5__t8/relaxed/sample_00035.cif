@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_RbSrZn(PSe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63831207
+_cell_length_b   6.55929534
+_cell_length_c   5.71971495
+_cell_angle_alpha   89.85305137
+_cell_angle_beta   92.61777298
+_cell_angle_gamma   92.53085920
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbSrZn(PSe)2
+_chemical_formula_sum   'Rb1 Sr1 Zn1 P2 Se2'
+_cell_volume   211.10734612
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.59532731  0.59149968  0.91982034  1
+  Sr  Sr1  1  0.10304889  0.97231358  1.07342627  1
+  Zn  Zn2  1  -0.04351202  0.31632091  0.61228293  1
+  P  P3  1  0.66587180  0.11198492  0.75444800  1
+  P  P4  1  0.10689107  0.61689837  0.48625892  1
+  Se  Se5  1  0.60824339  0.98789964  0.38838596  1
+  Se  Se6  1  0.11125521  0.43960155  0.15741460  1

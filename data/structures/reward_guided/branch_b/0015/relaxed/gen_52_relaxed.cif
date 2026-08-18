@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_InHg4Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.60421070
+_cell_length_b   7.30521280
+_cell_length_c   12.75934950
+_cell_angle_alpha   90.01694461
+_cell_angle_beta   89.96944065
+_cell_angle_gamma   89.98616143
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InHg4Pb
+_chemical_formula_sum   'In2 Hg8 Pb2'
+_cell_volume   335.94755314
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.51256263  0.51503766  0.20429050  1
+  In  In1  1  0.01191417  0.26427846  0.70342826  1
+  Hg  Hg2  1  0.01093718  0.26931784  0.37043985  1
+  Hg  Hg3  1  0.51117593  0.02216921  0.86988233  1
+  Hg  Hg4  1  0.01271813  0.75707850  0.37041073  1
+  Hg  Hg5  1  0.51208877  0.50650017  0.87003652  1
+  Hg  Hg6  1  0.51166717  0.50643959  0.53758395  1
+  Hg  Hg7  1  0.01102361  0.75880229  0.03758193  1
+  Hg  Hg8  1  0.51220969  0.01899250  0.53879590  1
+  Hg  Hg9  1  0.01231740  0.27187598  0.03886058  1
+  Pb  Pb10  1  0.51113056  0.01600592  0.20467049  1
+  Pb  Pb11  1  0.01238108  0.76151579  0.70440930  1

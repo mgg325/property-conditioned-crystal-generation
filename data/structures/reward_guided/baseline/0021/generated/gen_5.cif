@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LaAu3HgAu
+_chemical_formula_sum              "La1 Au4 Hg1"
+_cell_length_a       5.564342301400674
+_cell_length_b       5.6219495840651
+_cell_length_c       5.612914085388184
+_cell_angle_alpha    60.5457079461716
+_cell_angle_beta     61.26031573882496
+_cell_angle_gamma    60.08862329802672
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.4207296371459961  0.25350072979927063  0.940073549747467  1.0000
+  Au  Au1       1.0  0.7972050905227662  0.6287918090820312  0.3160265386104584  1.0000
+  Au  Au2       1.0  0.29516580700874323  0.6291892528533936  0.31536167860031133  1.0000
+  Au  Au3       1.0  0.7958738207817078  0.1267603486776352  0.3164230287075043  1.0000
+  Hg  Hg1       1.0  0.1708514243364334  0.0033180417958647013  0.6914021372795105  1.0000
+  Au  Au4       1.0  0.7960661053657532  0.6282525062561035  0.8153528571128845  1.0000

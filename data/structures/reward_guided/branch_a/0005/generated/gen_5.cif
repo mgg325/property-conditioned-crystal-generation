@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Pt2O2
+_chemical_formula_sum              "Pt2 O2"
+_cell_length_a       3.1664953263741635
+_cell_length_b       3.136058195066962
+_cell_length_c       6.333993911743164
+_cell_angle_alpha    76.50821381698195
+_cell_angle_beta     75.58544763726213
+_cell_angle_gamma    59.46029988671101
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.5525491237640381  0.09487116336822511  0.5860369801521301  1.0000
+  Pt  Pt2       1.0  0.05144321918487551  0.5973512530326843  0.08720088005065918  1.0000
+  O   O1        1.0  0.9401716589927674  0.48259609937667847  0.42113885283470154  1.0000
+  O   O2        1.0  0.16366238892078397  0.7068772912025452  0.7476327419281006  1.0000

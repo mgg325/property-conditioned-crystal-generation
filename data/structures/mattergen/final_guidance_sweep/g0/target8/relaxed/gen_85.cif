@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       BrTeClPd
+_chemical_formula_sum              "Br1 Te1 Cl1 Pd1"
+_cell_length_a       3.769532697059126
+_cell_length_b       4.457969636639115
+_cell_length_c       8.188463217339319
+_cell_angle_alpha    94.90339907697089
+_cell_angle_beta     90.14921519350183
+_cell_angle_gamma    115.03303068811564
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.9734433505313994  0.9045046288112554  0.46242384195900305  1.0000
+  Te  Te1       1.0  0.6817980157322369  0.3255516037790254  0.12152815211417853  1.0000
+  Cl  Cl1       1.0  0.8030769211568555  0.5698141944682754  0.8661587072901736  1.0000
+  Pd  Pd1       1.0  0.34404057259273  0.6478354679353924  0.27806833474296244  1.0000

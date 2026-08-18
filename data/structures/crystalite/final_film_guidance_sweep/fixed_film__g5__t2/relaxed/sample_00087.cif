@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KBaCa2UPF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13476946
+_cell_length_b   6.21110148
+_cell_length_c   8.07365698
+_cell_angle_alpha   66.42621659
+_cell_angle_beta   66.30238973
+_cell_angle_gamma   61.15011516
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBaCa2UPF6
+_chemical_formula_sum   'K1 Ba1 Ca2 U1 P1 F6'
+_cell_volume   199.58656622
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.06543044  0.40666173  0.33913324  1
+  Ba  Ba1  1  -0.00726037  0.21990555  0.62894358  1
+  Ca  Ca2  1  1.00172982  0.29220809  0.98299163  1
+  Ca  Ca3  1  0.01541021  0.21974357  0.58972961  1
+  U  U4  1  0.94944502  0.65202788  0.43982984  1
+  P  P5  1  0.57235728  0.04900163  0.49674007  1
+  F  F6  1  0.56529591  0.31025927  0.86720458  1
+  F  F7  1  0.97829603  0.32885329  0.77798013  1
+  F  F8  1  0.03099780  0.24941148  0.61955616  1
+  F  F9  1  0.04415244  0.67050491  0.89445668  1
+  F  F10  1  0.94605195  0.68214072  0.43469207  1
+  F  F11  1  0.91883003  0.70452387  0.46936702  1

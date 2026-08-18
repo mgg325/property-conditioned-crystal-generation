@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Hg2CdHgBiHgCdHg
+_chemical_formula_sum              "Hg5 Cd2 Bi1"
+_cell_length_a       3.140106408008717
+_cell_length_b       8.581214956846923
+_cell_length_c       8.400233268737793
+_cell_angle_alpha    87.2280863232708
+_cell_angle_beta     79.37477605413022
+_cell_angle_gamma    79.07292935873997
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.7694228887557983  0.0018852851353585718  0.9437903761863707  1.0000
+  Hg  Hg2       1.0  0.04963991418480874  0.9812477827072144  0.3959258198738098  1.0000
+  Cd  Cd1       1.0  0.2966877222061157  0.4818304479122162  0.41242703795433044  1.0000
+  Hg  Hg3       1.0  0.030935907736420624  0.2682264447212219  0.15053312480449677  1.0000
+  Bi  Bi1       1.0  0.7834422588348389  0.2548263967037201  0.6582183241844177  1.0000
+  Hg  Hg4       1.0  0.03202887624502175  0.7337664365768434  0.6782766580581665  1.0000
+  Cd  Cd2       1.0  0.5166463851928711  0.5151244401931763  0.9257620573043823  1.0000
+  Hg  Hg5       1.0  0.7861638069152832  0.7203879356384277  0.18587148189544678  1.0000

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Na3ZrSc3Se8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.83397442
+_cell_length_b   7.84159269
+_cell_length_c   8.31268930
+_cell_angle_alpha   61.75952195
+_cell_angle_beta   61.95800392
+_cell_angle_gamma   60.03687720
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3ZrSc3Se8
+_chemical_formula_sum   'Na3 Zr1 Sc3 Se8'
+_cell_volume   371.00876986
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.72392965  0.40152023  0.24997262  1
+  Na  Na1  1  0.22376691  0.40351859  0.25174461  1
+  Na  Na2  1  0.72425291  0.90200745  0.25196421  1
+  Zr  Zr3  1  0.22414630  0.40146467  0.75229650  1
+  Sc  Sc4  1  0.22409755  0.90250605  0.75108329  1
+  Sc  Sc5  1  0.72378377  0.40177837  0.75087395  1
+  Sc  Sc6  1  0.72444241  0.90125397  0.75153987  1
+  Se  Se7  1  0.96251826  0.14118439  0.53470542  1
+  Se  Se8  1  0.96585247  0.64142698  0.53241503  1
+  Se  Se9  1  0.46083035  0.64195162  0.53172908  1
+  Se  Se10  1  0.98412703  0.66043359  0.97415468  1
+  Se  Se11  1  0.98695834  0.16200700  0.97059566  1
+  Se  Se12  1  0.48211764  0.16200281  0.97125721  1
+  Se  Se13  1  0.48600755  0.66262802  0.96738280  1
+  Se  Se14  1  0.46421598  0.14456267  0.52874110  1

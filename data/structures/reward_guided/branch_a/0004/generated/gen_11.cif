@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AgPb5
+_chemical_formula_sum              "Ag1 Pb5"
+_cell_length_a       3.6235081919365357
+_cell_length_b       6.68399649211043
+_cell_length_c       8.05919075012207
+_cell_angle_alpha    106.10701495165455
+_cell_angle_beta     88.70331838709753
+_cell_angle_gamma    103.51236263572817
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.0992446318268776  0.919122040271759  0.7472911477088928  1.0000
+  Pb  Pb1       1.0  0.4526654779911042  0.6263445019721985  0.8970934152603149  1.0000
+  Pb  Pb2       1.0  0.7614675164222717  0.24716633558273315  0.05207446217536926  1.0000
+  Pb  Pb3       1.0  0.09764830023050317  0.9203141927719117  0.25043755769729614  1.0000
+  Pb  Pb4       1.0  0.43595042824745184  0.5938031077384949  0.4426453113555908  1.0000
+  Pb  Pb5       1.0  0.7460732460021973  0.21390865743160248  0.6013716459274292  1.0000

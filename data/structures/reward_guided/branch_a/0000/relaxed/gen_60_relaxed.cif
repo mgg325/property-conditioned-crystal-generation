@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiHo2Ag9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63302033
+_cell_length_b   5.63233050
+_cell_length_c   9.80517305
+_cell_angle_alpha   73.27992101
+_cell_angle_beta   73.29569973
+_cell_angle_gamma   59.99498697
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiHo2Ag9
+_chemical_formula_sum   'Li1 Ho2 Ag9'
+_cell_volume   254.11299968
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.32803113  0.97194418  0.75231609  1
+  Ho  Ho1  1  0.18869679  0.83132624  0.17336803  1
+  Ho  Ho2  1  0.46972980  0.11203509  0.33084003  1
+  Ag  Ag3  1  0.74154767  0.38402871  0.00783792  1
+  Ag  Ag4  1  0.82953773  0.47158281  0.25220064  1
+  Ag  Ag5  1  0.74142404  0.89152049  0.00752152  1
+  Ag  Ag6  1  0.99551270  0.63816303  0.75264172  1
+  Ag  Ag7  1  0.91760383  0.55856354  0.49637710  1
+  Ag  Ag8  1  0.91615394  0.05222919  0.49662895  1
+  Ag  Ag9  1  0.40990140  0.55936030  0.49649242  1
+  Ag  Ag10  1  0.66290661  0.30577720  0.75195684  1
+  Ag  Ag11  1  0.24841462  0.38492305  0.00748470  1

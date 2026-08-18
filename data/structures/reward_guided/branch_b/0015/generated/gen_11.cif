@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LaHgLaCl
+_chemical_formula_sum              "La2 Hg1 Cl1"
+_cell_length_a       4.3627058579806235
+_cell_length_b       4.383163076921756
+_cell_length_c       6.237427711486816
+_cell_angle_alpha    91.35811037781814
+_cell_angle_beta     91.47030302967373
+_cell_angle_gamma    89.89166888252592
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.9981540441513062  0.18627184629440308  0.2719573676586151  1.0000
+  Hg  Hg1       1.0  0.5004017353057861  0.6844668984413148  0.27325496077537537  1.0000
+  La  La2       1.0  0.49835318326950073  0.6818261742591859  0.774247407913208  1.0000
+  Cl  Cl1       1.0  0.9958558082580566  0.1825731992721558  0.7755503058433533  1.0000

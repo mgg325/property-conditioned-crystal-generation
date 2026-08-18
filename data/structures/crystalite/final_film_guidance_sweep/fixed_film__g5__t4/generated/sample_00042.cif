@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CsLi2BeCuSe(ClO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.63513970
+_cell_length_b   2.69232202
+_cell_length_c   8.91875839
+_cell_angle_alpha   90.49814606
+_cell_angle_beta   90.40204620
+_cell_angle_gamma   90.65190125
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsLi2BeCuSe(ClO4)2
+_chemical_formula_sum   'Cs1 Li2 Be1 Cu1 Se1 Cl2 O8'
+_cell_volume   63.26733227
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.70689559  0.93937409  0.82690132  1
+  O  O1  1  0.36929184  0.36665952  0.52242035  1
+  O  O2  1  0.13892773  0.43609977  0.86262870  1
+  O  O3  1  0.35188371  0.33822900  0.92628032  1
+  Li  Li4  1  0.05654252  0.55248666  0.58214784  1
+  Cs  Cs5  1  0.79482913  0.28438538  0.00229019  1
+  O  O6  1  0.19684806  0.86375916  0.91688097  1
+  O  O7  1  0.39701802  0.30331945  0.94724482  1
+  Be  Be8  1  0.36639890  0.74242079  0.07268888  1
+  Cu  Cu9  1  0.57972455  0.02299929  0.11273915  1
+  Li  Li10  1  0.83561742  0.43179891  0.65614527  1
+  Cl  Cl11  1  0.91619849  0.69367611  0.92191458  1
+  O  O12  1  0.04154629  0.03643629  0.32005540  1
+  Cl  Cl13  1  0.22883353  0.26438087  0.32176721  1
+  O  O14  1  0.19019780  0.39616045  0.95777273  1
+  Se  Se15  1  0.33117014  0.21892276  0.94394851  1

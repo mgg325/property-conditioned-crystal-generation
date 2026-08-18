@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Lu2PbSO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.57188220
+_cell_length_b   4.80914780
+_cell_length_c   6.77739942
+_cell_angle_alpha   107.34058543
+_cell_angle_beta   108.93171018
+_cell_angle_gamma   91.68192531
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2PbSO7
+_chemical_formula_sum   'Lu2 Pb1 S1 O7'
+_cell_volume   133.22906461
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.06491531  0.12082048  0.65328508  1
+  Lu  Lu1  1  0.86467118  0.45831789  0.17606566  1
+  Pb  Pb2  1  0.62313353  0.72547588  0.73369220  1
+  S  S3  1  0.29047741  0.14287218  1.08909354  1
+  O  O4  1  0.81948403  0.70170298  0.45758745  1
+  O  O5  1  0.33463317  0.49887073  0.37264301  1
+  O  O6  1  0.54831102  0.35457002  0.86002494  1
+  O  O7  1  0.11692843  0.67300079  0.83902551  1
+  O  O8  1  0.17000191  0.32507808  0.46213870  1
+  O  O9  1  0.96661319  0.99880525  1.09079691  1
+  O  O10  1  0.54582668  0.32092874  0.85366731  1

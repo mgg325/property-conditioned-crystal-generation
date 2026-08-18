@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cs2OCsOBa2
+_chemical_formula_sum              "Cs3 O2 Ba2"
+_cell_length_a       4.814343177669366
+_cell_length_b       4.814087646086842
+_cell_length_c       20.372052869616358
+_cell_angle_alpha    96.52629137977054
+_cell_angle_beta     96.51037603475419
+_cell_angle_gamma    90.00002446195731
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.32818597656865645  0.6121228342890852  0.6853156087894807  1.0000
+  Cs  Cs2       1.0  0.09291210061457478  0.3775041413142494  0.22561204434680762  1.0000
+  O   O1        1.0  0.9595398613256076  0.7435932028625599  0.9549027048279498  1.0000
+  Cs  Cs3       1.0  0.7103083739182022  0.9948537339533772  0.4546204208008398  1.0000
+  O   O2        1.0  0.4596517767644088  0.24348382038171681  0.9548653150117946  1.0000
+  Ba  Ba1       1.0  0.9359099384835966  0.21988308610267754  0.9053153841859239  1.0000
+  Ba  Ba2       1.0  0.4831768058934278  0.7671236284139208  0.004476284490900408  1.0000

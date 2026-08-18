@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CsBaCa2BeSiCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.80382704
+_cell_length_b   7.22341126
+_cell_length_c   9.05742435
+_cell_angle_alpha   61.27565875
+_cell_angle_beta   64.30358991
+_cell_angle_gamma   55.84256969
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsBaCa2BeSiCl8
+_chemical_formula_sum   'Cs1 Ba1 Ca2 Be1 Si1 Cl8'
+_cell_volume   360.94592026
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.04146488  0.41176495  0.87160527  1
+  Ba  Ba1  1  0.49056884  0.96783965  0.36456087  1
+  Ca  Ca2  1  0.89494324  0.11194042  0.49642575  1
+  Ca  Ca3  1  0.17727192  0.73942808  0.16914391  1
+  Be  Be4  1  0.87661841  0.11299711  0.51414607  1
+  Si  Si5  1  0.59127859  0.13044342  0.77161252  1
+  Cl  Cl6  1  0.78961546  0.16417648  0.19567095  1
+  Cl  Cl7  1  0.14905155  0.76727471  0.43725080  1
+  Cl  Cl8  1  1.14019297  0.36801298  0.44139816  1
+  Cl  Cl9  1  0.34319886  0.38385061  1.06075131  1
+  Cl  Cl10  1  0.58980101  0.45976675  0.43570490  1
+  Cl  Cl11  1  0.52581966  0.80386064  1.05588862  1
+  Cl  Cl12  1  0.72981129  0.39000208  0.74508857  1
+  Cl  Cl13  1  1.04120675  0.84588554  0.90830052  1

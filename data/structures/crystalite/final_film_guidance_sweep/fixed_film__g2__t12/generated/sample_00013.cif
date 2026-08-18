@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K2UCdSiB2As(CN)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66879177
+_cell_length_b   6.17873812
+_cell_length_c   6.17580843
+_cell_angle_alpha   118.75910187
+_cell_angle_beta   119.14286041
+_cell_angle_gamma   90.57496643
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2UCdSiB2As(CN)2
+_chemical_formula_sum   'K2 U1 Cd1 Si1 B2 As1 C2 N2'
+_cell_volume   156.96606867
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.58430344  0.39092335  0.39787367  1
+  K  K1  1  0.81447053  0.99656349  0.02404848  1
+  N  N2  1  0.58311397  0.59450543  0.31778735  1
+  As  As3  1  0.82137752  0.25307935  0.43453920  1
+  C  C4  1  0.70865273  0.39415938  0.05566281  1
+  K  K5  1  0.13896984  0.91802561  0.70060098  1
+  B  B6  1  0.47796792  0.81752139  0.46536028  1
+  B  B7  1  0.81806886  0.53790498  0.22976553  1
+  C  C8  1  0.58577150  0.05586571  0.50720084  1
+  Cd  Cd9  1  0.17578191  0.95685548  0.37209845  1
+  N  N10  1  0.60335815  0.57998556  0.66125870  1
+  U  U11  1  0.24000230  0.52011430  0.92285472  1

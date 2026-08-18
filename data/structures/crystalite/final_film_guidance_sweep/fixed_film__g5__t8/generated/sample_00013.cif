@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KCaGa2AsSe7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.46000767
+_cell_length_b   6.55510330
+_cell_length_c   7.56289053
+_cell_angle_alpha   116.12584686
+_cell_angle_beta   117.18362427
+_cell_angle_gamma   91.99961853
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCaGa2AsSe7
+_chemical_formula_sum   'K1 Ca1 Ga2 As1 Se7'
+_cell_volume   244.34985808
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.16085035  0.08477807  0.15134865  1
+  Se  Se1  1  0.08772936  0.85526848  0.26836473  1
+  Ga  Ga2  1  0.60293865  0.47646332  0.46459597  1
+  As  As3  1  0.11184931  0.50465345  0.12889472  1
+  Se  Se4  1  0.51295513  0.94946110  0.08429801  1
+  K  K5  1  0.61419970  0.35179582  0.49915728  1
+  Ga  Ga6  1  0.65109485  0.18541950  0.60126799  1
+  Se  Se7  1  0.15767270  0.72757411  0.20750806  1
+  Se  Se8  1  0.27064854  0.59695882  0.03292134  1
+  Se  Se9  1  0.74808401  0.74056631  0.02218935  1
+  Se  Se10  1  0.51447046  0.42776185  0.69766492  1
+  Ca  Ca11  1  0.99720597  0.91265404  0.47735271  1

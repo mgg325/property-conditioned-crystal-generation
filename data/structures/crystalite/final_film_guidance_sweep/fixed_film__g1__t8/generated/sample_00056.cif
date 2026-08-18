@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_ScHgSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.24212217
+_cell_length_b   4.23182964
+_cell_length_c   6.77633429
+_cell_angle_alpha   89.97872925
+_cell_angle_beta   90.19826508
+_cell_angle_gamma   61.06385422
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScHgSe2
+_chemical_formula_sum   'Sc1 Hg1 Se2'
+_cell_volume   106.46076431
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.14876610  0.82224131  0.04154649  1
+  Hg  Hg1  1  0.50851363  0.15032539  0.59621269  1
+  Se  Se2  1  0.83112323  0.49197474  0.81394053  1
+  Se  Se3  1  0.50004387  0.14695761  0.22501257  1

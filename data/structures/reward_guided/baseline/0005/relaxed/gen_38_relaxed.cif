@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CdGaSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.64892483
+_cell_length_b   4.93496668
+_cell_length_c   6.73417282
+_cell_angle_alpha   90.30933462
+_cell_angle_beta   95.52148202
+_cell_angle_gamma   89.97341110
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdGaSn
+_chemical_formula_sum   'Cd2 Ga2 Sn2'
+_cell_volume   153.77826060
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.66608183  0.40515960  0.79850564  1
+  Cd  Cd1  1  0.16848346  0.90465860  0.29907668  1
+  Ga  Ga2  1  0.14130226  0.40604442  0.53851350  1
+  Ga  Ga3  1  0.64098187  0.90624609  0.03814710  1
+  Sn  Sn4  1  0.62160844  0.40763308  0.27827802  1
+  Sn  Sn5  1  0.11759060  0.90710027  0.77798091  1

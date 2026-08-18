@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_InSi2Sn2RuO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95285995
+_cell_length_b   5.34530636
+_cell_length_c   8.21657357
+_cell_angle_alpha   90.34031250
+_cell_angle_beta   91.04055560
+_cell_angle_gamma   93.16913510
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InSi2Sn2RuO12
+_chemical_formula_sum   'In1 Si2 Sn2 Ru1 O12'
+_cell_volume   217.15637759
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  -0.02459210  0.62869974  0.07436301  1
+  Si  Si1  1  0.46641798  0.20457356  0.10175146  1
+  Si  Si2  1  0.07510128  0.57709939  0.72619995  1
+  Sn  Sn3  1  0.63165686  0.20105955  0.73242681  1
+  Sn  Sn4  1  0.01671735  0.10673019  0.36815893  1
+  Ru  Ru5  1  0.54610077  0.67005240  0.46634097  1
+  O  O6  1  0.26599807  0.86976574  0.51275597  1
+  O  O7  1  0.35246929  0.38696342  0.39608972  1
+  O  O8  1  0.77844777  0.77807349  0.28668091  1
+  O  O9  1  0.50381278  0.04526558  0.93165399  1
+  O  O10  1  0.98988845  0.81068551  0.83665533  1
+  O  O11  1  0.25055453  0.99673487  0.18519715  1
+  O  O12  1  0.75792553  0.99254348  0.55179760  1
+  O  O13  1  0.87488197  0.48415148  0.56210768  1
+  O  O14  1  0.40174066  0.52107380  0.69777575  1
+  O  O15  1  0.35318513  0.47871386  0.07571730  1
+  O  O16  1  0.77213641  0.27403124  0.19154001  1
+  O  O17  1  0.96736901  0.34166694  0.84743345  1

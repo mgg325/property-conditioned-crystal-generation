@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TiFOFMnO
+_chemical_formula_sum              "Ti1 F2 O2 Mn1"
+_cell_length_a       3.122746679671904
+_cell_length_b       4.92845881294803
+_cell_length_c       4.843554496765137
+_cell_angle_alpha    88.06868462705516
+_cell_angle_beta     89.97888355907904
+_cell_angle_gamma    89.93409800895024
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.48047885298728943  0.2800752520561218  0.525619626045227  1.0000
+  F   F1        1.0  0.48222896456718445  0.9406242966651918  0.8061609268188477  1.0000
+  O   O1        1.0  0.48101741075515747  0.5133399963378906  0.2377365082502365  1.0000
+  F   F2        1.0  0.9821126461029053  0.04177158325910568  0.337271124124527  1.0000
+  Mn  Mn1       1.0  0.981937050819397  0.7111543416976929  0.0247393250465393  1.0000
+  O   O2        1.0  0.9810709357261658  0.4065637588500977  0.7029682397842407  1.0000

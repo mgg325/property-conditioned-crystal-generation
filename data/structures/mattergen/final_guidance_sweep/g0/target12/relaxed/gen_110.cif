@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       InCrCl2
+_chemical_formula_sum              "In1 Cr1 Cl2"
+_cell_length_a       3.425436552311181
+_cell_length_b       5.7109450332978895
+_cell_length_c       6.281082503466514
+_cell_angle_alpha    116.89857629450741
+_cell_angle_beta     105.77571431868043
+_cell_angle_gamma    90.00125985295601
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.5751639615016816  0.20212754004285158  0.9252017755393794  1.0000
+  Cr  Cr1       1.0  0.5755253809935144  0.7025309836537488  0.9265431654131245  1.0000
+  Cl  Cl1       1.0  0.23037976293687876  0.8566059588564037  0.2372349604360418  1.0000
+  Cl  Cl2       1.0  0.9206331993722688  0.5482760103732124  0.6158486712027046  1.0000

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Cs(Zn3Au2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31402515
+_cell_length_b   7.19532721
+_cell_length_c   8.20776401
+_cell_angle_alpha   113.68478955
+_cell_angle_beta   89.99917409
+_cell_angle_gamma   90.00421077
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs(Zn3Au2)2
+_chemical_formula_sum   'Cs1 Zn6 Au4'
+_cell_volume   233.31579760
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.85579809  0.22171623  0.46804147  1
+  Zn  Zn1  1  0.85580272  0.78136200  0.58711722  1
+  Zn  Zn2  1  0.85579249  0.53105843  0.18195727  1
+  Zn  Zn3  1  0.85581099  0.68298386  0.92473994  1
+  Zn  Zn4  1  0.35578114  0.44397566  0.91509818  1
+  Zn  Zn5  1  0.35587654  0.87480645  0.11188077  1
+  Zn  Zn6  1  0.85570555  0.08887847  0.94596632  1
+  Au  Au7  1  0.35577192  0.26208289  0.13346296  1
+  Au  Au8  1  0.35580896  0.66018691  0.72839672  1
+  Au  Au9  1  0.35583354  0.71163183  0.37183140  1
+  Au  Au10  1  0.35572472  0.05033553  0.73313252  1

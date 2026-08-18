@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SrSi3Pd
+_chemical_formula_sum              "Sr1 Si3 Pd1"
+_cell_length_a       4.277297196221125
+_cell_length_b       4.2629551876274965
+_cell_length_c       5.9108147621154785
+_cell_angle_alpha    110.34923817717873
+_cell_angle_beta     110.22107788814589
+_cell_angle_gamma    90.27222642893594
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.47633880376815796  0.4821807444095611  0.39383795857429504  1.0000
+  Si  Si1       1.0  0.23302833735942838  0.7395015358924865  0.906766951084137  1.0000
+  Si  Si2       1.0  0.732724130153656  0.23930150270462033  0.9068875312805176  1.0000
+  Si  Si3       1.0  0.8723022937774658  0.8791816234588622  0.18589365482330322  1.0000
+  Pd  Pd1       1.0  0.11682293564081192  0.12082540243864058  0.6742022037506104  1.0000

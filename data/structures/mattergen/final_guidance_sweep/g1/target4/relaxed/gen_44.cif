@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BaHfBaHfAsOAs
+_chemical_formula_sum              "Ba2 Hf2 As2 O1"
+_cell_length_a       4.3845081432507955
+_cell_length_b       4.384151968046455
+_cell_length_c       10.598862477521303
+_cell_angle_alpha    101.92866259312545
+_cell_angle_beta     101.91714036940407
+_cell_angle_gamma    90.00223119049299
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.5274978759006802  0.06304791594530874  0.8780442675891066  1.0000
+  Hf  Hf1       1.0  0.1813065014789693  0.2169133561924959  0.18610511795613563  1.0000
+  Ba  Ba2       1.0  0.8350739661254672  0.37091331493755025  0.4941676194920963  1.0000
+  Hf  Hf2       1.0  0.6813406218479252  0.7169834858821462  0.18610485958921888  1.0000
+  As  As1       1.0  0.27011803134473555  0.805921094848789  0.3639623765855025  1.0000
+  O   O1        1.0  0.6812085551247967  0.21694005921907925  0.18598678205242444  1.0000
+  As  As2       1.0  0.09247243587414992  0.6280695609749272  0.00822603716629048  1.0000

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_BaGd2AgO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93368884
+_cell_length_b   5.89795541
+_cell_length_c   7.05540273
+_cell_angle_alpha   114.66840623
+_cell_angle_beta   106.19835140
+_cell_angle_gamma   90.00507820
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaGd2AgO5
+_chemical_formula_sum   'Ba1 Gd2 Ag1 O5'
+_cell_volume   141.56755680
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.49772211  0.00313610  0.35675454  1
+  Gd  Gd1  1  0.70225545  0.70776016  0.76544519  1
+  Gd  Gd2  1  0.29420097  0.29911077  0.94818453  1
+  Ag  Ag3  1  0.99827768  0.50292168  0.35688114  1
+  O  O4  1  0.84181293  0.09767917  0.04320976  1
+  O  O5  1  0.49805183  0.50292465  0.35642576  1
+  O  O6  1  0.15487480  0.41196323  0.67050977  1
+  O  O7  1  0.84178042  0.59506878  0.04332810  1
+  O  O8  1  0.15483929  0.90900539  0.67023806  1

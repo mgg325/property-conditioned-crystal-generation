@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ZnAg2SbS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.41005924
+_cell_length_b   6.77083135
+_cell_length_c   8.83923444
+_cell_angle_alpha   89.99848463
+_cell_angle_beta   90.00497040
+_cell_angle_gamma   90.05150970
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnAg2SbS4
+_chemical_formula_sum   'Zn2 Ag4 Sb2 S8'
+_cell_volume   383.63525889
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.43901507  0.17074461  0.07044610  1
+  Zn  Zn1  1  0.93972541  0.84079795  0.57058150  1
+  Ag  Ag2  1  0.93977881  0.31915270  0.32215131  1
+  Ag  Ag3  1  0.43964431  0.69210180  0.31888037  1
+  Ag  Ag4  1  0.43983093  0.69197064  0.82152890  1
+  Ag  Ag5  1  0.93996774  0.31931548  0.81898534  1
+  Sb  Sb6  1  0.96210073  0.80559193  0.07060569  1
+  Sb  Sb7  1  0.46331437  0.20599068  0.57046795  1
+  S  S8  1  0.56713157  0.85229479  0.57032737  1
+  S  S9  1  0.54564450  0.32621412  0.29254724  1
+  S  S10  1  0.06650623  0.15933496  0.07054353  1
+  S  S11  1  0.57292573  0.84443907  0.07030393  1
+  S  S12  1  0.04548254  0.68539949  0.34844764  1
+  S  S13  1  0.04536702  0.68555650  0.79289304  1
+  S  S14  1  0.07417033  0.16718782  0.57059532  1
+  S  S15  1  0.54565475  0.32629453  0.84834528  1

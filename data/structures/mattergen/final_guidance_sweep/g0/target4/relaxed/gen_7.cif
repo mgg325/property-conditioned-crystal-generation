@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ClAgGa2ClAgCl
+_chemical_formula_sum              "Cl3 Ag2 Ga2"
+_cell_length_a       4.306014693198551
+_cell_length_b       4.30900510876246
+_cell_length_c       12.606062739112323
+_cell_angle_alpha    80.20002765191923
+_cell_angle_beta     80.20273876643991
+_cell_angle_gamma    60.03517942091467
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.6321832396469558  0.28294531668489653  0.593534630655011  1.0000
+  Ag  Ag1       1.0  0.5660466255636111  0.21657575094763493  0.7899051491195492  1.0000
+  Ga  Ga1       1.0  0.45814969748975004  0.1071956265644432  0.11789174645708647  1.0000
+  Ga  Ga2       1.0  0.14039532559337028  0.7890482606909851  0.0704598140421396  1.0000
+  Cl  Cl2       1.0  0.3916734379537213  0.04189100772871515  0.31566718306282415  1.0000
+  Ag  Ag2       1.0  0.6967222623162024  0.3482130419554801  0.3970303223897861  1.0000
+  Cl  Cl3       1.0  0.2064129328526878  0.8558644768344685  0.8732432678611828  1.0000

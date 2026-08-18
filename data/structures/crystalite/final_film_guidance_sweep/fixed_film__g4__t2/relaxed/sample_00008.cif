@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KSrSiNF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.82949397
+_cell_length_b   9.84191057
+_cell_length_c   14.83286511
+_cell_angle_alpha   91.44461707
+_cell_angle_beta   93.29880990
+_cell_angle_gamma   89.14212051
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSrSiNF8
+_chemical_formula_sum   'K1 Sr1 Si1 N1 F8'
+_cell_volume   557.88889154
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.15716915  0.54007487  -0.10586100  1
+  Sr  Sr1  1  0.65557394  0.72731494  0.53860346  1
+  Si  Si2  1  0.55561726  0.07746371  0.54244658  1
+  N  N3  1  0.82038861  0.50671598  0.56534690  1
+  F  F4  1  0.55205213  0.50482432  0.49405118  1
+  F  F5  1  0.49565096  0.30476535  0.80696135  1
+  F  F6  1  1.05211382  0.41310757  0.41315616  1
+  F  F7  1  0.40045320  0.98318011  0.62132494  1
+  F  F8  1  0.33666868  0.07735639  0.44900143  1
+  F  F9  1  0.86445189  0.96996953  0.51722264  1
+  F  F10  1  0.63817739  0.22635776  0.57619768  1
+  F  F11  1  0.56023897  0.66418814  0.79065228  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LiCdIn2SbS9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.52866316
+_cell_length_b   7.63161373
+_cell_length_c   7.51768017
+_cell_angle_alpha   60.49964905
+_cell_angle_beta   60.18709183
+_cell_angle_gamma   60.54638672
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCdIn2SbS9
+_chemical_formula_sum   'Li1 Cd1 In2 Sb1 S9'
+_cell_volume   308.25577445
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.19051141  0.60127902  0.60404289  1
+  In  In1  1  0.43809903  0.36137170  0.85237861  1
+  S  S2  1  0.68696511  0.60130793  0.62158531  1
+  S  S3  1  0.20074859  0.13588512  0.58293349  1
+  In  In4  1  0.93374789  0.35768098  0.34732196  1
+  S  S5  1  0.67388415  0.73805976  0.37226403  1
+  S  S6  1  0.17655119  0.59474576  0.09005597  1
+  Li  Li7  1  0.42598924  0.85646117  0.84294480  1
+  Cd  Cd8  1  0.93631881  0.87579477  0.35048670  1
+  S  S9  1  0.68190479  0.10970050  0.60431105  1
+  S  S10  1  0.19128945  0.11067012  0.11368662  1
+  Sb  Sb11  1  0.43297231  0.36687285  0.34546316  1
+  S  S12  1  0.67717564  0.11771518  0.10807723  1
+  S  S13  1  0.65104336  0.60083139  0.10025555  1

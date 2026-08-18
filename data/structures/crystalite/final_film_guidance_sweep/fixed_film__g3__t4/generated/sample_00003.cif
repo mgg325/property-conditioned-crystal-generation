@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_NO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.41967487
+_cell_length_b   4.66122150
+_cell_length_c   7.41692591
+_cell_angle_alpha   72.74263000
+_cell_angle_beta   73.05136871
+_cell_angle_gamma   63.19695663
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NO7
+_chemical_formula_sum   'N1 O7'
+_cell_volume   99.03186856
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.16324681  0.38241649  0.82457089  1
+  O  O1  1  0.15943947  0.27125198  0.29235047  1
+  O  O2  1  0.40431213  0.69759172  0.41263503  1
+  N  N3  1  0.79233432  0.30533707  0.40425479  1
+  O  O4  1  0.58675289  0.94840866  0.74053448  1
+  O  O5  1  0.81472874  0.01857409  0.90455741  1
+  O  O6  1  0.19908899  0.69161010  0.39390066  1
+  O  O7  1  0.27480301  0.48702586  0.93050659  1

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Cd2InGaGeSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66043901
+_cell_length_b   6.02459526
+_cell_length_c   6.06510830
+_cell_angle_alpha   90.30492401
+_cell_angle_beta   90.15364075
+_cell_angle_gamma   90.03144836
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd2InGaGeSe2
+_chemical_formula_sum   'Cd2 In1 Ga1 Ge1 Se2'
+_cell_volume   206.82773264
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.28136224  0.97217786  0.30495441  1
+  Cd  Cd1  1  0.54116935  0.73685211  0.98800045  1
+  Ge  Ge2  1  0.76827669  0.46809468  0.24793723  1
+  In  In3  1  0.53822929  0.22231153  0.52334988  1
+  Ga  Ga4  1  0.02948177  0.71869802  0.50855082  1
+  Se  Se5  1  0.25329500  0.49481049  0.76560581  1
+  Cd  Cd6  1  0.03382546  0.19983649  0.00968820  1

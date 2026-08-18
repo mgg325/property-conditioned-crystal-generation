@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Y2Co(GeH)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03488003
+_cell_length_b   5.56360214
+_cell_length_c   5.65646788
+_cell_angle_alpha   59.65962263
+_cell_angle_beta   69.10454130
+_cell_angle_gamma   68.73924809
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2Co(GeH)2
+_chemical_formula_sum   'Y2 Co1 Ge2 H2'
+_cell_volume   99.72501908
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.88189222  0.80290294  0.56198421  1
+  Y  Y1  1  0.29995389  0.40732022  0.12144791  1
+  Co  Co2  1  0.09088270  0.10517617  0.84176273  1
+  Ge  Ge3  1  0.58237853  0.84327009  0.12063701  1
+  Ge  Ge4  1  0.59947146  0.36694626  0.56281878  1
+  H  H5  1  0.91597799  0.34821984  0.94858000  1
+  H  H6  1  0.26580277  0.86211414  0.73493311  1

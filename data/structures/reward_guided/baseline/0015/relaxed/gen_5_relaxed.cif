@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_ZnHg8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.44143052
+_cell_length_b   8.85270523
+_cell_length_c   8.85863787
+_cell_angle_alpha   87.81960456
+_cell_angle_beta   78.77971546
+_cell_angle_gamma   78.73227703
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnHg8
+_chemical_formula_sum   'Zn1 Hg8'
+_cell_volume   259.62579254
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.42023198  0.13622368  0.66958308  1
+  Hg  Hg1  1  0.77751632  0.42498640  0.66916091  1
+  Hg  Hg2  1  0.77601208  0.13556532  0.95758640  1
+  Hg  Hg3  1  0.08844971  0.46754605  1.00201927  1
+  Hg  Hg4  1  0.42134471  0.46778668  0.33657862  1
+  Hg  Hg5  1  0.42011211  0.80285796  0.00157889  1
+  Hg  Hg6  1  0.06375775  0.84711379  0.66903609  1
+  Hg  Hg7  1  0.06467365  0.13567981  0.38135961  1
+  Hg  Hg8  1  0.75327086  0.80318378  0.33657603  1

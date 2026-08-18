@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Fe2CaPCaPN
+_chemical_formula_sum              "Fe2 Ca2 P2 N1"
+_cell_length_a       3.691898507856282
+_cell_length_b       5.567029641610753
+_cell_length_c       5.883090496063232
+_cell_angle_alpha    70.44709693189479
+_cell_angle_beta     72.4316631323989
+_cell_angle_gamma    70.60101435810405
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.792352259159088  0.9041160941123962  0.12694886326789856  1.0000
+  Fe  Fe2       1.0  0.4162882864475251  0.5105797052383423  0.2698357105255127  1.0000
+  Ca  Ca1       1.0  0.04285404086112976  0.02068564668297768  0.50467848777771  1.0000
+  P   P1        1.0  0.4190127551555633  0.8391797542572021  0.9316622018814087  1.0000
+  Ca  Ca2       1.0  0.16260066628456116  0.3909954130649567  0.8937439322471619  1.0000
+  P   P2        1.0  0.7892435789108276  0.5730178952217102  0.46692484617233276  1.0000
+  N   N1        1.0  0.6046546697616577  0.2091592997312546  0.19959665834903711  1.0000

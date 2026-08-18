@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_U2Tc8Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.48250899
+_cell_length_b   7.87355227
+_cell_length_c   6.05740435
+_cell_angle_alpha   85.61380523
+_cell_angle_beta   95.69661904
+_cell_angle_gamma   93.01294132
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2Tc8Br
+_chemical_formula_sum   'U2 Tc8 Br1'
+_cell_volume   400.96927844
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.43542599  0.24043527  0.73672763  1
+  U  U1  1  0.79585184  0.84370939  0.67205398  1
+  Tc  Tc2  1  0.86763904  0.82849766  0.21805495  1
+  Tc  Tc3  1  0.00849476  0.92569980  0.93620390  1
+  Tc  Tc4  1  0.75827089  0.21102099  0.64156843  1
+  Tc  Tc5  1  0.25293299  0.27718540  0.20354517  1
+  Tc  Tc6  1  0.44725423  1.07078702  0.47482093  1
+  Tc  Tc7  1  0.56480776  0.36313833  0.36485766  1
+  Tc  Tc8  1  0.69638151  0.02277779  -0.04327060  1
+  Tc  Tc9  1  0.41501911  0.42185034  0.02242140  1
+  Br  Br10  1  0.90539834  0.48755593  0.71111222  1

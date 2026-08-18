@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_InSiHg9Ge2BiSb2SeBr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.92823686
+_cell_length_b   8.42356617
+_cell_length_c   11.12285055
+_cell_angle_alpha   89.72033423
+_cell_angle_beta   90.36775412
+_cell_angle_gamma   116.63136999
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InSiHg9Ge2BiSb2SeBr3
+_chemical_formula_sum   'In1 Si1 Hg9 Ge2 Bi1 Sb2 Se1 Br3'
+_cell_volume   664.00593073
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.50127987  0.76016644  0.37117753  1
+  Si  Si1  1  0.28843005  0.95283432  0.33536610  1
+  Hg  Hg2  1  0.41840925  0.44161499  0.53837568  1
+  Hg  Hg3  1  0.47061405  0.46279755  0.90352236  1
+  Hg  Hg4  1  0.39766392  0.93362546  0.82345009  1
+  Hg  Hg5  1  0.85022252  0.87949240  0.02363280  1
+  Hg  Hg6  1  0.92870151  0.94405388  0.38422617  1
+  Hg  Hg7  1  0.28572831  0.45696676  0.21287893  1
+  Hg  Hg8  1  0.85023861  0.86996685  0.68013490  1
+  Hg  Hg9  1  0.89078665  0.42257686  0.45146484  1
+  Hg  Hg10  1  0.79716019  0.39425610  0.02138302  1
+  Ge  Ge11  1  0.82587572  0.65464209  0.85600420  1
+  Ge  Ge12  1  0.66086016  0.57208466  0.18814369  1
+  Bi  Bi13  1  0.62791633  0.23318121  0.26364995  1
+  Sb  Sb14  1  0.03641119  0.20452663  0.57081416  1
+  Sb  Sb15  1  0.14288198  0.09253424  0.17532372  1
+  Se  Se16  1  0.18976420  0.75539631  0.50233917  1
+  Br  Br17  1  0.32865255  0.79917008  1.04297771  1
+  Br  Br18  1  0.53473371  0.16975027  0.65010833  1
+  Br  Br19  1  0.04574233  0.29801710  0.81929561  1

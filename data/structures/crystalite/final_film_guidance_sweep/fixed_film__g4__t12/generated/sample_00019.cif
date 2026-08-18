@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_U3Ga2Tc4N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   1.16870570
+_cell_length_b   18.34035873
+_cell_length_c   5.39866304
+_cell_angle_alpha   129.73178101
+_cell_angle_beta   60.42983627
+_cell_angle_gamma   83.71037292
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U3Ga2Tc4N
+_chemical_formula_sum   'U3 Ga2 Tc4 N1'
+_cell_volume   59.76922334
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.16358310  0.42408264  0.27691424  1
+  Tc  Tc1  1  0.23240986  0.93486178  0.26635325  1
+  N  N2  1  0.67031378  0.37285349  0.53573030  1
+  Ga  Ga3  1  0.66777873  0.45924512  0.17220125  1
+  U  U4  1  0.69243848  0.13202170  0.12434363  1
+  Tc  Tc5  1  0.71514219  0.05626908  0.67055130  1
+  U  U6  1  0.19117028  0.32813147  0.81605703  1
+  U  U7  1  0.73292112  0.64202410  0.92667824  1
+  Tc  Tc8  1  0.17007703  0.83498621  0.81242973  1
+  Tc  Tc9  1  0.72221887  0.76559019  0.42226556  1

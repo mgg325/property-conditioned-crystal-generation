@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Rb3GaTc6SeXe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   1.73251212
+_cell_length_b   4.84633398
+_cell_length_c   5.39435911
+_cell_angle_alpha   125.24508667
+_cell_angle_beta   89.87541962
+_cell_angle_gamma   107.51605225
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb3GaTc6SeXe
+_chemical_formula_sum   'Rb3 Ga1 Tc6 Se1 Xe1'
+_cell_volume   34.40914328
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tc  Tc0  1  0.19218081  0.59997857  0.39873773  1
+  Tc  Tc1  1  0.14797086  0.67633319  0.92495012  1
+  Rb  Rb2  1  0.92178851  0.14282131  0.98454314  1
+  Xe  Xe3  1  0.76645476  0.58215833  0.15854192  1
+  Ga  Ga4  1  0.70848835  0.08436206  0.29771066  1
+  Tc  Tc5  1  0.83523482  0.72940582  0.72166902  1
+  Tc  Tc6  1  0.71786594  0.87126303  0.20039886  1
+  Tc  Tc7  1  0.53501934  0.53985053  0.66450149  1
+  Rb  Rb8  1  0.22271106  0.04577127  0.42718375  1
+  Se  Se9  1  0.95167756  0.16701499  0.61627978  1
+  Tc  Tc10  1  0.38264346  0.21446609  0.12941045  1
+  Rb  Rb11  1  0.46509448  0.15066233  0.82826227  1

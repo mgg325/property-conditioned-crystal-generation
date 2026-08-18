@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Dy6Bi3Te2Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.37578656
+_cell_length_b   8.78282677
+_cell_length_c   9.80615317
+_cell_angle_alpha   103.47358317
+_cell_angle_beta   102.89159574
+_cell_angle_gamma   90.00030891
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy6Bi3Te2Se
+_chemical_formula_sum   'Dy6 Bi3 Te2 Se1'
+_cell_volume   356.71993481
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.05911598  -0.00706467  0.20378889  1
+  Dy  Dy1  1  0.39034167  0.64801544  0.86650174  1
+  Dy  Dy2  1  0.05479873  0.47299464  0.19536033  1
+  Dy  Dy3  1  0.39640842  0.15280942  0.87865062  1
+  Dy  Dy4  1  0.71750791  0.31292042  0.52036770  1
+  Dy  Dy5  1  0.72368694  0.81768741  0.53274575  1
+  Bi  Bi6  1  0.22632966  0.06939199  0.53805967  1
+  Bi  Bi7  1  0.88753827  0.39635136  0.86092377  1
+  Bi  Bi8  1  0.55697556  0.73295201  0.19961119  1
+  Te  Te9  1  0.22182848  0.56420768  0.52911117  1
+  Te  Te10  1  0.89211783  0.90149071  0.87002964  1
+  Se  Se11  1  0.55692019  0.23295835  0.19950145  1

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HgNd2As
+_chemical_formula_sum              "Hg1 Nd2 As1"
+_cell_length_a       4.200067491209824
+_cell_length_b       4.269028308233305
+_cell_length_c       7.981201648712158
+_cell_angle_alpha    74.97593622892062
+_cell_angle_beta     74.2147176177715
+_cell_angle_gamma    59.103807534566194
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.6985294222831726  0.12157610058784485  0.3339422941207885  1.0000
+  Nd  Nd1       1.0  0.4568723142147065  0.8817214965820311  0.05217679589986803  1.0000
+  Nd  Nd2       1.0  0.9371291399002076  0.3611342310905456  0.61372971534729  1.0000
+  As  As1       1.0  0.1971169710159302  0.6205648183822631  0.8319619894027709  1.0000

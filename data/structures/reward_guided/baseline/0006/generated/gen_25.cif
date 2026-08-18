@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ZnIrZnRh
+_chemical_formula_sum              "Zn2 Ir1 Rh1"
+_cell_length_a       3.0629239476363073
+_cell_length_b       4.296082063207613
+_cell_length_c       4.2941999435424805
+_cell_angle_alpha    89.80516452648588
+_cell_angle_beta     89.69994545438905
+_cell_angle_gamma    89.80571778843351
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.7916944026947021  0.26363301277160645  0.8267145156860352  1.0000
+  Ir  Ir1       1.0  0.29146215319633484  0.7635175585746765  0.8265864849090576  1.0000
+  Zn  Zn2       1.0  0.791224479675293  0.7635589838027954  0.32649660110473633  1.0000
+  Rh  Rh1       1.0  0.29112517833709717  0.263273149728775  0.32642802596092224  1.0000

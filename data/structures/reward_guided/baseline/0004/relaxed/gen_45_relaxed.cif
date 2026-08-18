@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CeSm2InN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.89403371
+_cell_length_b   4.97896177
+_cell_length_c   4.97893408
+_cell_angle_alpha   89.99883680
+_cell_angle_beta   89.99351447
+_cell_angle_gamma   89.99614067
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeSm2InN
+_chemical_formula_sum   'Ce1 Sm2 In1 N1'
+_cell_volume   121.32271522
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.81972225  0.70482249  0.71607141  1
+  Sm  Sm1  1  0.31978760  0.70510982  0.21599137  1
+  Sm  Sm2  1  0.31977045  0.20539545  0.71586782  1
+  In  In3  1  0.81964231  0.20481637  0.21581644  1
+  N  N4  1  0.31925900  0.70488944  0.71582140  1

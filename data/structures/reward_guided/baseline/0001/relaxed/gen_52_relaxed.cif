@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ho8Al2Fe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33880923
+_cell_length_b   6.79629823
+_cell_length_c   8.91944036
+_cell_angle_alpha   110.38160526
+_cell_angle_beta   107.40967494
+_cell_angle_gamma   90.00487239
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho8Al2Fe
+_chemical_formula_sum   'Ho8 Al2 Fe1'
+_cell_volume   287.50082151
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.63982655  0.01140852  0.68910886  1
+  Ho  Ho1  1  0.05206979  0.16667294  0.51323774  1
+  Ho  Ho2  1  0.24801716  0.53437457  0.90527915  1
+  Ho  Ho3  1  0.80628429  0.86062665  0.02170654  1
+  Ho  Ho4  1  0.45409255  0.54283655  0.31774071  1
+  Ho  Ho5  1  0.83578362  0.37925003  0.08108860  1
+  Ho  Ho6  1  0.08160695  0.68521880  0.57270242  1
+  Ho  Ho7  1  0.43374601  0.00258568  0.27661201  1
+  Al  Al8  1  0.62855049  0.46320984  0.66621181  1
+  Al  Al9  1  0.25931025  0.08244147  0.92811231  1
+  Fe  Fe10  1  0.94387860  0.77296869  0.29721427  1

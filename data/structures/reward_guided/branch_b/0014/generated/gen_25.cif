@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       DyCoDyIr3
+_chemical_formula_sum              "Dy2 Co1 Ir3"
+_cell_length_a       5.193926074498909
+_cell_length_b       5.201663801921475
+_cell_length_c       5.176158428192139
+_cell_angle_alpha    61.48954081889421
+_cell_angle_beta     60.70200909587741
+_cell_angle_gamma    60.68196796098522
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.39791145920753473  0.575870156288147  0.32384443283081055  1.0000
+  Co  Co1       1.0  0.025926949456334118  0.20089751482009888  0.9475865364074707  1.0000
+  Dy  Dy2       1.0  0.6499919295310973  0.8253247141838074  0.5755766034126282  1.0000
+  Ir  Ir1       1.0  0.023317527025938038  0.19997675716876984  0.4508804678916931  1.0000
+  Ir  Ir2       1.0  0.5247607231140137  0.20128276944160461  0.9510804414749146  1.0000
+  Ir  Ir3       1.0  0.02350633405148984  0.699553370475769  0.9507126808166504  1.0000

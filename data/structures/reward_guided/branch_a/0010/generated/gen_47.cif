@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Zr4AsZrAsFe
+_chemical_formula_sum              "Zr5 As2 Fe1"
+_cell_length_a       4.268925687314852
+_cell_length_b       6.8689154224914635
+_cell_length_c       5.7759222984313965
+_cell_angle_alpha    112.8879447247239
+_cell_angle_beta     88.5328231069619
+_cell_angle_gamma    89.6955195555622
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.44103631377220154  0.07345952093601225  0.7934116721153259  1.0000
+  Zr  Zr2       1.0  0.4411083459854126  0.5746520757675171  0.7948598861694336  1.0000
+  Zr  Zr3       1.0  0.4423298239707947  0.07633562386035919  0.29333096742630005  1.0000
+  Zr  Zr4       1.0  0.940052330493927  0.802182912826538  0.41017201542854304  1.0000
+  As  As1       1.0  0.9413816332817078  0.2664361000061035  0.6387524604797363  1.0000
+  Zr  Zr5       1.0  0.9416201114654541  0.3493511378765106  0.18033427000045776  1.0000
+  As  As2       1.0  0.941540539264679  0.8837497234344481  0.9505760669708253  1.0000
+  Fe  Fe1       1.0  0.4407254159450531  0.5760636925697327  0.2954428195953369  1.0000

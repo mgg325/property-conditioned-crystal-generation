@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Ca2EuAl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96024163
+_cell_length_b   4.96369563
+_cell_length_c   5.12030205
+_cell_angle_alpha   90.01054176
+_cell_angle_beta   89.99531129
+_cell_angle_gamma   90.01974289
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2EuAl
+_chemical_formula_sum   'Ca2 Eu1 Al1'
+_cell_volume   126.06761081
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.12119636  0.99016013  0.42368919  1
+  Ca  Ca1  1  0.62125474  0.49040283  0.42353327  1
+  Eu  Eu2  1  0.12056090  0.49037016  0.92445893  1
+  Al  Al3  1  0.62052337  0.99030962  0.92320827  1

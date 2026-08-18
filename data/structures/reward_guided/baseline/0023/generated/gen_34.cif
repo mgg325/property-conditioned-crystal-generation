@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LaCuHfCu
+_chemical_formula_sum              "La1 Cu2 Hf1"
+_cell_length_a       3.389071260241434
+_cell_length_b       3.390136508943273
+_cell_length_c       7.087237358093262
+_cell_angle_alpha    87.67523153614586
+_cell_angle_beta     89.39856335072663
+_cell_angle_gamma    90.21445676501502
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.033728666603565216  0.6773861050605774  0.6301960945129395  1.0000
+  Cu  Cu1       1.0  0.5326944589614868  0.17701610922813416  0.9372278451919556  1.0000
+  Hf  Hf1       1.0  0.03429931402206421  0.6783356666564941  0.13092918694019318  1.0000
+  Cu  Cu2       1.0  0.5335950255393982  0.17874833941459656  0.3238339424133301  1.0000

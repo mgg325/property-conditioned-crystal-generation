@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiHoTbIr
+_chemical_formula_sum              "Li1 Ho1 Tb1 Ir1"
+_cell_length_a       4.917905236615912
+_cell_length_b       4.917510529930995
+_cell_length_c       4.917063236236572
+_cell_angle_alpha    60.01371188850528
+_cell_angle_beta     60.01476830543161
+_cell_angle_gamma    59.97154737514002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.22297842800617218  0.8078722953796386  0.7992483973503114  1.0000
+  Ho  Ho1       1.0  0.47306740283966064  0.05802872031927108  0.04919232428073888  1.0000
+  Tb  Tb1       1.0  0.9729073643684387  0.5578662157058715  0.5491330027580262  1.0000
+  Ir  Ir1       1.0  0.7229639887809753  0.3080052435398101  0.29918625950813293  1.0000

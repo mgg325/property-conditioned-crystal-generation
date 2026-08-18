@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Li2ZnIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22975929
+_cell_length_b   4.23300239
+_cell_length_c   4.24689121
+_cell_angle_alpha   119.88478556
+_cell_angle_beta   119.86277738
+_cell_angle_gamma   90.00183799
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2ZnIr
+_chemical_formula_sum   'Li2 Zn1 Ir1'
+_cell_volume   53.97120667
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.28308629  0.98176736  0.89361198  1
+  Li  Li1  1  0.03381618  0.23249857  0.39508833  1
+  Zn  Zn2  1  0.78374526  0.48243966  0.89495022  1
+  Ir  Ir3  1  0.53347773  0.73220184  0.39443444  1

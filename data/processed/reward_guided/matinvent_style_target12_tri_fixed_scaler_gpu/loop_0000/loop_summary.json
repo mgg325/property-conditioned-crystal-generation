@@ -1,0 +1,88 @@
+{
+  "iteration": 0,
+  "current_policy_dir": "provenance://mattergen/outputs/dielectric_rl/direct_rl_target2_online/bootstrap/initial_policy_fixed_scaler",
+  "generated_dir": "provenance://mattergen/outputs/dielectric_rl/direct_rl_target12_online/matinvent_style_target12_tri_fixed_scaler_gpu/loop_0000/generated",
+  "n_generated": 64,
+  "n_prefiltered_eval": 16,
+  "n_topk": 8,
+  "n_replay_sampled": 0,
+  "n_finetune_records": 8,
+  "diversity_tol_hits": 0,
+  "diversity_buff_hits": 0,
+  "reward_summary": {
+    "n_samples": 16,
+    "mean_predicted_dielectric_scalar": 9.856862057865719,
+    "mean_abs_error": 5.811928709909118,
+    "mean_reward_final": 0.18355239618362862,
+    "within_1.0": 1,
+    "within_2.0": 2,
+    "reward_gt_0p1": 8,
+    "reward_gt_0p5": 2
+  },
+  "training_result": {
+    "trainable_parameters": [
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.0.0.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.0.0.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.0.2.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.0.2.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.1.0.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.1.0.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.1.2.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.1.2.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.2.0.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.2.0.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.2.2.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.2.2.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.3.0.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.3.0.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.3.2.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.3.2.bias"
+    ],
+    "history": [
+      {
+        "loss_total": 0.635721852266579,
+        "loss_diffusion": 0.6357218665219844,
+        "loss_reference_kl": -7.433441051862833e-10,
+        "loss_diffusion_raw": 1.7139009593576193,
+        "loss_kl_raw": -1.0364510857341359e-09,
+        "loss_pos": 3.589380188289204,
+        "loss_cell": 1.2130868981145322,
+        "loss_atomic_numbers": 0.1418760376388218,
+        "epoch": 0
+      },
+      {
+        "loss_total": 0.6365660753683187,
+        "loss_diffusion": 0.6365660901516675,
+        "loss_reference_kl": -5.943264870592046e-10,
+        "loss_diffusion_raw": 1.7172069755047559,
+        "loss_kl_raw": -9.940219194010113e-10,
+        "loss_pos": 3.5473012231233008,
+        "loss_cell": 1.220611811520881,
+        "loss_atomic_numbers": 0.14186503760561392,
+        "epoch": 1
+      },
+      {
+        "loss_total": 0.6364432490139734,
+        "loss_diffusion": 0.6364432636313141,
+        "loss_reference_kl": -6.60734615035019e-10,
+        "loss_diffusion_raw": 1.7173071072399617,
+        "loss_kl_raw": -8.39229449794976e-10,
+        "loss_pos": 3.5719039890489657,
+        "loss_cell": 1.2177792403430794,
+        "loss_atomic_numbers": 0.14233745841468773,
+        "epoch": 2
+      }
+    ],
+    "topk_stats": {
+      "topk_count": 8.0,
+      "topk_reward_min": 0.10608126223087311,
+      "topk_reward_mean": 0.36542364954948425,
+      "topk_reward_max": 0.8957633972167969,
+      "topk_dielectric_min": 7.763444900512695,
+      "topk_dielectric_mean": 11.51382064819336,
+      "topk_dielectric_max": 16.171710968017578,
+      "topk_within_target_1": 0.125
+    }
+  },
+  "next_policy_dir": "provenance://mattergen/outputs/dielectric_rl/direct_rl_target12_online/matinvent_style_target12_tri_fixed_scaler_gpu/loop_0000/policy_for_generation"
+}

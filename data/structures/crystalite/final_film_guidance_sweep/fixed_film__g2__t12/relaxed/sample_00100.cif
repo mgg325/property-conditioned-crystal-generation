@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_TlGaCoAgSbTeAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.69704172
+_cell_length_b   6.36322652
+_cell_length_c   6.24996810
+_cell_angle_alpha   115.36481004
+_cell_angle_beta   118.56822581
+_cell_angle_gamma   92.82987793
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlGaCoAgSbTeAs
+_chemical_formula_sum   'Tl1 Ga1 Co1 Ag1 Sb1 Te1 As1'
+_cell_volume   170.32748187
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.49894116  0.03109126  0.77063671  1
+  Ga  Ga1  1  0.19929212  0.42390196  0.08525437  1
+  Co  Co2  1  0.86556330  0.94928472  0.17904202  1
+  Ag  Ag3  1  0.38972730  0.03681160  0.19948672  1
+  Sb  Sb4  1  0.73189683  0.74961868  0.38037161  1
+  Te  Te5  1  0.14471827  0.36898855  0.47217941  1
+  As  As6  1  0.92059255  0.65333673  0.85182704  1

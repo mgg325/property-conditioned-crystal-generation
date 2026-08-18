@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       BaAlCuOAlO2TeO
+_chemical_formula_sum              "Ba1 Al2 Cu1 O4 Te1"
+_cell_length_a       5.402786541071078
+_cell_length_b       5.28141363046018
+_cell_length_c       7.067003756691592
+_cell_angle_alpha    111.96112168428661
+_cell_angle_beta     89.37507143066034
+_cell_angle_gamma    89.9579163573107
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.7830845384190179  0.3143585898967915  0.9232020759153726  1.0000
+  Al  Al1       1.0  0.28770879684536493  0.6916641757409429  0.6783025455698362  1.0000
+  Cu  Cu1       1.0  0.7886401501483005  0.6468702596591968  0.5884844844943743  1.0000
+  O   O1        1.0  0.059507849204557144  0.915027125223794  0.6278678213800015  1.0000
+  Al  Al2       1.0  0.28853304713095923  0.13361331842331983  0.5621128504616196  1.0000
+  O   O2        1.0  0.059547912076270366  0.4181084108793002  0.6290151838524373  1.0000
+  O   O3        1.0  0.5163941201119336  0.9156975682585092  0.6277807847390929  1.0000
+  Te  Te1       1.0  0.2904144722770908  0.9018261432075522  0.10433738098099898  1.0000
+  O   O4        1.0  0.5165482222472859  0.41660669371781206  0.6254369973553795  1.0000

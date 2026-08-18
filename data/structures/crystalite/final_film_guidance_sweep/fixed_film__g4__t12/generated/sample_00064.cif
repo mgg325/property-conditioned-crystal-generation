@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_TlTc5Xe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.78705311
+_cell_length_b   4.06790972
+_cell_length_c   8.62778091
+_cell_angle_alpha   89.50591278
+_cell_angle_beta   90.63307953
+_cell_angle_gamma   121.67557526
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlTc5Xe
+_chemical_formula_sum   'Tl1 Tc5 Xe1'
+_cell_volume   113.10722604
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.31865141  0.05563337  0.84878492  1
+  Tc  Tc1  1  0.98402143  0.31331748  0.96938872  1
+  Tc  Tc2  1  0.61348903  0.67692119  0.12400255  1
+  Tc  Tc3  1  0.21859446  0.95312482  0.45033181  1
+  Xe  Xe4  1  0.90749663  0.30895448  0.25177228  1
+  Tc  Tc5  1  0.69812965  0.51656622  0.74973547  1
+  Tc  Tc6  1  0.55700934  0.66754055  0.51972550  1

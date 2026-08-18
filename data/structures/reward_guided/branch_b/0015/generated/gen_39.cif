@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CeSn2CeRhSn2RhCe
+_chemical_formula_sum              "Ce3 Sn4 Rh2"
+_cell_length_a       4.654325613527245
+_cell_length_b       6.087542616063003
+_cell_length_c       8.692623138427734
+_cell_angle_alpha    106.94514048355363
+_cell_angle_beta     90.11676459367766
+_cell_angle_gamma    111.6829876375212
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.940947651863098  0.2803674638271332  0.33953428268432617  1.0000
+  Sn  Sn1       1.0  0.8569610714912415  0.12015818059444429  0.9536335468292236  1.0000
+  Sn  Sn2       1.0  0.2354302406311035  0.8702583909034729  0.2632533311843872  1.0000
+  Ce  Ce2       1.0  0.3065033257007599  0.012096276506781578  0.6559032797813416  1.0000
+  Rh  Rh1       1.0  0.2419608682394028  0.8907979726791383  0.9592138528823853  1.0000
+  Sn  Sn3       1.0  0.646114706993103  0.6923272609710693  0.4182306230068207  1.0000
+  Sn  Sn4       1.0  0.018996724858880033  0.44306254386901855  0.7289814949035645  1.0000
+  Rh  Rh2       1.0  0.6354351043701172  0.6705093383789062  0.7237367033958435  1.0000
+  Ce  Ce3       1.0  0.5729780793190002  0.5505160093307495  0.02316562831401825  1.0000

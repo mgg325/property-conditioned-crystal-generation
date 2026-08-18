@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_MnZn2Si3(PSe6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.40888078
+_cell_length_b   6.89904727
+_cell_length_c   15.22471719
+_cell_angle_alpha   89.07717482
+_cell_angle_beta   90.85705837
+_cell_angle_gamma   116.40570187
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZn2Si3(PSe6)2
+_chemical_formula_sum   'Mn1 Zn2 Si3 P2 Se12'
+_cell_volume   602.82961481
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.55521530  0.68175502  0.65578207  1
+  Zn  Zn1  1  0.01450181  0.47565213  0.61593361  1
+  Zn  Zn2  1  0.52127508  0.45865909  0.16121814  1
+  Si  Si3  1  0.16871574  0.27622594  1.00042219  1
+  Si  Si4  1  0.42854524  0.05156656  0.61309461  1
+  Si  Si5  1  0.13024841  0.17693757  0.22722430  1
+  P  P6  1  0.94784235  0.59981085  0.23791496  1
+  P  P7  1  0.29068881  0.21286515  0.77005352  1
+  Se  Se8  1  0.18192802  0.48407770  0.75840512  1
+  Se  Se9  1  0.89739576  0.10037309  0.10597187  1
+  Se  Se10  1  0.58540066  0.43518135  0.00289655  1
+  Se  Se11  1  1.05965110  0.99123260  0.65720913  1
+  Se  Se12  1  0.35114374  0.65175219  -0.00109013  1
+  Se  Se13  1  0.27161525  0.53071820  0.27949004  1
+  Se  Se14  1  1.02055873  0.89773314  0.32586646  1
+  Se  Se15  1  0.62997242  0.39935284  0.55788363  1
+  Se  Se16  1  0.60696376  0.01642983  0.73758436  1
+  Se  Se17  1  0.12577045  0.02866537  0.89658436  1
+  Se  Se18  1  0.64388421  0.31262893  0.29283758  1
+  Se  Se19  1  0.33407866  0.75680045  0.52454664  1

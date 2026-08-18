@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_SnBiSbSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13888923
+_cell_length_b   6.17852564
+_cell_length_c   5.56884472
+_cell_angle_alpha   103.75922345
+_cell_angle_beta   79.74392721
+_cell_angle_gamma   140.28282186
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnBiSbSe
+_chemical_formula_sum   'Sn1 Bi1 Sb1 Se1'
+_cell_volume   131.09348603
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.72386773  0.10096374  0.99758426  1
+  Bi  Bi1  1  0.43756781  0.34086666  0.56309597  1
+  Sb  Sb2  1  0.09498822  0.66703540  0.70804427  1
+  Se  Se3  1  0.39031275  0.50543100  0.15129909  1

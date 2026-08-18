@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tb3Sm2ErS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93650049
+_cell_length_b   7.90293622
+_cell_length_c   8.81903150
+_cell_angle_alpha   102.93600714
+_cell_angle_beta   102.90515638
+_cell_angle_gamma   89.99978666
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Sm2ErS6
+_chemical_formula_sum   'Tb3 Sm2 Er1 S6'
+_cell_volume   260.28096348
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.63458210  0.95296639  0.98568381  1
+  Tb  Tb1  1  0.30274656  0.28706710  0.32288019  1
+  Tb  Tb2  1  0.97203352  0.62090413  0.66039548  1
+  Sm  Sm3  1  0.96958798  0.12082584  0.65737301  1
+  Sm  Sm4  1  0.63612652  0.45254296  0.98838679  1
+  Er  Er5  1  0.30225659  0.78684849  0.32287441  1
+  S  S6  1  0.80041644  0.03108146  0.31852218  1
+  S  S7  1  0.13903455  0.19941606  0.99403825  1
+  S  S8  1  0.13923105  0.70998660  0.99453183  1
+  S  S9  1  0.46747586  0.37424223  0.65165383  1
+  S  S10  1  0.80464530  0.54299620  0.32740601  1
+  S  S11  1  0.46714691  0.86368853  0.65143125  1

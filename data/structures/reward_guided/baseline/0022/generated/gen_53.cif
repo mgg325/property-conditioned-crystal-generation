@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li2NdAg2Pb2
+_chemical_formula_sum              "Li2 Nd1 Ag2 Pb2"
+_cell_length_a       4.704218856467079
+_cell_length_b       4.740379724971949
+_cell_length_c       8.496320724487305
+_cell_angle_alpha    105.93095513246271
+_cell_angle_beta     90.90916215016
+_cell_angle_gamma    121.7445137042072
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.0630855411291123  0.5636733174324037  0.34020325541496277  1.0000
+  Li  Li2       1.0  0.9408559799194336  0.3175041973590851  0.9737740755081177  1.0000
+  Nd  Nd1       1.0  0.5026297569274902  0.44053626060485845  0.6572202444076538  1.0000
+  Ag  Ag1       1.0  0.3649158477783203  0.16741570830345154  0.24545027315616608  1.0000
+  Ag  Ag2       1.0  0.6372597813606263  0.7135680317878724  0.06743551790714265  1.0000
+  Pb  Pb1       1.0  0.7598064541816711  0.9577402472496034  0.4318678379058838  1.0000
+  Pb  Pb2       1.0  0.24346777796745303  0.9228636622428895  0.8835606575012207  1.0000

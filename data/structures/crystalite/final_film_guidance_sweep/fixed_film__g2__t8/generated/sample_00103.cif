@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_MgZrNi2SnAs(SeO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73743343
+_cell_length_b   5.52855492
+_cell_length_c   7.82128000
+_cell_angle_alpha   100.21626282
+_cell_angle_beta   90.15457916
+_cell_angle_gamma   90.87891388
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgZrNi2SnAs(SeO6)2
+_chemical_formula_sum   'Mg1 Zr1 Ni2 Sn1 As1 Se2 O12'
+_cell_volume   201.57381865
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.83146507  0.75365210  0.69497263  1
+  O  O1  1  0.40186918  0.14448276  0.25682184  1
+  O  O2  1  0.24680185  0.70625615  0.13822204  1
+  Ni  Ni3  1  0.57162845  0.72842830  0.17620358  1
+  Se  Se4  1  0.55319345  0.23210478  0.97432661  1
+  Mg  Mg5  1  0.09482589  0.13473204  0.21903932  1
+  O  O6  1  0.29918075  0.92386711  0.55197215  1
+  O  O7  1  0.28816539  0.41247141  0.87619865  1
+  Zr  Zr8  1  0.57241184  0.66883522  0.70964259  1
+  O  O9  1  0.79206312  0.76197022  0.34348255  1
+  Ni  Ni10  1  0.04947361  0.19967672  0.68468350  1
+  O  O11  1  0.77362955  0.58174169  0.95187968  1
+  O  O12  1  0.33815894  0.87218666  0.89458132  1
+  O  O13  1  0.36414635  0.50607759  0.53323191  1
+  O  O14  1  0.85285258  0.30940700  0.38625771  1
+  As  As15  1  0.06504071  0.70043463  0.95332086  1
+  O  O16  1  0.80953246  0.12880543  0.08458745  1
+  Sn  Sn17  1  0.08664814  0.62640429  0.40416399  1
+  O  O18  1  0.72651571  0.16662788  0.65234733  1
+  Se  Se19  1  0.60879028  0.10377643  0.48056245  1

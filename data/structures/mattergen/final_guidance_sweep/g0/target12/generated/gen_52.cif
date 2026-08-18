@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgOMg2O2
+_chemical_formula_sum              "Mg3 O3"
+_cell_length_a       3.2599433593803546
+_cell_length_b       3.258164498273488
+_cell_length_c       7.965124607086182
+_cell_angle_alpha    90.25028795083989
+_cell_angle_beta     90.13233742214541
+_cell_angle_gamma    120.27241694934177
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.20271688699722296  0.7839558720588685  0.15454570949077606  1.0000
+  O   O1        1.0  0.8698369860649108  0.11725729703903198  0.7404853701591492  1.0000
+  Mg  Mg2       1.0  0.5362094640731812  0.45081502199172974  0.8212867975234985  1.0000
+  Mg  Mg3       1.0  0.8689482212066649  0.11739392578601839  0.4883141815662384  1.0000
+  O   O2        1.0  0.2022886723279953  0.7836533188819885  0.40670910477638245  1.0000
+  O   O3        1.0  0.5355406403541565  0.45056390762329107  0.07353159040212631  1.0000

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_LaIn5Ag
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.72845945
+_cell_length_b   4.77748648
+_cell_length_c   8.17026963
+_cell_angle_alpha   90.09612725
+_cell_angle_beta   90.02832809
+_cell_angle_gamma   89.98000228
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaIn5Ag
+_chemical_formula_sum   'La1 In5 Ag1'
+_cell_volume   184.56733226
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.92656555  0.72975733  0.90952115  1
+  In  In1  1  0.42637585  0.72967201  0.19977700  1
+  In  In2  1  0.92587281  0.23064732  0.20500031  1
+  In  In3  1  0.92419918  0.23148054  0.61240535  1
+  In  In4  1  0.42668401  0.23001406  0.90652666  1
+  In  In5  1  0.42577630  0.73438374  0.61433488  1
+  Ag  Ag6  1  0.92667592  0.73346221  0.40833899  1

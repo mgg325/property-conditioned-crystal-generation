@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CeOCdCePCdPO
+_chemical_formula_sum              "Ce2 O2 Cd2 P2"
+_cell_length_a       4.045198159415686
+_cell_length_b       4.002953035687227
+_cell_length_c       8.80040168762207
+_cell_angle_alpha    90.38848315471185
+_cell_angle_beta     90.98884994026722
+_cell_angle_gamma    88.49040758724621
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.775518000125885  0.7325559854507446  0.6016387343406677  1.0000
+  O   O1        1.0  0.7746925950050354  0.23163756728172302  0.7368687391281128  1.0000
+  Cd  Cd1       1.0  0.2774359881877899  0.7331787943840027  0.23514562845230103  1.0000
+  Ce  Ce2       1.0  0.2749660611152649  0.23220285773277283  0.8680003881454468  1.0000
+  P   P1        1.0  0.7746676206588745  0.7337405681610106  0.03808678314089775  1.0000
+  Cd  Cd2       1.0  0.7775857448577881  0.23294927179813385  0.2347540408372879  1.0000
+  P   P2        1.0  0.2761373817920685  0.2318880259990692  0.4351896643638611  1.0000
+  O   O2        1.0  0.27515897154808044  0.731980800628662  0.7362958192825317  1.0000

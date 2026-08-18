@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Tb2Sm2GaSi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94518748
+_cell_length_b   4.30361398
+_cell_length_c   10.85616467
+_cell_angle_alpha   90.01255725
+_cell_angle_beta   89.97578594
+_cell_angle_gamma   90.00001255
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Sm2GaSi3
+_chemical_formula_sum   'Tb2 Sm2 Ga1 Si3'
+_cell_volume   184.32206546
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.88093927  0.27036479  0.14362643  1
+  Tb  Tb1  1  0.88016600  0.76951464  0.65061539  1
+  Sm  Sm2  1  0.38051689  0.76981317  0.92975325  1
+  Sm  Sm3  1  0.37967489  0.27058591  0.43275886  1
+  Ga  Ga4  1  0.87984212  0.77076904  0.35936858  1
+  Si  Si5  1  0.38027722  0.26957778  0.71528380  1
+  Si  Si6  1  0.88045793  0.26984343  0.86003397  1
+  Si  Si7  1  0.38070379  0.77035819  0.20972850  1

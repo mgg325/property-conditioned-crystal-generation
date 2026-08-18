@@ -1,0 +1,28 @@
+# generated using pymatgen
+data_XeCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28797340
+_cell_length_b   4.39593697
+_cell_length_c   4.79199886
+_cell_angle_alpha   90.02705383
+_cell_angle_beta   89.95284271
+_cell_angle_gamma   90.68299103
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   XeCl
+_chemical_formula_sum   'Xe1 Cl1'
+_cell_volume   90.32109530
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.49046510  0.56615573  0.65204763  1
+  Xe  Xe1  1  0.99725974  0.04763582  0.16331756  1

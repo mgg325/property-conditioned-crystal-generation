@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       N2LiTa
+_chemical_formula_sum              "N2 Li1 Ta1"
+_cell_length_a       3.0862058041404183
+_cell_length_b       3.09496243064963
+_cell_length_c       5.129937648773193
+_cell_angle_alpha    89.98762620173582
+_cell_angle_beta     127.077228098439
+_cell_angle_gamma    90.09218955984205
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.7578656673431396  0.3152112662792206  0.41241493821144104  1.0000
+  N   N2        1.0  0.756377637386322  0.8165144324302672  0.9115094542503357  1.0000
+  Li  Li1       1.0  0.25897926092147827  0.31720420718193054  0.9123541116714478  1.0000
+  Ta  Ta1       1.0  0.25712865591049194  0.8162561655044556  0.41206756234169006  1.0000

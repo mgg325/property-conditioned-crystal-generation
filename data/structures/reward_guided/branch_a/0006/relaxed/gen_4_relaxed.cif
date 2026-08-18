@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_La4Pr5Cd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.66370566
+_cell_length_b   8.93415341
+_cell_length_c   11.55533951
+_cell_angle_alpha   93.65446007
+_cell_angle_beta   90.00832418
+_cell_angle_gamma   90.01139347
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La4Pr5Cd2
+_chemical_formula_sum   'La4 Pr5 Cd2'
+_cell_volume   377.46151678
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.14110890  0.95983418  0.57966763  1
+  La  La1  1  0.14063086  0.52993745  0.25252561  1
+  La  La2  1  0.14100266  0.62924089  0.81297107  1
+  La  La3  1  0.14084367  0.05895848  0.14050793  1
+  Pr  Pr4  1  0.63977409  0.36404177  1.00210056  1
+  Pr  Pr5  1  0.64144843  0.98378137  0.86243218  1
+  Pr  Pr6  1  0.64151246  0.29478135  0.69668806  1
+  Pr  Pr7  1  0.64100519  0.22480664  0.39102550  1
+  Pr  Pr8  1  0.64105123  0.60547121  0.53090236  1
+  Cd  Cd9  1  0.64069504  0.73887813  0.06855586  1
+  Cd  Cd10  1  0.64132433  0.85058170  0.32478091  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Zn3(Cd3Ag)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.23717271
+_cell_length_b   6.75842385
+_cell_length_c   6.70255193
+_cell_angle_alpha   107.50560424
+_cell_angle_beta   104.88623246
+_cell_angle_gamma   96.35652888
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn3(Cd3Ag)2
+_chemical_formula_sum   'Zn3 Cd6 Ag2'
+_cell_volume   214.06001665
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.98203873  0.06345564  0.14541157  1
+  Zn  Zn1  1  0.50519442  0.98368806  0.30124558  1
+  Zn  Zn2  1  0.05689309  0.89498680  0.50029860  1
+  Cd  Cd3  1  0.69394433  0.63425343  0.05054922  1
+  Cd  Cd4  1  0.24088825  0.53495980  0.22316049  1
+  Cd  Cd5  1  0.59646532  0.80830260  0.67883699  1
+  Cd  Cd6  1  0.32662280  0.32954557  0.59206955  1
+  Cd  Cd7  1  0.87854932  0.24844539  0.78139889  1
+  Cd  Cd8  1  0.78992453  0.42886071  0.40603693  1
+  Ag  Ag9  1  0.14208462  0.72133647  0.85893893  1
+  Ag  Ag10  1  0.42338228  0.15707986  0.96610667  1

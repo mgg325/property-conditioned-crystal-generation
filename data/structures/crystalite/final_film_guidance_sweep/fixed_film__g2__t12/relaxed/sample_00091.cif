@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_NaPrSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13851955
+_cell_length_b   5.08290441
+_cell_length_c   3.87533803
+_cell_angle_alpha   89.43435754
+_cell_angle_beta   89.85667630
+_cell_angle_gamma   120.04997775
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaPrSn
+_chemical_formula_sum   'Na1 Pr1 Sn1'
+_cell_volume   87.60603240
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.49992568  0.81546031  0.79051901  1
+  Pr  Pr1  1  0.83288508  0.48301557  0.22675583  1
+  Sn  Sn2  1  0.16499060  0.14846759  0.66986182  1

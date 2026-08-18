@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CsBrO2F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27630601
+_cell_length_b   4.56177586
+_cell_length_c   4.75697117
+_cell_angle_alpha   91.56714778
+_cell_angle_beta   88.59626742
+_cell_angle_gamma   92.52673340
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsBrO2F
+_chemical_formula_sum   'Cs1 Br1 O2 F1'
+_cell_volume   114.31188030
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  -0.07606234  0.27292684  0.23955074  1
+  Br  Br1  1  0.40570796  0.79420791  0.70524394  1
+  O  O2  1  0.43616615  0.81194757  0.35287463  1
+  O  O3  1  1.09003180  0.77835849  0.76800299  1
+  F  F4  1  0.57066559  0.34870973  0.78670932  1

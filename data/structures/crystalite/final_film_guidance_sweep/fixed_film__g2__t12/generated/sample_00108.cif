@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfUBeGaBi2PdSe2N2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13702393
+_cell_length_b   6.32778406
+_cell_length_c   7.10667849
+_cell_angle_alpha   113.08627319
+_cell_angle_beta   113.56908417
+_cell_angle_gamma   90.99687195
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfUBeGaBi2PdSe2N2O
+_chemical_formula_sum   'Hf1 U1 Be1 Ga1 Bi2 Pd1 Se2 N2 O1'
+_cell_volume   190.57972313
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  N  N0  1  0.35693738  0.91102546  0.33290607  1
+  Ga  Ga1  1  0.34481806  0.69109803  0.44875115  1
+  Se  Se2  1  0.17874372  0.89176667  0.66695112  1
+  U  U3  1  0.85672075  0.17279428  0.45376876  1
+  Hf  Hf4  1  0.42407954  0.51056457  0.86998439  1
+  Be  Be5  1  0.04265204  0.63922954  0.07950652  1
+  Bi  Bi6  1  0.09398332  0.26510853  0.85607970  1
+  Se  Se7  1  0.33859622  0.90477759  0.28457242  1
+  Pd  Pd8  1  0.64523774  0.45972157  0.33407903  1
+  N  N9  1  0.71227103  0.64939153  0.57081676  1
+  Bi  Bi10  1  0.77167904  0.99151897  0.93203187  1
+  O  O11  1  0.95413566  0.59835005  0.28167990  1

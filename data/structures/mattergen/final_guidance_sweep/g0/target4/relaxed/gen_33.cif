@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OBaHBaHClOCl
+_chemical_formula_sum              "O2 Ba2 H2 Cl2"
+_cell_length_a       4.041075118817645
+_cell_length_b       6.2899723875956965
+_cell_length_c       6.415395534771016
+_cell_angle_alpha    90.00662082466938
+_cell_angle_beta     108.34991863625459
+_cell_angle_gamma    90.00329779975881
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.8710158032367957  0.40780796956051985  0.05374829469381349  1.0000
+  Ba  Ba1       1.0  0.28838893731120135  0.1400614868532169  0.8884672057991103  1.0000
+  H   H1        1.0  0.8129045532676825  0.5147857531556793  0.9367001317003564  1.0000
+  Ba  Ba2       1.0  0.4844508264648541  0.6396870236845423  0.2803924209367076  1.0000
+  H   H2        1.0  0.9610896036280756  0.011769928858113456  0.23350693314643525  1.0000
+  Cl  Cl1       1.0  0.18984221687416933  0.6505594083110552  0.6921764925301389  1.0000
+  O   O2        1.0  0.90143675853758  0.9070132817096987  0.11435481802127215  1.0000
+  Cl  Cl2       1.0  0.5820495242647282  0.15063669814046055  0.4758553127449871  1.0000

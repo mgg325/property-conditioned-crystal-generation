@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ca4ErGaPt4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.36249468
+_cell_length_b   7.23861125
+_cell_length_c   7.23610112
+_cell_angle_alpha   89.98517504
+_cell_angle_beta   90.00281801
+_cell_angle_gamma   90.00627718
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca4ErGaPt4
+_chemical_formula_sum   'Ca4 Er1 Ga1 Pt4'
+_cell_volume   228.50450812
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.12322031  0.42833913  0.29726130  1
+  Ca  Ca1  1  0.12304144  0.79117301  0.99067695  1
+  Ca  Ca2  1  0.12251099  0.26282506  0.82523659  1
+  Ca  Ca3  1  0.12359002  0.95714410  0.46261590  1
+  Er  Er4  1  0.62270621  0.60964583  0.64416938  1
+  Ga  Ga5  1  0.62279818  0.10951236  0.14399902  1
+  Pt  Pt6  1  0.62258787  0.75209135  0.27241479  1
+  Pt  Pt7  1  0.62234967  0.98134008  0.78689128  1
+  Pt  Pt8  1  0.62312123  0.46713072  0.01547857  1
+  Pt  Pt9  1  0.62298980  0.23871311  0.50123214  1

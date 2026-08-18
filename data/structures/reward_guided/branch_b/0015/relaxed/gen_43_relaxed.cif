@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hg4I3BrF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.86968095
+_cell_length_b   5.87460655
+_cell_length_c   12.47272166
+_cell_angle_alpha   80.29011588
+_cell_angle_beta   119.99657313
+_cell_angle_gamma   97.60642184
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg4I3BrF4
+_chemical_formula_sum   'Hg4 I3 Br1 F4'
+_cell_volume   366.55962507
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.66126167  0.37703947  -0.02076608  1
+  Hg  Hg1  1  0.86885057  0.39656572  0.72486973  1
+  Hg  Hg2  1  0.16236682  0.87658256  -0.02077553  1
+  Hg  Hg3  1  0.37231879  0.90035511  0.72506471  1
+  I  I4  1  0.90231862  0.67583742  0.53739429  1
+  I  I5  1  0.63027580  0.09266273  0.17100044  1
+  I  I6  1  0.12985277  0.59245863  0.17068714  1
+  Br  Br7  1  0.40312186  0.17546979  0.54437400  1
+  F  F8  1  0.79055158  0.14155668  0.86493734  1
+  F  F9  1  0.29711059  0.64837423  0.86945663  1
+  F  F10  1  0.74250580  0.63560644  0.83599103  1
+  F  F11  1  0.24806805  0.13853946  0.83731055  1

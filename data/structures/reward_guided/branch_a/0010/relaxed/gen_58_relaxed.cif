@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeMgGa
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.46289741
+_cell_length_b   7.60161881
+_cell_length_c   8.55343929
+_cell_angle_alpha   89.99344816
+_cell_angle_beta   89.99975890
+_cell_angle_gamma   89.99933145
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeMgGa
+_chemical_formula_sum   'Ce4 Mg4 Ga4'
+_cell_volume   290.17752039
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.07851637  0.88317920  0.48526119  1
+  Ce  Ce1  1  0.07850938  0.38307067  0.33514864  1
+  Ce  Ce2  1  0.57864016  0.93672252  0.83524313  1
+  Ce  Ce3  1  0.57862926  0.43683183  -0.01469416  1
+  Mg  Mg4  1  0.07851938  0.27024576  0.72019688  1
+  Mg  Mg5  1  0.07846343  0.77019324  0.10034783  1
+  Mg  Mg6  1  0.57864315  0.04958845  0.22015936  1
+  Mg  Mg7  1  0.57868416  0.54951504  0.60026124  1
+  Ga  Ga8  1  0.07870480  0.14475500  0.03157192  1
+  Ga  Ga9  1  0.57838082  0.67511164  0.28895012  1
+  Ga  Ga10  1  0.07871142  0.64483553  0.78891781  1
+  Ga  Ga11  1  0.57849951  0.17502465  0.53154510  1

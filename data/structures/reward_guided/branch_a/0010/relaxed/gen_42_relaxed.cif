@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CePrSm2N4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.61758876
+_cell_length_b   6.25022103
+_cell_length_c   6.26198710
+_cell_angle_alpha   109.38696294
+_cell_angle_beta   89.99703693
+_cell_angle_gamma   89.99911222
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CePrSm2N4
+_chemical_formula_sum   'Ce1 Pr1 Sm2 N4'
+_cell_volume   133.55979715
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.00690893  0.90022834  0.74710393  1
+  Pr  Pr1  1  0.50700035  0.90085774  0.24719443  1
+  Sm  Sm2  1  0.50659611  0.40061751  0.74676996  1
+  Sm  Sm3  1  0.00676557  0.40084592  0.24723654  1
+  N  N4  1  0.50581457  0.65441301  0.50574471  1
+  N  N5  1  0.50644836  0.14547127  0.98687004  1
+  N  N6  1  0.00591879  0.65201364  0.98545915  1
+  N  N7  1  0.00587310  0.15098655  0.50786886  1

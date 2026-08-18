@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_AlSiClO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.48025489
+_cell_length_b   2.59976840
+_cell_length_c   6.13182926
+_cell_angle_alpha   108.48122406
+_cell_angle_beta   92.66075897
+_cell_angle_gamma   95.98963928
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlSiClO6
+_chemical_formula_sum   'Al1 Si1 Cl1 O6'
+_cell_volume   52.14521859
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.91505635  0.10536543  0.96884060  1
+  O  O1  1  0.20352632  0.79738319  0.20692345  1
+  O  O2  1  0.50049806  0.10526326  0.64024818  1
+  Al  Al3  1  0.07116878  0.26756728  0.99520916  1
+  O  O4  1  0.70068204  0.80524945  0.82021147  1
+  Si  Si5  1  0.82998812  0.79245049  0.96837294  1
+  O  O6  1  0.56267142  0.25808465  0.09635681  1
+  Cl  Cl7  1  0.67782009  0.20396236  0.43872446  1
+  O  O8  1  0.66632468  0.46505859  0.19184378  1

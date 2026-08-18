@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_TlCdAg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.41302017
+_cell_length_b   3.50689437
+_cell_length_c   7.44722107
+_cell_angle_alpha   89.96734912
+_cell_angle_beta   89.98259544
+_cell_angle_gamma   90.01565940
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlCdAg2
+_chemical_formula_sum   'Tl1 Cd1 Ag2'
+_cell_volume   89.13652083
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.29743220  0.62738695  0.97930027  1
+  Cd  Cd1  1  0.79684566  0.12856307  0.66436456  1
+  Ag  Ag2  1  0.29719307  0.62810996  0.44673532  1
+  Ag  Ag3  1  0.79686538  0.12802004  0.24028249  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BaMg2MnSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15436081
+_cell_length_b   7.24069504
+_cell_length_c   14.08898450
+_cell_angle_alpha   89.99570265
+_cell_angle_beta   89.99992016
+_cell_angle_gamma   106.67018746
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaMg2MnSe4
+_chemical_formula_sum   'Ba2 Mg4 Mn2 Se8'
+_cell_volume   405.99148366
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.04475825  0.29213233  0.37319938  1
+  Ba  Ba1  1  0.80461157  0.81233913  0.87313785  1
+  Mg  Mg2  1  0.55191507  0.30642496  0.67226832  1
+  Mg  Mg3  1  0.55167154  0.30653454  0.07413877  1
+  Mg  Mg4  1  0.29747540  0.79774323  0.57409631  1
+  Mg  Mg5  1  0.29743326  0.79797533  0.17232150  1
+  Mn  Mn6  1  0.76873520  0.74021970  0.37324142  1
+  Mn  Mn7  1  0.08045578  0.36392897  0.87327483  1
+  Se  Se8  1  0.92454308  0.05216223  0.12309603  1
+  Se  Se9  1  0.18387233  0.57062661  0.01564503  1
+  Se  Se10  1  0.48048254  0.16396606  0.87321478  1
+  Se  Se11  1  0.18374354  0.57034238  0.73076705  1
+  Se  Se12  1  0.66554212  0.53403712  0.23068653  1
+  Se  Se13  1  0.36872758  0.94022474  0.37327727  1
+  Se  Se14  1  0.92454424  0.05190610  0.62327673  1
+  Se  Se15  1  0.66550320  0.53383566  0.51572697  1

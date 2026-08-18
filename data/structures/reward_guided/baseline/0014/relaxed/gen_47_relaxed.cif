@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K2NaTl2In
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.32211645
+_cell_length_b   8.89315960
+_cell_length_c   8.20784200
+_cell_angle_alpha   113.89477160
+_cell_angle_beta   89.96723408
+_cell_angle_gamma   90.02752657
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NaTl2In
+_chemical_formula_sum   'K4 Na2 Tl4 In2'
+_cell_volume   488.65914048
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.81641216  0.72287601  0.18042225  1
+  K  K1  1  0.31658895  0.35977023  0.96072982  1
+  K  K2  1  0.31727014  0.91838745  0.05872999  1
+  K  K3  1  0.81709624  0.28159571  0.27713850  1
+  Na  Na4  1  0.31691819  0.74503180  0.50472925  1
+  Na  Na5  1  0.81691434  0.89783433  0.73398323  1
+  Tl  Tl6  1  0.58880965  0.55710615  0.71502432  1
+  Tl  Tl7  1  0.04511270  0.55772906  0.71551583  1
+  Tl  Tl8  1  0.08856006  0.08478583  0.52271921  1
+  Tl  Tl9  1  0.54497337  0.08536870  0.52323829  1
+  In  In10  1  0.81712564  0.30388306  0.80371718  1
+  In  In11  1  0.31657889  0.33866876  0.43452057  1

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       SrIn2SrInAuInSnInAu
+_chemical_formula_sum              "Sr2 In5 Au2 Sn1"
+_cell_length_a       4.812410073686199
+_cell_length_b       4.8182886207662925
+_cell_length_c       11.977100372314453
+_cell_angle_alpha    88.18712699525443
+_cell_angle_beta     89.23379187551565
+_cell_angle_gamma    91.08271710820924
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.6722941398620605  0.5410984754562379  0.6156083345413208  1.0000
+  In  In1       1.0  0.6705558896064758  0.0407961942255497  0.8506985306739806  1.0000
+  In  In2       1.0  0.6703178882598877  0.03987778723239899  0.35195881128311163  1.0000
+  Sr  Sr2       1.0  0.1699097454547882  0.04096131771802902  0.0871255099773407  1.0000
+  In  In3       1.0  0.1702265739440918  0.5402464866638184  0.8529888987541198  1.0000
+  Au  Au1       1.0  0.17006653547286987  0.04069368168711662  0.7245838046073914  1.0000
+  In  In4       1.0  0.1709631085395813  0.04049361124634743  0.5042680501937866  1.0000
+  Sn  Sn1       1.0  0.16837094724178314  0.5386368036270142  0.35145366191864014  1.0000
+  In  In5       1.0  0.6704114079475403  0.5399954319000244  0.20054067671298978  1.0000
+  Au  Au2       1.0  0.6695279479026794  0.5413843393325806  0.9799373149871825  1.0000

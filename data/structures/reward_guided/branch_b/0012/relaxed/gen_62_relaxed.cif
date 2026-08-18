@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiHfZnGa
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55510036
+_cell_length_b   4.54496025
+_cell_length_c   4.55497934
+_cell_angle_alpha   60.11899028
+_cell_angle_beta   60.00933146
+_cell_angle_gamma   60.03835603
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiHfZnGa
+_chemical_formula_sum   'Li1 Hf1 Zn1 Ga1'
+_cell_volume   66.76442778
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.09393951  0.94586754  0.64112429  1
+  Hf  Hf1  1  0.59416880  0.44432647  0.14107893  1
+  Zn  Zn2  1  0.84376491  0.69421051  0.39291328  1
+  Ga  Ga3  1  0.34391719  0.19495387  0.89018276  1

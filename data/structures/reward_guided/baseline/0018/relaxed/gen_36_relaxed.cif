@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ce2Ga2Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28174813
+_cell_length_b   7.66339096
+_cell_length_c   7.66250997
+_cell_angle_alpha   89.99946953
+_cell_angle_beta   90.00053275
+_cell_angle_gamma   89.99849439
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Ga2Sn
+_chemical_formula_sum   'Ce4 Ga4 Sn2'
+_cell_volume   251.42771638
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.03924262  0.70315816  0.62301431  1
+  Ce  Ce1  1  0.03916935  0.20306564  0.76233983  1
+  Ce  Ce2  1  0.03934406  0.34319669  0.26256526  1
+  Ce  Ce3  1  0.03937888  0.84296077  0.12300763  1
+  Ga  Ga4  1  0.53943133  0.64029736  0.32577067  1
+  Ga  Ga5  1  0.53936990  0.14047686  0.05979332  1
+  Ga  Ga6  1  0.53923503  0.90611305  0.82596056  1
+  Ga  Ga7  1  0.53914745  0.40603182  0.55985524  1
+  Sn  Sn8  1  0.53945939  0.02296674  0.44282164  1
+  Sn  Sn9  1  0.53935699  0.52299046  0.94292522  1

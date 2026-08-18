@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Zn3Sn4TePbS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.71293020
+_cell_length_b   4.38258314
+_cell_length_c   9.69060135
+_cell_angle_alpha   90.44035339
+_cell_angle_beta   90.22469330
+_cell_angle_gamma   91.19536591
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn3Sn4TePbS2
+_chemical_formula_sum   'Zn3 Sn4 Te1 Pb1 S2'
+_cell_volume   200.10637699
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.09460366  0.11422643  0.59990776  1
+  Zn  Zn1  1  0.76065671  0.34715027  0.32247740  1
+  Pb  Pb2  1  0.73123580  0.26503918  0.70816255  1
+  Zn  Zn3  1  0.69519770  0.88474536  0.14720276  1
+  Sn  Sn4  1  0.18747228  0.97037625  0.86728168  1
+  S  S5  1  0.03036585  0.61729401  0.11930430  1
+  Sn  Sn6  1  0.55939257  0.05166534  0.09447998  1
+  Te  Te7  1  0.51973003  0.65250969  0.79012251  1
+  Sn  Sn8  1  0.19677404  0.92848480  0.29344389  1
+  Zn  Zn9  1  0.20843139  0.50905359  0.56694317  1
+  Sn  Sn10  1  0.50263387  0.70125568  0.43965298  1

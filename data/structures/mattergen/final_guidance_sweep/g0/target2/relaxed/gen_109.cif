@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiHLiHO2
+_chemical_formula_sum              "Li2 H2 O2"
+_cell_length_a       3.3279546973283796
+_cell_length_b       3.327848526091129
+_cell_length_c       6.443603020316621
+_cell_angle_alpha    103.17183737628687
+_cell_angle_beta     102.50720810393808
+_cell_angle_gamma    60.87693861296074
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.22338744455575332  0.8426823873394337  0.2744810217951538  1.0000
+  H   H1        1.0  0.3537973260099429  0.9925570854964733  0.746379170880735  1.0000
+  Li  Li2       1.0  0.9497249075887791  0.5807685208047586  0.5309029895415468  1.0000
+  H   H2        1.0  0.8190118930861155  0.43063550832557246  0.05900412100962593  1.0000
+  O   O1        1.0  0.8722086896018618  0.4883539512567014  0.21436941771787651  1.0000
+  O   O2        1.0  0.3009123612600769  0.9351048183809495  0.590999096768052  1.0000

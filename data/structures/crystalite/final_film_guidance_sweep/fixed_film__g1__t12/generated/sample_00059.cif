@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_TbAl2BP2Ru5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82722950
+_cell_length_b   6.06225634
+_cell_length_c   6.27389622
+_cell_angle_alpha   118.83860779
+_cell_angle_beta   117.28948975
+_cell_angle_gamma   90.47860718
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbAl2BP2Ru5
+_chemical_formula_sum   'Tb1 Al2 B1 P2 Ru5'
+_cell_volume   164.86996176
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  B  B0  1  0.65123665  0.48443168  0.54056847  1
+  P  P1  1  0.93791938  0.22918788  0.77585804  1
+  Tb  Tb2  1  0.19822118  0.82944047  0.88713849  1
+  P  P3  1  0.47426870  0.55135071  0.08910382  1
+  Ru  Ru4  1  0.25018686  0.42370141  0.36489600  1
+  Al  Al5  1  0.31211910  0.88072497  0.49007851  1
+  Al  Al6  1  0.92445242  0.05199775  0.21428615  1
+  Ru  Ru7  1  0.51542544  0.36804193  0.76047695  1
+  Ru  Ru8  1  0.88072020  0.43549371  0.11186770  1
+  Ru  Ru9  1  0.59073955  0.09327850  0.32968384  1
+  Ru  Ru10  1  0.79569161  0.74647212  0.48518303  1

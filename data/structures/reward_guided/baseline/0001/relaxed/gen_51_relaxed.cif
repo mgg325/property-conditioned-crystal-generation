@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Sc2BeGa3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.29398990
+_cell_length_b   4.19633863
+_cell_length_c   7.36198621
+_cell_angle_alpha   89.99991715
+_cell_angle_beta   89.99375776
+_cell_angle_gamma   89.99999314
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2BeGa3
+_chemical_formula_sum   'Sc2 Be1 Ga3'
+_cell_volume   101.76250431
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.24772612  0.62956598  0.54748025  1
+  Sc  Sc1  1  0.24798961  0.12965526  0.06689363  1
+  Be  Be2  1  0.74826331  0.12973306  0.38595254  1
+  Ga  Ga3  1  0.74792435  0.62958513  0.23712450  1
+  Ga  Ga4  1  0.74740573  0.12956698  0.70428744  1
+  Ga  Ga5  1  0.74812266  0.62949942  0.89238142  1

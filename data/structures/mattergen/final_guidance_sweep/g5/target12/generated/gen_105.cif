@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TeNdTe2NdTe3
+_chemical_formula_sum              "Te6 Nd2"
+_cell_length_a       4.295545830340933
+_cell_length_b       6.390670635990287
+_cell_length_c       10.59252643585205
+_cell_angle_alpha    107.29746306669817
+_cell_angle_beta     89.92592226600726
+_cell_angle_gamma    89.98922446984486
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.6155235171318054  0.15473194420337674  0.20477531850337982  1.0000
+  Nd  Nd1       1.0  0.11554618179798126  0.26416370272636414  0.42844986915588373  1.0000
+  Te  Te2       1.0  0.11726365983486176  0.7302399277687073  0.9354631900787354  1.0000
+  Te  Te3       1.0  0.6154176592826843  0.1640770137310028  0.6432465314865112  1.0000
+  Nd  Nd2       1.0  0.6169259548187256  0.6236405372619629  0.1423109471797943  1.0000
+  Te  Te4       1.0  0.1155993863940239  0.3027039766311645  0.9302336573600769  1.0000
+  Te  Te5       1.0  0.6158669590950012  0.5825974941253661  0.6363754272460938  1.0000
+  Te  Te6       1.0  0.11548055708408356  0.7354004383087157  0.3658957481384277  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Au2CaAuCaAu
+_chemical_formula_sum              "Au4 Ca2"
+_cell_length_a       4.533129858680926
+_cell_length_b       5.428359505307941
+_cell_length_c       5.804342269897461
+_cell_angle_alpha    90.95550495243508
+_cell_angle_beta     89.69881167740466
+_cell_angle_gamma    115.29009576188754
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.10189521312713629  0.9762102961540223  0.3929729163646698  1.0000
+  Au  Au2       1.0  0.3140350580215454  0.4020511507987976  0.893191397190094  1.0000
+  Ca  Ca1       1.0  0.011343136429786729  0.7979673743247987  0.8932242393493652  1.0000
+  Au  Au3       1.0  0.7086483240127563  0.18932224810123446  0.6421378254890442  1.0000
+  Ca  Ca2       1.0  0.4037873148918152  0.582677960395813  0.39235442876815796  1.0000
+  Au  Au4       1.0  0.7067806124687195  0.18804758787155154  0.14274564385414124  1.0000

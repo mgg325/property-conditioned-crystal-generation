@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BPNO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.63056993
+_cell_length_b   4.56299019
+_cell_length_c   6.94962311
+_cell_angle_alpha   70.72864532
+_cell_angle_beta   70.15118408
+_cell_angle_gamma   59.32996368
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BPNO7
+_chemical_formula_sum   'B1 P1 N1 O7'
+_cell_volume   116.54295400
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  B  B0  1  0.73132020  0.07147446  0.58995914  1
+  P  P1  1  0.47715002  0.01229435  0.19672629  1
+  O  O2  1  0.55492610  0.09951770  0.43186995  1
+  O  O3  1  0.18683299  0.32345659  0.10435989  1
+  O  O4  1  0.21130818  0.05359221  0.69705963  1
+  N  N5  1  0.19182494  0.63433123  0.01917696  1
+  O  O6  1  0.85927880  0.85651791  0.11642310  1
+  O  O7  1  0.62083805  0.33433414  0.67987096  1
+  O  O8  1  0.87047040  0.74364364  0.63371503  1
+  O  O9  1  0.41571456  0.72496730  0.13525832  1

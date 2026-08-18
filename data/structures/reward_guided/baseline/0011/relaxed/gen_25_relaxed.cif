@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_MnCoNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.63342931
+_cell_length_b   3.32877472
+_cell_length_c   4.36436795
+_cell_angle_alpha   112.42246589
+_cell_angle_beta   107.58170436
+_cell_angle_gamma   90.00011841
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCoNi
+_chemical_formula_sum   'Mn1 Co1 Ni1'
+_cell_volume   33.42451239
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.79447780  0.40435355  0.29819570  1
+  Co  Co1  1  0.13509965  0.74489341  0.97958755  1
+  Ni  Ni2  1  0.46422062  0.07392962  0.63770690  1

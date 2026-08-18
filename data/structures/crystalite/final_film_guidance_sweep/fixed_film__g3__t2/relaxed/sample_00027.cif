@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_SbClF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.89106522
+_cell_length_b   6.02921827
+_cell_length_c   7.09957722
+_cell_angle_alpha   63.91240722
+_cell_angle_beta   65.00319202
+_cell_angle_gamma   60.37033912
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SbClF6
+_chemical_formula_sum   'Sb1 Cl1 F6'
+_cell_volume   189.94269298
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.00098053  0.45850766  0.94143403  1
+  Cl  Cl1  1  0.51845028  0.04615949  0.41375789  1
+  F  F2  1  0.28039666  0.18877497  0.80845462  1
+  F  F3  1  0.17623078  0.70857781  0.79290698  1
+  F  F4  1  0.28263646  0.18338585  0.25829682  1
+  F  F5  1  0.77277190  0.64585899  0.15375486  1
+  F  F6  1  0.79504742  0.17248655  0.16460484  1
+  F  F7  1  0.76910384  0.63960231  0.75594976  1

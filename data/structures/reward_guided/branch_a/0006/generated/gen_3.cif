@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CuPdCuGe2Pd2
+_chemical_formula_sum              "Cu2 Pd3 Ge2"
+_cell_length_a       3.5870011789153105
+_cell_length_b       4.8010742934893385
+_cell_length_c       6.330092430114746
+_cell_angle_alpha    96.75772953850368
+_cell_angle_beta     89.65522137842999
+_cell_angle_gamma    113.3095678334041
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.7608688473701477  0.38421040773391724  0.6406713128089905  1.0000
+  Pd  Pd1       1.0  0.8787997364997864  0.6147027611732483  0.0678965374827385  1.0000
+  Cu  Cu2       1.0  0.18217319250106812  0.22275424003601074  0.881607174873352  1.0000
+  Ge  Ge1       1.0  0.6003524661064148  0.06157265231013298  0.15229658782482147  1.0000
+  Ge  Ge2       1.0  0.3424514830112457  0.546966552734375  0.3706773817539215  1.0000
+  Pd  Pd2       1.0  0.4719428420066834  0.8049560189247131  0.761996328830719  1.0000
+  Pd  Pd3       1.0  0.06515573710203171  0.9921154379844666  0.4534766376018524  1.0000

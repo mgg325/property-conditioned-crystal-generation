@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LiNaTlLiTlIn2
+_chemical_formula_sum              "Li2 Na1 Tl2 In2"
+_cell_length_a       5.064289231227827
+_cell_length_b       5.061583172710557
+_cell_length_c       7.81779670715332
+_cell_angle_alpha    107.42291805880168
+_cell_angle_beta     89.1020442684862
+_cell_angle_gamma    119.02216423206012
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7695351839065552  0.12962651252746582  0.18707185983657837  1.0000
+  Na  Na1       1.0  0.3456990718841553  0.2804093658924103  0.9065037965774536  1.0000
+  Tl  Tl1       1.0  0.9076936841011047  0.4049685597419739  0.5958805084228516  1.0000
+  Li  Li2       1.0  0.2039614617824555  0.9953724145889283  0.48076653480529785  1.0000
+  Tl  Tl2       1.0  0.07006450742483138  0.7245616912841797  0.08065132796764374  1.0000
+  In  In1       1.0  0.4887251555919647  0.5620834827423096  0.33794769644737244  1.0000
+  In  In2       1.0  0.6335918307304382  0.851186990737915  0.7666153907775879  1.0000

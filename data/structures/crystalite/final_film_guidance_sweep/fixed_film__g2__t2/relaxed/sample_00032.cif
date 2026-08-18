@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BaCaMgBe2F13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80332895
+_cell_length_b   5.79174160
+_cell_length_c   10.52267540
+_cell_angle_alpha   89.84550823
+_cell_angle_beta   90.87037073
+_cell_angle_gamma   121.58230375
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCaMgBe2F13
+_chemical_formula_sum   'Ba1 Ca1 Mg1 Be2 F13'
+_cell_volume   301.25691427
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.78197925  0.65904657  0.04559350  1
+  Ca  Ca1  1  0.06106808  0.24307482  0.33069611  1
+  Mg  Mg2  1  -0.07269953  0.22746396  0.78507556  1
+  Be  Be3  1  0.35468632  0.77267927  0.78015402  1
+  Be  Be4  1  0.40167440  0.81908758  0.28750977  1
+  F  F5  1  0.21709230  0.15169935  0.15283096  1
+  F  F6  1  0.40406696  0.64548017  0.39743232  1
+  F  F7  1  0.14422402  0.62127672  0.20704473  1
+  F  F8  1  0.66952933  0.93380486  0.21474169  1
+  F  F9  1  0.40907584  0.67068127  0.89933500  1
+  F  F10  1  -0.00132658  0.03491845  0.52450875  1
+  F  F11  1  0.74860297  0.34564286  0.40554139  1
+  F  F12  1  0.37838413  0.06956458  0.34232440  1
+  F  F13  1  0.22351609  0.30617396  0.65204573  1
+  F  F14  1  0.03990981  0.02182464  0.88315614  1
+  F  F15  1  0.73707399  0.26873216  0.92699353  1
+  F  F16  1  0.58104846  0.97608935  0.70343996  1
+  F  F17  1  0.06923695  0.61711108  0.73496860  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Na5Sm2MoO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.81295525
+_cell_length_b   6.84944074
+_cell_length_c   6.84369092
+_cell_angle_alpha   61.25393566
+_cell_angle_beta   60.00782839
+_cell_angle_gamma   59.92140844
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na5Sm2MoO7
+_chemical_formula_sum   'Na5 Sm2 Mo1 O7'
+_cell_volume   227.75914994
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.96568773  0.56533883  0.44076896  1
+  Na  Na1  1  0.47558637  0.04358299  0.44869453  1
+  Na  Na2  1  1.05210681  0.04572050  0.91945059  1
+  Na  Na3  1  0.47621733  0.06644619  0.94192519  1
+  Na  Na4  1  0.47610607  0.57419729  0.91871376  1
+  Sm  Sm5  1  0.97974496  0.57844589  0.93253118  1
+  Sm  Sm6  1  0.97915257  0.05716288  0.45361062  1
+  Mo  Mo7  1  0.45323328  0.57262922  0.44826519  1
+  O  O8  1  0.18505991  0.31166778  0.18803823  1
+  O  O9  1  0.22926599  0.79984614  0.22307621  1
+  O  O10  1  0.69091278  0.76865582  0.21570604  1
+  O  O11  1  0.22954276  0.34797094  0.67522995  1
+  O  O12  1  0.74274589  0.81670152  0.69190279  1
+  O  O13  1  0.69123774  0.33982678  0.64498257  1
+  O  O14  1  0.21328133  0.80963060  0.68504927  1

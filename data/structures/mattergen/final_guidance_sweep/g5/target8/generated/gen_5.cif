@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BaSeBaSeAgBiSe2
+_chemical_formula_sum              "Ba2 Se4 Ag1 Bi1"
+_cell_length_a       4.499081636185239
+_cell_length_b       7.48809736138469
+_cell_length_c       7.767733097076416
+_cell_angle_alpha    110.3137003338463
+_cell_angle_beta     90.00598575018462
+_cell_angle_gamma    90.00579450519088
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.10315842181444168  0.3883713185787201  0.9503678679466249  1.0000
+  Se  Se1       1.0  0.6030095219612122  0.10579922795295715  0.6919595003128053  1.0000
+  Ba  Ba2       1.0  0.6031016111373901  0.3879333436489105  0.4506857097148896  1.0000
+  Se  Se2       1.0  0.10256116837263107  0.10851138085126877  0.187304362654686  1.0000
+  Ag  Ag1       1.0  0.10319608449935913  0.8879621028900145  0.450396478176117  1.0000
+  Bi  Bi1       1.0  0.603244423866272  0.8883718848228455  0.9508873820304872  1.0000
+  Se  Se3       1.0  0.6032605171203613  0.6708701252937317  0.20938324928283697  1.0000
+  Se  Se4       1.0  0.10342506319284439  0.6678881645202637  0.7138139009475709  1.0000

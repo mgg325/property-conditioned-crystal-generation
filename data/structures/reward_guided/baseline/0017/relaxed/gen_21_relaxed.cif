@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Be3Cu5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.66305615
+_cell_length_b   4.78170376
+_cell_length_c   4.78169214
+_cell_angle_alpha   101.64154086
+_cell_angle_beta   90.00174653
+_cell_angle_gamma   89.99923033
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be3Cu5
+_chemical_formula_sum   'Be3 Cu5'
+_cell_volume   82.03154741
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.54825660  0.28365760  0.29350324  1
+  Be  Be1  1  0.04823262  0.54540668  0.03166414  1
+  Be  Be2  1  0.04797278  0.02193472  0.55531911  1
+  Cu  Cu3  1  0.54800535  0.28366239  0.79348850  1
+  Cu  Cu4  1  0.54843628  0.78367803  0.29347713  1
+  Cu  Cu5  1  0.04812222  0.50612116  0.51592475  1
+  Cu  Cu6  1  0.04817343  0.06119387  0.07105149  1
+  Cu  Cu7  1  0.54787754  0.78364978  0.79346268  1

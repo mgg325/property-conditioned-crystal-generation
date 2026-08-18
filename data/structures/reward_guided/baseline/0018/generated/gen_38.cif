@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       LuMg2SnMgLu2Sn2
+_chemical_formula_sum              "Lu3 Mg3 Sn3"
+_cell_length_a       4.415516165612576
+_cell_length_b       7.528328887615768
+_cell_length_c       7.536246299743652
+_cell_angle_alpha    119.9639391449164
+_cell_angle_beta     90.53025735995904
+_cell_angle_gamma    90.30232034536289
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.7273300290107727  0.2720140814781189  0.8477916717529297  1.0000
+  Mg  Mg1       1.0  0.22716692090034485  0.8631846308708192  0.5996595025062561  1.0000
+  Mg  Mg2       1.0  0.22750435769557953  0.6132476329803467  0.848739743232727  1.0000
+  Sn  Sn1       1.0  0.2270338237285614  0.19525758922100067  0.5140147805213928  1.0000
+  Mg  Mg3       1.0  0.22668445110321045  0.10980637371540071  0.09601210057735443  1.0000
+  Lu  Lu2       1.0  0.7267645001411438  0.8615939021110535  0.25778451561927795  1.0000
+  Lu  Lu3       1.0  0.7272480130195618  0.4527501165866852  0.4382604658603668  1.0000
+  Sn  Sn2       1.0  0.7271756529808044  0.8623192310333252  0.8474270105361938  1.0000
+  Sn  Sn3       1.0  0.22661294043064117  0.5286540985107422  0.18257534503936768  1.0000

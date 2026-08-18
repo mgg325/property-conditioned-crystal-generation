@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_MgZnSeS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03443937
+_cell_length_b   4.03118789
+_cell_length_c   6.66586964
+_cell_angle_alpha   90.08969697
+_cell_angle_beta   89.91933386
+_cell_angle_gamma   120.06456333
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgZnSeS
+_chemical_formula_sum   'Mg1 Zn1 Se1 S1'
+_cell_volume   93.82533517
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.46245635  0.06515567  0.29070791  1
+  Zn  Zn1  1  0.12981709  0.39825998  0.76769028  1
+  Se  Se2  1  0.12960596  0.39768508  0.14014200  1
+  S  S3  1  0.46334750  0.06523928  0.66225409  1

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LaTb3H
+_chemical_formula_sum              "La1 Tb3 H1"
+_cell_length_a       5.020686581698761
+_cell_length_b       5.025569213054011
+_cell_length_c       5.034692764282227
+_cell_angle_alpha    91.22570040231034
+_cell_angle_beta     90.42444412950445
+_cell_angle_gamma    91.7429095747207
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.7273440361022949  0.6965665221214294  0.6251372694969177  1.0000
+  Tb  Tb1       1.0  0.2279457002878189  0.6966372132301331  0.12509433925151825  1.0000
+  Tb  Tb2       1.0  0.22746135294437408  0.19536010921001434  0.6248766183853149  1.0000
+  Tb  Tb3       1.0  0.7257854342460632  0.1958966702222824  0.12464539706707  1.0000
+  H   H1        1.0  0.22598543763160706  0.19745025038719177  0.1262883096933365  1.0000

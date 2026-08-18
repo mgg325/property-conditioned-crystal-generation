@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CaAlH2Se4SClO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   1.82394898
+_cell_length_b   3.39315248
+_cell_length_c   4.31966591
+_cell_angle_alpha   85.49881744
+_cell_angle_beta   115.53966522
+_cell_angle_gamma   132.47938538
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaAlH2Se4SClO6
+_chemical_formula_sum   'Ca1 Al1 H2 Se4 S1 Cl1 O6'
+_cell_volume   16.85733041
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.11326960  0.33050704  0.81537914  1
+  Cl  Cl1  1  0.95254219  0.33464342  0.32709843  1
+  O  O2  1  0.06611365  0.39488450  0.59106100  1
+  Ca  Ca3  1  0.69177449  0.90934670  0.89015639  1
+  Al  Al4  1  0.57152939  0.32263345  0.39558768  1
+  O  O5  1  0.09571579  0.86755866  0.45088169  1
+  O  O6  1  0.32328126  0.39752740  0.60520053  1
+  Se  Se7  1  0.08930704  0.27763450  0.06889468  1
+  Se  Se8  1  0.09563822  0.28357440  0.11946055  1
+  O  O9  1  0.93617046  0.34971285  0.28956938  1
+  H  H10  1  0.19391090  0.27219018  0.40572366  1
+  O  O11  1  0.44170490  0.49054447  0.24120712  1
+  Se  Se12  1  0.13255480  0.17530179  0.18911821  1
+  H  H13  1  0.00930828  0.66032612  0.78943837  1
+  Se  Se14  1  0.11990842  0.06638163  0.53231853  1
+  S  S15  1  0.15227264  0.27144527  0.61127603  1

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OAgOAgOGaOAu
+_chemical_formula_sum              "O4 Ag2 Ga1 Au1"
+_cell_length_a       4.936989557012597
+_cell_length_b       4.896438695349146
+_cell_length_c       6.188138429308472
+_cell_angle_alpha    113.300499053923
+_cell_angle_beta     113.46670994955817
+_cell_angle_gamma    90.09787599784633
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.21856053917026122  0.9765897751541904  0.6112499941906628  1.0000
+  Ag  Ag1       1.0  0.7836523181914414  0.6053195130685203  0.3287296048804071  1.0000
+  O   O2        1.0  0.4133886057824499  0.7558091021869913  0.04390564882077478  1.0000
+  Ag  Ag2       1.0  0.03213131374721891  0.3547972100602671  0.8252961544167627  1.0000
+  O   O3        1.0  0.8698986856001939  0.1709618786264991  0.042984283232977094  1.0000
+  Ga  Ga1       1.0  0.5329507430792071  0.8547918238177382  0.826943504852802  1.0000
+  O   O4        1.0  0.6308838999440469  0.5170476374767845  0.610628123247363  1.0000
+  Au  Au1       1.0  0.27949382566915926  0.10299558824500141  0.3246630407176958  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       InTb4In2Cd
+_chemical_formula_sum              "In3 Tb4 Cd1"
+_cell_length_a       5.4202371537444325
+_cell_length_b       5.30866289535842
+_cell_length_c       9.279400825500488
+_cell_angle_alpha    73.43951144886515
+_cell_angle_beta     72.9927145692994
+_cell_angle_gamma    58.555240528321065
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.6492345929145813  0.5474041700363159  0.2521008253097534  1.0000
+  Tb  Tb1       1.0  0.02500737085938452  0.9238613843917847  0.1313692331314087  1.0000
+  Tb  Tb2       1.0  0.2741798162460327  0.1711641252040863  0.3811003267765045  1.0000
+  Tb  Tb3       1.0  0.5233719944953918  0.423958957195282  0.6286680698394775  1.0000
+  Tb  Tb4       1.0  0.7753852009773254  0.6724118590354919  0.8805904388427734  1.0000
+  In  In2       1.0  0.40232759714126587  0.29858994483947754  0.9967431426048279  1.0000
+  In  In3       1.0  0.8972353339195251  0.7948899269104004  0.5125174522399902  1.0000
+  Cd  Cd1       1.0  0.14969757199287415  0.0501045323908329  0.7536121606826782  1.0000

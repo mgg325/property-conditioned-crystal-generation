@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TeGeSNaTe
+_chemical_formula_sum              "Te2 Ge1 S1 Na1"
+_cell_length_a       4.202782910849784
+_cell_length_b       5.104586352541838
+_cell_length_c       8.22711844026696
+_cell_angle_alpha    113.13503010487092
+_cell_angle_beta     104.93294308877128
+_cell_angle_gamma    90.0261217335786
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.4096315214024452  0.15036116578469452  0.34885888987012426  1.0000
+  Ge  Ge1       1.0  0.8766606019250326  0.7935306776426052  0.28397326104771115  1.0000
+  S   S1        1.0  0.9806558286234978  0.6019249482321125  0.4897294433387357  1.0000
+  Na  Na1       1.0  0.1728694860833762  0.9185835073721607  0.8795875760772398  1.0000
+  Te  Te2       1.0  0.7041364945065535  0.44877727977351956  0.9410100808109173  1.0000

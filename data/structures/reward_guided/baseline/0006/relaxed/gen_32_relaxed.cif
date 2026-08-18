@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_NbZnN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.07359057
+_cell_length_b   3.07363570
+_cell_length_c   8.33560557
+_cell_angle_alpha   90.11677544
+_cell_angle_beta   90.03334107
+_cell_angle_gamma   89.99995578
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbZnN
+_chemical_formula_sum   'Nb2 Zn2 N2'
+_cell_volume   78.74710346
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.44714296  0.70270432  0.89303471  1
+  Nb  Nb1  1  0.94676941  0.20178275  0.66025493  1
+  Zn  Zn2  1  0.94762648  0.20297207  0.19488486  1
+  Zn  Zn3  1  0.44790864  0.70361462  0.35845179  1
+  N  N4  1  0.44680958  0.70168802  0.63157846  1
+  N  N5  1  0.94715927  0.20283840  0.92176794  1

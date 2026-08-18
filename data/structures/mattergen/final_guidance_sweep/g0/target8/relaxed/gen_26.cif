@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaPZnPZn
+_chemical_formula_sum              "Ca1 P2 Zn2"
+_cell_length_a       4.0731114868660585
+_cell_length_b       4.073055171773534
+_cell_length_c       6.7766622017910105
+_cell_angle_alpha    89.99791705703713
+_cell_angle_beta     90.00211736258136
+_cell_angle_gamma    119.991880216142
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.023557568616252307  0.3419696619167464  0.6371982871392073  1.0000
+  P   P1        1.0  0.35676240328247466  0.008586752334038755  0.8992700806795719  1.0000
+  Zn  Zn1       1.0  0.6901783465837331  0.675377999281504  0.999137032311246  1.0000
+  P   P2        1.0  0.6903263823074216  0.6751580426175162  0.37488493429838915  1.0000
+  Zn  Zn2       1.0  0.35694823534246056  0.008625165004855384  0.2750180944767073  1.0000

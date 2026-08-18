@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_ErAl5Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17489999
+_cell_length_b   4.17488748
+_cell_length_c   6.89743308
+_cell_angle_alpha   89.99422915
+_cell_angle_beta   89.99682663
+_cell_angle_gamma   90.00021695
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErAl5Ni
+_chemical_formula_sum   'Er1 Al5 Ni1'
+_cell_volume   120.22044859
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.28750843  0.46517680  0.18828322  1
+  Al  Al1  1  0.78777850  0.96504866  0.18837742  1
+  Al  Al2  1  0.78735633  0.46472410  0.49552095  1
+  Al  Al3  1  0.78703231  0.46517445  0.88106316  1
+  Al  Al4  1  0.28754172  0.96531382  0.49551595  1
+  Al  Al5  1  0.28770722  0.96510461  0.88112770  1
+  Ni  Ni6  1  0.28718742  0.46508605  0.68835869  1

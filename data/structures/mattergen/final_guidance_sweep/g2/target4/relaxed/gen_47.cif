@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Be2O2NHLiH
+_chemical_formula_sum              "Be2 O2 N1 H2 Li1"
+_cell_length_a       2.8145368018828063
+_cell_length_b       5.423896148115162
+_cell_length_c       4.9845324823667925
+_cell_angle_alpha    104.13726700170467
+_cell_angle_beta     106.42862203552552
+_cell_angle_gamma    112.29633009290313
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.11811725087367526  0.5376251902880173  0.6524510080301895  1.0000
+  Be  Be2       1.0  0.509652011674164  0.6872373025217197  0.2392210185757536  1.0000
+  O   O1        1.0  0.46710006418389666  0.3306260170233768  0.641845705897063  1.0000
+  O   O2        1.0  0.9846199703684346  0.585860710849021  0.33041286382832846  1.0000
+  N   N1        1.0  0.5366415069067498  0.8404059763856484  0.9948157995994847  1.0000
+  H   H1        1.0  0.9246091599143271  0.8729167110133864  0.9997027623143034  1.0000
+  Li  Li1       1.0  0.5211256652935397  0.19064530489801695  0.9666541570283402  1.0000
+  H   H2        1.0  0.2348652213191968  0.16230738058148664  0.44242532012890273  1.0000

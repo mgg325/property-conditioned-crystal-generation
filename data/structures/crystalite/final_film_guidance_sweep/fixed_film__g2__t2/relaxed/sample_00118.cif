@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KNaMgHCF15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.85633464
+_cell_length_b   4.94566508
+_cell_length_c   13.40633004
+_cell_angle_alpha   90.68798958
+_cell_angle_beta   91.50683168
+_cell_angle_gamma   97.85819372
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaMgHCF15
+_chemical_formula_sum   'K1 Na1 Mg1 H1 C1 F15'
+_cell_volume   318.81707844
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.33075262  0.23609649  0.93385212  1
+  Na  Na1  1  0.39651665  0.93412506  0.59084227  1
+  Mg  Mg2  1  0.95166843  0.31766721  0.48195964  1
+  H  H3  1  0.22272525  0.24278523  0.31153046  1
+  C  C4  1  0.77483972  0.73627103  0.84305118  1
+  F  F5  1  0.40464815  0.14036571  0.74666413  1
+  F  F6  1  0.63601788  0.80275771  0.92643899  1
+  F  F7  1  0.04506379  -0.00014453  0.08829668  1
+  F  F8  1  0.93679396  0.95660960  0.81375102  1
+  F  F9  1  0.17612356  0.05629460  0.39954553  1
+  F  F10  1  0.56924968  0.06300806  0.44159714  1
+  F  F11  1  0.30592470  0.51430059  0.52818308  1
+  F  F12  1  0.15788577  0.75094425  0.05956602  1
+  F  F13  1  0.71173034  0.32415164  0.26232928  1
+  F  F14  1  0.91142139  0.67787001  0.57859571  1
+  F  F15  1  0.76846287  0.53272111  0.38092499  1
+  F  F16  1  0.86922744  0.08767647  0.59825306  1
+  F  F17  1  0.58790733  0.63874272  0.77308202  1
+  F  F18  1  0.93267074  0.53845867  0.86942725  1
+  F  F19  1  0.22505192  0.39514978  0.26424795  1

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LaCaLaNdCo
+_chemical_formula_sum              "La2 Ca1 Nd1 Co1"
+_cell_length_a       5.634863407175925
+_cell_length_b       5.446166711319528
+_cell_length_c       5.4481096267700195
+_cell_angle_alpha    90.01537043149705
+_cell_angle_beta     89.99403291942346
+_cell_angle_gamma    90.00810993962604
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.3444706201553345  0.21126207709312436  0.9091451168060303  1.0000
+  Ca  Ca1       1.0  0.8443822860717773  0.711432933807373  0.909214198589325  1.0000
+  La  La2       1.0  0.3444057106971741  0.7112602591514587  0.40909048914909363  1.0000
+  Nd  Nd1       1.0  0.8444796800613403  0.21129445731639865  0.40917450189590454  1.0000
+  Co  Co1       1.0  0.3444614112377167  0.21113741397857663  0.40913164615631104  1.0000

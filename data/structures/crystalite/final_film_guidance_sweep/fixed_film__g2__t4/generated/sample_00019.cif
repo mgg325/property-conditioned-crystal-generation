@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ScTl2SeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.93872499
+_cell_length_b   5.96986961
+_cell_length_c   6.00495529
+_cell_angle_alpha   60.17862320
+_cell_angle_beta   59.95586777
+_cell_angle_gamma   60.28453064
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScTl2SeO6
+_chemical_formula_sum   'Sc1 Tl2 Se1 O6'
+_cell_volume   151.01404964
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.00103283  0.00929755  0.33659086  1
+  Se  Se1  1  0.76181793  0.25081384  0.56663817  1
+  O  O2  1  0.50263375  0.49909514  0.33532557  1
+  Sc  Sc3  1  0.25261539  0.75290453  0.07795542  1
+  Tl  Tl4  1  0.00003278  0.51857090  0.80476862  1
+  O  O5  1  0.50385696  0.01428834  0.82577765  1
+  O  O6  1  0.00864318  0.01201671  0.83345997  1
+  Tl  Tl7  1  0.51086432  0.99015892  0.31446424  1
+  O  O8  1  0.98866689  0.50704575  0.32676774  1
+  O  O9  1  0.51560026  0.50675529  0.82128692  1

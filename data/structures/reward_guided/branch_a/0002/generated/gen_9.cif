@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SmCdHfCd3
+_chemical_formula_sum              "Sm1 Cd4 Hf1"
+_cell_length_a       4.8501983726634466
+_cell_length_b       4.901952250211344
+_cell_length_c       6.642954349517822
+_cell_angle_alpha    90.12627221425839
+_cell_angle_beta     90.19550984842705
+_cell_angle_gamma    119.58669626905758
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.7646603584289551  0.3486567437648773  0.19264087080955505  1.0000
+  Cd  Cd1       1.0  0.4301736354827881  0.6812448501586914  0.9242184162139893  1.0000
+  Hf  Hf1       1.0  0.7635945081710815  0.34961745142936707  0.6918014287948608  1.0000
+  Cd  Cd2       1.0  0.43013015389442444  0.6819801926612854  0.46210935711860657  1.0000
+  Cd  Cd3       1.0  0.09710701555013657  0.01591067761182785  0.4621546268463135  1.0000
+  Cd  Cd4       1.0  0.09663012623786926  0.014827649109065533  0.9210779070854187  1.0000

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Cd4Ga(SnAu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.68563778
+_cell_length_b   6.55932915
+_cell_length_c   7.52985867
+_cell_angle_alpha   111.56502215
+_cell_angle_beta   108.13007897
+_cell_angle_gamma   90.01720796
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd4Ga(SnAu)2
+_chemical_formula_sum   'Cd4 Ga1 Sn2 Au2'
+_cell_volume   202.81329894
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.55913108  0.67334603  0.96387359  1
+  Cd  Cd1  1  0.78300844  0.04520871  0.41432650  1
+  Cd  Cd2  1  0.44408460  0.03273643  0.73496939  1
+  Cd  Cd3  1  0.21897806  0.66082505  0.28403254  1
+  Ga  Ga4  1  0.00183357  0.35304725  0.84920333  1
+  Sn  Sn5  1  0.12787293  0.05929272  0.10174611  1
+  Sn  Sn6  1  0.87480172  0.64740718  0.59715301  1
+  Au  Au7  1  0.34515643  0.35660658  0.53813874  1
+  Au  Au8  1  0.65744999  0.34964066  0.16080709  1

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SCuAuCuAuS3
+_chemical_formula_sum              "S4 Cu2 Au2"
+_cell_length_a       6.720491929958426
+_cell_length_b       7.2115968268230155
+_cell_length_c       5.548574690710634
+_cell_angle_alpha    73.50393835927338
+_cell_angle_beta     72.4956770309194
+_cell_angle_gamma    62.11932535914123
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.6174859507176506  0.09047431321248836  0.9889381034455771  1.0000
+  Cu  Cu1       1.0  0.42031942325769717  0.8917516180465104  0.177633671358763  1.0000
+  Au  Au1       1.0  0.9201957056854184  0.3917996216860392  0.17786454891672915  1.0000
+  Cu  Cu2       1.0  0.9203508065316363  0.8917447985737529  0.1776357964040169  1.0000
+  Au  Au2       1.0  0.420461994833519  0.3917138168466379  0.17743906958764033  1.0000
+  S   S2        1.0  0.7231660494813447  0.6930570358022242  0.3663348104995542  1.0000
+  S   S3        1.0  0.22332530071855178  0.6928590991827973  0.36613260867480624  1.0000
+  S   S4        1.0  0.11732679359784955  0.09064321035302159  0.9891986975597062  1.0000

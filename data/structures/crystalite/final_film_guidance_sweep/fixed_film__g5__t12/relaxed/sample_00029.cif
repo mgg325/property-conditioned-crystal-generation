@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Rb3Ga3(Tc4Br)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   35.52058913
+_cell_length_b   9.34490066
+_cell_length_c   6.41077008
+_cell_angle_alpha   57.33836710
+_cell_angle_beta   17.30211663
+_cell_angle_gamma   55.80205521
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb3Ga3(Tc4Br)2
+_chemical_formula_sum   'Rb3 Ga3 Tc8 Br2'
+_cell_volume   523.41446259
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.06572398  0.09067363  0.42329495  1
+  Rb  Rb1  1  0.08307571  0.80827940  0.84786073  1
+  Rb  Rb2  1  0.56614014  0.17787833  1.10802490  1
+  Ga  Ga3  1  0.44904200  0.76935787  0.42800408  1
+  Ga  Ga4  1  0.51818365  0.53512646  1.05499844  1
+  Ga  Ga5  1  0.48182229  0.77698967  0.25096786  1
+  Tc  Tc6  1  0.90336427  0.36979076  0.18594800  1
+  Tc  Tc7  1  0.18846464  0.49534389  -0.18366784  1
+  Tc  Tc8  1  0.67300467  0.06028963  0.25212958  1
+  Tc  Tc9  1  -0.01968075  1.03913844  0.51991618  1
+  Tc  Tc10  1  0.35794203  0.05250090  0.67336353  1
+  Tc  Tc11  1  0.26788761  0.30340337  0.34371135  1
+  Tc  Tc12  1  -0.03496799  0.54403249  0.90623509  1
+  Tc  Tc13  1  0.44953471  0.88988816  1.01174448  1
+  Br  Br14  1  0.56386474  0.49478085  0.17336152  1
+  Br  Br15  1  0.58996188  0.46985704  0.42167427  1

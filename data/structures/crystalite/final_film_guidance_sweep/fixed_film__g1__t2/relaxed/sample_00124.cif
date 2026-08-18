@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MnZnCoP2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32402785
+_cell_length_b   5.41121388
+_cell_length_c   8.78079444
+_cell_angle_alpha   99.60369759
+_cell_angle_beta   99.20229781
+_cell_angle_gamma   116.30838677
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZnCoP2O9
+_chemical_formula_sum   'Mn1 Zn1 Co1 P2 O9'
+_cell_volume   215.62098487
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.71502060  0.74717719  0.46058573  1
+  Zn  Zn1  1  0.98197337  0.51958840  0.03296824  1
+  Co  Co2  1  0.36964430  0.09403122  0.67882685  1
+  P  P3  1  0.86136143  0.30555891  0.59540238  1
+  P  P4  1  0.32896957  0.15260500  0.03520771  1
+  O  O5  1  0.55515652  0.03389301  0.49912693  1
+  O  O6  1  0.81161743  0.37079292  0.76363232  1
+  O  O7  1  0.13978789  0.92387993  0.11152579  1
+  O  O8  1  0.95662295  0.56337053  0.52453243  1
+  O  O9  1  0.39130709  0.44816771  0.42059868  1
+  O  O10  1  0.05217872  0.15364650  0.57780853  1
+  O  O11  1  0.65700427  0.25580424  0.09710069  1
+  O  O12  1  0.23904201  0.99832388  0.84959000  1
+  O  O13  1  0.28511815  0.41656177  0.06110755  1

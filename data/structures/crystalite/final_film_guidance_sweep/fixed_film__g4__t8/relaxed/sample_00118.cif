@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_GaBi8SbTePbSe2Xe5Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.94103938
+_cell_length_b   8.47018185
+_cell_length_c   8.63040265
+_cell_angle_alpha   109.00668514
+_cell_angle_beta   111.38089261
+_cell_angle_gamma   116.04439990
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaBi8SbTePbSe2Xe5Br
+_chemical_formula_sum   'Ga1 Bi8 Sb1 Te1 Pb1 Se2 Xe5 Br1'
+_cell_volume   445.20763056
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.33150372  0.61268682  0.51285876  1
+  Bi  Bi1  1  -0.02837613  0.54847208  0.66317595  1
+  Bi  Bi2  1  0.70633141  0.80614235  0.67916233  1
+  Bi  Bi3  1  0.30568927  0.85806215  0.71293613  1
+  Bi  Bi4  1  0.63460538  0.40689057  0.64087096  1
+  Bi  Bi5  1  0.28332533  0.35898224  0.59634004  1
+  Bi  Bi6  1  0.86910998  0.82155598  0.39719212  1
+  Bi  Bi7  1  0.78630729  0.37550372  0.23681022  1
+  Bi  Bi8  1  0.93393012  0.17973164  0.72011481  1
+  Sb  Sb9  1  0.18689435  0.65119941  0.24913351  1
+  Te  Te10  1  0.61942977  1.05818469  0.37174417  1
+  Pb  Pb11  1  0.43109256  0.21950099  0.77166386  1
+  Se  Se12  1  0.93627182  0.18766112  0.28942665  1
+  Se  Se13  1  0.80067946  0.34014810  0.92682771  1
+  Xe  Xe14  1  0.40423887  0.62446542  1.02537107  1
+  Xe  Xe15  1  0.15548698  0.87502427  0.09261410  1
+  Xe  Xe16  1  0.94146364  0.14924378  0.29030937  1
+  Xe  Xe17  1  0.17536334  0.11452053  0.87286394  1
+  Xe  Xe18  1  0.09104971  0.16439830  0.15018749  1
+  Br  Br19  1  0.52442700  0.41007138  0.29729991  1

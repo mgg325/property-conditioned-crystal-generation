@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Sm2CoOs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.32475963
+_cell_length_b   4.10767288
+_cell_length_c   5.57347157
+_cell_angle_alpha   89.99057464
+_cell_angle_beta   112.83405677
+_cell_angle_gamma   90.00147400
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2CoOs
+_chemical_formula_sum   'Sm2 Co1 Os1'
+_cell_volume   91.25180420
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.90400221  0.83040658  0.89382966  1
+  Sm  Sm1  1  0.19550396  0.33038876  0.47680466  1
+  Co  Co2  1  0.60405663  0.83040765  0.29390333  1
+  Os  Os3  1  0.49004570  0.33055524  0.06583365  1

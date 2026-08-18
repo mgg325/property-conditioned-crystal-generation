@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LiMg2Be2Pt5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.06573188
+_cell_length_b   9.50545611
+_cell_length_c   9.50696102
+_cell_angle_alpha   90.00538932
+_cell_angle_beta   89.99634189
+_cell_angle_gamma   90.00159777
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMg2Be2Pt5
+_chemical_formula_sum   'Li2 Mg4 Be4 Pt10'
+_cell_volume   277.04405873
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.12260356  0.33433539  0.67873300  1
+  Li  Li1  1  0.12324670  0.83430462  0.17934553  1
+  Mg  Mg2  1  0.12191820  0.50864992  0.00375881  1
+  Mg  Mg3  1  0.12214515  0.00904045  0.85371148  1
+  Mg  Mg4  1  0.12239914  0.65880772  0.50386228  1
+  Mg  Mg5  1  0.12251915  0.15834999  0.35353333  1
+  Be  Be6  1  0.12350490  0.20492763  0.04907576  1
+  Be  Be7  1  0.12237012  0.70496529  0.80874563  1
+  Be  Be8  1  0.12322260  0.46334024  0.30818330  1
+  Be  Be9  1  0.12229140  0.96306886  0.54961565  1
+  Pt  Pt10  1  0.62326889  0.03749942  0.10794815  1
+  Pt  Pt11  1  0.62279147  0.90402951  0.38244803  1
+  Pt  Pt12  1  0.62291871  0.76355779  0.97594918  1
+  Pt  Pt13  1  0.62356091  0.63049245  0.24921683  1
+  Pt  Pt14  1  0.62221434  0.13047005  0.60830405  1
+  Pt  Pt15  1  0.62346115  0.26392027  0.88193145  1
+  Pt  Pt16  1  0.62264411  0.40383210  0.47530894  1
+  Pt  Pt17  1  0.62192038  0.83396251  0.67903922  1
+  Pt  Pt18  1  0.62228572  0.53770349  0.74926834  1
+  Pt  Pt19  1  0.62298376  0.33381366  0.17900408  1

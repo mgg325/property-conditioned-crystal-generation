@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       MgTmMgTm2Cu2MgCu
+_chemical_formula_sum              "Mg3 Tm3 Cu3"
+_cell_length_a       3.7831957033177117
+_cell_length_b       7.414363632482915
+_cell_length_c       7.422222137451172
+_cell_angle_alpha    119.47869674059591
+_cell_angle_beta     88.67780762666422
+_cell_angle_gamma    89.7689304200542
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9272321462631226  0.7886610627174377  0.5334751605987549  1.0000
+  Tm  Tm1       1.0  0.42789071798324585  0.44659748673439026  0.19231429696083072  1.0000
+  Mg  Mg2       1.0  0.9284113645553589  0.03481258079409599  0.02450758963823319  1.0000
+  Tm  Tm2       1.0  0.42598026990890503  0.6194877028465271  0.7800210714340211  1.0000
+  Tm  Tm3       1.0  0.42635756731033325  0.03260503336787224  0.36687067151069647  1.0000
+  Cu  Cu1       1.0  0.9251800775527954  0.3667239248752594  0.44646245241165167  1.0000
+  Cu  Cu2       1.0  0.9270485043525696  0.7001423835754395  0.11092800647020341  1.0000
+  Mg  Mg3       1.0  0.9278005361557007  0.2811411917209625  0.7785428762435914  1.0000
+  Cu  Cu3       1.0  0.4271056354045868  0.03316688910126686  0.7798147797584535  1.0000

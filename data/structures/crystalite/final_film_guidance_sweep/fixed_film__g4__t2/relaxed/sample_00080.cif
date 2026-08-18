@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CaSi(NF3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73598531
+_cell_length_b   5.86595672
+_cell_length_c   6.20819612
+_cell_angle_alpha   58.38676652
+_cell_angle_beta   58.89754276
+_cell_angle_gamma   56.79767450
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaSi(NF3)2
+_chemical_formula_sum   'Ca1 Si1 N2 F6'
+_cell_volume   140.91447483
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.43025644  0.12325418  0.70746742  1
+  Si  Si1  1  -0.07968419  0.63770984  0.21557503  1
+  N  N2  1  0.09382512  0.81298582  0.53517639  1
+  N  N3  1  0.70532587  0.45275396  0.91797921  1
+  F  F4  1  0.12714828  0.84748199  0.01035580  1
+  F  F5  1  0.13739349  0.43168926  1.00323874  1
+  F  F6  1  0.70761342  0.84362666  0.41983364  1
+  F  F7  1  0.15627781  0.40317699  0.40154215  1
+  F  F8  1  0.68535991  0.87340449  1.02368374  1
+  F  F9  1  0.71208027  0.42988169  0.42099047  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_AcTc5SeXe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.71110446
+_cell_length_b   1.94356105
+_cell_length_c   6.68086444
+_cell_angle_alpha   106.35766306
+_cell_angle_beta   112.95741828
+_cell_angle_gamma   100.78054030
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcTc5SeXe
+_chemical_formula_sum   'Ac1 Tc5 Se1 Xe1'
+_cell_volume   50.90408156
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.67510663  0.44624867  0.70269035  1
+  Tc  Tc1  1  0.56442147  0.25180317  0.06992615  1
+  Tc  Tc2  1  0.09788163  -0.00986698  0.59807230  1
+  Tc  Tc3  1  0.48472456  0.67872234  0.35285634  1
+  Tc  Tc4  1  0.12434976  0.67239068  0.89785296  1
+  Tc  Tc5  1  0.01448853  0.50898052  0.14277735  1
+  Se  Se6  1  0.86859158  0.13612408  0.33275344  1
+  Xe  Xe7  1  0.54854320  0.91215492  0.73619307  1

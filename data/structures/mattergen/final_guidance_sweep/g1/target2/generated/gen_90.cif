@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiCOSO
+_chemical_formula_sum              "Li1 C1 O2 S1"
+_cell_length_a       3.79923661179529
+_cell_length_b       4.972371204421572
+_cell_length_c       4.563316345214844
+_cell_angle_alpha    66.36491830153412
+_cell_angle_beta     77.9766761198308
+_cell_angle_gamma    68.45702895264745
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.44000214338302607  0.7717295289039613  0.9734739065170288  1.0000
+  C   C1        1.0  0.06047869473695755  0.24192436039447787  0.34562140703201294  1.0000
+  O   O1        1.0  0.03737228363752366  0.5000554919242859  0.12249293178319931  1.0000
+  S   S1        1.0  0.7629504799842834  0.24129094183444977  0.6800554394721985  1.0000
+  O   O2        1.0  0.30127763748168945  0.9925223588943481  0.32863280177116394  1.0000

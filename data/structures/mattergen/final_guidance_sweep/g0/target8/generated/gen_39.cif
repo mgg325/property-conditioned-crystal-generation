@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       HAlMgH2LiH3
+_chemical_formula_sum              "H6 Al1 Mg1 Li1"
+_cell_length_a       4.683386796603865
+_cell_length_b       4.683297268440298
+_cell_length_c       4.215214729309082
+_cell_angle_alpha    89.9875169193592
+_cell_angle_beta     90.11558979419618
+_cell_angle_gamma    120.14208451157292
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.8311607241630554  0.7501477003097533  0.989694356918335  1.0000
+  Al  Al1       1.0  0.14318346977233887  0.06309962272644042  0.2240854501724243  1.0000
+  Mg  Mg1       1.0  0.47638946771621693  0.7268334627151488  0.7256805896759033  1.0000
+  H   H2        1.0  0.4537554979324341  0.06488522887229918  0.9878163933753967  1.0000
+  H   H3        1.0  0.8360275030136108  0.06715445220470428  0.45988574624061584  1.0000
+  Li  Li1       1.0  0.811001718044281  0.39437514543533325  0.22172847390174866  1.0000
+  H   H4        1.0  0.45648303627967834  0.37067344784736633  0.4579235911369324  1.0000
+  H   H5        1.0  0.1394911557435989  0.37030079960823054  0.987998366355896  1.0000
+  H   H6        1.0  0.13772112131118774  0.752793550491333  0.45955872535705566  1.0000

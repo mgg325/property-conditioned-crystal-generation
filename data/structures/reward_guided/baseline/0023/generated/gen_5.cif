@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaCa2NaGa2
+_chemical_formula_sum              "Na2 Ca2 Ga2"
+_cell_length_a       3.81520080273188
+_cell_length_b       4.4000220735908
+_cell_length_c       10.56536865234375
+_cell_angle_alpha    89.53637610453892
+_cell_angle_beta     90.06714326087595
+_cell_angle_gamma    89.84776440777789
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.21414729952812192  0.7365081906318665  0.3079189360141754  1.0000
+  Ca  Ca1       1.0  0.713736593723297  0.2369854748249054  0.08933395892381668  1.0000
+  Ca  Ca2       1.0  0.7133775949478148  0.7367024421691895  0.7631777524948119  1.0000
+  Na  Na2       1.0  0.21229092776775357  0.2364751696586609  0.5426984429359436  1.0000
+  Ga  Ga1       1.0  0.2123119682073593  0.23534345626831055  0.8503400087356567  1.0000
+  Ga  Ga2       1.0  0.2149151563644409  0.7370041608810425  0.0016999808140099049  1.0000

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Li2Nd(AgPb)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.72688779
+_cell_length_b   4.72153243
+_cell_length_c   8.72978222
+_cell_angle_alpha   105.70096408
+_cell_angle_beta   90.06357430
+_cell_angle_gamma   120.01198938
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Nd(AgPb)2
+_chemical_formula_sum   'Li2 Nd1 Ag2 Pb2'
+_cell_volume   160.22348168
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.06006099  0.55863330  0.33326815  1
+  Li  Li1  1  0.94317786  0.32210919  0.98080278  1
+  Nd  Nd2  1  0.50163686  0.44021425  0.65704497  1
+  Ag  Ag3  1  0.36423809  0.16674759  0.24521890  1
+  Ag  Ag4  1  0.63922495  0.71476689  0.06940131  1
+  Pb  Pb5  1  0.75896615  0.95525288  0.42844844  1
+  Pb  Pb6  1  0.24471624  0.92557731  0.88532731  1

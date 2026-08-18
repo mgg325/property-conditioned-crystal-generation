@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_GeN3F8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.42560979
+_cell_length_b   12.20795168
+_cell_length_c   11.83680901
+_cell_angle_alpha   89.82620825
+_cell_angle_beta   90.35649716
+_cell_angle_gamma   89.50550676
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GeN3F8
+_chemical_formula_sum   'Ge1 N3 F8'
+_cell_volume   1217.45280102
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  1.04839818  0.61329911  0.28153628  1
+  N  N1  1  0.17174165  0.94619970  0.59772841  1
+  N  N2  1  0.11140709  0.19229875  0.18631602  1
+  N  N3  1  0.54401967  0.01977222  0.15852797  1
+  F  F4  1  1.01334109  0.95953568  0.60189428  1
+  F  F5  1  0.32236832  0.48227348  0.70102201  1
+  F  F6  1  0.18728670  0.53111574  0.35295046  1
+  F  F7  1  0.22551340  0.05265413  0.60862642  1
+  F  F8  1  0.87069440  0.66158861  0.96718653  1
+  F  F9  1  0.98458181  0.30154539  0.17055546  1
+  F  F10  1  0.17789835  0.66588070  0.17782950  1
+  F  F11  1  0.78484214  0.08429833  0.65033670  1

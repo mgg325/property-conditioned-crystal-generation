@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       K3Hg2K3
+_chemical_formula_sum              "K6 Hg2"
+_cell_length_a       7.278991832241736
+_cell_length_b       7.309888149351522
+_cell_length_c       7.310197353363037
+_cell_angle_alpha    89.3546043056545
+_cell_angle_beta     88.70643976638452
+_cell_angle_gamma    88.95703935851367
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.5336750149726868  0.2943482995033264  0.63051837682724  1.0000
+  K   K2        1.0  0.5352045893669128  0.29693219065666204  0.12948854267597198  1.0000
+  K   K3        1.0  0.03329124301671982  0.5467893481254578  0.8818576335906982  1.0000
+  Hg  Hg1       1.0  0.03287088871002197  0.29514041543006897  0.3822929859161377  1.0000
+  Hg  Hg2       1.0  0.5331366062164307  0.7943093180656434  0.8811523914337158  1.0000
+  K   K4        1.0  0.03409028798341751  0.0462045893073082  0.8804153800010681  1.0000
+  K   K5        1.0  0.7822060585021973  0.7964405417442322  0.38125112652778625  1.0000
+  K   K6        1.0  0.2840818464756012  0.7936819195747375  0.38335251808166504  1.0000

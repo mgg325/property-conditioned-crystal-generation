@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MgErMgLiMg2Cd2
+_chemical_formula_sum              "Mg4 Er1 Li1 Cd2"
+_cell_length_a       4.605246124732048
+_cell_length_b       4.637476045078909
+_cell_length_c       8.278864860534668
+_cell_angle_alpha    90.99625390127987
+_cell_angle_beta     91.48647700752979
+_cell_angle_gamma    89.51125469764986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.015163050033152103  0.32515856623649597  0.4950595498085022  1.0000
+  Er  Er1       1.0  0.014833806082606316  0.8247217535972595  0.22897085547447205  1.0000
+  Mg  Mg2       1.0  0.015411743894219398  0.32420846819877625  0.9628262519836426  1.0000
+  Li  Li1       1.0  0.01515969354659319  0.8243311643600464  0.7311058640480042  1.0000
+  Mg  Mg3       1.0  0.5141649842262268  0.3252882957458496  0.7310576438903809  1.0000
+  Mg  Mg4       1.0  0.514706015586853  0.3254004716873169  0.2306811809539795  1.0000
+  Cd  Cd1       1.0  0.5150414109230042  0.8247433304786682  0.9628419280052185  1.0000
+  Cd  Cd2       1.0  0.512986958026886  0.824185848236084  0.4954964518547058  1.0000

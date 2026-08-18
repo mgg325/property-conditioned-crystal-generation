@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SmUNbGeSb6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08683403
+_cell_length_b   8.35896006
+_cell_length_c   8.61240041
+_cell_angle_alpha   117.72301746
+_cell_angle_beta   89.83443698
+_cell_angle_gamma   88.94972705
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmUNbGeSb6
+_chemical_formula_sum   'Sm1 U1 Nb1 Ge1 Sb6'
+_cell_volume   260.37489528
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.74217304  0.68710236  0.90615738  1
+  U  U1  1  0.22692727  0.37011043  0.36360559  1
+  Nb  Nb2  1  0.22551915  0.97294436  0.59375989  1
+  Ge  Ge3  1  0.72511433  0.13122127  0.80851954  1
+  Sb  Sb4  1  0.73272348  0.09973460  0.40878469  1
+  Sb  Sb5  1  0.23077753  0.76279559  0.22540203  1
+  Sb  Sb6  1  0.23858838  1.01581617  0.96774971  1
+  Sb  Sb7  1  0.73128607  0.69788365  0.54422734  1
+  Sb  Sb8  1  0.72137598  0.45206552  0.13038578  1
+  Sb  Sb9  1  0.25412056  0.35746787  0.71882532  1

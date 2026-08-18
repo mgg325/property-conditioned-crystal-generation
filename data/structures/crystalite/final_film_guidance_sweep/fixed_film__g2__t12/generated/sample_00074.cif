@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Zr2ReBi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.92884016
+_cell_length_b   5.36656237
+_cell_length_c   4.42525673
+_cell_angle_alpha   89.12448120
+_cell_angle_beta   88.86279297
+_cell_angle_gamma   118.65849304
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2ReBi
+_chemical_formula_sum   'Zr2 Re1 Bi1'
+_cell_volume   102.65127377
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.48902458  0.61170977  0.16540438  1
+  Zr  Zr1  1  0.91568518  0.22062117  0.19546714  1
+  Re  Re2  1  0.73729551  0.36470738  0.69012022  1
+  Zr  Zr3  1  0.30601466  0.75537068  0.64107186  1

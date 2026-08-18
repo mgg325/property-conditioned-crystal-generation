@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na2AlAg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.88456961
+_cell_length_b   6.85522658
+_cell_length_c   6.87562982
+_cell_angle_alpha   90.02093201
+_cell_angle_beta   90.00931670
+_cell_angle_gamma   89.99836253
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2AlAg2
+_chemical_formula_sum   'Na4 Al2 Ag4'
+_cell_volume   230.22928687
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.32987158  0.53174999  0.06327099  1
+  Na  Na1  1  0.32995145  0.37496321  0.56239640  1
+  Na  Na2  1  0.33005753  0.87476445  0.72056098  1
+  Na  Na3  1  0.32995284  0.03209406  0.22031493  1
+  Al  Al4  1  0.83011859  0.70320522  0.39187602  1
+  Al  Al5  1  0.83032617  0.20310836  0.89161684  1
+  Ag  Ag6  1  0.83041614  0.05858946  0.53686805  1
+  Ag  Ag7  1  0.83032427  0.55838267  0.74617417  1
+  Ag  Ag8  1  0.83038921  0.84771426  0.03748752  1
+  Ag  Ag9  1  0.83078481  0.34801125  0.24606944  1

@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       BaSO
+_chemical_formula_sum              "Ba1 S1 O1"
+_cell_length_a       4.419681838419875
+_cell_length_b       4.418738333318861
+_cell_length_c       4.889290074452806
+_cell_angle_alpha    116.79900268913657
+_cell_angle_beta     116.67164363675336
+_cell_angle_gamma    90.00344311918288
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.49167130489657734  0.13330126045865381  0.23924903119079396  1.0000
+  S   S1        1.0  0.9190468012156059  0.560002474891615  0.09255047441072083  1.0000
+  O   O1        1.0  0.14116098850053305  0.7807808385033743  0.5320729702324332  1.0000

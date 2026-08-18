@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_RbNaMgIn2S9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.54558551
+_cell_length_b   7.44891507
+_cell_length_c   8.11793831
+_cell_angle_alpha   100.53692216
+_cell_angle_beta   92.77222909
+_cell_angle_gamma   91.92543153
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbNaMgIn2S9
+_chemical_formula_sum   'Rb1 Na1 Mg1 In2 S9'
+_cell_volume   388.31738608
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.27289341  0.26061241  0.52798215  1
+  Na  Na1  1  0.73715714  0.70724228  0.41299130  1
+  Mg  Mg2  1  0.69153888  0.41017546  0.93788219  1
+  In  In3  1  0.78193076  0.02288712  0.00998796  1
+  In  In4  1  0.31385037  0.77232635  0.87453864  1
+  S  S5  1  0.37897587  0.21183390  0.11625207  1
+  S  S6  1  0.13728307  0.87025460  0.63187726  1
+  S  S7  1  0.16519121  1.00116017  0.12699480  1
+  S  S8  1  0.66429198  0.10752051  0.74803984  1
+  S  S9  1  0.74444131  0.31283474  0.22004500  1
+  S  S10  1  0.90770162  0.53354268  0.72640766  1
+  S  S11  1  0.11499062  0.48687982  0.91620428  1
+  S  S12  1  0.30229348  0.69702055  0.46817919  1
+  S  S13  1  0.61221858  0.73501459  0.06446076  1

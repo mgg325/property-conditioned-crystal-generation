@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       RhTeRhITe2ITe
+_chemical_formula_sum              "Rh2 Te4 I2"
+_cell_length_a       4.150613441352394
+_cell_length_b       7.079354471742464
+_cell_length_c       9.102727470724469
+_cell_angle_alpha    90.07907932942067
+_cell_angle_beta     116.23418197600726
+_cell_angle_gamma    91.4255517088642
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.9535197989448754  0.8129069845272571  0.3663350826507811  1.0000
+  Te  Te1       1.0  0.7958995271965265  0.4789270113182463  0.21047258360463317  1.0000
+  Rh  Rh2       1.0  0.45323858874387246  0.31290825755866053  0.3663066572611993  1.0000
+  I   I1        1.0  0.20419490531770415  0.5634224094669236  0.8663588015295649  1.0000
+  Te  Te2       1.0  0.11059061131511827  0.14704203982900826  0.5221324000425434  1.0000
+  Te  Te3       1.0  0.6108741725053012  0.646919611324205  0.5221846816215372  1.0000
+  I   I2        1.0  0.7043603977673731  0.06343014251386771  0.866328213730946  1.0000
+  Te  Te4       1.0  0.2962382389162163  0.9788179214873612  0.21051730305456667  1.0000

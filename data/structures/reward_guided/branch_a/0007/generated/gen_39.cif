@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiAlBe2
+_chemical_formula_sum              "Li1 Al1 Be2"
+_cell_length_a       3.9188864582609755
+_cell_length_b       3.940445255887131
+_cell_length_c       3.96539306640625
+_cell_angle_alpha    118.7013260681658
+_cell_angle_beta     88.6967136180427
+_cell_angle_gamma    118.41299312892713
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.443765014410019  0.9471722245216371  0.6684728860855103  1.0000
+  Al  Al1       1.0  0.9429668188095094  0.9440831542015077  0.16952583193778992  1.0000
+  Be  Be1       1.0  0.6940285563468933  0.44543564319610596  0.4199759960174561  1.0000
+  Be  Be2       1.0  0.19510132074356082  0.4463136196136475  0.9210298657417298  1.0000

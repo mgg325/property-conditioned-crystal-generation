@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_La2PdRhO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31831892
+_cell_length_b   5.39877052
+_cell_length_c   5.91328832
+_cell_angle_alpha   117.13578451
+_cell_angle_beta   112.00617457
+_cell_angle_gamma   90.00688762
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2PdRhO6
+_chemical_formula_sum   'La2 Pd1 Rh1 O6'
+_cell_volume   137.04530711
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.39850121  0.81837679  0.13589868  1
+  La  La1  1  0.95695110  0.34674530  0.19291156  1
+  Pd  Pd2  1  0.67769197  0.58245171  0.66438032  1
+  Rh  Rh3  1  0.17770657  0.08239201  0.66443291  1
+  O  O4  1  0.48150767  0.27945226  0.05943155  1
+  O  O5  1  0.36126882  0.75182265  0.50761787  1
+  O  O6  1  0.99381169  0.90885496  0.82125011  1
+  O  O7  1  0.87388642  0.88479195  0.26948185  1
+  O  O8  1  0.36143148  0.25609024  0.50760610  1
+  O  O9  1  0.99429275  0.41308600  0.82117299  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Tl4InBiPbSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.81533524
+_cell_length_b   7.07840327
+_cell_length_c   8.11094818
+_cell_angle_alpha   77.37497367
+_cell_angle_beta   63.98183651
+_cell_angle_gamma   61.53873634
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl4InBiPbSe3
+_chemical_formula_sum   'Tl4 In1 Bi1 Pb1 Se3'
+_cell_volume   354.46536351
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.88031995  0.48180093  0.06269283  1
+  Tl  Tl1  1  0.67123512  0.11429118  0.20393174  1
+  Tl  Tl2  1  0.81403749  0.52874958  0.60736456  1
+  Tl  Tl3  1  0.22581270  0.65456908  0.15650346  1
+  In  In4  1  0.27083010  0.02129035  0.57988415  1
+  Bi  Bi5  1  0.85981435  0.00034542  0.55212435  1
+  Pb  Pb6  1  0.39775997  0.35563902  0.72035039  1
+  Se  Se7  1  0.46941292  0.55659082  0.39130773  1
+  Se  Se8  1  1.04300486  0.85454591  0.85437216  1
+  Se  Se9  1  0.18180057  0.21417261  0.28955899  1

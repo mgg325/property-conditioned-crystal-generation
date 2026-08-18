@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CsLiCaBeSiPSeO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.44670344
+_cell_length_b   2.92985089
+_cell_length_c   5.25471284
+_cell_angle_alpha   85.68601864
+_cell_angle_beta   90.33610489
+_cell_angle_gamma   75.56296764
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsLiCaBeSiPSeO7
+_chemical_formula_sum   'Cs1 Li1 Ca1 Be1 Si1 P1 Se1 O7'
+_cell_volume   36.36362801
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.57676654  0.04247455  0.82159804  1
+  Li  Li1  1  0.06244688  0.26485473  0.57889311  1
+  Ca  Ca2  1  0.36475674  0.72408506  0.61268094  1
+  Be  Be3  1  0.07503518  0.08479355  0.16329803  1
+  Si  Si4  1  0.29636086  0.73662568  0.56575558  1
+  P  P5  1  0.40109394  0.04005434  0.65730080  1
+  Se  Se6  1  0.28573327  0.72369845  0.56587658  1
+  O  O7  1  0.82838316  0.72104831  0.74771946  1
+  O  O8  1  0.37388824  0.62169144  0.61768464  1
+  O  O9  1  0.91258984  0.75786830  0.79945229  1
+  O  O10  1  0.99077211  0.19684006  0.58614472  1
+  O  O11  1  0.96025274  0.34533885  0.90913178  1
+  O  O12  1  0.18709410  0.20938144  0.59383472  1
+  O  O13  1  0.45347860  0.23538680  0.25005916  1

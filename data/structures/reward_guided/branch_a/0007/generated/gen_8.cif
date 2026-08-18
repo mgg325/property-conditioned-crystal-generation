@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BiH4Bi
+_chemical_formula_sum              "Bi2 H4"
+_cell_length_a       3.5019498102742475
+_cell_length_b       4.641187530587632
+_cell_length_c       7.6132097244262695
+_cell_angle_alpha    88.18248244675254
+_cell_angle_beta     88.98117727681955
+_cell_angle_gamma    88.97424454049666
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.5755183696746826  0.1910392791032791  0.3113816976547241  1.0000
+  H   H1        1.0  0.9811711907386781  0.19274745881557465  0.7772095799446106  1.0000
+  H   H2        1.0  0.1754613816738129  0.6941706538200378  0.5939088463783264  1.0000
+  H   H3        1.0  0.9787528514862062  0.693766176700592  0.5812538862228394  1.0000
+  H   H4        1.0  0.17589703202247622  0.19280189275741574  0.7920240759849548  1.0000
+  Bi  Bi2       1.0  0.5786789059638977  0.6966981887817383  0.05762822553515434  1.0000

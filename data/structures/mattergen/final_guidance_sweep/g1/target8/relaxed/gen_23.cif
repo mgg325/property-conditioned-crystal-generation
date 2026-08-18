@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnONPt
+_chemical_formula_sum              "Mn1 O1 N1 Pt1"
+_cell_length_a       3.4028401711076093
+_cell_length_b       3.382361722743457
+_cell_length_c       8.218512129544113
+_cell_angle_alpha    91.56746892099255
+_cell_angle_beta     101.45770794313586
+_cell_angle_gamma    120.44572857172338
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.022447875871162898  0.09763711341158228  0.5597909566492395  1.0000
+  O   O1        1.0  0.36193594636109455  0.7715851295596984  0.5677833592468617  1.0000
+  N   N1        1.0  0.04617999995725963  0.6178197035915239  0.09103558187073046  1.0000
+  Pt  Pt1       1.0  0.37821167633843755  0.28681670193774317  0.08836721970455419  1.0000

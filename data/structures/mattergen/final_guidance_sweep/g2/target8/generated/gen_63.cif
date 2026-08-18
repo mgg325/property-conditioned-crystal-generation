@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Cu2LiYCu
+_chemical_formula_sum              "Cu3 Li1 Y1"
+_cell_length_a       3.7882082369673418
+_cell_length_b       3.795250899615543
+_cell_length_c       6.290820598602295
+_cell_angle_alpha    107.56250819925698
+_cell_angle_beta     107.48354397622369
+_cell_angle_gamma    90.00715419557748
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.8723246455192566  0.6655617952346801  0.9024693965911865  1.0000
+  Cu  Cu2       1.0  0.6604397892951965  0.45408034324645996  0.47869354486465454  1.0000
+  Li  Li1       1.0  0.5166218876838684  0.8096117973327637  0.19053499400615692  1.0000
+  Y   Y1        1.0  0.26694154739379883  0.05940232053399085  0.6904906034469604  1.0000
+  Cu  Cu3       1.0  0.017078308388590813  0.3097330927848816  0.19064956903457642  1.0000

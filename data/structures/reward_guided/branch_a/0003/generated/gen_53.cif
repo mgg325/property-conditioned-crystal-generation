@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Pr2SmPrSmPrHo2Pr
+_chemical_formula_sum              "Pr5 Sm2 Ho2"
+_cell_length_a       5.131315494666682
+_cell_length_b       8.15885988904041
+_cell_length_c       8.1643648147583
+_cell_angle_alpha    84.48163297548767
+_cell_angle_beta     72.63132916881919
+_cell_angle_gamma    72.18970991371512
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.7113490104675292  0.9694530367851257  0.7329950928688049  1.0000
+  Pr  Pr2       1.0  0.7147106528282166  0.29267585277557373  0.4003189504146576  1.0000
+  Sm  Sm1       1.0  0.3814024031162262  0.2959215342998504  0.06371550261974335  1.0000
+  Pr  Pr3       1.0  0.046001419425010695  0.6310380101203918  0.39956268668174744  1.0000
+  Sm  Sm2       1.0  0.04428910091519364  0.9675239920616149  0.06666190922260283  1.0000
+  Pr  Pr4       1.0  0.3803040683269501  0.6311923265457153  0.7312167286872864  1.0000
+  Ho  Ho1       1.0  0.04703154042363166  0.29528430104255676  0.7304330468177795  1.0000
+  Ho  Ho2       1.0  0.37996965646743774  0.9668688178062439  0.397986501455307  1.0000
+  Pr  Pr5       1.0  0.711129665374756  0.6298819184303284  0.06571023911237714  1.0000

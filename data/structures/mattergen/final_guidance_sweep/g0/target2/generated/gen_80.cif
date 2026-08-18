@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       O2HCdH
+_chemical_formula_sum              "O2 H2 Cd1"
+_cell_length_a       3.525120996767616
+_cell_length_b       3.552691360211298
+_cell_length_c       4.560948848724365
+_cell_angle_alpha    96.0058083286923
+_cell_angle_beta     83.87586356598133
+_cell_angle_gamma    120.05337573213048
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.7954885959625244  0.6554499864578247  0.1379668116569519  1.0000
+  O   O2        1.0  0.21689759194850924  0.24476327002048495  0.6261457800865173  1.0000
+  H   H1        1.0  0.9103530645370485  0.8333424925804139  0.3186115324497223  1.0000
+  Cd  Cd1       1.0  0.5027986764907838  0.9414048194885255  0.877213180065155  1.0000
+  H   H2        1.0  0.3869832456111908  0.34983682632446295  0.4411727488040924  1.0000

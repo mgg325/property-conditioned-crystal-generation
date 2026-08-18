@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_RbPb3Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20379327
+_cell_length_b   5.20003985
+_cell_length_c   7.22142296
+_cell_angle_alpha   111.08471725
+_cell_angle_beta   111.00764546
+_cell_angle_gamma   90.11512039
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbPb3Au
+_chemical_formula_sum   'Rb1 Pb3 Au1'
+_cell_volume   168.27416276
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.76124449  0.06685921  0.81998009  1
+  Pb  Pb1  1  0.00521656  0.80959099  0.30631893  1
+  Pb  Pb2  1  0.50241785  0.30999557  0.30683175  1
+  Pb  Pb3  1  0.15216343  0.45967397  0.60637766  1
+  Au  Au4  1  0.38642700  0.69056801  0.06787542  1

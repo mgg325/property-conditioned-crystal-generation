@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NbNiGe
+_chemical_formula_sum              "Nb1 Ni1 Ge1"
+_cell_length_a       3.0818268161904783
+_cell_length_b       4.023382694666811
+_cell_length_c       4.037019729614258
+_cell_angle_alpha    118.77977700690504
+_cell_angle_beta     89.65118473552155
+_cell_angle_gamma    88.26949191091725
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.40868401527404785  0.5195258855819702  0.23807686567306524  1.0000
+  Ni  Ni1       1.0  0.9109047651290894  0.18647588789463046  0.5729880332946777  1.0000
+  Ge  Ge1       1.0  0.9086824059486389  0.8532028794288635  0.9040584564208985  1.0000

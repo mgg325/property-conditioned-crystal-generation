@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LiBaLiP4
+_chemical_formula_sum              "Li2 Ba1 P4"
+_cell_length_a       5.6570471713587285
+_cell_length_b       5.64294159921085
+_cell_length_c       5.59106969833374
+_cell_angle_alpha    106.77617466816015
+_cell_angle_beta     107.14235621913124
+_cell_angle_gamma    113.49159829224924
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6895185708999634  0.14712892472743988  0.8958432674407958  1.0000
+  Ba  Ba1       1.0  0.4405665397644043  0.39738720655441284  0.3971336185932159  1.0000
+  Li  Li2       1.0  0.1899060755968094  0.6485159993171692  0.8943668603897094  1.0000
+  P   P1        1.0  0.7749446630477905  0.7337093353271484  0.06861758232116699  1.0000
+  P   P2        1.0  0.10344246029853821  0.06036632880568504  0.7231700420379639  1.0000
+  P   P3        1.0  0.7751610279083252  0.06148741021752357  0.39569991827011103  1.0000
+  P   P4        1.0  0.10695524513721458  0.7355337738990783  0.39434963464736933  1.0000

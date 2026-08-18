@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_KCaGeSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.89006710
+_cell_length_b   6.93117094
+_cell_length_c   6.66798544
+_cell_angle_alpha   53.59363937
+_cell_angle_beta   55.64001846
+_cell_angle_gamma   56.80906677
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCaGeSe2
+_chemical_formula_sum   'K1 Ca1 Ge1 Se2'
+_cell_volume   229.55217793
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.93066663  0.56821120  0.46162334  1
+  Ca  Ca1  1  0.31800133  0.55841058  0.99051750  1
+  Se  Se2  1  0.00067583  0.09223825  0.79456425  1
+  Se  Se3  1  0.80826044  0.25413391  0.45308939  1
+  Ge  Ge4  1  0.37950394  0.36851215  0.90703225  1

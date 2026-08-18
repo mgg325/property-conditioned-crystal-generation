@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_HfTl2(CuSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90255563
+_cell_length_b   7.42114369
+_cell_length_c   8.04098400
+_cell_angle_alpha   106.87492224
+_cell_angle_beta   89.99922044
+_cell_angle_gamma   105.30825407
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfTl2(CuSe2)2
+_chemical_formula_sum   'Hf1 Tl2 Cu2 Se4'
+_cell_volume   214.20193284
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.37623771  0.59295553  0.53898503  1
+  Tl  Tl1  1  0.23729852  0.31582985  0.96806497  1
+  Tl  Tl2  1  0.51499088  0.87087394  0.10990513  1
+  Cu  Cu3  1  0.05804913  0.95605208  0.52754019  1
+  Cu  Cu4  1  0.69410704  0.22961747  0.55106573  1
+  Se  Se5  1  0.18233265  0.20595006  0.35763495  1
+  Se  Se6  1  0.85713889  0.55506047  0.76281047  1
+  Se  Se7  1  0.57007168  0.98011726  0.72126607  1
+  Se  Se8  1  0.89518663  0.63126490  0.31554386  1

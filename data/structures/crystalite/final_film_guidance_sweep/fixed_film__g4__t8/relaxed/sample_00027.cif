@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CsCuAgSnTeSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16983007
+_cell_length_b   6.34030668
+_cell_length_c   9.54461837
+_cell_angle_alpha   90.08720930
+_cell_angle_beta   92.75812220
+_cell_angle_gamma   112.27454970
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsCuAgSnTeSe3
+_chemical_formula_sum   'Cs1 Cu1 Ag1 Sn1 Te1 Se3'
+_cell_volume   233.18669848
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.30172835  0.84678281  0.01698122  1
+  Cu  Cu1  1  1.08392251  0.59438850  0.66970633  1
+  Ag  Ag2  1  0.21549441  0.47527398  0.40290578  1
+  Sn  Sn3  1  0.45114340  0.09571256  0.45635330  1
+  Te  Te4  1  0.47523023  0.37783385  0.75768094  1
+  Se  Se5  1  0.81029154  0.87207649  0.33171985  1
+  Se  Se6  1  0.63188577  0.36014269  0.23454580  1
+  Se  Se7  1  0.70296926  -0.16821125  0.67993052  1

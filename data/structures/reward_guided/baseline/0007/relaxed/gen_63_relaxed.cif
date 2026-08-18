@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_KNa(CuTe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.43921909
+_cell_length_b   4.43987675
+_cell_length_c   9.50801816
+_cell_angle_alpha   90.00662796
+_cell_angle_beta   90.01144871
+_cell_angle_gamma   120.01254306
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNa(CuTe)2
+_chemical_formula_sum   'K1 Na1 Cu2 Te2'
+_cell_volume   162.27185512
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.87504654  0.50215272  0.64706108  1
+  Na  Na1  1  0.87476819  0.50231806  0.14708564  1
+  Cu  Cu2  1  0.54188822  0.83532802  0.92450928  1
+  Cu  Cu3  1  0.20834758  0.16900519  0.36952906  1
+  Te  Te4  1  0.20859968  0.16853379  0.91759099  1
+  Te  Te5  1  0.54157658  0.83569003  0.37656093  1

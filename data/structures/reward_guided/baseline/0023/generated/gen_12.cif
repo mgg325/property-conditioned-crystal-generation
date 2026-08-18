@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       OBaNdO3Ni
+_chemical_formula_sum              "O4 Ba1 Nd1 Ni1"
+_cell_length_a       3.907204037793282
+_cell_length_b       3.8578611069289184
+_cell_length_c       6.938480854034424
+_cell_angle_alpha    106.08483809518404
+_cell_angle_beta     105.93062562668194
+_cell_angle_gamma    91.39355195154444
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.45713967084884644  0.10045094788074493  0.43945243954658514  1.0000
+  Ba  Ba1       1.0  0.3000735640525818  0.44272270798683167  0.12464813143014909  1.0000
+  Nd  Nd1       1.0  0.5805044174194336  0.7204815745353698  0.6829090118408203  1.0000
+  O   O2        1.0  0.10488711297512054  0.2457040250301361  0.7296298146247864  1.0000
+  O   O3        1.0  0.7645007371902466  0.9070095419883727  0.05524639412760735  1.0000
+  O   O4        1.0  0.9595704674720764  0.5993950366973877  0.4381790161132813  1.0000
+  Ni  Ni1       1.0  0.9476883411407471  0.08831349760293959  0.4170391261577607  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       OCdONi
+_chemical_formula_sum              "O2 Cd1 Ni1"
+_cell_length_a       3.1626922848178736
+_cell_length_b       3.1618147731526003
+_cell_length_c       5.5627963965504374
+_cell_angle_alpha    73.52920188234386
+_cell_angle_beta     73.54452600823547
+_cell_angle_gamma    60.068377227746
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.6268138839732889  0.9185842781091205  0.2211154850561658  1.0000
+  Cd  Cd1       1.0  0.3881052730147337  0.6796073711425106  0.9373940208392064  1.0000
+  O   O2        1.0  0.14917102070969018  0.44080732165309544  0.6537442944787585  1.0000
+  Ni  Ni1       1.0  0.8879205395882515  0.17956988986773778  0.4373657418204442  1.0000

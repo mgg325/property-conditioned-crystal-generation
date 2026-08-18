@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Tb2HoU6Ga2Tc3Bi2SbSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.47249674
+_cell_length_b   9.55390412
+_cell_length_c   9.67131074
+_cell_angle_alpha   127.02410745
+_cell_angle_beta   123.02359721
+_cell_angle_gamma   83.21735802
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2HoU6Ga2Tc3Bi2SbSe
+_chemical_formula_sum   'Tb2 Ho1 U6 Ga2 Tc3 Bi2 Sb1 Se1'
+_cell_volume   438.84137363
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.70937544  0.62404303  0.41518129  1
+  Tb  Tb1  1  0.07689390  0.33388688  0.88492070  1
+  Ho  Ho2  1  0.35604278  0.13288157  0.15593413  1
+  U  U3  1  0.26535285  0.22500484  0.46773685  1
+  U  U4  1  0.45528973  0.68688019  0.78472338  1
+  U  U5  1  1.14750144  0.65671234  0.81411326  1
+  U  U6  1  0.90227312  0.24538163  0.43345859  1
+  U  U7  1  0.74545375  0.93320509  0.31239069  1
+  U  U8  1  0.79250156  0.93192635  0.92886622  1
+  Ga  Ga9  1  0.09459384  -0.07555389  0.70069933  1
+  Ga  Ga10  1  0.64641979  0.06335867  0.65646171  1
+  Tc  Tc11  1  0.73103739  0.50227328  0.64437473  1
+  Tc  Tc12  1  0.23143386  0.06244010  0.58495565  1
+  Tc  Tc13  1  0.56134868  0.15443245  0.97633429  1
+  Bi  Bi14  1  0.50930404  0.45503284  0.95505948  1
+  Bi  Bi15  1  0.33865871  0.74181707  0.45470555  1
+  Sb  Sb16  1  -0.02497470  0.72151678  0.08806342  1
+  Se  Se17  1  1.01275056  0.43304626  0.33616406  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LiAlZn6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93474610
+_cell_length_b   3.93844829
+_cell_length_c   7.77718674
+_cell_angle_alpha   90.06367245
+_cell_angle_beta   90.00882264
+_cell_angle_gamma   90.04726622
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAlZn6
+_chemical_formula_sum   'Li1 Al1 Zn6'
+_cell_volume   120.52134432
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.55419725  0.31216814  0.24171013  1
+  Al  Al1  1  0.55355319  0.31212933  0.74238453  1
+  Zn  Zn2  1  0.55379862  0.81340715  0.48742795  1
+  Zn  Zn3  1  0.05418692  0.81332888  0.74228682  1
+  Zn  Zn4  1  0.55503578  0.81192290  0.99670089  1
+  Zn  Zn5  1  0.05353016  0.31219881  0.99714107  1
+  Zn  Zn6  1  0.05429746  0.31371771  0.48783273  1
+  Zn  Zn7  1  0.05371850  0.81305516  0.24258161  1

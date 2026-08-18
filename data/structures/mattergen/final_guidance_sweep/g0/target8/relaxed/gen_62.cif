@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2TeGa2Te3
+_chemical_formula_sum              "Li2 Te4 Ga2"
+_cell_length_a       6.385772455331795
+_cell_length_b       6.38542194680355
+_cell_length_c       7.621013462394106
+_cell_angle_alpha    114.8232828343062
+_cell_angle_beta     114.79305423064321
+_cell_angle_gamma    90.00109559972604
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.17476095315741874  0.1810357401375713  0.3410548153342912  1.0000
+  Li  Li2       1.0  0.9237384759015199  0.43255032427371204  0.840842677891535  1.0000
+  Te  Te1       1.0  0.31474119602609746  0.30701783434867913  0.09077831313422793  1.0000
+  Ga  Ga1       1.0  0.4237380898274253  0.9321443706084608  0.8410529079068572  1.0000
+  Ga  Ga2       1.0  0.6737898961539812  0.6818403964768656  0.3408872944434984  1.0000
+  Te  Te2       1.0  0.7821545956256584  0.8069590699321432  0.09124626867444716  1.0000
+  Te  Te3       1.0  0.04863162722445704  0.5732321427169118  0.5907887844897349  1.0000
+  Te  Te4       1.0  0.5491305781330471  0.040601277766673896  0.5913934778465798  1.0000

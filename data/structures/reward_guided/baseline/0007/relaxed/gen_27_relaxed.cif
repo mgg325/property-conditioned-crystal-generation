@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Dy2Ho3Er
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63862845
+_cell_length_b   8.88664644
+_cell_length_c   8.88636693
+_cell_angle_alpha   66.62344369
+_cell_angle_beta   71.49856593
+_cell_angle_gamma   71.50352771
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2Ho3Er
+_chemical_formula_sum   'Dy4 Ho6 Er2'
+_cell_volume   378.12752355
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.96653406  0.84253637  0.90935669  1
+  Dy  Dy1  1  0.84130618  0.30081472  0.70126873  1
+  Dy  Dy2  1  0.59166749  0.55022182  0.95158626  1
+  Dy  Dy3  1  0.09130155  0.05002324  0.45190355  1
+  Ho  Ho4  1  0.21657303  0.25823926  0.99311442  1
+  Ho  Ho5  1  0.71620761  0.75892650  0.49390759  1
+  Ho  Ho6  1  0.71654688  0.09153947  0.15975514  1
+  Ho  Ho7  1  0.96642767  0.50927713  0.24291655  1
+  Ho  Ho8  1  0.34155481  0.79960556  0.20214584  1
+  Ho  Ho9  1  0.46624497  0.34101435  0.41129730  1
+  Er  Er10  1  0.21627715  0.59261769  0.66002813  1
+  Er  Er11  1  0.46641037  0.00720798  0.74487881  1

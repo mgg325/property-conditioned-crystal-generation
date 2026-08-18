@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Er2GeI2
+_chemical_formula_sum              "Er2 Ge1 I2"
+_cell_length_a       4.190737933463095
+_cell_length_b       4.156808142242784
+_cell_length_c       11.041409492492676
+_cell_angle_alpha    78.34347070051395
+_cell_angle_beta     78.9777851573641
+_cell_angle_gamma    59.66947184569235
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.9517569541931152  0.34771743416786194  0.5114038586616516  1.0000
+  Er  Er2       1.0  0.19493705034255973  0.5893267393112184  0.7935382723808289  1.0000
+  Ge  Ge1       1.0  0.5737802386283875  0.9672152400016785  0.6530313491821289  1.0000
+  I   I1        1.0  0.7979430556297302  0.19360898435115814  0.9801568984985353  1.0000
+  I   I2        1.0  0.34687802195549006  0.742605209350586  0.32575058937072754  1.0000

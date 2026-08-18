@@ -1,0 +1,18 @@
+{
+  "start_policy_dir": "provenance://mattergen/outputs/dielectric_rl/direct_rl_target12_online/matinvent_style_target12_tri_fixed_scaler_gpu/loop_0013/policy_for_generation",
+  "start_iteration_idx": 14,
+  "target": 12.0,
+  "sigma": 2.0,
+  "iterations": 10,
+  "sample_batch_size": 32,
+  "sample_num_batches": 2,
+  "eval_size": 16,
+  "topk_ratio": 0.5,
+  "learning_rate": 1e-05,
+  "training_epochs": 3,
+  "training_timesteps": 1000,
+  "training_accum_steps": 50,
+  "kl_weight": 1000000000.0,
+  "anchor_source": "generated_pool",
+  "anchor_max_records": 0
+}

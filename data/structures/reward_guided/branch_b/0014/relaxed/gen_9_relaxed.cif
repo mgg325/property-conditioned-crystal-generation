@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_La5Be(GaN)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28822529
+_cell_length_b   7.06659109
+_cell_length_c   8.68222747
+_cell_angle_alpha   99.07431731
+_cell_angle_beta   89.99990543
+_cell_angle_gamma   107.66324429
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La5Be(GaN)2
+_chemical_formula_sum   'La5 Be1 Ga2 N2'
+_cell_volume   247.23736732
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.47097259  0.96766076  0.09732962  1
+  La  La1  1  0.27501511  0.57576176  0.60476986  1
+  La  La2  1  0.93197453  0.88965606  0.41523102  1
+  La  La3  1  0.20274530  0.43118325  0.16793429  1
+  La  La4  1  0.57417006  0.17404041  0.76214458  1
+  Be  Be5  1  0.77218519  0.57005246  0.95088168  1
+  Ga  Ga6  1  0.63129446  0.28832426  0.42493577  1
+  Ga  Ga7  1  0.90765093  0.84100120  0.82169287  1
+  N  N8  1  0.36301909  0.75175183  0.32405272  1
+  N  N9  1  0.66708817  0.35987717  0.01044538  1

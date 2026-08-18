@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Na4PHAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.83765974
+_cell_length_b   4.83739533
+_cell_length_c   7.48605907
+_cell_angle_alpha   90.05365281
+_cell_angle_beta   90.06568421
+_cell_angle_gamma   91.32179814
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4PHAu
+_chemical_formula_sum   'Na4 P1 H1 Au1'
+_cell_volume   175.13949120
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.93617714  0.36662870  0.01435815  1
+  Na  Na1  1  0.44270166  0.85846734  0.51594823  1
+  Na  Na2  1  0.93619630  0.36459298  0.51479936  1
+  Na  Na3  1  0.44326436  0.85930321  0.01507225  1
+  P  P4  1  0.43401246  0.35635252  0.76511474  1
+  H  H5  1  0.21668764  0.13983406  0.76616522  1
+  Au  Au6  1  0.43708360  0.36023859  0.26497217  1

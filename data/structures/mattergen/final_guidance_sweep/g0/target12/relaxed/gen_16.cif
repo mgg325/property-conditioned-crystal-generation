@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ZnSnF6
+_chemical_formula_sum              "Zn1 Sn1 F6"
+_cell_length_a       5.363536498926152
+_cell_length_b       5.364465592370967
+_cell_length_c       5.618240496057993
+_cell_angle_alpha    61.46082132575268
+_cell_angle_beta     61.47348484813657
+_cell_angle_gamma    59.97855003062054
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.4050177400638544  0.5061106757531779  0.9842037257987403  1.0000
+  Sn  Sn1       1.0  0.9051968872841978  0.006178131749242567  0.4840684092717385  1.0000
+  F   F1        1.0  0.7673686240727942  0.252109771804159  0.730955068536536  1.0000
+  F   F2        1.0  0.6584273105601984  0.36181034322328043  0.23768045441139707  1.0000
+  F   F3        1.0  0.2610061265586867  0.14312179573445  0.23754941047619804  1.0000
+  F   F4        1.0  0.0423358015645936  0.7594855164005075  0.23796848279681038  1.0000
+  F   F5        1.0  0.5494519543494447  0.8692386332421147  0.7298642373266782  1.0000
+  F   F6        1.0  0.15120130893172742  0.6504517118385259  0.7309290476392537  1.0000

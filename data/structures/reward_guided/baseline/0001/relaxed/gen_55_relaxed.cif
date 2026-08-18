@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Sr2CdNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.76532699
+_cell_length_b   3.76532606
+_cell_length_c   8.03753642
+_cell_angle_alpha   90.01701420
+_cell_angle_beta   90.01983736
+_cell_angle_gamma   89.99438327
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CdNi
+_chemical_formula_sum   'Sr2 Cd1 Ni1'
+_cell_volume   113.95363785
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.10574359  0.15948818  0.22320884  1
+  Sr  Sr1  1  0.10504566  0.15885747  0.65823538  1
+  Cd  Cd2  1  0.60543266  0.65924523  0.94066805  1
+  Ni  Ni3  1  0.60551057  0.65936547  0.44103992  1

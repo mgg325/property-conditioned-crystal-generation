@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BaLiClF13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72362041
+_cell_length_b   7.08504105
+_cell_length_c   8.15966129
+_cell_angle_alpha   90.19738007
+_cell_angle_beta   89.74663544
+_cell_angle_gamma   120.58627319
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLiClF13
+_chemical_formula_sum   'Ba1 Li1 Cl1 F13'
+_cell_volume   334.61665233
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.30300570  0.05834362  0.68138564  1
+  Cl  Cl1  1  0.96637392  0.44072613  0.25551128  1
+  F  F2  1  0.87210721  0.08406696  0.88660353  1
+  Li  Li3  1  0.64732057  0.70425892  0.10225087  1
+  F  F4  1  0.71834826  0.17170730  0.40324098  1
+  F  F5  1  0.08555514  0.35180932  0.18175235  1
+  F  F6  1  0.66534936  0.56903011  0.85878420  1
+  F  F7  1  0.12347168  0.64288121  0.97879827  1
+  F  F8  1  0.50472689  0.33354256  0.05080113  1
+  F  F9  1  0.81935412  0.57100582  0.05128074  1
+  F  F10  1  0.82865477  0.53380215  0.43276048  1
+  F  F11  1  0.23794267  0.86171782  0.34710854  1
+  F  F12  1  0.58030319  0.60427767  0.07668918  1
+  F  F13  1  0.05369487  0.28606170  0.39930737  1
+  F  F14  1  0.47516868  0.91837978  0.89508641  1
+  F  F15  1  0.43908060  0.45553973  0.45350954  1

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       NbCu2NbTe3CuTe
+_chemical_formula_sum              "Nb2 Cu3 Te4"
+_cell_length_a       3.803479572321708
+_cell_length_b       7.540423618441095
+_cell_length_c       7.719366550445557
+_cell_angle_alpha    68.02099236268087
+_cell_angle_beta     90.05205537704151
+_cell_angle_gamma    75.45179955310716
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.7381125092506409  0.8409484624862672  0.894172132015228  1.0000
+  Cu  Cu1       1.0  0.7513118982315062  0.8105599880218506  0.5220306515693663  1.0000
+  Cu  Cu2       1.0  0.5408706665039062  0.23238459229469302  0.9158927798271178  1.0000
+  Nb  Nb2       1.0  0.1857018768787384  0.9450342655181886  0.13295015692710874  1.0000
+  Te  Te1       1.0  0.8464133739471434  0.6217551827430726  0.2930986583232879  1.0000
+  Te  Te2       1.0  0.34204229712486256  0.6315572261810304  0.7514689564704894  1.0000
+  Te  Te3       1.0  0.08224235475063324  0.14976222813129425  0.7330483198165892  1.0000
+  Cu  Cu3       1.0  0.3802695870399474  0.5542288422584534  0.10251847654581066  1.0000
+  Te  Te4       1.0  0.5773887038230896  0.15899166464805603  0.26502382755279535  1.0000

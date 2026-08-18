@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CuNiRh2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.70721098
+_cell_length_b   3.70885687
+_cell_length_c   4.58596731
+_cell_angle_alpha   113.85926630
+_cell_angle_beta   113.81690208
+_cell_angle_gamma   89.99589579
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuNiRh2
+_chemical_formula_sum   'Cu1 Ni1 Rh2'
+_cell_volume   51.74121296
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.47544567  0.60631316  0.06746475  1
+  Ni  Ni1  1  0.72496786  0.35634979  0.56745852  1
+  Rh  Rh2  1  0.97480821  0.10617768  0.06733444  1
+  Rh  Rh3  1  0.22513793  0.85640869  0.56736205  1

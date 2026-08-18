@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       IrCePt
+_chemical_formula_sum              "Ir1 Ce1 Pt1"
+_cell_length_a       4.564295185868649
+_cell_length_b       4.593907756279177
+_cell_length_c       4.6036248207092285
+_cell_angle_alpha    60.84105262385412
+_cell_angle_beta     60.34074638538651
+_cell_angle_gamma    60.635066250499676
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.09836486726999283  0.05826842784881591  0.8222907781600952  1.0000
+  Ce  Ce1       1.0  0.847615122795105  0.8085924983024596  0.5732002258300782  1.0000
+  Pt  Pt1       1.0  0.5969861745834351  0.5574365258216858  0.32330971956253063  1.0000

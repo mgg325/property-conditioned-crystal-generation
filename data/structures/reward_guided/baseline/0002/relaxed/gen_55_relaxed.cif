@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Cs3K3MnBr8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.58829575
+_cell_length_b   9.58898068
+_cell_length_c   9.91736768
+_cell_angle_alpha   61.09252751
+_cell_angle_beta   61.08893690
+_cell_angle_gamma   60.00030139
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3K3MnBr8
+_chemical_formula_sum   'Cs3 K3 Mn1 Br8'
+_cell_volume   655.18340311
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.95201301  0.42654677  0.85385465  1
+  Cs  Cs1  1  0.45206875  0.92680594  0.85370685  1
+  Cs  Cs2  1  0.45221727  0.42661460  0.85368146  1
+  K  K3  1  0.95192305  0.92662512  0.35401856  1
+  K  K4  1  0.95210185  0.42679596  0.35372316  1
+  K  K5  1  0.45134523  0.92646632  0.35456397  1
+  Mn  Mn6  1  0.45221762  0.42672989  0.35359221  1
+  Br  Br7  1  0.65390210  0.62836875  0.16558354  1
+  Br  Br8  1  0.71253475  0.68722866  0.57211399  1
+  Br  Br9  1  0.65371507  0.21142497  0.16564555  1
+  Br  Br10  1  0.19163712  0.16610350  0.13553631  1
+  Br  Br11  1  0.25026436  0.64170628  0.54217002  1
+  Br  Br12  1  0.25035190  0.22510100  0.54177451  1
+  Br  Br13  1  0.23704231  0.62849927  0.16542017  1
+  Br  Br14  1  0.66721792  0.22514974  0.54192102  1

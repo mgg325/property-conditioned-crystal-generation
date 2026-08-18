@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AlZnAu2
+_chemical_formula_sum              "Al1 Zn1 Au2"
+_cell_length_a       3.2923583541135
+_cell_length_b       4.520750445923889
+_cell_length_c       4.911256790161133
+_cell_angle_alpha    103.12338428988302
+_cell_angle_beta     109.50790941986816
+_cell_angle_gamma    89.81477454898838
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.8042685985565186  0.00801833439618349  0.1485838294029236  1.0000
+  Zn  Zn1       1.0  0.0521964356303215  0.6786714792251587  0.6458876729011536  1.0000
+  Au  Au1       1.0  0.3075728714466095  0.5116289854049683  0.15589942038059235  1.0000
+  Au  Au2       1.0  0.5425295233726501  0.16202412545681  0.625734806060791  1.0000

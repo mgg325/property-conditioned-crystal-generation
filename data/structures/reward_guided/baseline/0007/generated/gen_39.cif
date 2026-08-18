@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AlSrZn2Al
+_chemical_formula_sum              "Al2 Sr1 Zn2"
+_cell_length_a       4.468352740305007
+_cell_length_b       4.46948551596207
+_cell_length_c       6.2356743812561035
+_cell_angle_alpha    111.05417793138153
+_cell_angle_beta     111.1495872161853
+_cell_angle_gamma    89.94867389807571
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.40028658509254456  0.6407808065414429  0.8839925527572632  1.0000
+  Sr  Sr1       1.0  0.7773527503013611  0.018033765256404877  0.6389153599739075  1.0000
+  Zn  Zn1       1.0  0.5277854800224304  0.2681040763854981  0.1388584524393082  1.0000
+  Zn  Zn2       1.0  0.027040235698223114  0.7682130336761475  0.13871784508228302  1.0000
+  Al  Al2       1.0  0.1546640843153  0.3953966498374939  0.39383596181869507  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mg2OCuOMgO
+_chemical_formula_sum              "Mg3 O3 Cu1"
+_cell_length_a       3.493611608132706
+_cell_length_b       3.4907722485863375
+_cell_length_c       8.113240242004395
+_cell_angle_alpha    89.9787674452413
+_cell_angle_beta     89.9920111834503
+_cell_angle_gamma    119.9623297278792
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.27141904830932617  0.7921836376190186  0.5967535972595215  1.0000
+  Mg  Mg2       1.0  0.27199068665504456  0.7924371957778931  0.08300729840993881  1.0000
+  O   O1        1.0  0.6053137183189392  0.4597530663013458  0.073679119348526  1.0000
+  Cu  Cu1       1.0  0.6053118705749512  0.4592163860797882  0.8390476703643799  1.0000
+  O   O2        1.0  0.6048678755760193  0.459488183259964  0.6033905148506165  1.0000
+  Mg  Mg3       1.0  0.6054343581199646  0.45939868688583374  0.33884474635124207  1.0000
+  O   O3        1.0  0.27194869518280035  0.7922807931900026  0.33929941058158875  1.0000

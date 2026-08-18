@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_InSbP2SeO15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14423512
+_cell_length_b   5.71806912
+_cell_length_c   5.67968068
+_cell_angle_alpha   111.86107409
+_cell_angle_beta   110.38213251
+_cell_angle_gamma   96.41948118
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InSbP2SeO15
+_chemical_formula_sum   'In1 Sb1 P2 Se1 O15'
+_cell_volume   139.63467092
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.25793287  0.63790654  0.11786338  1
+  Sb  Sb1  1  0.53351657  0.50752323  0.60650214  1
+  P  P2  1  0.75635753  0.06801841  0.64953367  1
+  P  P3  1  0.75124113  0.00967183  0.33035401  1
+  Se  Se4  1  0.76948762  0.03407006  0.28201693  1
+  O  O5  1  0.80780217  0.82481979  0.72211516  1
+  O  O6  1  0.41689092  0.06820673  0.60390533  1
+  O  O7  1  0.43891338  0.99546186  0.24268490  1
+  O  O8  1  0.69019676  0.24885884  0.40917501  1
+  O  O9  1  0.87391559  0.71931351  0.25236710  1
+  O  O10  1  0.16777234  0.52010893  0.45052955  1
+  O  O11  1  0.62670537  0.54073812  0.27238277  1
+  O  O12  1  0.61355947  0.51737689  0.27376445  1
+  O  O13  1  0.76768919  0.21767368  0.98224502  1
+  O  O14  1  0.83230075  0.40870447  0.81112444  1
+  O  O15  1  0.23436718  0.35982093  0.76652750  1
+  O  O16  1  0.10805224  0.15428948  0.82140687  1
+  O  O17  1  0.67964587  0.22763122  0.46146875  1
+  O  O18  1  0.56397402  0.77519055  0.96259720  1
+  O  O19  1  0.03944287  0.90767577  0.06308818  1

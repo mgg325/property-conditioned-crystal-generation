@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_RbGaTcPXeBrCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.57298279
+_cell_length_b   6.87437439
+_cell_length_c   5.94248962
+_cell_angle_alpha   91.60229492
+_cell_angle_beta   89.73849487
+_cell_angle_gamma   117.28040314
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbGaTcPXeBrCl
+_chemical_formula_sum   'Rb1 Ga1 Tc1 P1 Xe1 Br1 Cl1'
+_cell_volume   202.25166370
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.39292422  0.72515166  0.23803642  1
+  Rb  Rb1  1  0.99346173  0.99884570  0.96143222  1
+  Xe  Xe2  1  0.63457489  0.28430569  0.44232422  1
+  Br  Br3  1  0.42716560  0.39216170  0.21501735  1
+  Cl  Cl4  1  0.00084165  0.83994091  0.41493478  1
+  P  P5  1  0.42007732  0.55397677  0.01125279  1
+  Tc  Tc6  1  0.29193750  0.72051352  0.73800510  1

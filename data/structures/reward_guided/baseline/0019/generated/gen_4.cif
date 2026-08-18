@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Y2Er2
+_chemical_formula_sum              "Y2 Er2"
+_cell_length_a       3.5460691417881387
+_cell_length_b       3.5589652755563757
+_cell_length_c       11.732089042663574
+_cell_angle_alpha    80.08577776313689
+_cell_angle_beta     80.24181355501324
+_cell_angle_gamma    58.60167116290881
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.8812109231948851  0.9003185033798218  0.8742270469665527  1.0000
+  Y   Y2        1.0  0.38013970851898193  0.4003038108348847  0.37508097290992737  1.0000
+  Er  Er1       1.0  0.13104191422462466  0.15050023794174194  0.12412524968385696  1.0000
+  Er  Er2       1.0  0.6314321756362915  0.6500569581985474  0.6234976649284363  1.0000

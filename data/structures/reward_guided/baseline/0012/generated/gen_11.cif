@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TmGeCl3
+_chemical_formula_sum              "Tm1 Ge1 Cl3"
+_cell_length_a       4.023098908772987
+_cell_length_b       4.032367797944484
+_cell_length_c       10.567346572875977
+_cell_angle_alpha    78.73592097836001
+_cell_angle_beta     78.77300178076112
+_cell_angle_gamma    59.92431481543632
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.18934902548789975  0.4674981534481049  0.5980907678604126  1.0000
+  Ge  Ge1       1.0  0.5773502588272095  0.8548159003257751  0.4373997151851654  1.0000
+  Cl  Cl1       1.0  0.9678385853767393  0.24590002000331881  0.26230207085609436  1.0000
+  Cl  Cl2       1.0  0.35682547092437733  0.6353379487991334  0.09213031083345413  1.0000
+  Cl  Cl3       1.0  0.8066286444664  0.0820520892739296  0.7488229274749756  1.0000

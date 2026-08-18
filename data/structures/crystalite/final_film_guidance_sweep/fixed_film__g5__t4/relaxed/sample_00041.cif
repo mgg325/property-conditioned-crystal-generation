@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CsLiSeO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   1.80030936
+_cell_length_b   2.94298279
+_cell_length_c   4.54130335
+_cell_angle_alpha   73.36922908
+_cell_angle_beta   74.77372919
+_cell_angle_gamma   64.22900611
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsLiSeO2
+_chemical_formula_sum   'Cs1 Li1 Se1 O2'
+_cell_volume   20.49354959
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.28666208  0.38814972  0.42652162  1
+  Li  Li1  1  0.85465568  0.83552048  0.15303469  1
+  Se  Se2  1  0.28400163  0.35255406  0.49910475  1
+  O  O3  1  0.26499200  0.32068557  0.08122444  1
+  O  O4  1  0.73946329  0.01510455  0.81125523  1

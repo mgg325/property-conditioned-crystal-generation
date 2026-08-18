@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Ba3Cu2RuO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73254303
+_cell_length_b   5.73333116
+_cell_length_c   7.06741210
+_cell_angle_alpha   89.93089374
+_cell_angle_beta   90.05225032
+_cell_angle_gamma   119.94692428
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Cu2RuO9
+_chemical_formula_sum   'Ba3 Cu2 Ru1 O9'
+_cell_volume   201.26908759
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.80696582  0.07180849  0.70474161  1
+  Ba  Ba1  1  0.14024110  0.73830884  0.03010289  1
+  Ba  Ba2  1  0.47340287  0.40492923  0.38008374  1
+  Cu  Cu3  1  0.47348368  0.40485400  0.85773715  1
+  Cu  Cu4  1  0.13987190  0.73879476  0.55325770  1
+  Ru  Ru5  1  0.80690669  0.07156583  0.20477140  1
+  O  O6  1  0.12764212  0.23102375  0.04666245  1
+  O  O7  1  0.96708393  0.39268948  0.36174369  1
+  O  O8  1  0.48655196  0.91172450  0.36274669  1
+  O  O9  1  0.96762043  0.91113673  0.36295381  1
+  O  O10  1  0.64612050  0.75048195  0.04724819  1
+  O  O11  1  0.64597890  0.23188768  0.04652760  1
+  O  O12  1  0.30658665  0.57095938  0.70438383  1
+  O  O13  1  0.30757181  0.07120836  0.70584512  1
+  O  O14  1  0.80644578  0.57141412  0.70514184  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BaCaMgGa2Se2S7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.71811914
+_cell_length_b   9.38723087
+_cell_length_c   7.63981295
+_cell_angle_alpha   115.71221161
+_cell_angle_beta   89.47140503
+_cell_angle_gamma   91.03783417
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCaMgGa2Se2S7
+_chemical_formula_sum   'Ba1 Ca1 Mg1 Ga2 Se2 S7'
+_cell_volume   434.02378566
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.30892152  0.76855671  0.81988305  1
+  S  S1  1  0.10584274  0.27819550  0.14937758  1
+  Se  Se2  1  0.35871437  0.76369989  0.34043905  1
+  Se  Se3  1  0.61124021  0.27484572  0.13300514  1
+  Mg  Mg4  1  0.87930381  0.95881605  0.68834287  1
+  S  S5  1  0.92079449  0.07785475  0.02311572  1
+  S  S6  1  0.90305746  0.33060509  0.98785114  1
+  S  S7  1  0.88824236  0.28267676  0.15724692  1
+  S  S8  1  0.32752711  0.23686257  0.03212443  1
+  S  S9  1  0.27145848  0.35984200  0.37312490  1
+  Ba  Ba10  1  0.85051173  0.54283446  0.54949498  1
+  S  S11  1  0.87276232  0.83618975  0.25268960  1
+  Ga  Ga12  1  0.28086513  0.34957010  0.63588822  1
+  Ga  Ga13  1  0.82595158  0.67691064  0.13382077  1

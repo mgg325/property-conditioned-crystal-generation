@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       BrGaBr2
+_chemical_formula_sum              "Br3 Ga1"
+_cell_length_a       3.6058103083404602
+_cell_length_b       7.236145293757044
+_cell_length_c       6.9918325585099295
+_cell_angle_alpha    57.51663965441583
+_cell_angle_beta     75.24611345818492
+_cell_angle_gamma    75.80115858414088
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.75026607663341  0.4605759426505392  0.9410214520152392  1.0000
+  Ga  Ga1       1.0  0.9061617616639615  0.12145385599687991  0.9645794725195606  1.0000
+  Br  Br2       1.0  0.5335033494217499  0.1468462008218257  0.6827506467462116  1.0000
+  Br  Br3       1.0  0.3713434261016301  0.8924893720962789  0.26067439364473244  1.0000

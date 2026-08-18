@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_NiMoW
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.77110043
+_cell_length_b   4.76355036
+_cell_length_c   4.71922193
+_cell_angle_alpha   59.67177241
+_cell_angle_beta   79.67103948
+_cell_angle_gamma   69.14651988
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiMoW
+_chemical_formula_sum   'Ni2 Mo2 W2'
+_cell_volume   86.51288345
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.04165772  0.92218389  0.02984363  1
+  Ni  Ni1  1  0.54178100  0.75009507  0.37411678  1
+  Mo  Mo2  1  0.54160206  0.41319217  0.04806815  1
+  Mo  Mo3  1  0.54167003  0.07448384  0.72507058  1
+  W  W4  1  0.04157054  0.59804512  0.67856584  1
+  W  W5  1  0.04179179  0.25883591  0.35670175  1

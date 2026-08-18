@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Gd2BaGdRu
+_chemical_formula_sum              "Gd3 Ba1 Ru1"
+_cell_length_a       5.5294493336364905
+_cell_length_b       5.468396918532151
+_cell_length_c       5.490846633911133
+_cell_angle_alpha    90.36013103203742
+_cell_angle_beta     90.39439808046077
+_cell_angle_gamma    91.02684625867371
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.02794025093317032  0.1791621297597885  0.12741193175315857  1.0000
+  Gd  Gd2       1.0  0.5263718962669373  0.6787271499633789  0.12748628854751587  1.0000
+  Ba  Ba1       1.0  0.026267535984516147  0.6794153451919557  0.6286608576774597  1.0000
+  Gd  Gd3       1.0  0.5254034996032715  0.17836593091487885  0.62824547290802  1.0000
+  Ru  Ru1       1.0  0.5273510813713074  0.1786215454339981  0.12883464992046356  1.0000

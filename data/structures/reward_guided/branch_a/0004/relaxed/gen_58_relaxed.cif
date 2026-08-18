@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CsGaTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.52515358
+_cell_length_b   7.52227063
+_cell_length_c   7.49504885
+_cell_angle_alpha   103.87890993
+_cell_angle_beta   103.87650930
+_cell_angle_gamma   121.49120213
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsGaTe2
+_chemical_formula_sum   'Cs2 Ga2 Te4'
+_cell_volume   315.20860386
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.17507739  0.61774237  0.01882750  1
+  Cs  Cs1  1  0.67558594  0.11768547  0.01882548  1
+  Ga  Ga2  1  0.67636430  0.61697761  0.51801729  1
+  Ga  Ga3  1  0.17688776  0.11896217  0.52034801  1
+  Te  Te4  1  0.57867194  0.52070087  0.82276640  1
+  Te  Te5  1  0.27358496  0.21557311  0.21600575  1
+  Te  Te6  1  0.77571452  0.01889100  0.51936682  1
+  Te  Te7  1  0.07715511  0.71746535  0.51813674  1

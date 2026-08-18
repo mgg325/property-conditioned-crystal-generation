@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_U2Al3Si7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.51114988
+_cell_length_b   4.68285608
+_cell_length_c   10.99375343
+_cell_angle_alpha   89.87931824
+_cell_angle_beta   89.95071411
+_cell_angle_gamma   90.74506378
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2Al3Si7
+_chemical_formula_sum   'U2 Al3 Si7'
+_cell_volume   232.22352079
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.87586296  0.39878339  0.09944275  1
+  Si  Si1  1  0.38063401  0.89427894  0.75982487  1
+  Si  Si2  1  0.87940836  0.90017605  0.18249086  1
+  U  U3  1  0.87321264  0.88109040  0.54450661  1
+  U  U4  1  0.37559229  0.88938606  0.06769395  1
+  Al  Al5  1  0.38409644  0.38405469  0.79225820  1
+  Al  Al6  1  0.37793696  0.39275736  0.33556157  1
+  Si  Si7  1  0.38148421  0.88318360  0.37504578  1
+  Si  Si8  1  0.87904894  0.37527126  0.34343922  1
+  Al  Al9  1  0.88536072  0.89166880  0.85035622  1
+  Si  Si10  1  0.38222888  0.37365234  0.57277668  1
+  Si  Si11  1  0.88302422  0.40191242  0.87058675  1

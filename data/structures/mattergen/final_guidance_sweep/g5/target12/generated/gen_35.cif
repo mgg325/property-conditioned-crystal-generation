@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Bi2RhSe
+_chemical_formula_sum              "Bi2 Rh1 Se1"
+_cell_length_a       3.9774028290243755
+_cell_length_b       3.9787297270693243
+_cell_length_c       6.789178371429443
+_cell_angle_alpha    107.04136544105695
+_cell_angle_beta     107.06941024589368
+_cell_angle_gamma    89.9641710615625
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.42996740341186523  0.5793697834014893  0.19298258423805237  1.0000
+  Bi  Bi2       1.0  0.14270736277103424  0.2911829650402069  0.6179994344711304  1.0000
+  Rh  Rh1       1.0  0.6431288123130798  0.7917341589927673  0.6189170479774475  1.0000
+  Se  Se1       1.0  0.8425171375274658  0.9902560114860536  0.01764329895377159  1.0000

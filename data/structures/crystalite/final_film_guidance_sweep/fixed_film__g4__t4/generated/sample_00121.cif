@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_K2BaSrCaBe3O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.50040770
+_cell_length_b   2.59286332
+_cell_length_c   5.37343693
+_cell_angle_alpha   82.79971313
+_cell_angle_beta   74.27377319
+_cell_angle_gamma   105.56000519
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2BaSrCaBe3O5
+_chemical_formula_sum   'K2 Ba1 Sr1 Ca1 Be3 O5'
+_cell_volume   31.55877868
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.52440351  0.33908001  0.02032134  1
+  O  O1  1  0.11369014  0.60598886  0.94545996  1
+  Be  Be2  1  0.31522703  0.94114590  0.98901618  1
+  Ba  Ba3  1  0.93881762  0.91131449  0.93985891  1
+  K  K4  1  0.52145565  0.49626392  0.65352666  1
+  O  O5  1  0.97660500  0.97031081  0.94356632  1
+  O  O6  1  0.50171816  0.85415781  0.90747374  1
+  Ca  Ca7  1  0.02680299  0.99849284  0.38140172  1
+  Sr  Sr8  1  0.08669150  0.25921929  0.02240694  1
+  Be  Be9  1  0.95155299  0.85996306  0.89957941  1
+  O  O10  1  0.98402286  0.64417446  0.58936620  1
+  O  O11  1  0.14653867  0.95459753  0.10339862  1
+  Be  Be12  1  0.83134729  0.68615019  0.00041696  1

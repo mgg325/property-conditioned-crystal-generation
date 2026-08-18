@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SnSb3Te3
+_chemical_formula_sum              "Sn1 Sb3 Te3"
+_cell_length_a       4.364946535777866
+_cell_length_b       4.375131928913482
+_cell_length_c       13.94076156616211
+_cell_angle_alpha    81.01988895439901
+_cell_angle_beta     81.65740487350635
+_cell_angle_gamma    60.20879579583164
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.5606536269187927  0.20386874675750732  0.4506908059120178  1.0000
+  Sb  Sb1       1.0  0.9922317862510681  0.6368985772132874  0.1536078155040741  1.0000
+  Sb  Sb2       1.0  0.13172698020935056  0.7744511961936951  0.7376815676689148  1.0000
+  Sb  Sb3       1.0  0.6963168382644652  0.3400151431560517  0.043395671993494034  1.0000
+  Te  Te1       1.0  0.843307614326477  0.48666203022003174  0.6004822254180908  1.0000
+  Te  Te2       1.0  0.42199933528900146  0.06545593589544296  0.8636475205421448  1.0000
+  Te  Te3       1.0  0.26829352974891657  0.9104508757591248  0.32923853397369385  1.0000

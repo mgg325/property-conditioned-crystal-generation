@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2ZnSn4Rh3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.74233331
+_cell_length_b   4.74236303
+_cell_length_c   10.88324340
+_cell_angle_alpha   89.98132629
+_cell_angle_beta   90.01512691
+_cell_angle_gamma   89.98670554
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2ZnSn4Rh3
+_chemical_formula_sum   'Ba2 Zn1 Sn4 Rh3'
+_cell_volume   244.76265918
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.13983605  0.92251845  0.74297447  1
+  Ba  Ba1  1  0.63969778  0.42278842  0.24929544  1
+  Zn  Zn2  1  0.64005942  0.92315614  0.49626641  1
+  Sn  Sn3  1  0.13944544  0.42262729  0.99613133  1
+  Sn  Sn4  1  0.63960567  0.42260012  0.62379639  1
+  Sn  Sn5  1  0.63954349  0.92255726  0.99618887  1
+  Sn  Sn6  1  0.14007292  0.92184366  0.36842755  1
+  Rh  Rh7  1  0.13962662  0.92303742  0.11641905  1
+  Rh  Rh8  1  0.63951412  0.42281625  0.87581809  1
+  Rh  Rh9  1  0.13910373  0.42171579  0.49616333  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SnHg3Bi2SbTe2PPbAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.69459328
+_cell_length_b   7.77320289
+_cell_length_c   10.61275813
+_cell_angle_alpha   90.52983126
+_cell_angle_beta   83.70004272
+_cell_angle_gamma   93.99291003
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnHg3Bi2SbTe2PPbAu
+_chemical_formula_sum   'Sn1 Hg3 Bi2 Sb1 Te2 P1 Pb1 Au1'
+_cell_volume   384.00738632
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.28566831  0.39059512  0.15891770  1
+  Hg  Hg1  1  0.95595772  0.51327049  0.89169286  1
+  Hg  Hg2  1  0.50028270  0.72225934  0.04337772  1
+  Hg  Hg3  1  0.12653116  -0.03990699  0.54467996  1
+  Bi  Bi4  1  0.55334172  0.64892167  0.71150180  1
+  Bi  Bi5  1  0.14588928  0.49580770  0.51015055  1
+  Sb  Sb6  1  1.10882964  0.72867455  0.27494077  1
+  Te  Te7  1  0.60317888  0.19428316  0.82152748  1
+  Te  Te8  1  0.76528172  0.16412582  0.21608805  1
+  P  P9  1  0.60910739  -0.02208384  0.62321554  1
+  Pb  Pb10  1  0.05457538  0.98237027  -0.04764768  1
+  Au  Au11  1  0.67628315  0.48075307  0.34537277  1

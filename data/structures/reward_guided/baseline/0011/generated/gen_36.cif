@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Dy2MgCDy
+_chemical_formula_sum              "Dy3 Mg1 C1"
+_cell_length_a       4.981345662583095
+_cell_length_b       4.983230461312163
+_cell_length_c       4.980696678161621
+_cell_angle_alpha    89.82683672119586
+_cell_angle_beta     89.99654642873112
+_cell_angle_gamma    89.75467576548282
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.4734610319137573  0.31870952248573303  0.630095899105072  1.0000
+  Dy  Dy2       1.0  0.9732416272163391  0.8192458152770995  0.6302449703216553  1.0000
+  Mg  Mg1       1.0  0.4732755720615387  0.819078803062439  0.13023318350315094  1.0000
+  C   C1        1.0  0.9730219841003418  0.3185926675796509  0.6306390762329102  1.0000
+  Dy  Dy3       1.0  0.9732252955436707  0.31928625702857966  0.13053417205810547  1.0000

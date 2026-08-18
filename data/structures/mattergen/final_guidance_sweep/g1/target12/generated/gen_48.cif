@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cu2SeGeSe2
+_chemical_formula_sum              "Cu2 Se3 Ge1"
+_cell_length_a       3.7366243085308275
+_cell_length_b       5.292354941125739
+_cell_length_c       6.424006462097168
+_cell_angle_alpha    114.31768180820413
+_cell_angle_beta     106.87489984123488
+_cell_angle_gamma    89.97780449582677
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.5589925050735474  0.11649644374847412  0.7094048857688904  1.0000
+  Cu  Cu2       1.0  0.23261868953704834  0.7905384302139282  0.057070713490247754  1.0000
+  Se  Se1       1.0  0.2198246717453003  0.27715423703193665  0.030693486332893385  1.0000
+  Ge  Ge1       1.0  0.8971450328826904  0.45410194993019104  0.3834066390991211  1.0000
+  Se  Se2       1.0  0.5723369717597961  0.6294405460357666  0.7359350323677063  1.0000
+  Se  Se3       1.0  0.8962191343307495  0.9533876776695253  0.3831681311130524  1.0000

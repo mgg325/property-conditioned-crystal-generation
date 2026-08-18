@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Be3RhScBe
+_chemical_formula_sum              "Be4 Rh1 Sc1"
+_cell_length_a       4.555395577235535
+_cell_length_b       4.504547557783757
+_cell_length_c       4.487948894500732
+_cell_angle_alpha    59.394159689337066
+_cell_angle_beta     61.014826641752535
+_cell_angle_gamma    60.49109339032543
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.783340334892273  0.8781730532646179  0.4811166226863861  1.0000
+  Be  Be2       1.0  0.7834247946739196  0.879522442817688  0.9788898229598999  1.0000
+  Be  Be3       1.0  0.28604635596275335  0.8780882358551025  0.9810217022895813  1.0000
+  Rh  Rh1       1.0  0.4080056548118591  0.5042896866798401  0.6046351194381714  1.0000
+  Sc  Sc1       1.0  0.15916080772876737  0.25394588708877563  0.35565465688705444  1.0000
+  Be  Be4       1.0  0.7821525335311889  0.38209599256515503  0.9772703051567078  1.0000

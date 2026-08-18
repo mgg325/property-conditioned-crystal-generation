@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_SmZr2TiIn4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.30616952
+_cell_length_b   4.63321852
+_cell_length_c   9.23554851
+_cell_angle_alpha   89.99868265
+_cell_angle_beta   89.99987396
+_cell_angle_gamma   89.99999783
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmZr2TiIn4
+_chemical_formula_sum   'Sm1 Zr2 Ti1 In4'
+_cell_volume   184.26234763
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.91085717  0.96402575  0.30869420  1
+  Zr  Zr1  1  0.91102965  0.46411154  0.03607704  1
+  Zr  Zr2  1  0.91087164  0.96419691  0.79582012  1
+  Ti  Ti3  1  0.91104233  0.46424811  0.56973487  1
+  In  In4  1  0.41094095  0.96431734  0.56174462  1
+  In  In5  1  0.41101094  0.46408815  0.31118145  1
+  In  In6  1  0.41090738  0.96415771  0.04190168  1
+  In  In7  1  0.41085443  0.46429746  0.79285551  1

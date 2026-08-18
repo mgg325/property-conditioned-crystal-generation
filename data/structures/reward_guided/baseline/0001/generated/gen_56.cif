@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       FeAl2LaFeB
+_chemical_formula_sum              "Fe2 Al2 La1 B1"
+_cell_length_a       4.025678389714608
+_cell_length_b       4.022874859514198
+_cell_length_c       5.7218523025512695
+_cell_angle_alpha    90.00668242944813
+_cell_angle_beta     90.01944805427671
+_cell_angle_gamma    90.01116303351611
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.5438047647476196  0.420681118965149  0.03786362335085869  1.0000
+  Al  Al1       1.0  0.5440995097160339  0.920336127281189  0.28496429324150085  1.0000
+  Al  Al2       1.0  0.5442395210266113  0.9200296401977539  0.7905688881874084  1.0000
+  La  La1       1.0  0.04416383057832718  0.4203947186470032  0.5377933979034424  1.0000
+  Fe  Fe2       1.0  0.04450700804591179  0.9205381274223329  0.037883929908275604  1.0000
+  B   B1        1.0  0.04460684582591057  0.4198868870735169  0.03780132532119751  1.0000

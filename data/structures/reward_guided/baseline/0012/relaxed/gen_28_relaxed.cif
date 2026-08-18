@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_BeNi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92649892
+_cell_length_b   4.25073881
+_cell_length_c   4.80488856
+_cell_angle_alpha   86.06677690
+_cell_angle_beta   89.99875702
+_cell_angle_gamma   89.99586216
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeNi3
+_chemical_formula_sum   'Be2 Ni6'
+_cell_volume   80.00720669
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.48331237  0.93793240  0.83477489  1
+  Be  Be1  1  0.98333079  0.75078566  0.13351830  1
+  Ni  Ni2  1  0.98339162  0.22466721  0.87995398  1
+  Ni  Ni3  1  0.48334997  0.93597319  0.33241064  1
+  Ni  Ni4  1  0.48338436  0.42269234  0.60218943  1
+  Ni  Ni5  1  0.98333147  0.75290512  0.63581793  1
+  Ni  Ni6  1  0.98340447  0.26610258  0.36602401  1
+  Ni  Ni7  1  0.48340124  0.46407740  0.08826415  1

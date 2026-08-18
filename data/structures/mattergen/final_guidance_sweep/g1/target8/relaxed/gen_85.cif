@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       PbBaPbBa3H
+_chemical_formula_sum              "Pb2 Ba4 H1"
+_cell_length_a       5.417508701541964
+_cell_length_b       5.414744015412748
+_cell_length_c       10.374251471245131
+_cell_angle_alpha    105.12198758996816
+_cell_angle_beta     105.11645673615587
+_cell_angle_gamma    90.00024748320811
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.10858305331635235  0.2230570218039604  0.2068105309970948  1.0000
+  Ba  Ba1       1.0  0.5581508129403405  0.6728670916850532  0.10741908914085747  1.0000
+  Pb  Pb2       1.0  0.37114140634978554  0.486202532555186  0.734120833563046  1.0000
+  Ba  Ba2       1.0  0.9212832815915724  0.03621190574036935  0.8339254526829848  1.0000
+  Ba  Ba3       1.0  0.23955361599125885  0.8550093416039752  0.4708437841132812  1.0000
+  Ba  Ba4       1.0  0.7395654764041241  0.3548842581077528  0.4709200635358925  1.0000
+  H   H1        1.0  0.739757605924367  0.8546928923896002  0.4705306472873336  1.0000

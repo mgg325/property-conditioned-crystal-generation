@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HF3
+_chemical_formula_sum              "H1 F3"
+_cell_length_a       2.6883086760529213
+_cell_length_b       3.2232429336710458
+_cell_length_c       6.346105540949625
+_cell_angle_alpha    85.30318778667245
+_cell_angle_beta     77.91260033934921
+_cell_angle_gamma    114.28628537788276
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.7963854009165183  0.9185704058814531  0.8403703974945299  1.0000
+  F   F1        1.0  0.4407081507519515  0.9143553011913499  0.8383154731002767  1.0000
+  F   F2        1.0  0.8289914334523306  0.31483949752899737  0.45411447103379016  1.0000
+  F   F3        1.0  0.05617963692287753  0.5297376255673627  0.22353185194445596  1.0000

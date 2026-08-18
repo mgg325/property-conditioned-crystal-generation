@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Gd2ZnHg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.19353992
+_cell_length_b   5.19063630
+_cell_length_c   5.19775334
+_cell_angle_alpha   59.95085024
+_cell_angle_beta   59.93307242
+_cell_angle_gamma   60.04627861
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2ZnHg
+_chemical_formula_sum   'Gd2 Zn1 Hg1'
+_cell_volume   99.02721701
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.83311566  0.41788616  0.70710551  1
+  Gd  Gd1  1  0.33432181  0.91725844  0.20785965  1
+  Zn  Zn2  1  0.08450408  0.66650071  0.95843574  1
+  Hg  Hg3  1  0.58436393  0.16678101  0.45722206  1

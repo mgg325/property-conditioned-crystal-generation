@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       InNdY2N
+_chemical_formula_sum              "In1 Nd1 Y2 N1"
+_cell_length_a       4.83657646594508
+_cell_length_b       4.8367424283172245
+_cell_length_c       5.028791904449463
+_cell_angle_alpha    89.97384288011605
+_cell_angle_beta     89.99762559853437
+_cell_angle_gamma    90.01756292099023
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.7561920285224915  0.9634913206100464  0.837183952331543  1.0000
+  Nd  Nd1       1.0  0.25606751441955566  0.4636766016483307  0.8371075391769409  1.0000
+  Y   Y1        1.0  0.7560141682624817  0.463375061750412  0.3370581567287445  1.0000
+  Y   Y2        1.0  0.25611361861228943  0.9635232090950013  0.3370518684387207  1.0000
+  N   N1        1.0  0.2560986876487732  0.46351540088653564  0.3367321193218231  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ni5PAs
+_chemical_formula_sum              "Ni5 P1 As1"
+_cell_length_a       3.615704243585689
+_cell_length_b       3.6132187192767797
+_cell_length_c       6.260098457336426
+_cell_angle_alpha    89.8017426151802
+_cell_angle_beta     89.95001235445976
+_cell_angle_gamma    89.85699883798908
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.04850325360894203  0.23109978437423706  0.33099478483200073  1.0000
+  Ni  Ni2       1.0  0.5483545064926147  0.7308953404426574  0.7498560547828675  1.0000
+  Ni  Ni3       1.0  0.04854174703359604  0.7303858995437622  0.040409334003925323  1.0000
+  Ni  Ni4       1.0  0.04860464110970497  0.23071801662445068  0.7494890689849855  1.0000
+  Ni  Ni5       1.0  0.548543393611908  0.7302578687667847  0.33174219727516174  1.0000
+  P   P1        1.0  0.04836896061897278  0.7307950854301452  0.5403162240982056  1.0000
+  As  As1       1.0  0.5484540462493896  0.23052932322025296  0.0403929203748703  1.0000

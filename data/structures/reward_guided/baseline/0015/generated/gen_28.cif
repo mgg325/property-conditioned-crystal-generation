@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Sm2OsCo
+_chemical_formula_sum              "Sm2 Os1 Co1"
+_cell_length_a       4.243145502652039
+_cell_length_b       4.14129878031903
+_cell_length_c       5.566319942474365
+_cell_angle_alpha    89.99613661747875
+_cell_angle_beta     111.86283715855934
+_cell_angle_gamma    89.83141977588508
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.9030796885490416  0.8310908675193786  0.8919149041175842  1.0000
+  Sm  Sm2       1.0  0.1950229853391647  0.32971474528312683  0.47542810440063477  1.0000
+  Os  Os1       1.0  0.4974862337112426  0.3296869993209839  0.08158487081527713  1.0000
+  Co  Co1       1.0  0.5980195999145508  0.8312656283378601  0.28144341707229614  1.0000

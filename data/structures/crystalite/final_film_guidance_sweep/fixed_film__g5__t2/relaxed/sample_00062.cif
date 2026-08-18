@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_KCaAsPN4F3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.26646317
+_cell_length_b   5.57064847
+_cell_length_c   6.53522178
+_cell_angle_alpha   59.30020772
+_cell_angle_beta   61.49708325
+_cell_angle_gamma   55.51983742
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCaAsPN4F3
+_chemical_formula_sum   'K1 Ca1 As1 P1 N4 F3'
+_cell_volume   131.01937907
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.69403404  0.61925002  0.69689126  1
+  Ca  Ca1  1  0.54289107  0.24022917  0.61460990  1
+  As  As2  1  0.38418899  0.06123985  0.79469260  1
+  P  P3  1  0.48542161  0.21637416  0.68223299  1
+  N  N4  1  0.79044027  0.18332406  0.04825304  1
+  N  N5  1  0.64545049  0.09530683  0.04862390  1
+  N  N6  1  0.25861102  0.87246246  0.60624696  1
+  N  N7  1  0.26966339  0.46303517  0.87065017  1
+  F  F8  1  0.31920723  0.15133828  0.78764895  1
+  F  F9  1  0.41152746  0.54704242  0.11439083  1
+  F  F10  1  1.02206490  0.20581923  0.64495345  1

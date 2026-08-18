@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CaDyScTe3CaTe
+_chemical_formula_sum              "Ca2 Dy1 Sc1 Te4"
+_cell_length_a       4.2771618099407664
+_cell_length_b       7.433343205144808
+_cell_length_c       7.659794807434082
+_cell_angle_alpha    109.07874131241023
+_cell_angle_beta     90.19592647314485
+_cell_angle_gamma    90.88476472584576
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.28095656633377075  0.08745160698890686  0.18863900005817413  1.0000
+  Dy  Dy1       1.0  0.7803120613098145  0.08978044986724854  0.6852475404739379  1.0000
+  Sc  Sc1       1.0  0.2802641987800598  0.5891737937927246  0.6870177984237671  1.0000
+  Te  Te1       1.0  0.2803654670715332  0.8346509337425232  0.4468597769737243  1.0000
+  Te  Te2       1.0  0.7800721526145935  0.8264865875244141  0.9217780232429503  1.0000
+  Te  Te3       1.0  0.2799587845802307  0.34162995219230646  0.9286808371543884  1.0000
+  Ca  Ca2       1.0  0.7793858051300049  0.5890192985534668  0.1878203898668289  1.0000
+  Te  Te4       1.0  0.7802996039390564  0.3504939675331116  0.4508667588233948  1.0000

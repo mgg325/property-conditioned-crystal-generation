@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Na3MnZnSn3O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79335606
+_cell_length_b   5.59252475
+_cell_length_c   7.40165796
+_cell_angle_alpha   92.97372759
+_cell_angle_beta   106.32554311
+_cell_angle_gamma   93.33189360
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3MnZnSn3O10
+_chemical_formula_sum   'Na3 Mn1 Zn1 Sn3 O10'
+_cell_volume   229.16865619
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.45717055  0.52972204  0.88327876  1
+  Na  Na1  1  0.48153628  0.46047542  0.35613076  1
+  Na  Na2  1  1.00453188  0.48539619  0.59878796  1
+  Mn  Mn3  1  0.68008414  0.97019504  0.18745584  1
+  Zn  Zn4  1  0.99279772  0.52518409  0.11214434  1
+  Sn  Sn5  1  0.12728819  0.98217585  0.48840617  1
+  Sn  Sn6  1  0.14050054  0.02681757  0.00355916  1
+  Sn  Sn7  1  0.67462221  0.03506634  0.69462285  1
+  O  O8  1  0.37882060  0.24605200  0.63829593  1
+  O  O9  1  0.29603538  0.72912832  0.10985985  1
+  O  O10  1  0.92889542  0.30868706  0.87093224  1
+  O  O11  1  0.88282347  0.71200185  0.30952856  1
+  O  O12  1  0.75500207  0.86211903  0.95589241  1
+  O  O13  1  0.41366491  0.76844426  0.55979938  1
+  O  O14  1  0.47617709  0.20420593  0.07046713  1
+  O  O15  1  0.08366796  0.18712712  0.24721939  1
+  O  O16  1  0.76748851  0.13596931  0.45205304  1
+  O  O17  1  0.02050563  0.87375968  0.72112138  1

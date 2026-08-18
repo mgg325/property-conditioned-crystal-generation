@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_NdU3Tc3Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.15660953
+_cell_length_b   10.23416640
+_cell_length_c   5.47142896
+_cell_angle_alpha   111.98321357
+_cell_angle_beta   84.98063201
+_cell_angle_gamma   99.58456565
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdU3Tc3Se
+_chemical_formula_sum   'Nd1 U3 Tc3 Se1'
+_cell_volume   161.55550067
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.79650344  0.00134428  0.31176402  1
+  U  U1  1  0.73674748  0.27170409  -0.04482559  1
+  U  U2  1  -0.20456528  0.57011171  0.89845758  1
+  U  U3  1  0.43735418  0.32213667  0.44439159  1
+  Tc  Tc4  1  1.21366695  0.03987197  0.85456090  1
+  Tc  Tc5  1  0.35639987  0.77096398  0.83985034  1
+  Tc  Tc6  1  1.23580837  0.52412461  0.36240637  1
+  Se  Se7  1  0.16322177  0.77976047  0.42040739  1

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CdSiO2Mn2O2
+_chemical_formula_sum              "Cd1 Si1 O4 Mn2"
+_cell_length_a       5.417263957596043
+_cell_length_b       5.401914477607575
+_cell_length_c       5.392216663836489
+_cell_angle_alpha    120.02282794754515
+_cell_angle_beta     120.10641693830443
+_cell_angle_gamma    90.00799893000831
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.6074813628018689  0.9884819830626076  0.34144702181276343  1.0000
+  Si  Si1       1.0  0.107552769787976  0.4887133168950279  0.34110444823972264  1.0000
+  O   O1        1.0  0.1426811450602653  0.5244339359225384  0.07128887338599248  1.0000
+  O   O2        1.0  0.07235857141452132  0.793821952463307  0.6109191434655705  1.0000
+  Mn  Mn1       1.0  0.3576550928869774  0.23856169326937787  0.8416006591404964  1.0000
+  Mn  Mn2       1.0  0.8568888377173157  0.7382847709005955  0.8406174350060817  1.0000
+  O   O3        1.0  0.4124145863391231  0.45319514638208735  0.6107127416372211  1.0000
+  O   O4        1.0  0.8029289272296696  0.18361870202495498  0.07156981994351518  1.0000

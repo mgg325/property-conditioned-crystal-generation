@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Y2SbP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16979537
+_cell_length_b   4.16987741
+_cell_length_c   7.38773381
+_cell_angle_alpha   73.61647934
+_cell_angle_beta   73.59926927
+_cell_angle_gamma   60.00964512
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2SbP
+_chemical_formula_sum   'Y2 Sb1 P1'
+_cell_volume   105.18220119
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.55226666  0.58206344  0.86519839  1
+  Y  Y1  1  0.03556253  0.06382373  0.41928565  1
+  Sb  Sb2  1  0.79442845  0.82353061  0.14233232  1
+  P  P3  1  0.29392146  0.32294495  0.64249857  1

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       PrPHfPrScP3
+_chemical_formula_sum              "Pr2 P4 Hf1 Sc1"
+_cell_length_a       3.971445400546648
+_cell_length_b       6.793420308247436
+_cell_length_c       6.84185266494751
+_cell_angle_alpha    109.58953205216653
+_cell_angle_beta     89.31273524660226
+_cell_angle_gamma    90.00827386937952
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.5802315473556519  0.7423068284988403  0.08652076125144958  1.0000
+  P   P1        1.0  0.578714907169342  0.9795376658439637  0.8068695664405823  1.0000
+  Hf  Hf1       1.0  0.07952995598316193  0.7425240874290467  0.5888528823852539  1.0000
+  Pr  Pr2       1.0  0.07856130599975586  0.24196076393127441  0.08678300678730011  1.0000
+  Sc  Sc1       1.0  0.5793755054473877  0.2425568848848343  0.5880958437919617  1.0000
+  P   P2        1.0  0.5785588026046753  0.5043410658836365  0.3674785792827606  1.0000
+  P   P3        1.0  0.07929276674985886  0.48583090305328375  0.8077604174613953  1.0000
+  P   P4        1.0  0.07950117439031601  0.9988369345664979  0.3682413399219513  1.0000

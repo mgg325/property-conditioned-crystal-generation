@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaLi5Al2FeO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22310410
+_cell_length_b   5.66977126
+_cell_length_c   6.44193603
+_cell_angle_alpha   89.56228991
+_cell_angle_beta   94.81392113
+_cell_angle_gamma   89.93677025
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLi5Al2FeO7
+_chemical_formula_sum   'Na1 Li5 Al2 Fe1 O7'
+_cell_volume   190.09146013
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.76303625  0.48276657  0.90805585  1
+  Li  Li1  1  0.78102154  -0.00247757  0.21527488  1
+  Li  Li2  1  0.26533099  0.50040342  0.68427486  1
+  Li  Li3  1  0.28129326  0.73503973  0.29764271  1
+  Li  Li4  1  0.41404755  0.10441056  0.51667626  1
+  Li  Li5  1  0.39799649  0.85210241  0.95109553  1
+  Al  Al6  1  0.80873781  0.46167809  0.41502235  1
+  Al  Al7  1  0.27873527  0.31034834  0.17445671  1
+  Fe  Fe8  1  0.88916424  0.97140030  0.63862072  1
+  O  O9  1  0.56531911  0.90919247  0.72423673  1
+  O  O10  1  0.95016724  0.31172990  0.63865816  1
+  O  O11  1  0.46021498  0.44026085  0.41294834  1
+  O  O12  1  0.40714138  0.02469243  0.20539427  1
+  O  O13  1  0.33448683  0.52117474  0.98449754  1
+  O  O14  1  0.94203869  0.75048809  0.40677707  1
+  O  O15  1  0.93879107  0.30599955  0.20518372  1

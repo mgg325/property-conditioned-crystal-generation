@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CdGaRh3Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.05352628
+_cell_length_b   4.53618687
+_cell_length_c   8.28546317
+_cell_angle_alpha   89.67916312
+_cell_angle_beta   90.01666656
+_cell_angle_gamma   111.90559732
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdGaRh3Br
+_chemical_formula_sum   'Cd1 Ga1 Rh3 Br1'
+_cell_volume   106.47705868
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.77033915  0.45232707  0.40632248  1
+  Ga  Ga1  1  0.50879878  0.90032111  0.59236703  1
+  Rh  Rh2  1  0.55732042  0.93404927  0.89030096  1
+  Rh  Rh3  1  0.25938889  0.34156542  0.70018773  1
+  Rh  Rh4  1  0.51199083  0.89868186  0.24067872  1
+  Br  Br5  1  0.85151253  0.56222733  0.04717951  1

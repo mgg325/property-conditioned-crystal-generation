@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ba2Mn3ZnSeO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74754738
+_cell_length_b   4.10316306
+_cell_length_c   10.68157476
+_cell_angle_alpha   102.93342417
+_cell_angle_beta   102.70212578
+_cell_angle_gamma   89.54491851
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Mn3ZnSeO2
+_chemical_formula_sum   'Ba2 Mn3 Zn1 Se1 O2'
+_cell_volume   239.27990405
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.42903512  0.65036608  0.07929643  1
+  Ba  Ba1  1  0.60905445  0.65795976  0.54805676  1
+  Mn  Mn2  1  0.81786859  0.85143930  -0.06428966  1
+  Mn  Mn3  1  0.21156574  0.76399557  0.75031203  1
+  Mn  Mn4  1  0.96512122  0.34615939  0.15482847  1
+  Zn  Zn5  1  0.97994321  0.29553151  0.82130564  1
+  Se  Se6  1  0.10767947  0.16881530  0.57226840  1
+  O  O7  1  0.95897624  -0.16765241  0.12585082  1
+  O  O8  1  0.56131386  0.81258741  0.78329988  1

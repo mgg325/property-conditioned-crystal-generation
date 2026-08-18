@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SeTeTiSe
+_chemical_formula_sum              "Se2 Te1 Ti1"
+_cell_length_a       3.503171294708004
+_cell_length_b       3.5031223451153912
+_cell_length_c       8.77508946552889
+_cell_angle_alpha    89.99303747452016
+_cell_angle_beta     90.10199387127076
+_cell_angle_gamma    120.00073427310188
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.056677666284565976  0.9930508764776768  0.5296166511786605  1.0000
+  Te  Te1       1.0  0.05735600383484005  0.9930449677886528  0.212667452443991  1.0000
+  Ti  Ti1       1.0  0.7243518770995939  0.32684149897668807  0.7124823568270153  1.0000
+  Se  Se2       1.0  0.0586360706453896  0.9939255156635282  0.8953890284414779  1.0000

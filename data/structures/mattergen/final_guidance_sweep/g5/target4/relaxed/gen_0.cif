@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PBaSiPBaSi
+_chemical_formula_sum              "P2 Ba2 Si2"
+_cell_length_a       4.3575289703327345
+_cell_length_b       4.843788593093526
+_cell_length_c       8.593008483612278
+_cell_angle_alpha    106.3607385415732
+_cell_angle_beta     90.00703583181027
+_cell_angle_gamma    90.00004926717776
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.2483305782620552  0.6628839078428168  0.9172734111354764  1.0000
+  Ba  Ba1       1.0  0.7483227885222276  0.18439052937917366  0.960152694682711  1.0000
+  Si  Si1       1.0  0.7486402500785739  0.8577916600334372  0.30847083448800366  1.0000
+  P   P2        1.0  0.7484495996788334  0.9897090097811136  0.5716495663334247  1.0000
+  Ba  Ba2       1.0  0.2484863371642159  0.46794350505102256  0.5285667193099712  1.0000
+  Si  Si2       1.0  0.24850934084583287  0.7940745215401668  0.18049915772042968  1.0000

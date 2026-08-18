@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       PrNi2ErPrErNi2
+_chemical_formula_sum              "Pr2 Ni4 Er2"
+_cell_length_a       3.990413611295679
+_cell_length_b       7.070161300392256
+_cell_length_c       6.9205522537231445
+_cell_angle_alpha    97.09474572589244
+_cell_angle_beta     86.28779478829367
+_cell_angle_gamma    104.6149394726575
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.5946745276451111  0.07566765695810317  0.015696052461862564  1.0000
+  Ni  Ni1       1.0  0.45538356900215143  0.7997435331344603  0.3125297129154205  1.0000
+  Ni  Ni2       1.0  0.9531899094581604  0.7924048900604247  0.8135862946510314  1.0000
+  Er  Er1       1.0  0.32643765211105347  0.5404036641120911  0.9349642395973204  1.0000
+  Pr  Pr2       1.0  0.8116551637649536  0.5068944692611694  0.44171604514122004  1.0000
+  Er  Er2       1.0  0.07862622290849686  0.04610713943839073  0.5193536281585693  1.0000
+  Ni  Ni3       1.0  0.45080706477165217  0.7936781644821166  0.6444320082664489  1.0000
+  Ni  Ni4       1.0  0.9483090043067932  0.7855175733566283  0.14296278357505798  1.0000

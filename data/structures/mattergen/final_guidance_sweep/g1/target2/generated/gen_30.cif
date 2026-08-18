@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CsBaH3
+_chemical_formula_sum              "Cs1 Ba1 H3"
+_cell_length_a       5.223418370416836
+_cell_length_b       5.224790731483036
+_cell_length_c       5.229824542999268
+_cell_angle_alpha    90.01410684617206
+_cell_angle_beta     89.98699099451464
+_cell_angle_gamma    89.99353431547048
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.589904248714447  0.8731858134269714  0.858622133731842  1.0000
+  Ba  Ba1       1.0  0.08974059671163559  0.37332808971405035  0.3585532605648041  1.0000
+  H   H1        1.0  0.08955471962690353  0.8735967278480531  0.3577410876750946  1.0000
+  H   H2        1.0  0.08999008685350418  0.3740253746509552  0.8579035401344299  1.0000
+  H   H3        1.0  0.5894694328308105  0.3727596998214722  0.3585093021392822  1.0000

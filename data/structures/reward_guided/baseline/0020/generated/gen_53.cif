@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TiO4Na2Sr
+_chemical_formula_sum              "Ti1 O4 Na2 Sr1"
+_cell_length_a       5.2036677100731294
+_cell_length_b       5.275252414147169
+_cell_length_c       5.911736011505127
+_cell_angle_alpha    117.23899346055083
+_cell_angle_beta     115.35922874437315
+_cell_angle_gamma    89.9215046875157
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.6254884600639343  0.3539445400238037  0.6733620762825012  1.0000
+  O   O1        1.0  0.5326283574104309  0.6680011749267578  0.8946385979652405  1.0000
+  O   O2        1.0  0.30905184149742126  0.03657630458474159  0.44990164041519165  1.0000
+  O   O3        1.0  0.9410890936851501  0.25827062129974365  0.8951120972633362  1.0000
+  O   O4        1.0  0.718934953212738  0.44541317224502563  0.4496404528617859  1.0000
+  Na  Na1       1.0  0.8750675320625305  0.10150229185819624  0.173041433095932  1.0000
+  Na  Na2       1.0  0.374607115983963  0.602808952331543  0.17275609076023093  1.0000
+  Sr  Sr1       1.0  0.1254819333553314  0.8520984649658202  0.6727568507194518  1.0000

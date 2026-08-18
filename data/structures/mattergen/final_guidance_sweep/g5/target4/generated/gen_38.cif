@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ZnSr2ZnFGeFGe
+_chemical_formula_sum              "Zn2 Sr2 F2 Ge2"
+_cell_length_a       4.431525728539718
+_cell_length_b       4.43360515252052
+_cell_length_c       8.206489562988281
+_cell_angle_alpha    90.05889922191584
+_cell_angle_beta     90.00561692001688
+_cell_angle_gamma    90.15092920094577
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.5005325078964233  0.8881442546844482  0.5899339318275452  1.0000
+  Sr  Sr1       1.0  0.0007986880373209715  0.38840460777282715  0.40783780813217163  1.0000
+  Sr  Sr2       1.0  0.5013705492019653  0.8894131183624268  0.09014027565717697  1.0000
+  Zn  Zn2       1.0  0.000934600830078125  0.38883745670318604  0.907916784286499  1.0000
+  F   F1        1.0  0.5009161233901978  0.3884309232234955  0.24984481930732727  1.0000
+  Ge  Ge1       1.0  0.00031566619873046897  0.8885072469711304  0.7494363784790039  1.0000
+  F   F2        1.0  0.0008454931084997952  0.8894312977790833  0.24870994687080383  1.0000
+  Ge  Ge2       1.0  0.5004016160964966  0.38856571912765503  0.7493823170661926  1.0000

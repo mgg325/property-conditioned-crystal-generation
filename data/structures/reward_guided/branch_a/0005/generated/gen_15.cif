@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TbLaRhAu
+_chemical_formula_sum              "Tb1 La1 Rh1 Au1"
+_cell_length_a       5.040028740640237
+_cell_length_b       5.071425806091229
+_cell_length_c       5.083820819854736
+_cell_angle_alpha    59.84809408214272
+_cell_angle_beta     59.743752861153936
+_cell_angle_gamma    60.34430729683518
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.17756848037242895  0.9426730871200562  0.36714425683021545  1.0000
+  La  La1       1.0  0.6765907406806946  0.44293251633644104  0.8651232719421387  1.0000
+  Rh  Rh1       1.0  0.9278876781463623  0.6923471689224243  0.11393830925226212  1.0000
+  Au  Au1       1.0  0.42596808075904846  0.19325220584869385  0.6123610734939575  1.0000

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_KZrCdTcTe2AsRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00287056
+_cell_length_b   4.93705511
+_cell_length_c   8.04333687
+_cell_angle_alpha   89.49803162
+_cell_angle_beta   90.49318695
+_cell_angle_gamma   118.99868011
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KZrCdTcTe2AsRh
+_chemical_formula_sum   'K1 Zr1 Cd1 Tc1 Te2 As1 Rh1'
+_cell_volume   173.75057033
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.77471423  0.65732133  0.58316332  1
+  K  K1  1  0.45667627  0.91961670  0.87761730  1
+  Tc  Tc2  1  0.79138297  0.63650382  0.31964821  1
+  Zr  Zr3  1  0.45567924  0.92269039  0.34812441  1
+  As  As4  1  0.09629941  0.34492469  0.48569849  1
+  Rh  Rh5  1  0.11806953  0.24673417  0.16944832  1
+  Cd  Cd6  1  0.81455541  0.55165368  0.76226366  1
+  Te  Te7  1  0.81333184  0.56252217  0.03650492  1

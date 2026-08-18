@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LiTb2DyHg4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17291081
+_cell_length_b   5.17302375
+_cell_length_c   9.00687775
+_cell_angle_alpha   73.27803931
+_cell_angle_beta   73.26612088
+_cell_angle_gamma   59.99976981
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTb2DyHg4
+_chemical_formula_sum   'Li1 Tb2 Dy1 Hg4'
+_cell_volume   196.86400119
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.32756802  0.72538450  0.99029667  1
+  Tb  Tb1  1  0.07279953  0.47191715  0.75284625  1
+  Tb  Tb2  1  0.58202884  0.97915908  0.22922936  1
+  Dy  Dy3  1  0.82790225  0.22552242  0.49099667  1
+  Hg  Hg4  1  0.70154722  0.09973936  0.86741463  1
+  Hg  Hg5  1  0.20509265  0.60313221  0.36070162  1
+  Hg  Hg6  1  0.45078399  0.84898918  0.62107003  1
+  Hg  Hg7  1  0.95370372  0.35103716  0.11447401  1

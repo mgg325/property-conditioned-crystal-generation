@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       H3OH2OH
+_chemical_formula_sum              "H6 O2"
+_cell_length_a       4.333513195173107
+_cell_length_b       4.370219231999465
+_cell_length_c       4.45050048828125
+_cell_angle_alpha    119.119168706534
+_cell_angle_beta     118.63505645446764
+_cell_angle_gamma    62.06406233212191
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.7233908176422118  0.40446537733078003  0.14889699220657338  1.0000
+  H   H2        1.0  0.3066601157188415  0.07602275162935257  0.5208906531333923  1.0000
+  H   H3        1.0  0.2495208382606506  0.6358333826065063  0.5935879349708557  1.0000
+  O   O1        1.0  0.4043091535568237  0.1708737164735794  0.42348903417587275  1.0000
+  H   H4        1.0  0.6384763717651366  0.36049395799636846  0.22473974525928497  1.0000
+  H   H5        1.0  0.24887846410274503  0.0025884145870804787  0.9569841027259827  1.0000
+  O   O2        1.0  0.14892880618572238  0.9188530445098877  0.6787785887718201  1.0000
+  H   H6        1.0  0.683945059776306  0.07172416895627975  0.5223379731178284  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LuTlErCu
+_chemical_formula_sum              "Lu1 Tl1 Er1 Cu1"
+_cell_length_a       5.074607121762825
+_cell_length_b       5.076923488328043
+_cell_length_c       5.077694892883301
+_cell_angle_alpha    60.12041765428289
+_cell_angle_beta     60.08717104251058
+_cell_angle_gamma    60.11892288804831
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.9193997383117678  0.5935702323913573  0.4156917333602905  1.0000
+  Tl  Tl1       1.0  0.6694123148918152  0.343401163816452  0.16592943668365487  1.0000
+  Er  Er1       1.0  0.4197714924812317  0.0934898555278778  0.9157534837722778  1.0000
+  Cu  Cu1       1.0  0.16948549449443817  0.8430524468421936  0.6653991937637329  1.0000

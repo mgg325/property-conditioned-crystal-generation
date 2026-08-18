@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_MgZnIrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.39667778
+_cell_length_b   5.11349733
+_cell_length_c   5.11404838
+_cell_angle_alpha   119.99940809
+_cell_angle_beta   89.97624528
+_cell_angle_gamma   89.96444627
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgZnIrO6
+_chemical_formula_sum   'Mg1 Zn1 Ir1 O6'
+_cell_volume   99.57274741
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.76133965  0.73509893  0.37010258  1
+  Zn  Zn1  1  0.26184741  0.40226121  0.70305311  1
+  Ir  Ir2  1  0.76114626  0.06865840  0.03657787  1
+  O  O3  1  0.52028356  0.76179279  0.72718808  1
+  O  O4  1  0.52014561  0.06671508  0.34398575  1
+  O  O5  1  0.00185695  0.37776442  0.34368781  1
+  O  O6  1  0.00195214  0.06643748  0.72721023  1
+  O  O7  1  0.00199074  0.76092344  0.03810323  1
+  O  O8  1  0.52028150  0.37853533  0.03948976  1

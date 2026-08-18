@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_HgBi8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28819187
+_cell_length_b   7.23864216
+_cell_length_c   8.33865545
+_cell_angle_alpha   83.35853750
+_cell_angle_beta   71.51663542
+_cell_angle_gamma   68.59963914
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgBi8
+_chemical_formula_sum   'Hg1 Bi8'
+_cell_volume   281.86019025
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.13367468  0.89045918  0.33976215  1
+  Bi  Bi1  1  0.13214030  0.55726364  0.67386180  1
+  Bi  Bi2  1  0.80077241  0.55233940  0.33988963  1
+  Bi  Bi3  1  0.80041199  0.22367162  0.67272231  1
+  Bi  Bi4  1  0.46707013  0.55532104  0.00630348  1
+  Bi  Bi5  1  0.46520766  0.89118570  0.67527427  1
+  Bi  Bi6  1  0.13113065  0.22491670  0.00739776  1
+  Bi  Bi7  1  0.46497240  0.22761540  0.33909481  1
+  Bi  Bi8  1  0.80071084  0.89114185  0.00533500  1

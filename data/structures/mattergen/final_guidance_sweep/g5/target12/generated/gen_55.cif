@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BaSBaSPbSAgS
+_chemical_formula_sum              "Ba2 S4 Pb1 Ag1"
+_cell_length_a       6.5273300273939405
+_cell_length_b       6.5214880356225295
+_cell_length_c       6.513931751251221
+_cell_angle_alpha    107.90760465700359
+_cell_angle_beta     107.93217245498894
+_cell_angle_gamma    112.48465740513706
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.30068874359130865  0.5678251385688783  0.33177143335342413  1.0000
+  S   S1        1.0  0.23761862516403207  0.628193497657776  0.8308151364326477  1.0000
+  Ba  Ba2       1.0  0.8002635836601257  0.06820062547922136  0.33232006430625916  1.0000
+  S   S2        1.0  0.7372320890426636  0.5063967108726501  0.20770402252674108  1.0000
+  Pb  Pb1       1.0  0.2985527217388153  0.06496097147464752  0.8311795592308044  1.0000
+  S   S3        1.0  0.361163854598999  0.13004778325557712  0.45551565289497375  1.0000
+  Ag  Ag1       1.0  0.7993673086166384  0.5685429573059083  0.831928014755249  1.0000
+  S   S4        1.0  0.8604940176010132  0.005774923134595157  0.8323082327842712  1.0000

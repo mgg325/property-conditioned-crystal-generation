@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ca3InCu8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21583245
+_cell_length_b   5.21847267
+_cell_length_c   9.06267537
+_cell_angle_alpha   73.29865187
+_cell_angle_beta   73.25775494
+_cell_angle_gamma   59.99065039
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3InCu8
+_chemical_formula_sum   'Ca3 In1 Cu8'
+_cell_volume   201.47338181
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.83188334  0.36536685  0.27860131  1
+  Ca  Ca1  1  0.33790119  0.87097306  0.76090662  1
+  Ca  Ca2  1  0.95872922  0.49235570  0.89949469  1
+  In  In3  1  0.46091014  0.99337028  0.39362356  1
+  Cu  Cu4  1  0.89925494  0.43232296  0.58036416  1
+  Cu  Cu5  1  0.89953409  0.93107519  0.57980316  1
+  Cu  Cu6  1  0.39706321  0.43088467  0.58038285  1
+  Cu  Cu7  1  0.39690600  0.42859452  0.08691238  1
+  Cu  Cu8  1  0.89548335  0.93090574  0.08738397  1
+  Cu  Cu9  1  0.39675427  0.93104319  0.08650854  1
+  Cu  Cu10  1  0.14687467  0.67958511  0.33513917  1
+  Cu  Cu11  1  0.64765044  0.18233394  0.83268314  1

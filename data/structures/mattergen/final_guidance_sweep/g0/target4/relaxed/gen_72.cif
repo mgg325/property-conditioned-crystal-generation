@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FeKFNaF3
+_chemical_formula_sum              "Fe1 K1 F4 Na1"
+_cell_length_a       4.182688162032474
+_cell_length_b       4.18760388411432
+_cell_length_c       6.949383067355246
+_cell_angle_alpha    107.28948099765582
+_cell_angle_beta     107.41103143931284
+_cell_angle_gamma    90.06531747838183
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.6484677337003059  0.5131287658297674  0.3660987004888142  1.0000
+  K   K1        1.0  0.2915734420486199  0.15528148183631443  0.6539071443154981  1.0000
+  F   F1        1.0  0.8139155299305009  0.6770264029291148  0.6953833411140247  1.0000
+  Na  Na1       1.0  0.0046157498110841536  0.8664275983020376  0.07616675160760977  1.0000
+  F   F2        1.0  0.6405561214092556  0.00835680790418379  0.3552638213719331  1.0000
+  F   F3        1.0  0.4912294633149344  0.35495664139438704  0.047149580129215364  1.0000
+  F   F4        1.0  0.14523763423097316  0.5121042967769484  0.3599057432435244  1.0000

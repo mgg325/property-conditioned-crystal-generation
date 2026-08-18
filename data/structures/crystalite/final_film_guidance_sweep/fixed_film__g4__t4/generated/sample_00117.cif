@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_K2BePH2ClO10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.72362566
+_cell_length_b   5.26317978
+_cell_length_c   8.54448223
+_cell_angle_alpha   86.23857880
+_cell_angle_beta   73.52230835
+_cell_angle_gamma   62.38169861
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2BePH2ClO10
+_chemical_formula_sum   'K2 Be1 P1 H2 Cl1 O10'
+_cell_volume   141.85289150
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.14235866  0.85532713  0.95734948  1
+  O  O1  1  0.72535187  0.75316846  0.78568125  1
+  H  H2  1  0.88416886  0.68003488  0.20762464  1
+  Be  Be3  1  0.82599807  0.39754972  0.72482038  1
+  H  H4  1  0.29262727  0.50767708  0.61894453  1
+  O  O5  1  0.19832093  0.49689361  0.40113419  1
+  O  O6  1  0.45148143  0.48099700  0.76954687  1
+  P  P7  1  0.72334379  0.48551583  0.90561152  1
+  O  O8  1  0.26614174  0.41215810  0.97957945  1
+  O  O9  1  0.84364045  0.50464875  0.63960117  1
+  O  O10  1  0.28027040  0.44355917  0.17416051  1
+  O  O11  1  0.81608737  0.17978352  0.02436423  1
+  O  O12  1  0.95725703  0.42690876  0.27237764  1
+  K  K13  1  0.78929430  0.98416054  0.66142207  1
+  O  O14  1  0.24326643  0.12955964  0.56164044  1
+  Cl  Cl15  1  0.11479160  0.44470599  0.70184392  1
+  O  O16  1  0.67440504  0.42093349  0.86585259  1

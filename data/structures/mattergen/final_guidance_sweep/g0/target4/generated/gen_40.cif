@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ni2HgO2HgO2
+_chemical_formula_sum              "Ni2 Hg2 O4"
+_cell_length_a       3.1934057304197703
+_cell_length_b       5.5267015013605025
+_cell_length_c       6.385912895202637
+_cell_angle_alpha    98.43410508290059
+_cell_angle_beta     104.31541565329266
+_cell_angle_gamma    89.80865474986054
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.4253799617290497  0.5549166202545166  0.9397450685501099  1.0000
+  Ni  Ni2       1.0  0.9249264001846313  0.0546131506562233  0.9392808079719543  1.0000
+  Hg  Hg1       1.0  0.17478808760643005  0.804879903793335  0.4397833049297333  1.0000
+  O   O1        1.0  0.005912542343139648  0.7485520839691162  0.10260806232690811  1.0000
+  O   O2        1.0  0.8444676995277405  0.3607308268547058  0.7765694856643677  1.0000
+  Hg  Hg2       1.0  0.6757059693336487  0.3035099506378173  0.4398706257343292  1.0000
+  O   O3        1.0  0.34409913420677185  0.8601618409156799  0.7761866450309753  1.0000
+  O   O4        1.0  0.5061418414115906  0.2489292025566101  0.1025480106472969  1.0000

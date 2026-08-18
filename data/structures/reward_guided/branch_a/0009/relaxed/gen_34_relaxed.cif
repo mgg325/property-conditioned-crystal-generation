@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_KCd2(SnHg)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.92678744
+_cell_length_b   5.28896549
+_cell_length_c   9.43721858
+_cell_angle_alpha   102.79997744
+_cell_angle_beta   89.89529433
+_cell_angle_gamma   117.84779303
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCd2(SnHg)2
+_chemical_formula_sum   'K1 Cd2 Sn2 Hg2'
+_cell_volume   210.55040986
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.95829448  0.64666467  0.79381034  1
+  Cd  Cd1  1  0.22307342  0.17502547  0.54091990  1
+  Cd  Cd2  1  0.09755210  0.92678486  0.20836409  1
+  Sn  Sn3  1  0.84249926  0.41300756  0.36161099  1
+  Sn  Sn4  1  0.38230733  0.49545730  0.09671665  1
+  Hg  Hg5  1  0.68316082  0.09713595  1.00015108  1
+  Hg  Hg6  1  0.54195802  0.81320483  0.52416128  1

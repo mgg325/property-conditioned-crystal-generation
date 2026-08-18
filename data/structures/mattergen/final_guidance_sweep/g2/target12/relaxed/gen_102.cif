@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CaSeSrSe4Sr
+_chemical_formula_sum              "Ca1 Se5 Sr2"
+_cell_length_a       3.8972386576883524
+_cell_length_b       7.564955523563963
+_cell_length_c       7.563126860283106
+_cell_angle_alpha    100.1577878435729
+_cell_angle_beta     89.96779474360214
+_cell_angle_gamma    89.9478341683864
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.5759333513394496  0.10456188456721935  0.14838648939550217  1.0000
+  Se  Se1       1.0  0.07516201728028175  0.4032207137043237  0.44764290294647796  1.0000
+  Sr  Sr1       1.0  0.5747395242873762  0.10419709690350705  0.6483119724996291  1.0000
+  Se  Se2       1.0  0.07340024142948544  0.8054162149585452  0.8488941491955173  1.0000
+  Se  Se3       1.0  0.07530123000705731  0.9147183501565235  0.33762925182089043  1.0000
+  Se  Se4       1.0  0.0749025436435219  0.2941875136285839  0.9587668587805116  1.0000
+  Se  Se5       1.0  0.5755733150480586  0.6043337993175193  0.6484322151909264  1.0000
+  Sr  Sr2       1.0  0.5747251692911275  0.6043142701557869  0.14852605771953475  1.0000

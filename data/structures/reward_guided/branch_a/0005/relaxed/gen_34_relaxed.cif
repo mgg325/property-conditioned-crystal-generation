@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_TbEuCd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89740197
+_cell_length_b   3.90798245
+_cell_length_c   6.89716995
+_cell_angle_alpha   106.45022190
+_cell_angle_beta   106.41866967
+_cell_angle_gamma   90.00159715
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbEuCd
+_chemical_formula_sum   'Tb1 Eu1 Cd1'
+_cell_volume   96.27535421
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.44420004  0.38868739  0.98300622  1
+  Eu  Eu1  1  0.15013310  0.09421203  0.39460425  1
+  Cd  Cd2  1  0.81290822  0.75738904  0.72040379  1

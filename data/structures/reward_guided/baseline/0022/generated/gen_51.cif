@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ZnBa2OZnO3
+_chemical_formula_sum              "Zn2 Ba2 O4"
+_cell_length_a       3.683505179182816
+_cell_length_b       6.1404663423029255
+_cell_length_c       6.0103607177734375
+_cell_angle_alpha    95.06721751768265
+_cell_angle_beta     90.6766897891489
+_cell_angle_gamma    91.68192961123191
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.20716595649719236  0.09175289422273636  0.1889103800058365  1.0000
+  Ba  Ba1       1.0  0.7081173658370971  0.6243698000907898  0.12343893945217134  1.0000
+  Ba  Ba2       1.0  0.7072374820709227  0.11910666525363922  0.6832038164138794  1.0000
+  O   O1        1.0  0.7071727514266967  0.2161503583192825  0.25045984983444214  1.0000
+  Zn  Zn2       1.0  0.20659650862216947  0.6631247401237487  0.6626562476158142  1.0000
+  O   O2        1.0  0.20707312226295468  0.8182869553565978  0.41184958815574646  1.0000
+  O   O3        1.0  0.2066627889871597  0.4113233685493469  0.8076668977737427  1.0000
+  O   O4        1.0  0.2069989889860153  0.890939950942993  0.9171479344367982  1.0000

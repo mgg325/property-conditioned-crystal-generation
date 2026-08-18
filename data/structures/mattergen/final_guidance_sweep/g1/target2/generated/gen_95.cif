@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       YbONiO2Yb
+_chemical_formula_sum              "Yb2 O3 Ni1"
+_cell_length_a       3.588525967278621
+_cell_length_b       3.58771659030063
+_cell_length_c       8.973877906799316
+_cell_angle_alpha    78.54915660705196
+_cell_angle_beta     78.51658242831785
+_cell_angle_gamma    60.062970074756514
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.6292718648910522  0.06819959729909897  0.3253985643386841  1.0000
+  O   O1        1.0  0.345551460981369  0.7829043269157411  0.17792731523513794  1.0000
+  Ni  Ni1       1.0  0.4107787311077118  0.8501090407371522  0.9800311923027039  1.0000
+  O   O2        1.0  0.9242605566978455  0.36292019486427307  0.43961861729621887  1.0000
+  O   O3        1.0  0.4806810319423675  0.9188707470893861  0.774278998374939  1.0000
+  Yb  Yb2       1.0  0.8447480797767639  0.2828499972820282  0.6811527609825134  1.0000

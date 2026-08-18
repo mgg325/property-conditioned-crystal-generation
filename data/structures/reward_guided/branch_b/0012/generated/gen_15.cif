@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Rh2Er2
+_chemical_formula_sum              "Rh2 Er2"
+_cell_length_a       4.772022972576555
+_cell_length_b       4.741789219132117
+_cell_length_c       4.843630313873291
+_cell_angle_alpha    59.616582985288
+_cell_angle_beta     60.06819271986179
+_cell_angle_gamma    59.06598544069766
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.08243404328823088  0.8779532313346864  0.7046093940734862  1.0000
+  Rh  Rh2       1.0  0.5837454795837401  0.3801037967205048  0.2068539261817932  1.0000
+  Er  Er1       1.0  0.8325636386871337  0.6302000880241395  0.45646941661834717  1.0000
+  Er  Er2       1.0  0.33093094825744623  0.13186550140380862  0.9558812975883484  1.0000

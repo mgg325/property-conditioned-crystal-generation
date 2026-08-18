@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       PrAlPrAl2IrAlIr
+_chemical_formula_sum              "Pr2 Al4 Ir2"
+_cell_length_a       4.113661255053718
+_cell_length_b       5.728826759731282
+_cell_length_c       7.177166938781738
+_cell_angle_alpha    88.73707303637833
+_cell_angle_beta     90.05467817134964
+_cell_angle_gamma    110.15384844580666
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.06591574847698212  0.07984314858913422  0.6363474130630493  1.0000
+  Al  Al1       1.0  0.46170470118522644  0.8727511167526245  0.9431145787239076  1.0000
+  Pr  Pr2       1.0  0.18927401304244995  0.32245367765426636  0.13651704788208008  1.0000
+  Al  Al2       1.0  0.4610123336315155  0.8712643384933472  0.33078035712242126  1.0000
+  Al  Al3       1.0  0.7927095890045166  0.5328668355941772  0.8312419056892396  1.0000
+  Ir  Ir1       1.0  0.34366124868392944  0.6342630386352539  0.6344166994094849  1.0000
+  Al  Al4       1.0  0.7956750392913818  0.536518931388855  0.4414344727993012  1.0000
+  Ir  Ir2       1.0  0.9135643243789673  0.7694384455680848  0.13512560725212097  1.0000

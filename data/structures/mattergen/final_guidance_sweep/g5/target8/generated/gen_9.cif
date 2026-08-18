@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BiCaBiSbCaSb2
+_chemical_formula_sum              "Bi2 Ca2 Sb3"
+_cell_length_a       5.329795919870065
+_cell_length_b       6.785281548511538
+_cell_length_c       6.782876491546631
+_cell_angle_alpha    110.44928003499611
+_cell_angle_beta     89.95049046450364
+_cell_angle_gamma    90.01265201497726
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.1551266610622406  0.9952861070632935  0.23149704933166512  1.0000
+  Ca  Ca1       1.0  0.6547093987464905  0.2264908105134964  0.9633670449256898  1.0000
+  Bi  Bi2       1.0  0.15499792993068695  0.45874291658401495  0.6944314241409302  1.0000
+  Sb  Sb1       1.0  0.15503445267677307  0.5293861627578735  0.16088391840457922  1.0000
+  Ca  Ca2       1.0  0.6547621488571167  0.7266712784767151  0.46328902244567877  1.0000
+  Sb  Sb2       1.0  0.6550745368003845  0.2267301231622696  0.4638542830944062  1.0000
+  Sb  Sb3       1.0  0.15543757379055023  0.9244734048843384  0.7664663791656494  1.0000

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ga3CuSb2AsSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43012619
+_cell_length_b   6.35207701
+_cell_length_c   6.52623606
+_cell_angle_alpha   117.14984131
+_cell_angle_beta   118.81192780
+_cell_angle_gamma   90.24475861
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga3CuSb2AsSe
+_chemical_formula_sum   'Ga3 Cu1 Sb2 As1 Se1'
+_cell_volume   168.09508810
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.43424365  0.71431136  0.46145877  1
+  Sb  Sb1  1  0.04891235  0.90485656  0.29113802  1
+  Ga  Ga2  1  0.34862044  0.32843477  0.45998031  1
+  Se  Se3  1  0.57132083  0.40617073  0.25409958  1
+  Cu  Cu4  1  0.07888851  0.02117988  0.05770868  1
+  As  As5  1  0.40990317  0.68750912  0.97400546  1
+  Sb  Sb6  1  0.86207247  0.05474553  0.64873075  1
+  Ga  Ga7  1  0.72218668  0.44657224  0.95019078  1

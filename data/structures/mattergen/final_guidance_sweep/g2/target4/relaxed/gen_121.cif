@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SeCl2BrSe2
+_chemical_formula_sum              "Se3 Cl2 Br1"
+_cell_length_a       5.717385374475455
+_cell_length_b       6.247477459452257
+_cell_length_c       7.263877828957231
+_cell_angle_alpha    99.6362308748531
+_cell_angle_beta     119.33604391125401
+_cell_angle_gamma    80.82484182579755
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.45122501734460635  0.06782735928338351  0.3069203912057649  1.0000
+  Cl  Cl1       1.0  0.19649672577899285  0.8229070668976435  0.8377172383333771  1.0000
+  Cl  Cl2       1.0  0.8198443050331573  0.40819519445236324  0.1486766068440082  1.0000
+  Br  Br1       1.0  0.5979100921848455  0.23747595193147278  0.654715222434692  1.0000
+  Se  Se2       1.0  0.9785940695507328  0.6386999893093772  0.4912061683265243  1.0000
+  Se  Se3       1.0  0.8718095760856782  0.9588487086481232  0.32454410199057937  1.0000

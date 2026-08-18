@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2Li2N2
+_chemical_formula_sum              "Mg2 Li2 N2"
+_cell_length_a       3.5612993828656885
+_cell_length_b       3.561933927018803
+_cell_length_c       6.142481327056885
+_cell_angle_alpha    106.8021773767332
+_cell_angle_beta     90.02340956355327
+_cell_angle_gamma    119.71890084344258
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.6398481130599977  0.9840106368064879  0.6570801734924316  1.0000
+  Mg  Mg2       1.0  0.8745771646499635  0.45490905642509455  0.3604886531829834  1.0000
+  Li  Li1       1.0  0.3913805782794953  0.49040734767913813  0.9136792421340943  1.0000
+  Li  Li2       1.0  0.12374141812324523  0.9497500658035277  0.10473111271858215  1.0000
+  N   N1        1.0  0.0026853801682591313  0.7111029624938965  0.7477885484695435  1.0000
+  N   N2        1.0  0.511286735534668  0.7284605503082274  0.27049756050109863  1.0000

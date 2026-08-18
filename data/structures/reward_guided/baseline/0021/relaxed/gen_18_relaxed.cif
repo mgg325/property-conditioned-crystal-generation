@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba(ZnAu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.44010711
+_cell_length_b   6.53440923
+_cell_length_c   7.03951404
+_cell_angle_alpha   57.41758599
+_cell_angle_beta   70.19818180
+_cell_angle_gamma   73.46979500
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(ZnAu)2
+_chemical_formula_sum   'Ba2 Zn4 Au4'
+_cell_volume   232.90097410
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.19759996  0.62079732  0.69953434  1
+  Ba  Ba1  1  0.84581295  0.13127387  0.80071081  1
+  Zn  Zn2  1  0.38838246  0.20652955  0.21185433  1
+  Zn  Zn3  1  0.72457220  0.81932903  0.43590284  1
+  Zn  Zn4  1  0.65479807  0.54566348  0.28836798  1
+  Zn  Zn5  1  0.31875382  0.93282827  0.06444969  1
+  Au  Au6  1  0.07934574  0.57316728  0.26266415  1
+  Au  Au7  1  0.60365887  0.61739207  0.90281635  1
+  Au  Au8  1  0.96392236  0.17912576  0.23736588  1
+  Au  Au9  1  0.43988047  0.13449963  0.59749576  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaSi2P2Se3ClO11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   1.56877482
+_cell_length_b   4.49886751
+_cell_length_c   4.18155146
+_cell_angle_alpha   107.09673309
+_cell_angle_beta   107.60537720
+_cell_angle_gamma   106.76663971
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSi2P2Se3ClO11
+_chemical_formula_sum   'Na1 Si2 P2 Se3 Cl1 O11'
+_cell_volume   24.47148044
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.30679810  0.21535173  0.47368011  1
+  Se  Se1  1  0.39890805  0.02250454  0.54471618  1
+  Na  Na2  1  0.30384201  0.39716196  0.84743321  1
+  Se  Se3  1  0.29613376  0.87312472  0.86105686  1
+  O  O4  1  0.12315756  0.91386616  0.93087083  1
+  P  P5  1  0.84605145  0.96180952  0.79081976  1
+  Si  Si6  1  0.50696003  0.26186877  0.47512466  1
+  O  O7  1  0.62753117  0.23983669  0.49835250  1
+  P  P8  1  0.02681658  0.37878928  0.49209383  1
+  Si  Si9  1  0.53781712  0.47877723  0.55384612  1
+  O  O10  1  0.26359659  0.41097438  0.37980479  1
+  O  O11  1  0.54130000  0.39132270  0.44792235  1
+  O  O12  1  0.71078944  0.64445162  0.27951211  1
+  O  O13  1  0.65306312  0.27899790  0.44847986  1
+  O  O14  1  0.91973829  0.25834826  0.15132329  1
+  O  O15  1  0.12330067  0.89031279  0.91935050  1
+  O  O16  1  0.62455255  0.60686064  0.67402375  1
+  Se  Se17  1  0.70284361  0.26514494  0.71095514  1
+  Cl  Cl18  1  0.63996285  0.77928847  0.78973997  1
+  O  O19  1  0.57737321  0.50532663  0.07296306  1

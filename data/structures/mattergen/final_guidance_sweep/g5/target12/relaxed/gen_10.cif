@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BiAgSe2BiAgSe2
+_chemical_formula_sum              "Bi2 Ag2 Se4"
+_cell_length_a       6.408971848122416
+_cell_length_b       6.398700704683392
+_cell_length_c       7.8639798141143284
+_cell_angle_alpha    113.99873445986444
+_cell_angle_beta     114.02396821763459
+_cell_angle_gamma    90.08428122793121
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.40692650218906556  0.7441241633808118  0.32309459543527896  1.0000
+  Ag  Ag1       1.0  0.15739312566959346  0.99442868195414  0.8224310067994853  1.0000
+  Se  Se1       1.0  0.5316887031335304  0.8935269339383823  0.07392474937448164  1.0000
+  Se  Se2       1.0  0.03184964502276038  0.34546040300084163  0.07294635599341288  1.0000
+  Bi  Bi2       1.0  0.6573960201677298  0.49512446600908067  0.8231444851030814  1.0000
+  Ag  Ag2       1.0  0.906424745610903  0.24395420413410768  0.3229280963052644  1.0000
+  Se  Se3       1.0  0.25917782587218974  0.11996995135349062  0.5725324790373982  1.0000
+  Se  Se4       1.0  0.8048158296247543  0.6192066429943688  0.5723869258143075  1.0000

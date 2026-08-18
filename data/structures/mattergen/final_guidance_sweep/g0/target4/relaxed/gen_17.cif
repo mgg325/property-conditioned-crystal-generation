@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tl2O3AsOLi
+_chemical_formula_sum              "Tl2 O4 As1 Li1"
+_cell_length_a       5.692097976493391
+_cell_length_b       5.698500073378211
+_cell_length_c       5.711283255652007
+_cell_angle_alpha    118.63711718791636
+_cell_angle_beta     118.5599720815574
+_cell_angle_gamma    92.58732278037384
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.1516061407519859  0.3692439616270697  0.2731537032991747  1.0000
+  Tl  Tl2       1.0  0.902128232458813  0.6187968130227826  0.7732482002499669  1.0000
+  O   O1        1.0  0.9979817150332614  0.1005243537336513  0.6013401769178034  1.0000
+  O   O2        1.0  0.4220034193036409  0.9622183784979266  0.38819615990996725  1.0000
+  O   O3        1.0  0.5527817800960481  0.8851993545998658  0.9460950232215701  1.0000
+  As  As1       1.0  0.6527256379028953  0.8679006410600559  0.27340946256151416  1.0000
+  O   O4        1.0  0.6383410336098712  0.5230787542907305  0.15780871982075573  1.0000
+  Li  Li1       1.0  0.40255742866032984  0.11820128487707689  0.7733792734634591  1.0000

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ba2InSe4N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92205596
+_cell_length_b   7.36145592
+_cell_length_c   7.79779959
+_cell_angle_alpha   89.92604065
+_cell_angle_beta   90.47621918
+_cell_angle_gamma   90.46067810
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2InSe4N
+_chemical_formula_sum   'Ba2 In1 Se4 N1'
+_cell_volume   225.12317542
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.25454551  0.47440720  0.28114033  1
+  Ba  Ba1  1  0.77461195  0.12719700  0.47836545  1
+  In  In2  1  0.25483674  0.08517134  0.00807926  1
+  N  N3  1  0.22517639  0.63137650  0.52759182  1
+  Se  Se4  1  0.27382994  0.77522677  0.68648082  1
+  Ba  Ba5  1  0.76339781  0.56388569  0.99231815  1
+  Se  Se6  1  0.76013541  0.96634412  0.11135405  1
+  Se  Se7  1  0.27600187  0.29064164  0.75408733  1

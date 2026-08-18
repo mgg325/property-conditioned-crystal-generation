@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li3Sn(AsSe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55477778
+_cell_length_b   5.65241217
+_cell_length_c   9.72085126
+_cell_angle_alpha   92.61868900
+_cell_angle_beta   91.62518595
+_cell_angle_gamma   91.57844059
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Sn(AsSe3)2
+_chemical_formula_sum   'Li3 Sn1 As2 Se6'
+_cell_volume   304.64572586
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.26539585  0.24440526  0.84075104  1
+  Li  Li1  1  0.24392148  0.20958844  0.28404816  1
+  Li  Li2  1  0.75705689  0.71945696  0.81426341  1
+  Sn  Sn3  1  0.75642427  0.24867405  0.52668059  1
+  As  As4  1  0.26770694  0.73940010  0.57841787  1
+  As  As5  1  0.80531190  0.48291768  0.11686232  1
+  Se  Se6  1  0.78948177  0.27553775  0.88958099  1
+  Se  Se7  1  0.26791882  0.73857975  0.82751947  1
+  Se  Se8  1  0.71507583  0.72898584  0.53809660  1
+  Se  Se9  1  0.26629759  0.18870435  0.56381817  1
+  Se  Se10  1  0.16140060  0.64949406  0.25338210  1
+  Se  Se11  1  0.70755069  0.13853267  0.24555014  1

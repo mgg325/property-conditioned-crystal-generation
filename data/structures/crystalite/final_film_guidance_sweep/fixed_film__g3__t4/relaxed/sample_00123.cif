@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Tl2SiBiS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.29858595
+_cell_length_b   6.81540658
+_cell_length_c   10.14667432
+_cell_angle_alpha   106.34501525
+_cell_angle_beta   90.77756892
+_cell_angle_gamma   122.94208352
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2SiBiS6
+_chemical_formula_sum   'Tl2 Si1 Bi1 S6'
+_cell_volume   343.17766479
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.60623224  0.81967709  0.93973203  1
+  Tl  Tl1  1  0.70437273  0.62612241  0.36077949  1
+  Si  Si2  1  0.08448038  0.25695526  0.78224208  1
+  Bi  Bi3  1  0.31676738  0.11858280  0.55483998  1
+  S  S4  1  0.72271664  -0.06804402  0.67860486  1
+  S  S5  1  0.28143308  0.10492928  0.85289857  1
+  S  S6  1  0.41156379  0.84186043  0.36530678  1
+  S  S7  1  0.11210067  0.69976455  0.21030172  1
+  S  S8  1  0.05345767  0.14648297  0.38318463  1
+  S  S9  1  0.65735896  0.42559528  0.91188139  1

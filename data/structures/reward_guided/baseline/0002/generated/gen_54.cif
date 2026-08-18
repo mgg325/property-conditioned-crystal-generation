@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LuKSe2
+_chemical_formula_sum              "Lu1 K1 Se2"
+_cell_length_a       4.1113004740328805
+_cell_length_b       4.111028215550372
+_cell_length_c       7.875842094421387
+_cell_angle_alpha    90.00580816559189
+_cell_angle_beta     90.00298729701811
+_cell_angle_gamma    119.9998121235267
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.009842338040471061  0.832008957862854  0.4375154376029969  1.0000
+  K   K1        1.0  0.009887411259114767  0.8318642973899841  0.9376087784767152  1.0000
+  Se  Se1       1.0  0.34298038482666016  0.49869611859321594  0.6371470689773561  1.0000
+  Se  Se2       1.0  0.6766388416290283  0.16522738337516782  0.23782289028167727  1.0000

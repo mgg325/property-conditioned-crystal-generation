@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Ti2OsRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.37097313
+_cell_length_b   4.36953699
+_cell_length_c   4.37032834
+_cell_angle_alpha   60.02372641
+_cell_angle_beta   60.02893840
+_cell_angle_gamma   60.02737207
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2OsRu
+_chemical_formula_sum   'Ti2 Os1 Ru1'
+_cell_volume   59.05751851
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.74214100  0.62832318  0.45106350  1
+  Ti  Ti1  1  0.24207312  0.12861534  0.95199777  1
+  Os  Os2  1  0.49181438  0.37856139  0.20164402  1
+  Ru  Ru3  1  0.99139940  0.87913963  0.70206099  1

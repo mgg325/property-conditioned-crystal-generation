@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AlTiAlTiGa2
+_chemical_formula_sum              "Al2 Ti2 Ga2"
+_cell_length_a       3.8486218910576606
+_cell_length_b       3.819474490498287
+_cell_length_c       6.912439346313477
+_cell_angle_alpha    89.9641645018487
+_cell_angle_beta     106.08691292127926
+_cell_angle_gamma    90.00782990154401
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.17619386315345767  0.30153840780258173  0.13623110949993134  1.0000
+  Ti  Ti1       1.0  0.8401132822036744  0.30139881372451777  0.4626179337501526  1.0000
+  Al  Al2       1.0  0.6740673780441284  0.8017454147338866  0.13189618289470673  1.0000
+  Ti  Ti2       1.0  0.010233868844807148  0.801914393901825  0.8056778907775879  1.0000
+  Ga  Ga1       1.0  0.4990918934345246  0.3014121651649475  0.7825832962989807  1.0000
+  Ga  Ga2       1.0  0.35093858838081365  0.801746129989624  0.48538532853126526  1.0000

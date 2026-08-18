@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_TlCd3In(Sn2Hg)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55055908
+_cell_length_b   6.53660435
+_cell_length_c   7.41769796
+_cell_angle_alpha   90.01672856
+_cell_angle_beta   89.96342951
+_cell_angle_gamma   90.93940499
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlCd3In(Sn2Hg)2
+_chemical_formula_sum   'Tl1 Cd3 In1 Sn4 Hg2'
+_cell_volume   317.57128841
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.25958681  0.88892235  0.66960598  1
+  Cd  Cd1  1  0.25871860  0.38777864  0.46519943  1
+  Cd  Cd2  1  0.75894054  0.38727409  0.87738815  1
+  Cd  Cd3  1  0.75918877  0.88704538  0.86907274  1
+  In  In4  1  0.75892296  0.38803244  0.47537413  1
+  Sn  Sn5  1  0.01767832  0.12833771  0.16779018  1
+  Sn  Sn6  1  0.01778755  0.64696055  0.16756259  1
+  Sn  Sn7  1  0.49956013  0.64655369  0.16722902  1
+  Sn  Sn8  1  0.50033825  0.12868022  0.16750394  1
+  Hg  Hg9  1  0.75776626  0.88760135  0.48342361  1
+  Hg  Hg10  1  0.25916040  0.38757046  0.85144604  1

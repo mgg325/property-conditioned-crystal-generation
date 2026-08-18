@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Zn3GeSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95340265
+_cell_length_b   4.04918159
+_cell_length_c   12.54509889
+_cell_angle_alpha   80.95529993
+_cell_angle_beta   80.93241071
+_cell_angle_gamma   59.96408792
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn3GeSe3
+_chemical_formula_sum   'Zn3 Ge1 Se3'
+_cell_volume   170.95980384
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.51199746  0.84206306  0.63439370  1
+  Zn  Zn1  1  0.67321815  0.01650270  0.13366595  1
+  Zn  Zn2  1  0.08896324  0.42599724  0.85009362  1
+  Ge  Ge3  1  0.93157943  0.27402277  0.31704815  1
+  Se  Se4  1  0.78748165  0.10448296  0.76786891  1
+  Se  Se5  1  0.56680076  0.89808162  0.43142390  1
+  Se  Se6  1  0.02652700  0.37867404  0.05040030  1

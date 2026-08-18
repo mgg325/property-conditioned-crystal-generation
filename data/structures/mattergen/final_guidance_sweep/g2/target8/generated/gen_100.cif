@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       SbZnLi
+_chemical_formula_sum              "Sb1 Zn1 Li1"
+_cell_length_a       4.487993624916137
+_cell_length_b       4.489397188140191
+_cell_length_c       4.481980800628662
+_cell_angle_alpha    60.16479669925457
+_cell_angle_beta     60.122693180592236
+_cell_angle_gamma    60.19714358416576
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.7372764945030214  0.8439471125602721  0.5706741213798523  1.0000
+  Zn  Zn1       1.0  0.4865078032016753  0.5932919979095459  0.320979505777359  1.0000
+  Li  Li1       1.0  0.9874260425567626  0.09461037069559096  0.8201255798339845  1.0000

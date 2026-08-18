@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_KLi6SiS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.88896275
+_cell_length_b   6.53934574
+_cell_length_c   7.50123978
+_cell_angle_alpha   61.98057556
+_cell_angle_beta   63.55167007
+_cell_angle_gamma   58.53138351
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLi6SiS6
+_chemical_formula_sum   'K1 Li6 Si1 S6'
+_cell_volume   245.28762386
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.78987956  0.00072896  0.93581486  1
+  S  S1  1  0.22589767  0.22083881  0.49451876  1
+  Li  Li2  1  0.92296392  0.25160205  0.47484070  1
+  S  S3  1  0.72695905  0.28477448  0.03817832  1
+  Li  Li4  1  0.29943579  0.54393709  0.34846964  1
+  S  S5  1  0.62374842  0.56505418  0.47132024  1
+  S  S6  1  0.20190948  0.53381610  0.98080516  1
+  Li  Li7  1  0.49741101  0.42999536  0.73410553  1
+  S  S8  1  0.90391940  0.85072482  0.49027017  1
+  Li  Li9  1  0.54972631  0.24044472  0.13245925  1
+  K  K10  1  0.39763963  0.81654572  0.86403102  1
+  Li  Li11  1  0.99271536  0.91792870  0.68014526  1
+  Si  Si12  1  0.96298027  0.41407484  0.87547433  1
+  Li  Li13  1  0.59825027  0.79313159  0.30679452  1

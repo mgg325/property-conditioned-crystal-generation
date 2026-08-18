@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_BaGaP2Se2XeClO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   1.98208010
+_cell_length_b   6.98045015
+_cell_length_c   5.26163054
+_cell_angle_alpha   112.40598297
+_cell_angle_beta   92.12745667
+_cell_angle_gamma   94.50486755
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaGaP2Se2XeClO12
+_chemical_formula_sum   'Ba1 Ga1 P2 Se2 Xe1 Cl1 O12'
+_cell_volume   66.91729500
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.49659768  0.48342440  0.86357534  1
+  O  O1  1  0.36941364  0.06752580  0.12156451  1
+  O  O2  1  0.18903655  0.48145384  0.89305431  1
+  Ba  Ba3  1  0.60510701  0.18445852  0.41788429  1
+  O  O4  1  0.78501135  0.35813403  0.78201914  1
+  P  P5  1  0.34795547  0.24111313  0.96476793  1
+  Se  Se6  1  0.54993623  0.87502444  0.59540862  1
+  O  O7  1  0.50964183  0.38313356  0.87939858  1
+  O  O8  1  0.38813397  0.58474243  0.53488475  1
+  O  O9  1  0.21497631  0.55582547  0.77374029  1
+  Ga  Ga10  1  0.34043455  0.55355477  0.66516411  1
+  O  O11  1  0.76803052  0.35123950  0.79687989  1
+  O  O12  1  0.22062939  0.74709427  0.92012191  1
+  P  P13  1  0.50281858  0.40732759  0.78646886  1
+  O  O14  1  0.23340958  0.14518926  0.68102485  1
+  Cl  Cl15  1  0.19804156  0.29495052  0.83289194  1
+  O  O16  1  0.50022155  0.22630891  0.12727731  1
+  Xe  Xe17  1  0.08849394  0.40103981  0.83355987  1
+  Se  Se18  1  0.48621750  0.14430550  0.63811004  1
+  O  O19  1  0.40374559  0.15204945  0.62482214  1

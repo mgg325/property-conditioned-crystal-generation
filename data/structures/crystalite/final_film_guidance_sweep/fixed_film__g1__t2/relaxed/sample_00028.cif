@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_AlVClF13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43132458
+_cell_length_b   6.41022390
+_cell_length_c   7.05803492
+_cell_angle_alpha   90.91347365
+_cell_angle_beta   88.89158481
+_cell_angle_gamma   88.66730564
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlVClF13
+_chemical_formula_sum   'Al1 V1 Cl1 F13'
+_cell_volume   245.58711887
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.22216065  0.52739038  0.05541539  1
+  V  V1  1  0.65067917  0.45284984  0.46680846  1
+  Cl  Cl2  1  0.94726407  1.03972132  0.86221682  1
+  F  F3  1  0.41983804  0.47867223  0.24334564  1
+  F  F4  1  0.66189939  0.72597180  0.44254632  1
+  F  F5  1  0.39808088  0.69084321  0.92806340  1
+  F  F6  1  0.75446702  0.13285438  0.03262805  1
+  F  F7  1  0.62071375  0.18086332  0.42588136  1
+  F  F8  1  0.72493145  0.92179972  0.76562119  1
+  F  F9  1  0.11617186  1.00138124  0.66166172  1
+  F  F10  1  0.82405528  0.43674376  0.67450100  1
+  F  F11  1  0.37116656  0.46075864  0.60156776  1
+  F  F12  1  0.94204859  0.64774453  0.03090288  1
+  F  F13  1  0.93544796  0.43166524  0.32224081  1
+  F  F14  1  0.21488740  0.95707469  0.31880859  1
+  F  F15  1  0.21241153  0.27665225  0.96150963  1

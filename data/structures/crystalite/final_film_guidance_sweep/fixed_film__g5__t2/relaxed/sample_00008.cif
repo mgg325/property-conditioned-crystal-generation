@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ca2SiN2F7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.39681542
+_cell_length_b   14.39364280
+_cell_length_c   44.82123886
+_cell_angle_alpha   89.73636874
+_cell_angle_beta   90.96447421
+_cell_angle_gamma   88.31261312
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2SiN2F7
+_chemical_formula_sum   'Ca2 Si1 N2 F7'
+_cell_volume   2190.13547145
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.18836603  0.65868556  0.86953866  1
+  Ca  Ca1  1  0.99032640  0.65985411  0.52623677  1
+  Si  Si2  1  0.54978740  0.10732985  0.24887300  1
+  N  N3  1  0.92361659  0.61170346  0.19104528  1
+  N  N4  1  0.72863042  0.51443177  0.37662488  1
+  F  F5  1  0.67135012  0.08070052  0.49949151  1
+  F  F6  1  0.63052804  0.26339157  0.64221797  1
+  F  F7  1  0.92559605  0.24900169  0.67045938  1
+  F  F8  1  0.36817637  0.91607218  0.65043506  1
+  F  F9  1  0.36037672  0.90925932  0.64627870  1
+  F  F10  1  0.61429884  0.08640962  0.65285990  1
+  F  F11  1  0.33889830  0.89641194  0.65250201  1

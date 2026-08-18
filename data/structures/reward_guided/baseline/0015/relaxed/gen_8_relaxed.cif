@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sm3Ho2Tm3Ir4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.78125326
+_cell_length_b   6.77624033
+_cell_length_c   8.29930761
+_cell_angle_alpha   114.09957485
+_cell_angle_beta   114.08002197
+_cell_angle_gamma   89.92048636
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm3Ho2Tm3Ir4
+_chemical_formula_sum   'Sm3 Ho2 Tm3 Ir4'
+_cell_volume   311.52121736
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.62850893  0.41359436  0.86318005  1
+  Sm  Sm1  1  0.88166228  0.66772440  0.37031722  1
+  Sm  Sm2  1  0.63024992  0.91520678  0.86619581  1
+  Ho  Ho3  1  0.13089099  0.41687363  0.86817117  1
+  Ho  Ho4  1  0.88217305  0.16710246  0.36958827  1
+  Tm  Tm5  1  0.37861792  0.66476659  0.36405734  1
+  Tm  Tm6  1  0.37921078  0.16457932  0.36372364  1
+  Tm  Tm7  1  0.13281629  0.91842430  0.87097032  1
+  Ir  Ir8  1  0.01564996  0.79528671  0.11946045  1
+  Ir  Ir9  1  0.49790010  0.28932397  0.11935867  1
+  Ir  Ir10  1  0.75587522  0.04076960  0.61445641  1
+  Ir  Ir11  1  0.25281154  0.53894260  0.61451389  1

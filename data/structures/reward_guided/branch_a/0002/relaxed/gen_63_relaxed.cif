@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiCaCdHg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22853412
+_cell_length_b   4.64970751
+_cell_length_c   5.76764243
+_cell_angle_alpha   113.75677961
+_cell_angle_beta   111.49985588
+_cell_angle_gamma   90.01373927
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCaCdHg
+_chemical_formula_sum   'Li1 Ca1 Cd1 Hg1'
+_cell_volume   95.10183837
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.37504716  0.09270167  0.30281173  1
+  Ca  Ca1  1  0.13308890  0.35032050  0.81799993  1
+  Cd  Cd2  1  0.89487315  0.61236055  0.34085774  1
+  Hg  Hg3  1  0.65376022  0.87083060  0.85903647  1

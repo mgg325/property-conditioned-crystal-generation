@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_InSnBiSb5PdSe5S5N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.12918044
+_cell_length_b   3.88706816
+_cell_length_c   20.07932439
+_cell_angle_alpha   94.29659101
+_cell_angle_beta   89.16817469
+_cell_angle_gamma   86.26627740
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InSnBiSb5PdSe5S5N
+_chemical_formula_sum   'In1 Sn1 Bi1 Sb5 Pd1 Se5 S5 N1'
+_cell_volume   165.33170713
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.69968456  0.82674903  0.74765085  1
+  Sn  Sn1  1  0.13854753  0.34873809  0.96029699  1
+  Bi  Bi2  1  0.27092726  0.83942009  0.28992405  1
+  Sb  Sb3  1  0.63499126  0.33933664  0.77086686  1
+  Sb  Sb4  1  0.72045306  0.79303748  0.59148820  1
+  Sb  Sb5  1  0.09466293  0.35919624  0.61498705  1
+  Sb  Sb6  1  0.56965854  0.29130774  0.51116475  1
+  Sb  Sb7  1  0.22186435  0.73132525  0.97013135  1
+  Pd  Pd8  1  0.19749752  0.82896090  0.66701647  1
+  Se  Se9  1  0.15572562  0.41344553  0.85935822  1
+  Se  Se10  1  0.30196181  0.31076173  0.19507482  1
+  Se  Se11  1  0.27208475  0.73646366  0.46904699  1
+  Se  Se12  1  0.83381424  0.31995616  0.56103121  1
+  Se  Se13  1  0.27192322  0.33891687  0.14310914  1
+  S  S14  1  0.76753563  0.95017918  0.40280268  1
+  S  S15  1  0.27877491  0.71498009  0.94989381  1
+  S  S16  1  0.68189284  0.33265039  0.11670351  1
+  S  S17  1  0.85041749  0.29416700  0.45702228  1
+  S  S18  1  0.60371583  0.83064556  0.32022352  1
+  N  N19  1  0.65347561  0.28425202  0.45521487  1

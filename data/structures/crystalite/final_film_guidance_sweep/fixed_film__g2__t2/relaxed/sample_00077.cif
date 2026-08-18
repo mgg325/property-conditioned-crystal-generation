@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_SnPbF7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.40948050
+_cell_length_b   6.50513995
+_cell_length_c   6.55894230
+_cell_angle_alpha   119.86109685
+_cell_angle_beta   93.25218161
+_cell_angle_gamma   89.87635684
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnPbF7
+_chemical_formula_sum   'Sn1 Pb1 F7'
+_cell_volume   199.74945432
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.11249059  0.73895681  0.81097204  1
+  Pb  Pb1  1  0.44791578  0.41108833  0.09597468  1
+  F  F2  1  0.85618605  0.57419282  0.54950147  1
+  F  F3  1  0.25990335  0.07349258  0.05349651  1
+  F  F4  1  0.27360186  0.82201464  0.59928093  1
+  F  F5  1  0.86450425  0.80255888  1.03446666  1
+  F  F6  1  0.30017869  0.45025973  0.73050025  1
+  F  F7  1  0.35650356  0.75379591  0.16085867  1
+  F  F8  1  0.78649966  0.29873491  0.95573055  1

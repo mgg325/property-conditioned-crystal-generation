@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaLi2MnCu2PNO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38312063
+_cell_length_b   5.89302463
+_cell_length_c   6.77809853
+_cell_angle_alpha   84.39417084
+_cell_angle_beta   90.64455092
+_cell_angle_gamma   71.73040576
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLi2MnCu2PNO8
+_chemical_formula_sum   'Na1 Li2 Mn1 Cu2 P1 N1 O8'
+_cell_volume   203.00585844
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.24783688  0.89311084  0.27712813  1
+  Li  Li1  1  0.21610074  0.42737682  0.51458601  1
+  Li  Li2  1  0.02814276  0.87879781  0.78239375  1
+  Mn  Mn3  1  0.74310998  0.39438831  0.82109380  1
+  Cu  Cu4  1  0.79455630  0.23838064  0.41700465  1
+  Cu  Cu5  1  0.67922659  0.09665033  0.11972805  1
+  P  P6  1  0.54343395  -0.05743894  0.68847959  1
+  N  N7  1  0.21101537  0.40682049  0.12753511  1
+  O  O8  1  0.10504230  0.59103192  0.20956358  1
+  O  O9  1  0.67765475  0.77178996  0.87853076  1
+  O  O10  1  0.43796307  0.21262140  0.73369363  1
+  O  O11  1  0.76584285  0.93466071  0.53669404  1
+  O  O12  1  -0.03451376  0.09749082  0.98719651  1
+  O  O13  1  0.87155078  0.44180407  0.56626571  1
+  O  O14  1  0.36565980  0.22959565  0.25530406  1
+  O  O15  1  0.32636493  0.85185138  0.60870557  1

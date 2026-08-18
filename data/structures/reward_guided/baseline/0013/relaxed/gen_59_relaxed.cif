@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_NbGa4W
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55380291
+_cell_length_b   4.55162886
+_cell_length_c   5.41883905
+_cell_angle_alpha   90.00588580
+_cell_angle_beta   89.96377121
+_cell_angle_gamma   59.94220728
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbGa4W
+_chemical_formula_sum   'Nb1 Ga4 W1'
+_cell_volume   97.21305909
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.08276332  0.28305828  0.68284702  1
+  Ga  Ga1  1  0.74950365  0.94936121  0.93699229  1
+  Ga  Ga2  1  0.41597323  0.61620729  0.93786003  1
+  Ga  Ga3  1  0.74937471  0.94947798  0.42834354  1
+  Ga  Ga4  1  0.41608588  0.61637941  0.42912697  1
+  W  W5  1  0.08277304  0.28283543  0.18267904  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaSi2S8Xe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.69120526
+_cell_length_b   5.03411140
+_cell_length_c   6.75272734
+_cell_angle_alpha   89.88310558
+_cell_angle_beta   90.51884817
+_cell_angle_gamma   76.52430470
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSi2S8Xe
+_chemical_formula_sum   'Na1 Si2 S8 Xe1'
+_cell_volume   122.01807615
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.68669026  0.25954102  0.59695293  1
+  Si  Si1  1  0.39282198  0.60479924  0.15889169  1
+  Si  Si2  1  0.23673589  0.21911070  0.87981007  1
+  S  S3  1  -0.08425754  0.67686231  0.96061737  1
+  S  S4  1  0.20101700  0.42870254  0.81581197  1
+  S  S5  1  0.18446075  0.22241570  0.26220800  1
+  S  S6  1  0.80149030  0.09320250  0.09076422  1
+  S  S7  1  0.33330088  -0.05595128  0.45474826  1
+  S  S8  1  0.30767491  0.23007810  0.92683921  1
+  S  S9  1  0.85984961  0.59277883  0.20976479  1
+  S  S10  1  0.16181809  0.96817322  0.88816619  1
+  Xe  Xe11  1  0.35733207  0.82615720  0.83835282  1

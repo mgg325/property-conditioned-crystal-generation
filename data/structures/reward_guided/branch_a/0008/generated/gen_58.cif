@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cu2InCu3InCu
+_chemical_formula_sum              "Cu6 In2"
+_cell_length_a       4.385108109181104
+_cell_length_b       5.452639506279949
+_cell_length_c       5.524032115936279
+_cell_angle_alpha    118.32010305713288
+_cell_angle_beta     89.89231774964263
+_cell_angle_gamma    88.23664555717811
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.7635431289672852  0.9979088306427001  0.720310389995575  1.0000
+  Cu  Cu2       1.0  0.25932440161705017  0.6852874159812927  0.560847282409668  1.0000
+  In  In1       1.0  0.762114942073822  0.5088335275650024  0.21096168458461761  1.0000
+  Cu  Cu3       1.0  0.7635108828544617  0.9983852505683898  0.1951068639755249  1.0000
+  Cu  Cu4       1.0  0.2621249854564667  0.6860765218734741  0.034161150455474895  1.0000
+  Cu  Cu5       1.0  0.7621285319328308  0.5257968902587891  0.719236433506012  1.0000
+  In  In2       1.0  0.2624170780181885  0.17457589507102966  0.5452768206596375  1.0000
+  Cu  Cu6       1.0  0.2652014195919037  0.15543580055236816  0.033982276916503906  1.0000

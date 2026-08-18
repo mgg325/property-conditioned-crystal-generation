@@ -1,0 +1,75 @@
+{
+  "iteration": 13,
+  "current_policy_dir": "provenance://mattergen/outputs/dielectric_rl/direct_rl_target12_online/matinvent_style_target12_eval32_topk025_loop0009_e1_replay4_cut03_gpu_20260731/loop_0012/policy_for_generation",
+  "generated_dir": "provenance://mattergen/outputs/dielectric_rl/direct_rl_target12_online/matinvent_style_target12_eval32_topk025_loop0009_e1_replay4_cut03_gpu_20260731/loop_0013/generated",
+  "n_generated": 64,
+  "n_prefiltered_eval": 10,
+  "n_topk": 8,
+  "n_replay_sampled": 4,
+  "n_finetune_records": 12,
+  "n_anchor_records": 59,
+  "diversity_tol_hits": 0,
+  "diversity_buff_hits": 0,
+  "reward_summary": {
+    "n_samples": 10,
+    "mean_predicted_dielectric_scalar": 14.133402530781108,
+    "mean_abs_error": 4.124501204488581,
+    "mean_reward_final": 0.3807401478080199,
+    "within_1.0": 2,
+    "within_2.0": 4,
+    "reward_gt_0p1": 6,
+    "reward_gt_0p5": 4
+  },
+  "training_result": {
+    "trainable_parameters": [
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.0.0.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.0.0.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.0.2.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.0.2.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.1.0.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.1.0.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.1.2.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.1.2.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.2.0.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.2.0.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.2.2.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.2.2.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.3.0.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.3.0.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.3.2.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.3.2.bias",
+      "diffusion_module.model.gemnet.cond_mixin_layers.dft_dielectric_scalar.0.weight",
+      "diffusion_module.model.gemnet.cond_mixin_layers.dft_dielectric_scalar.1.weight",
+      "diffusion_module.model.gemnet.cond_mixin_layers.dft_dielectric_scalar.2.weight",
+      "diffusion_module.model.gemnet.cond_mixin_layers.dft_dielectric_scalar.3.weight"
+    ],
+    "history": [
+      {
+        "loss_total": 1.2245526873739436,
+        "loss_diffusion": 1.2084571447074413,
+        "loss_reference_kl": 1.60955783206837e-11,
+        "loss_diffusion_raw": 2.096089089602232,
+        "loss_kl_raw": 1.60955783206837e-11,
+        "loss_pos": 4.660840934578249,
+        "loss_cell": 1.48858948909631,
+        "loss_atomic_numbers": 0.14141549805684916,
+        "epoch": 0
+      }
+    ],
+    "topk_stats": {
+      "topk_count": 12.0,
+      "topk_reward_min": 0.010367649607360363,
+      "topk_reward_mean": 0.6132794618606567,
+      "topk_reward_max": 0.991723358631134,
+      "topk_dielectric_min": 11.458054542541504,
+      "topk_dielectric_mean": 14.077655792236328,
+      "topk_dielectric_max": 18.045867919921875,
+      "topk_within_target_1": 0.4166666666666667
+    },
+    "anchor_batch_count": 59,
+    "total_trainable_numel": 4198400,
+    "kl_step_trace_path": "provenance://mattergen/outputs/dielectric_rl/direct_rl_target12_online/matinvent_style_target12_eval32_topk025_loop0009_e1_replay4_cut03_gpu_20260731/loop_0013/rl_update/kl_step_trace.csv",
+    "optimizer_step_count": 20
+  },
+  "next_policy_dir": "provenance://mattergen/outputs/dielectric_rl/direct_rl_target12_online/matinvent_style_target12_eval32_topk025_loop0009_e1_replay4_cut03_gpu_20260731/loop_0013/policy_for_generation"
+}

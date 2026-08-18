@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_MnZn2Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84680277
+_cell_length_b   3.85949319
+_cell_length_c   3.86005322
+_cell_angle_alpha   90.01491667
+_cell_angle_beta   90.01072837
+_cell_angle_gamma   89.99556053
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZn2Pt
+_chemical_formula_sum   'Mn1 Zn2 Pt1'
+_cell_volume   57.30908398
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.60125733  0.77580672  0.22238606  1
+  Zn  Zn1  1  0.10121595  0.77563977  0.72246820  1
+  Zn  Zn2  1  0.10119725  0.27583108  0.22239747  1
+  Pt  Pt3  1  0.60119556  0.27568313  0.72237371  1

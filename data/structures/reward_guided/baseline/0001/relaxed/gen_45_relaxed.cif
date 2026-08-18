@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_La3Pr5Hg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.57206359
+_cell_length_b   6.92205220
+_cell_length_c   9.28945238
+_cell_angle_alpha   102.08970720
+_cell_angle_beta   107.43700016
+_cell_angle_gamma   89.99426443
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3Pr5Hg2
+_chemical_formula_sum   'La3 Pr5 Hg2'
+_cell_volume   333.49415104
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.30799584  0.40605416  0.30239967  1
+  La  La1  1  0.48435470  0.97606886  0.65331934  1
+  La  La2  1  0.90875723  0.44729349  0.50429360  1
+  Pr  Pr3  1  0.70015404  0.59732426  0.08588285  1
+  Pr  Pr4  1  0.87790815  0.93269444  0.43967519  1
+  Pr  Pr5  1  0.08949703  0.28568902  0.86446899  1
+  Pr  Pr6  1  0.69997617  0.09439742  0.08576433  1
+  Pr  Pr7  1  0.08928763  0.78366307  0.86390628  1
+  Hg  Hg8  1  0.27723647  0.88660469  0.23877127  1
+  Hg  Hg9  1  0.51397622  0.49506012  0.71437645  1

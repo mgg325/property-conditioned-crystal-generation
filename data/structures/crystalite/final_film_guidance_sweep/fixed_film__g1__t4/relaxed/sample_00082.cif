@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CaAsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.25783457
+_cell_length_b   4.86499349
+_cell_length_c   4.91913860
+_cell_angle_alpha   87.70596180
+_cell_angle_beta   90.37254863
+_cell_angle_gamma   90.36170773
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaAsO4
+_chemical_formula_sum   'Ca1 As1 O4'
+_cell_volume   77.89955956
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.58567257  0.51386920  0.59347124  1
+  As  As1  1  0.08954561  0.98065800  0.09543174  1
+  O  O2  1  0.09688713  0.81944690  0.78456814  1
+  O  O3  1  0.08132843  0.28984066  0.88324804  1
+  O  O4  1  0.08135132  0.65819653  0.27949797  1
+  O  O5  1  0.58756695  0.08738034  0.25783673  1

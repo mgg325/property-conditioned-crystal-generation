@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_K2MnO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.74681997
+_cell_length_b   5.29815722
+_cell_length_c   6.16735029
+_cell_angle_alpha   89.04585266
+_cell_angle_beta   113.39750671
+_cell_angle_gamma   91.52289581
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2MnO5
+_chemical_formula_sum   'K2 Mn1 O5'
+_cell_volume   142.29772490
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.06922290  0.77019763  0.34688109  1
+  K  K1  1  0.67103809  0.13001898  0.46354395  1
+  Mn  Mn2  1  0.92322505  0.54361665  0.08353311  1
+  K  K3  1  0.29398543  0.77267075  0.85658836  1
+  O  O4  1  0.02911699  0.34379733  0.38172466  1
+  O  O5  1  0.87197888  0.24993002  0.87649930  1
+  O  O6  1  0.85922736  0.71502119  0.88771659  1
+  O  O7  1  0.52998143  0.50975007  0.18235332  1

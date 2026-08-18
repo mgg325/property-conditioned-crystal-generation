@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_ReSiS2Cl3O13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.02427626
+_cell_length_b   6.94581127
+_cell_length_c   7.56082106
+_cell_angle_alpha   89.42454529
+_cell_angle_beta   89.50968933
+_cell_angle_gamma   90.44119263
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReSiS2Cl3O13
+_chemical_formula_sum   'Re1 Si1 S2 Cl3 O13'
+_cell_volume   316.33397857
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.32375088  0.85264969  0.09869844  1
+  Cl  Cl1  1  0.82747340  0.47188956  0.12438378  1
+  Re  Re2  1  0.36891970  0.52323288  0.81673330  1
+  O  O3  1  0.50401419  0.50579321  0.00908631  1
+  O  O4  1  0.24599743  0.53301853  0.20031697  1
+  Si  Si5  1  0.18250835  0.81760037  0.64736933  1
+  O  O6  1  0.97607970  0.65596509  0.10073137  1
+  O  O7  1  0.51642126  0.50291270  0.65947664  1
+  O  O8  1  0.74444044  0.07941619  0.66422212  1
+  O  O9  1  0.09976807  0.45296666  0.59517992  1
+  O  O10  1  0.24779060  0.23311111  0.78317446  1
+  O  O11  1  0.83435136  0.28099453  0.09540981  1
+  O  O12  1  0.60324061  0.11134422  0.35873166  1
+  S  S13  1  0.22160530  0.64737928  0.12626570  1
+  S  S14  1  0.18640974  0.27140808  0.64074939  1
+  O  O15  1  0.10163075  0.08850971  0.37861192  1
+  Cl  Cl16  1  0.69254762  0.04769516  0.58566689  1
+  O  O17  1  0.04597330  0.80962020  0.69889534  1
+  O  O18  1  0.42887285  0.84643555  0.62439656  1
+  Cl  Cl19  1  0.91099346  0.04981390  0.31385368  1

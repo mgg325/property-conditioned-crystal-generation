@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CaRhMg2CaRh3
+_chemical_formula_sum              "Ca2 Rh4 Mg2"
+_cell_length_a       4.5228285410868185
+_cell_length_b       4.521479187201497
+_cell_length_c       8.616591280641995
+_cell_angle_alpha    89.99896512811243
+_cell_angle_beta     90.00198257935483
+_cell_angle_gamma    120.00139067874015
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.7799547136237213  0.2399392568211549  0.9782724014600495  1.0000
+  Rh  Rh1       1.0  0.4467275697078185  0.5734475118486895  0.13972146887868406  1.0000
+  Mg  Mg1       1.0  0.11284972304607085  0.9064768811611041  0.7272177155924664  1.0000
+  Mg  Mg2       1.0  0.11299066507205642  0.9066235052027096  0.22837385482769465  1.0000
+  Ca  Ca2       1.0  0.4461446169880285  0.572881263975616  0.47796034540310656  1.0000
+  Rh  Rh2       1.0  0.44640563427016783  0.5733112225320987  0.8163556345176963  1.0000
+  Rh  Rh3       1.0  0.7793421135744576  0.2395468718197279  0.6389945941639698  1.0000
+  Rh  Rh4       1.0  0.7794908316403311  0.23973904769797488  0.31803544287287416  1.0000

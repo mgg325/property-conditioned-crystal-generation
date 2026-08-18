@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_P3N9ClF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.45813274
+_cell_length_b   11.76414967
+_cell_length_c   22.49977112
+_cell_angle_alpha   90.13728333
+_cell_angle_beta   91.53884888
+_cell_angle_gamma   93.91015625
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   P3N9ClF3
+_chemical_formula_sum   'P3 N9 Cl1 F3'
+_cell_volume   3816.61333317
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  N  N0  1  0.73620760  0.14520156  0.84079927  1
+  N  N1  1  0.65494490  0.88835490  0.58816600  1
+  N  N2  1  0.72284949  0.25476760  0.73216677  1
+  F  F3  1  0.58580112  0.26964056  0.70167041  1
+  N  N4  1  0.05913246  0.34518790  0.51164579  1
+  P  P5  1  0.72074389  0.28895658  0.76285291  1
+  F  F6  1  0.68984854  0.95868146  0.90574449  1
+  N  N7  1  0.42118731  0.30548215  0.27944869  1
+  Cl  Cl8  1  0.33534318  0.08387136  0.92018580  1
+  P  P9  1  0.69064277  0.08935884  0.86933905  1
+  N  N10  1  0.62625825  0.31585485  0.67586303  1
+  P  P11  1  0.71169651  0.40668815  0.66965389  1
+  N  N12  1  0.81892061  0.01276973  0.93280160  1
+  N  N13  1  0.66799682  0.30196810  0.65825975  1
+  N  N14  1  0.12891737  0.64402068  0.96102297  1
+  F  F15  1  0.68710244  0.18000016  0.01228434  1

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SnInTlInSnTl
+_chemical_formula_sum              "Sn2 In2 Tl2"
+_cell_length_a       5.56623594745781
+_cell_length_b       5.6396474597696695
+_cell_length_c       6.200289249420166
+_cell_angle_alpha    90.04046454418905
+_cell_angle_beta     116.73291852010934
+_cell_angle_gamma    89.998124203521
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.7045387029647827  0.5770661234855652  0.569969117641449  1.0000
+  In  In1       1.0  0.0431695282459259  0.5773438811302185  0.24889416992664337  1.0000
+  Tl  Tl1       1.0  0.8796857595443726  0.07666053622961044  0.9221312999725342  1.0000
+  In  In2       1.0  0.3782937526702881  0.5775870680809021  0.9195610284805298  1.0000
+  Sn  Sn2       1.0  0.5470338463783264  0.07630959153175354  0.2578309178352356  1.0000
+  Tl  Tl2       1.0  0.20800137519836426  0.07679348438978195  0.5789754390716553  1.0000

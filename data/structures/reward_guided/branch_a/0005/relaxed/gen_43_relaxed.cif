@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Y3Al3Ge2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.13566544
+_cell_length_b   7.18669985
+_cell_length_c   7.18586251
+_cell_angle_alpha   120.00628584
+_cell_angle_beta   89.99844020
+_cell_angle_gamma   89.99911267
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y3Al3Ge2Au
+_chemical_formula_sum   'Y3 Al3 Ge2 Au1'
+_cell_volume   184.95110427
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.82338498  0.29686056  0.62493727  1
+  Y  Y1  1  0.82344916  0.71733227  0.46510355  1
+  Y  Y2  1  0.82359933  0.87696569  0.04470328  1
+  Al  Al3  1  0.32346112  0.29694804  0.27944613  1
+  Al  Al4  1  0.32337693  0.53112286  0.04481305  1
+  Al  Al5  1  0.32359307  0.06243345  0.81052167  1
+  Ge  Ge6  1  0.32370828  0.63032657  0.71151443  1
+  Ge  Ge7  1  0.32398749  0.96387454  0.37837614  1
+  Au  Au8  1  0.82316427  0.29706730  0.04506912  1

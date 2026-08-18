@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ca2Cd2GaB2F2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.12610506
+_cell_length_b   3.67762050
+_cell_length_c   12.51229658
+_cell_angle_alpha   89.23114734
+_cell_angle_beta   91.08885470
+_cell_angle_gamma   116.44804295
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Cd2GaB2F2
+_chemical_formula_sum   'Ca2 Cd2 Ga1 B2 F2'
+_cell_volume   128.76853201
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.11477195  0.96465980  0.06930620  1
+  Ca  Ca1  1  0.51521029  0.62591095  0.73569645  1
+  Cd  Cd2  1  0.16129283  0.95206201  0.38273975  1
+  Cd  Cd3  1  0.78083001  0.20383874  0.56538569  1
+  Ga  Ga4  1  0.43649668  0.54091309  0.23235249  1
+  B  B5  1  0.47688371  0.58262973  0.48064836  1
+  B  B6  1  0.52342227  0.61594041  0.90769842  1
+  F  F7  1  0.78632279  0.39119730  0.95823994  1
+  F  F8  1  0.73126788  0.29458657  0.96365527  1

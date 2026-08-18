@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Hf2Ti5Ni3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.39806532
+_cell_length_b   5.60474242
+_cell_length_c   6.84223222
+_cell_angle_alpha   88.74503408
+_cell_angle_beta   108.73781296
+_cell_angle_gamma   90.00408605
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2Ti5Ni3
+_chemical_formula_sum   'Hf2 Ti5 Ni3'
+_cell_volume   159.67925217
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.67376776  0.60780030  0.98724791  1
+  Hf  Hf1  1  0.86513080  0.13329930  0.37000432  1
+  Ti  Ti2  1  0.23805252  0.33134716  0.11602835  1
+  Ti  Ti3  1  0.45401612  0.45011234  0.54744626  1
+  Ti  Ti4  1  0.05651625  0.82280647  0.75246933  1
+  Ti  Ti5  1  0.27223667  0.84321161  0.18435348  1
+  Ti  Ti6  1  0.62806039  0.11023335  0.89594964  1
+  Ni  Ni7  1  0.05158910  0.36830199  0.74280234  1
+  Ni  Ni8  1  0.45585894  0.89165290  0.55082431  1
+  Ni  Ni9  1  0.88174108  0.63459123  0.40263702  1

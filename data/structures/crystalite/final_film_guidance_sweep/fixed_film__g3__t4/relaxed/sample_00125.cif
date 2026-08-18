@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_K3Rb2SiNO8F5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22179087
+_cell_length_b   6.11917571
+_cell_length_c   9.70405593
+_cell_angle_alpha   89.81273570
+_cell_angle_beta   92.27535937
+_cell_angle_gamma   93.12762341
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Rb2SiNO8F5
+_chemical_formula_sum   'K3 Rb2 Si1 N1 O8 F5'
+_cell_volume   250.12249112
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.54703601  0.51422080  0.69065467  1
+  K  K1  1  0.81920389  0.04097148  1.02495925  1
+  K  K2  1  0.90363956  0.57785171  0.42143318  1
+  Rb  Rb3  1  0.13951459  0.07140444  0.52517668  1
+  Rb  Rb4  1  0.22865215  0.57910811  0.05906430  1
+  Si  Si5  1  0.43511855  0.21281074  0.25566335  1
+  N  N6  1  0.97595692  0.85595797  0.81241366  1
+  O  O7  1  0.26433229  0.89105922  0.87678637  1
+  O  O8  1  0.46941326  -0.04780572  0.28270709  1
+  O  O9  1  0.23100648  0.89790717  0.87427638  1
+  O  O10  1  0.74026642  0.70093948  0.90007535  1
+  O  O11  1  0.78593167  0.70473042  0.19485739  1
+  O  O12  1  0.07409904  0.21399878  0.21373915  1
+  O  O13  1  0.58113367  0.86378492  0.47051777  1
+  O  O14  1  0.83512411  0.97522434  0.73092462  1
+  F  F15  1  0.41318888  0.41473069  0.38091266  1
+  F  F16  1  0.06124203  0.63085433  0.64995689  1
+  F  F17  1  0.36612750  0.18982270  0.76118804  1
+  F  F18  1  0.86360344  0.37985012  0.88572415  1
+  F  F19  1  0.63003643  0.33889997  0.13341792  1

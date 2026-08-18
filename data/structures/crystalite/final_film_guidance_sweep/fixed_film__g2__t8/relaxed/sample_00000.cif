@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_InGaTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.86786546
+_cell_length_b   6.01150422
+_cell_length_c   5.70613324
+_cell_angle_alpha   84.46437506
+_cell_angle_beta   101.12009575
+_cell_angle_gamma   115.14506598
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InGaTe2
+_chemical_formula_sum   'In1 Ga1 Te2'
+_cell_volume   148.29809094
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.38380749  0.89630192  0.79709812  1
+  Ga  Ga1  1  0.63152952  0.50672725  0.21229164  1
+  Te  Te2  1  0.01693453  0.40844767  0.99468258  1
+  Te  Te3  1  0.80902259  0.87377941  0.50229474  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cs4KLi2Se2O2F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.87408856
+_cell_length_b   2.54529870
+_cell_length_c   4.74416477
+_cell_angle_alpha   58.15642114
+_cell_angle_beta   63.24411377
+_cell_angle_gamma   44.24626739
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs4KLi2Se2O2F
+_chemical_formula_sum   'Cs4 K1 Li2 Se2 O2 F1'
+_cell_volume   20.41755342
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.87691008  0.31297460  0.79349393  1
+  Cs  Cs1  1  0.48724128  0.41893087  0.59451935  1
+  Cs  Cs2  1  0.58283157  0.26913584  0.57020864  1
+  Cs  Cs3  1  0.92254691  0.52661850  0.06503625  1
+  K  K4  1  0.62184988  0.84018266  0.96671931  1
+  Li  Li5  1  0.50443135  0.45320518  0.51510364  1
+  Li  Li6  1  -0.00823145  0.85637314  0.37208713  1
+  Se  Se7  1  0.65442775  0.45696223  0.71957934  1
+  Se  Se8  1  0.70907738  0.44513046  0.79938883  1
+  O  O9  1  0.86531176  0.78802189  0.39179879  1
+  O  O10  1  0.00319714  0.74284254  0.89867460  1
+  F  F11  1  0.05672170  0.51368405  0.38714454  1

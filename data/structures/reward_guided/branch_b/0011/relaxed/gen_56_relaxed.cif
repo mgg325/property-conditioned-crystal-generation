@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Er2HgAu3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81029522
+_cell_length_b   5.81227436
+_cell_length_c   8.87170199
+_cell_angle_alpha   102.29683246
+_cell_angle_beta   102.30429470
+_cell_angle_gamma   110.37688070
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2HgAu3
+_chemical_formula_sum   'Er4 Hg2 Au6'
+_cell_volume   260.56857900
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.18679363  0.25122354  0.95648854  1
+  Er  Er1  1  0.19002366  0.75592362  0.45702366  1
+  Er  Er2  1  0.68455038  0.24786315  0.45689147  1
+  Er  Er3  1  0.68786498  0.75176300  0.95761545  1
+  Hg  Hg4  1  0.10515619  0.66933987  0.79196996  1
+  Hg  Hg5  1  0.77066831  0.33494608  0.12282805  1
+  Au  Au6  1  0.10317134  0.16868939  0.29060592  1
+  Au  Au7  1  0.27122648  0.33626278  0.62476771  1
+  Au  Au8  1  0.77057301  0.83383363  0.62415543  1
+  Au  Au9  1  0.60295983  0.16684014  0.78803892  1
+  Au  Au10  1  0.60464718  0.66876496  0.29031129  1
+  Au  Au11  1  0.27228922  0.83767228  0.12597563  1

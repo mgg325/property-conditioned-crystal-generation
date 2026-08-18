@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       F3SiF2Li
+_chemical_formula_sum              "F5 Si1 Li1"
+_cell_length_a       3.5790780888371723
+_cell_length_b       5.054491533778027
+_cell_length_c       5.064536094665527
+_cell_angle_alpha    76.61878088882362
+_cell_angle_beta     69.5646294518507
+_cell_angle_gamma    69.6084025974509
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.9622174501419065  0.6070056557655334  0.9695981144905089  1.0000
+  F   F2        1.0  0.4965685307979583  0.07647121697664261  0.44024774432182306  1.0000
+  F   F3        1.0  0.2324625104665756  0.8418794870376587  0.2060521990060806  1.0000
+  Si  Si1       1.0  0.7327674031257628  0.8423890471458435  0.2046388536691666  1.0000
+  F   F4        1.0  0.7374913096427916  0.1120823472738266  0.9360060691833495  1.0000
+  F   F5        1.0  0.737042725086212  0.5727473497390747  0.4722105264663696  1.0000
+  Li  Li1       1.0  0.14403548836708066  0.34119036793708807  0.7033907175064087  1.0000

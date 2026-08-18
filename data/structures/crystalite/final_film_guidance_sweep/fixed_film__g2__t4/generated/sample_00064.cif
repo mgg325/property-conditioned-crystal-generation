@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Li4O2F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.70398831
+_cell_length_b   4.71016884
+_cell_length_c   5.02195120
+_cell_angle_alpha   90.82056427
+_cell_angle_beta   90.39611816
+_cell_angle_gamma   90.78773499
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4O2F
+_chemical_formula_sum   'Li4 O2 F1'
+_cell_volume   63.94656244
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.91854161  0.81449568  0.23681831  1
+  Li  Li1  1  0.90811634  0.58141923  0.88888025  1
+  Li  Li2  1  0.39155844  0.60047138  0.32665533  1
+  Li  Li3  1  0.90520865  0.14177391  0.17840490  1
+  F  F4  1  0.89520431  0.30897981  0.56342423  1
+  O  O5  1  0.38857138  0.35331899  0.98247671  1
+  Li  Li6  1  0.38546431  0.09574944  0.77283239  1

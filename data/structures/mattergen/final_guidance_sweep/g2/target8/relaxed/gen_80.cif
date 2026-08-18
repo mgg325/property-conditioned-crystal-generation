@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NEr3NErN2
+_chemical_formula_sum              "N4 Er4"
+_cell_length_a       4.84863691041867
+_cell_length_b       4.848299945298943
+_cell_length_c       4.84852377259974
+_cell_angle_alpha    90.00143819679946
+_cell_angle_beta     89.99664037853272
+_cell_angle_gamma    89.99497808654941
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.03532495034710932  0.5232688426101427  0.611040810083874  1.0000
+  Er  Er1       1.0  0.5352590030749773  0.023707744053541858  0.11086358473104103  1.0000
+  Er  Er2       1.0  0.03512176729400159  0.5234596797765445  0.11151278392939548  1.0000
+  Er  Er3       1.0  0.5351512665964223  0.5232769618737259  0.6111336718599993  1.0000
+  N   N2        1.0  0.5348956326943917  0.5232923873822456  0.11099180347884668  1.0000
+  Er  Er4       1.0  0.03519083926317516  0.023579541102750668  0.6112631131809124  1.0000
+  N   N3        1.0  0.5348732732930218  0.023515092861149504  0.6108582982074241  1.0000
+  N   N4        1.0  0.03522182270172334  0.023479054237863943  0.11128025555472408  1.0000

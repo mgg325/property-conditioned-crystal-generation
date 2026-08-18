@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sr2DyTeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.91502295
+_cell_length_b   5.91904867
+_cell_length_c   5.97593192
+_cell_angle_alpha   90.43461629
+_cell_angle_beta   119.70481806
+_cell_angle_gamma   119.48984103
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2DyTeO6
+_chemical_formula_sum   'Sr2 Dy1 Te1 O6'
+_cell_volume   149.17640555
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.33888639  0.50029373  0.90588224  1
+  Sr  Sr1  1  0.30967824  0.99636683  0.36984510  1
+  Dy  Dy2  1  0.82452086  0.74822684  0.63795594  1
+  Te  Te3  1  0.82418451  0.24821366  0.13766684  1
+  O  O4  1  0.30416563  0.43687214  0.32240044  1
+  O  O5  1  0.82687729  0.54174995  0.95179209  1
+  O  O6  1  0.34467321  0.05930852  0.95368106  1
+  O  O7  1  0.73097888  0.01108975  0.80721460  1
+  O  O8  1  0.91870557  0.48601985  0.46836860  1
+  O  O9  1  0.82122996  0.95443221  0.32381548  1

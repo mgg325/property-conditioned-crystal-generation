@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Tb2Pb2Tb2N
+_chemical_formula_sum              "Tb4 Pb2 N1"
+_cell_length_a       4.654103425397005
+_cell_length_b       4.812769553646067
+_cell_length_c       8.567890167236328
+_cell_angle_alpha    106.41149248768264
+_cell_angle_beta     107.54416195594126
+_cell_angle_gamma    89.32833507920708
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.2041553407907486  0.38796135783195496  0.40664419531822205  1.0000
+  Tb  Tb2       1.0  0.8606031537055969  0.5466147065162659  0.7184145450592041  1.0000
+  Pb  Pb1       1.0  0.05846273526549339  0.7445568442344666  0.11855902522802353  1.0000
+  Pb  Pb2       1.0  0.3425121009349823  0.03399500995874405  0.6893433332443237  1.0000
+  Tb  Tb3       1.0  0.5479685068130493  0.234306201338768  0.08864687383174896  1.0000
+  Tb  Tb4       1.0  0.702061116695404  0.8877134323120117  0.40507560968399053  1.0000
+  N   N1        1.0  0.7026622295379639  0.3891264498233795  0.4048192799091339  1.0000

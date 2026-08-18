@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cu2HgTeHgTe3
+_chemical_formula_sum              "Cu2 Hg2 Te4"
+_cell_length_a       4.406862620879632
+_cell_length_b       6.218032233650003
+_cell_length_c       8.847295660766953
+_cell_angle_alpha    89.97408132740489
+_cell_angle_beta     90.0121983937551
+_cell_angle_gamma    90.00895702136465
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.7808070286984353  0.5789037813841674  0.7635240084701368  1.0000
+  Cu  Cu2       1.0  0.28124230965293157  0.07825840169894344  0.5389765807764787  1.0000
+  Hg  Hg1       1.0  0.27996056611455966  0.0987031959460934  0.01228838188640745  1.0000
+  Te  Te1       1.0  0.2801326936848632  0.30794099511636147  0.2974506496652081  1.0000
+  Hg  Hg2       1.0  0.780199810999125  0.5980078284379684  0.28977186202201083  1.0000
+  Te  Te2       1.0  0.2807393000597239  0.36204822349387966  0.7515024149309908  1.0000
+  Te  Te3       1.0  0.7798389480112655  0.8083834151845035  0.004819244669205829  1.0000
+  Te  Te4       1.0  0.7811691584957133  0.8616110470743622  0.5501651038278624  1.0000

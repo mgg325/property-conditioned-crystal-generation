@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CdReHg5PIrSe3S2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96624231
+_cell_length_b   5.73150730
+_cell_length_c   5.45683479
+_cell_angle_alpha   52.81134033
+_cell_angle_beta   57.34019470
+_cell_angle_gamma   56.47002029
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdReHg5PIrSe3S2
+_chemical_formula_sum   'Cd1 Re1 Hg5 P1 Ir1 Se3 S2'
+_cell_volume   78.32375787
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.15932319  0.67780775  0.29579785  1
+  Hg  Hg1  1  0.29600939  0.10160959  0.82613379  1
+  Cd  Cd2  1  0.68270230  0.55442744  0.51498127  1
+  Se  Se3  1  0.32755131  0.83369762  0.86430907  1
+  Ir  Ir4  1  0.21735948  0.49061203  0.02085236  1
+  Hg  Hg5  1  0.72573173  0.74614775  0.36535847  1
+  Hg  Hg6  1  0.20318857  0.22163540  0.23591504  1
+  Se  Se7  1  0.34578657  0.82734847  0.89772403  1
+  Hg  Hg8  1  0.20922282  0.98407352  0.81664646  1
+  Se  Se9  1  0.70970201  0.19499895  0.89736533  1
+  S  S10  1  0.86092818  0.14254627  0.01584673  1
+  S  S11  1  0.82129842  0.07374135  0.20144498  1
+  Hg  Hg12  1  0.74494672  0.44377157  0.22982797  1
+  Re  Re13  1  0.57126307  0.96248317  0.93264425  1

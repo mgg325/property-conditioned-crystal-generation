@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Hf2As3Cu2As
+_chemical_formula_sum              "Hf2 As4 Cu2"
+_cell_length_a       3.7796933741824716
+_cell_length_b       3.7762461185576273
+_cell_length_c       9.333978652954102
+_cell_angle_alpha    90.05069617200812
+_cell_angle_beta     89.99602733457071
+_cell_angle_gamma    90.0432171118499
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.22588789463043216  0.6296364068984985  0.48108920454978943  1.0000
+  Hf  Hf2       1.0  0.7259688377380371  0.12977683544158936  0.9253735542297363  1.0000
+  As  As1       1.0  0.2260870933532715  0.6293341517448426  0.024216871708631516  1.0000
+  As  As2       1.0  0.7256395220756531  0.630294919013977  0.7035285830497742  1.0000
+  As  As3       1.0  0.22591488063335421  0.1298760324716568  0.7035742402076721  1.0000
+  Cu  Cu1       1.0  0.22558510303497317  0.1294226944446564  0.20324470102787018  1.0000
+  Cu  Cu2       1.0  0.7254607677459717  0.629397213459015  0.20334690809249878  1.0000
+  As  As4       1.0  0.7258025407791138  0.1293260604143143  0.38229262828826904  1.0000

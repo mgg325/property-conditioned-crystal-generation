@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CaCrSe2
+_chemical_formula_sum              "Ca1 Cr1 Se2"
+_cell_length_a       3.94530048947703
+_cell_length_b       3.9584674409568295
+_cell_length_c       6.766086101531982
+_cell_angle_alpha    73.93675714487138
+_cell_angle_beta     73.83887952042731
+_cell_angle_gamma    61.45130664022878
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.37221923470497137  0.5439732074737548  0.33556005358695984  1.0000
+  Cr  Cr1       1.0  0.8731395602226257  0.044450968503952026  0.8351998329162598  1.0000
+  Se  Se1       1.0  0.12755104899406436  0.29560679197311396  0.05302058160305023  1.0000
+  Se  Se2       1.0  0.618657112121582  0.7915204763412476  0.6177821159362793  1.0000

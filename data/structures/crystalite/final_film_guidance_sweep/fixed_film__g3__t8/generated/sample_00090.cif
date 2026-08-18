@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CaAlZn2SiPS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.54283142
+_cell_length_b   6.72313929
+_cell_length_c   8.80371475
+_cell_angle_alpha   87.60349274
+_cell_angle_beta   78.49839783
+_cell_angle_gamma   74.78079987
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaAlZn2SiPS8
+_chemical_formula_sum   'Ca1 Al1 Zn2 Si1 P1 S8'
+_cell_volume   198.26544880
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.42768306  0.24056005  0.38167411  1
+  Ca  Ca1  1  0.43691689  0.86621320  0.78289878  1
+  Zn  Zn2  1  0.09318992  0.24358758  0.53681308  1
+  P  P3  1  0.65966725  0.31570190  0.82661045  1
+  S  S4  1  0.07736316  0.17084923  0.89121783  1
+  Si  Si5  1  0.81487072  0.09073481  0.55189848  1
+  S  S6  1  0.70050210  0.03205365  0.11107969  1
+  S  S7  1  0.03512424  0.69032705  0.54629117  1
+  Zn  Zn8  1  0.05393115  0.69763297  0.42159081  1
+  S  S9  1  0.54332167  0.81928456  0.27972233  1
+  S  S10  1  0.93437445  0.34875125  0.22780630  1
+  S  S11  1  0.59617698  0.49543428  0.74778223  1
+  Al  Al12  1  0.63637447  0.90368325  0.41572601  1
+  S  S13  1  0.18830556  0.64034891  0.94026995  1

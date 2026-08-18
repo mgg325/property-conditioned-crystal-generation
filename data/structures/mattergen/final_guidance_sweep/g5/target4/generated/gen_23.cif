@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cs2OCsO2PtO
+_chemical_formula_sum              "Cs3 O4 Pt1"
+_cell_length_a       6.314507031252991
+_cell_length_b       6.314385992961819
+_cell_length_c       6.876965522766113
+_cell_angle_alpha    57.06091697672598
+_cell_angle_beta     57.101838925156756
+_cell_angle_gamma    65.98076124064039
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.17719317972660062  0.6304427981376648  0.6039702296257019  1.0000
+  Cs  Cs2       1.0  0.6778979301452637  0.13021892309188843  0.10409102588891983  1.0000
+  O   O1        1.0  0.23236699402332306  0.07573747634887695  0.6582906246185303  1.0000
+  Cs  Cs3       1.0  0.9279158115386963  0.3809460699558258  0.3532310128211975  1.0000
+  O   O2        1.0  0.6216068863868713  0.684676468372345  0.05090264976024628  1.0000
+  O   O3        1.0  0.6241100430488586  0.6854147911071777  0.657921314239502  1.0000
+  Pt  Pt1       1.0  0.4265836775302887  0.8798983097076415  0.8548339605331422  1.0000
+  O   O4        1.0  0.2314038872718811  0.07522274553775787  0.050241138786077534  1.0000

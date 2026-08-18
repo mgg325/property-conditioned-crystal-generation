@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Li3Co3(AsH)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97915808
+_cell_length_b   5.05572177
+_cell_length_c   5.78504594
+_cell_angle_alpha   91.40761492
+_cell_angle_beta   90.05541150
+_cell_angle_gamma   89.99525134
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Co3(AsH)2
+_chemical_formula_sum   'Li3 Co3 As2 H2'
+_cell_volume   116.34558083
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.68634432  0.62850621  0.45397148  1
+  Li  Li1  1  0.18580294  0.36765405  0.21049597  1
+  Li  Li2  1  0.68727581  0.97121881  0.02994251  1
+  Co  Co3  1  0.18695827  0.70117503  0.77227449  1
+  Co  Co4  1  0.18678825  0.20719700  0.76568232  1
+  Co  Co5  1  0.68639904  0.13971231  0.50808359  1
+  As  As6  1  0.68693783  0.44412956  0.84568455  1
+  As  As7  1  0.18628369  0.92490367  0.42617236  1
+  H  H8  1  0.68595105  0.31365892  0.27933548  1
+  H  H9  1  0.18724976  0.96214196  0.95806462  1

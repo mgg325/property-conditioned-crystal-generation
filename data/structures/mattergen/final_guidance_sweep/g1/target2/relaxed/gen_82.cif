@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       O2BaVO
+_chemical_formula_sum              "O3 Ba1 V1"
+_cell_length_a       3.9058787651069893
+_cell_length_b       4.659107581838331
+_cell_length_c       3.904360583143488
+_cell_angle_alpha    90.01384744221299
+_cell_angle_beta     90.00006694423236
+_cell_angle_gamma    90.00057054314594
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.2665638954584272  0.9935609628890703  0.32832666859189186  1.0000
+  O   O2        1.0  0.7665527564838558  0.994081158118499  0.8283309840449938  1.0000
+  Ba  Ba1       1.0  0.7665157107592944  0.581539659442901  0.32776728000035354  1.0000
+  V   V1        1.0  0.2665312168691385  0.07981939709360537  0.8276623044625966  1.0000
+  O   O3        1.0  0.2665250090616004  0.4541605056162179  0.828309022079608  1.0000

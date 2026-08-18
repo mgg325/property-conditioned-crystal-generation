@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_K2Na7Sr5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.16420740
+_cell_length_b   9.89585228
+_cell_length_c   10.56195373
+_cell_angle_alpha   111.90820730
+_cell_angle_beta   109.99070751
+_cell_angle_gamma   103.41232698
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Na7Sr5
+_chemical_formula_sum   'K2 Na7 Sr5'
+_cell_volume   677.79936535
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.56645853  0.61924954  0.01528316  1
+  K  K1  1  0.05251593  0.21688041  0.69068374  1
+  Na  Na2  1  0.58599661  0.04095309  0.27345109  1
+  Na  Na3  1  0.33579237  0.27525204  0.14920756  1
+  Na  Na4  1  0.03115142  0.62379092  0.96140670  1
+  Na  Na5  1  0.09707578  0.01663306  0.26327231  1
+  Na  Na6  1  0.77699331  0.48141056  0.53005049  1
+  Na  Na7  1  0.30845973  0.45379746  0.54225320  1
+  Na  Na8  1  0.93449361  0.77941536  0.42639273  1
+  Sr  Sr9  1  0.38158813  0.71994973  0.37970629  1
+  Sr  Sr10  1  0.81269305  0.88796736  0.81613773  1
+  Sr  Sr11  1  0.31314285  0.88126387  0.81153533  1
+  Sr  Sr12  1  0.53990397  0.18499164  0.66887333  1
+  Sr  Sr13  1  0.85002260  0.31783583  0.14545737  1

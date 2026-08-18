@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       InCu2Se2
+_chemical_formula_sum              "In1 Cu2 Se2"
+_cell_length_a       3.806956941424568
+_cell_length_b       3.8064497259128243
+_cell_length_c       7.609842771758483
+_cell_angle_alpha    104.5183969075922
+_cell_angle_beta     104.52388178585414
+_cell_angle_gamma    90.00421758470718
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.6858104125038914  0.6474883393953104  0.5285804411018007  1.0000
+  Cu  Cu1       1.0  0.43503977907699243  0.8970761533507567  0.02799798032653973  1.0000
+  Cu  Cu2       1.0  0.935114376816777  0.3966962259767965  0.02790268213756606  1.0000
+  Se  Se1       1.0  0.04738034134881147  0.009311925926093026  0.25224818502370755  1.0000
+  Se  Se2       1.0  0.3223721235754033  0.28463655081279937  0.8034896627398539  1.0000

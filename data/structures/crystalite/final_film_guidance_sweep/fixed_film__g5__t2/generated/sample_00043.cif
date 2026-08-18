@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_IBrNF7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12361860
+_cell_length_b   22.02059364
+_cell_length_c   18.49646187
+_cell_angle_alpha   64.40370941
+_cell_angle_beta   87.37360382
+_cell_angle_gamma   87.47471619
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   IBrNF7
+_chemical_formula_sum   'I1 Br1 N1 F7'
+_cell_volume   1512.59110064
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  N  N0  1  0.04877660  0.29290044  0.28411019  1
+  F  F1  1  0.52147526  0.51922655  0.92421377  1
+  F  F2  1  0.40379852  0.84942114  0.80556929  1
+  F  F3  1  0.51628834  0.78773224  0.34499496  1
+  F  F4  1  0.36346227  0.74059594  0.78304493  1
+  F  F5  1  0.99337125  0.83542621  0.91643113  1
+  Br  Br6  1  0.14830381  0.29338971  0.98109174  1
+  F  F7  1  0.17134294  0.08429331  0.70821697  1
+  F  F8  1  0.53737843  0.28778613  0.37220672  1
+  I  I9  1  0.40705335  0.78577703  0.74540675  1

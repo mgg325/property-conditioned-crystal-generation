@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_TlZnCd4Bi2Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.35064760
+_cell_length_b   3.49623049
+_cell_length_c   24.88526600
+_cell_angle_alpha   87.57890633
+_cell_angle_beta   92.30008800
+_cell_angle_gamma   122.36740123
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlZnCd4Bi2Pb
+_chemical_formula_sum   'Tl1 Zn1 Cd4 Bi2 Pb1'
+_cell_volume   245.95605285
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.99440810  0.56218005  0.52305202  1
+  Zn  Zn1  1  0.89164401  0.39639594  0.08205193  1
+  Cd  Cd2  1  0.72428225  0.71434550  0.31728146  1
+  Cd  Cd3  1  0.47548327  0.05475201  0.40965147  1
+  Cd  Cd4  1  0.60294226  0.83848809  0.76221360  1
+  Cd  Cd5  1  0.31442671  0.15859006  0.85451789  1
+  Bi  Bi6  1  0.41462348  0.12966682  0.18547478  1
+  Bi  Bi7  1  0.72794178  0.79225391  0.98275958  1
+  Pb  Pb8  1  0.28329087  0.18651827  0.64864931  1

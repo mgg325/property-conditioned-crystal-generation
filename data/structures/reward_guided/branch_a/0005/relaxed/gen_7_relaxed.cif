@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Zn3Ag3(CO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.46571604
+_cell_length_b   6.25187469
+_cell_length_c   7.45663517
+_cell_angle_alpha   103.85858837
+_cell_angle_beta   105.87227678
+_cell_angle_gamma   103.42465411
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn3Ag3(CO6)2
+_chemical_formula_sum   'Zn3 Ag3 C2 O12'
+_cell_volume   266.80365775
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.94106059  0.23855482  0.57347645  1
+  Zn  Zn1  1  0.74276270  0.20389218  0.93470546  1
+  Zn  Zn2  1  0.96991831  0.83709962  0.19067931  1
+  Ag  Ag3  1  0.96829417  0.81566863  0.69675385  1
+  Ag  Ag4  1  0.39154235  0.81339503  0.00935087  1
+  Ag  Ag5  1  0.62486377  0.46124403  0.29473163  1
+  C  C6  1  0.45646681  0.15966422  0.48984250  1
+  C  C7  1  0.26554878  0.27903422  0.91119203  1
+  O  O8  1  0.31346311  0.96559534  0.36990349  1
+  O  O9  1  0.81742759  0.50318149  0.12810197  1
+  O  O10  1  0.90194790  0.92160334  0.45223852  1
+  O  O11  1  0.25961490  0.35883051  0.75909161  1
+  O  O12  1  0.63221932  0.16281574  0.63132525  1
+  O  O13  1  0.04887766  0.71252265  0.93886514  1
+  O  O14  1  0.91833732  0.50560488  0.50278245  1
+  O  O15  1  0.35412560  0.47979104  0.08489584  1
+  O  O16  1  0.39894972  0.13009174  0.92807565  1
+  O  O17  1  0.43851092  0.35632852  0.46658906  1
+  O  O18  1  0.72905469  0.95162459  0.05749475  1
+  O  O19  1  0.04145960  0.14853377  0.89110537  1

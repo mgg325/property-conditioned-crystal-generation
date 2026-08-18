@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       H3SiH2SiH
+_chemical_formula_sum              "H6 Si2"
+_cell_length_a       4.766612517193855
+_cell_length_b       4.766982959787202
+_cell_length_c       4.767015347837613
+_cell_angle_alpha    60.04513908397786
+_cell_angle_beta     60.04157762712257
+_cell_angle_gamma    60.043606399414976
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.8381140652062183  0.6958784996640553  0.3608199586447392  1.0000
+  H   H2        1.0  0.3382309195914561  0.1952598698734713  0.3606768175774621  1.0000
+  H   H3        1.0  0.8378800986761212  0.19604977599566226  0.36107026250536123  1.0000
+  Si  Si1       1.0  0.08733257329884095  0.4459107446622069  0.11031789046426059  1.0000
+  H   H4        1.0  0.3374088960174638  0.6960266779449678  0.8620424870323042  1.0000
+  H   H5        1.0  0.8377963562307015  0.6960625983428709  0.861787123269103  1.0000
+  Si  Si2       1.0  0.5873724287063126  0.9458766421621932  0.6105384830940522  1.0000
+  H   H6        1.0  0.3375602402126824  0.1964551367500602  0.860867361939549  1.0000

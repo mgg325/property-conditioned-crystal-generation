@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Li2CaScBeCu3SeNO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.62015152
+_cell_length_b   4.73886108
+_cell_length_c   4.90662909
+_cell_angle_alpha   88.17273712
+_cell_angle_beta   112.31283569
+_cell_angle_gamma   116.59946442
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2CaScBeCu3SeNO8
+_chemical_formula_sum   'Li2 Ca1 Sc1 Be1 Cu3 Se1 N1 O8'
+_cell_volume   87.61718565
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.43335837  0.17543885  0.61166441  1
+  Li  Li1  1  0.05365503  0.65638137  0.71579164  1
+  O  O2  1  0.92527747  0.18625703  0.74790585  1
+  Se  Se3  1  0.36663091  0.17649859  0.00413287  1
+  Ca  Ca4  1  0.35476667  0.32409713  0.14305493  1
+  O  O5  1  0.36579025  0.84997296  0.96226585  1
+  Cu  Cu6  1  0.35103172  0.85279888  0.26804128  1
+  O  O7  1  0.93122470  0.85173786  0.97654355  1
+  Be  Be8  1  0.42700672  0.47622195  0.53171945  1
+  Cu  Cu9  1  0.47851396  0.01965609  0.66738582  1
+  N  N10  1  0.01476020  0.19134238  0.96206748  1
+  Li  Li11  1  0.71704209  0.58593297  0.91552526  1
+  O  O12  1  0.89825785  0.12295276  0.23391578  1
+  O  O13  1  0.28790027  0.51518983  0.86969095  1
+  O  O14  1  0.20129362  0.56520826  0.37183306  1
+  Sc  Sc15  1  0.12325799  0.15296313  0.75090754  1
+  O  O16  1  0.84623545  0.45861602  0.39536738  1
+  Cu  Cu17  1  0.89597309  0.73882234  0.33045477  1

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SeInSeRh
+_chemical_formula_sum              "Se2 In1 Rh1"
+_cell_length_a       3.829683789302916
+_cell_length_b       3.832320866777527
+_cell_length_c       7.417542934417725
+_cell_angle_alpha    75.00907526472635
+_cell_angle_beta     75.06278810703706
+_cell_angle_gamma    59.96033168781761
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.6019560098648071  0.5183762311935425  0.8770039677619933  1.0000
+  In  In1       1.0  0.15591047704219818  0.07061199843883514  0.21622729301452634  1.0000
+  Se  Se2       1.0  0.38630700111389166  0.3026811480522156  0.5235182046890259  1.0000
+  Rh  Rh1       1.0  0.9952095150947572  0.910672128200531  0.6991354823112487  1.0000

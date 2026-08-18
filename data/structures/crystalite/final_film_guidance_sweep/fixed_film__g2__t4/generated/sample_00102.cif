@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SiB2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.45292759
+_cell_length_b   4.47782087
+_cell_length_c   6.75914764
+_cell_angle_alpha   105.05207825
+_cell_angle_beta   107.50256348
+_cell_angle_gamma   97.75402069
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiB2O9
+_chemical_formula_sum   'Si1 B2 O9'
+_cell_volume   120.75795917
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.68945473  0.19105721  0.63260734  1
+  O  O1  1  0.32618713  0.83097512  0.50263852  1
+  O  O2  1  0.00215280  0.44185799  0.97378290  1
+  O  O3  1  0.50910300  0.39900568  0.25727654  1
+  O  O4  1  0.83263087  0.84768045  0.13648352  1
+  O  O5  1  0.83980358  0.95773530  0.76490045  1
+  O  O6  1  0.97202778  0.43479848  0.39589033  1
+  B  B7  1  0.17771184  0.60522157  0.54032594  1
+  Si  Si8  1  0.95337135  0.68960768  0.97451031  1
+  B  B9  1  0.58891630  0.42279810  0.49232090  1
+  O  O10  1  0.33593488  0.78905535  0.97433126  1
+  O  O11  1  0.38637537  0.58664912  0.70852411  1

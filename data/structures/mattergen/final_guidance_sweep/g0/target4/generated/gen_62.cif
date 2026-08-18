@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OAlOAlCsOCsO
+_chemical_formula_sum              "O4 Al2 Cs2"
+_cell_length_a       5.817952700198498
+_cell_length_b       5.819805527924045
+_cell_length_c       5.820636749267578
+_cell_angle_alpha    60.07610373028305
+_cell_angle_beta     60.02825793245315
+_cell_angle_gamma    59.999976718840294
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.27641940116882324  0.6749493479728699  0.39628443121910095  1.0000
+  Al  Al1       1.0  0.40148407220840465  0.8001799583435057  0.021432001143693924  1.0000
+  O   O2        1.0  0.2762686610221863  0.6752479076385498  0.8962661623954773  1.0000
+  Al  Al2       1.0  0.15120667219161987  0.5501360297203064  0.7705188393592834  1.0000
+  Cs  Cs1       1.0  0.650739312171936  0.05015503987669945  0.2719038724899292  1.0000
+  O   O3        1.0  0.7757903337478639  0.6753098368644714  0.8966293931007385  1.0000
+  Cs  Cs2       1.0  0.9009302258491517  0.3001118302345276  0.5212114453315735  1.0000
+  O   O4        1.0  0.27593860030174255  0.17524565756320953  0.8964443206787109  1.0000

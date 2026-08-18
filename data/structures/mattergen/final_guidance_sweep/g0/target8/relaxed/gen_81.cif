@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TiScO3
+_chemical_formula_sum              "Ti1 Sc1 O3"
+_cell_length_a       3.0963748185495374
+_cell_length_b       5.469181242369889
+_cell_length_c       5.4695270528953985
+_cell_angle_alpha    114.93199408617092
+_cell_angle_beta     89.99359162780338
+_cell_angle_gamma    89.98742573906983
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.5550526146274452  0.730992916244279  0.3187135341025993  1.0000
+  Sc  Sc1       1.0  0.055111740182385134  0.3809271240576118  0.6686460969946293  1.0000
+  O   O1        1.0  0.0550918874213141  0.5986489338793327  0.4505342815174016  1.0000
+  O   O2        1.0  0.5552953522747335  0.10628840928300697  0.48659022803196866  1.0000
+  O   O3        1.0  0.5548968031515631  0.5629094549724817  0.9433265849680053  1.0000

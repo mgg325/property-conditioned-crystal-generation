@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_K3SiSbPS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.62251234
+_cell_length_b   6.34094572
+_cell_length_c   10.90172005
+_cell_angle_alpha   89.75223541
+_cell_angle_beta   90.25321198
+_cell_angle_gamma   106.18824768
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3SiSbPS8
+_chemical_formula_sum   'K3 Si1 Sb1 P1 S8'
+_cell_volume   439.63806569
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.41197625  0.83411336  0.53065646  1
+  Sb  Sb1  1  0.13438541  0.73467112  0.66532075  1
+  S  S2  1  0.83837169  0.70743847  0.68075269  1
+  Si  Si3  1  0.85875523  0.88124025  0.49291635  1
+  K  K4  1  0.51182938  0.31024629  0.81975746  1
+  S  S5  1  0.00926489  0.40876979  0.99517506  1
+  K  K6  1  0.39675337  0.41484773  0.33711028  1
+  S  S7  1  0.34162956  0.88476956  0.89655828  1
+  P  P8  1  0.25149259  0.65697026  0.01377088  1
+  S  S9  1  0.48137596  0.53202504  0.02610746  1
+  S  S10  1  0.86611086  0.69121742  0.38410032  1
+  S  S11  1  0.94023335  0.16171238  0.54375297  1
+  S  S12  1  0.38088036  0.90953946  0.22111332  1
+  K  K13  1  0.87227106  0.97238064  0.13577530  1

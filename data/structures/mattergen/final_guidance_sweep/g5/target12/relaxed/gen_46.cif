@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TeHgAgTeHgTeAgTe
+_chemical_formula_sum              "Te4 Hg2 Ag2"
+_cell_length_a       6.464149349954203
+_cell_length_b       6.463677038865421
+_cell_length_c       7.952907077723312
+_cell_angle_alpha    113.98139400283843
+_cell_angle_beta     113.95828287337213
+_cell_angle_gamma    90.00129571882766
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.683570717406739  0.2150159905916578  0.9511658807986373  1.0000
+  Hg  Hg1       1.0  0.2988007146081569  0.8402580799039248  0.7017221341636384  1.0000
+  Ag  Ag1       1.0  0.7993056514949118  0.3399395762084692  0.7010936107286753  1.0000
+  Te  Te2       1.0  0.16401972316923866  0.7150469659086448  0.9517852895016025  1.0000
+  Hg  Hg2       1.0  0.5485701568792335  0.5896433946288417  0.2013534210375976  1.0000
+  Te  Te3       1.0  0.42381444236262394  0.455219200332205  0.45176814501788687  1.0000
+  Ag  Ag2       1.0  0.04864314865005508  0.09039157799201349  0.20141439436685538  1.0000
+  Te  Te4       1.0  0.9237048219575202  0.9741442741351537  0.45113973096065424  1.0000

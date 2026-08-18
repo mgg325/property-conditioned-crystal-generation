@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_KEuCuF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.72691258
+_cell_length_b   5.44682534
+_cell_length_c   7.34436055
+_cell_angle_alpha   106.74792418
+_cell_angle_beta   91.69619094
+_cell_angle_gamma   91.82662470
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KEuCuF6
+_chemical_formula_sum   'K1 Eu1 Cu1 F6'
+_cell_volume   142.57549987
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.36569383  0.91656944  0.57795154  1
+  Eu  Eu1  1  0.82952550  0.19428837  0.17355971  1
+  Cu  Cu2  1  0.09628534  0.57679527  0.91005659  1
+  F  F3  1  0.35026544  0.28791693  0.37614016  1
+  F  F4  1  0.86019043  0.24655659  0.84798279  1
+  F  F5  1  0.30861110  0.92208336  0.00153966  1
+  F  F6  1  0.32968639  0.46972497  0.10229982  1
+  F  F7  1  0.84327624  0.87333898  0.29894789  1
+  F  F8  1  0.86552082  0.66452009  0.71452443  1

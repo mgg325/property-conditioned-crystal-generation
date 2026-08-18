@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ac6Th2U2CdAsCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82550549
+_cell_length_b   5.11839500
+_cell_length_c   17.90505547
+_cell_angle_alpha   88.80975459
+_cell_angle_beta   90.61269759
+_cell_angle_gamma   118.05584077
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ac6Th2U2CdAsCl
+_chemical_formula_sum   'Ac6 Th2 U2 Cd1 As1 Cl1'
+_cell_volume   471.04103072
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.40096065  0.59289243  0.94968510  1
+  Ac  Ac1  1  0.43237376  0.60106211  0.12302399  1
+  Ac  Ac2  1  0.04094371  0.87906187  0.46159135  1
+  Ac  Ac3  1  0.45409304  0.58131836  0.76574900  1
+  Ac  Ac4  1  0.07061581  0.88130891  0.68417193  1
+  Ac  Ac5  1  0.43291565  0.61896996  0.34869257  1
+  Th  Th6  1  0.72662034  0.21567622  0.59289090  1
+  Th  Th7  1  0.38010447  0.54060499  0.55919316  1
+  U  U8  1  0.04056033  0.90809794  0.90991539  1
+  U  U9  1  0.05171400  0.90297402  0.24124410  1
+  Cd  Cd10  1  0.78072273  0.28165712  1.00826279  1
+  As  As11  1  0.04867617  0.90657125  0.07655234  1
+  Cl  Cl12  1  0.63207508  0.17888409  0.22278488  1

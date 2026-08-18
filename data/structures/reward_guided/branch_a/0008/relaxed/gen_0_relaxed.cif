@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na(SrHg)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47694572
+_cell_length_b   8.73758857
+_cell_length_c   8.72730809
+_cell_angle_alpha   90.00778958
+_cell_angle_beta   89.99946961
+_cell_angle_gamma   90.00008899
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na(SrHg)2
+_chemical_formula_sum   'Na2 Sr4 Hg4'
+_cell_volume   341.39230153
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.78375751  0.32343370  0.91727114  1
+  Na  Na1  1  0.78345036  0.82302367  0.41786114  1
+  Sr  Sr2  1  0.28329552  0.15921258  0.25348679  1
+  Sr  Sr3  1  0.28347026  0.48738952  0.58175234  1
+  Sr  Sr4  1  0.28340283  0.98744365  0.75346932  1
+  Sr  Sr5  1  0.28359995  0.65925819  0.08191082  1
+  Hg  Hg6  1  0.78338166  0.19245896  0.54945738  1
+  Hg  Hg7  1  0.78388466  0.69235827  0.78584527  1
+  Hg  Hg8  1  0.78356220  0.95443894  0.04907269  1
+  Hg  Hg9  1  0.78352037  0.45443415  0.28646730  1

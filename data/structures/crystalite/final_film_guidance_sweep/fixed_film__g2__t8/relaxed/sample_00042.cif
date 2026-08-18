@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li5MgSi2Ni3Ge(AsP)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.62024615
+_cell_length_b   6.45241471
+_cell_length_c   7.01258694
+_cell_angle_alpha   90.70106239
+_cell_angle_beta   89.55735873
+_cell_angle_gamma   91.57863762
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li5MgSi2Ni3Ge(AsP)2
+_chemical_formula_sum   'Li5 Mg1 Si2 Ni3 Ge1 As2 P2'
+_cell_volume   254.18307399
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  1.06006022  0.02117734  0.45577241  1
+  Li  Li1  1  0.03677259  0.55431267  0.58479151  1
+  Li  Li2  1  0.29647259  0.75245714  0.24704790  1
+  Li  Li3  1  0.40828539  0.18308096  0.68472974  1
+  Li  Li4  1  0.56397590  0.05747205  1.03223837  1
+  Mg  Mg5  1  0.73641937  0.64042433  0.94594277  1
+  Si  Si6  1  0.30835830  0.31969548  0.31998362  1
+  Si  Si7  1  0.89313848  0.30424760  0.22709053  1
+  Ni  Ni8  1  0.91351482  0.96736167  0.77220721  1
+  Ni  Ni9  1  0.63532413  0.50851427  0.38567794  1
+  Ni  Ni10  1  0.60895171  0.10403829  0.38059744  1
+  Ge  Ge11  1  0.27237670  0.41125376  -0.03011650  1
+  As  As12  1  0.61515291  0.81116283  0.59152471  1
+  As  As13  1  0.24524148  0.79600696  0.86948865  1
+  P  P14  1  0.89390008  0.28015216  0.88012955  1
+  P  P15  1  0.76674493  0.80989952  0.27159532  1

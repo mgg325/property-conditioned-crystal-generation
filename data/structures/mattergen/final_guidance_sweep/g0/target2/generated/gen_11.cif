@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       I2ClH
+_chemical_formula_sum              "I2 Cl1 H1"
+_cell_length_a       5.115714433369089
+_cell_length_b       5.143033335288368
+_cell_length_c       6.537877082824707
+_cell_angle_alpha    97.14148478948877
+_cell_angle_beta     79.4049996694783
+_cell_angle_gamma    97.91384897051877
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.009243325330317022  0.47541454434394836  0.11717438697814941  1.0000
+  I   I2        1.0  0.25481995940208435  0.7665765881538391  0.42502689361572266  1.0000
+  Cl  Cl1       1.0  0.6593376398086548  0.09883250296115875  0.7458603978157043  1.0000
+  H   H1        1.0  0.8674399852752686  0.9858336448669434  0.6308273673057556  1.0000

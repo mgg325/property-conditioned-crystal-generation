@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs3GaAsSe3S2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.06592035
+_cell_length_b   7.49184752
+_cell_length_c   8.96484756
+_cell_angle_alpha   114.08892822
+_cell_angle_beta   114.57330322
+_cell_angle_gamma   90.08436584
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3GaAsSe3S2
+_chemical_formula_sum   'Cs3 Ga1 As1 Se3 S2'
+_cell_volume   385.53431892
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.78227651  0.15946978  0.53727096  1
+  Se  Se1  1  0.60099494  0.93166590  0.83522576  1
+  Se  Se2  1  0.40692014  0.15325096  0.33842337  1
+  Cs  Cs3  1  0.53009772  0.40664309  0.84404516  1
+  Cs  Cs4  1  0.31481984  0.57428199  0.32318994  1
+  As  As5  1  0.78294349  0.10322767  0.14394069  1
+  S  S6  1  0.85826683  0.91776371  0.34086859  1
+  S  S7  1  0.82556421  0.40217420  0.33018994  1
+  Cs  Cs8  1  0.06814381  0.91002083  0.80814588  1
+  Se  Se9  1  0.01129368  0.38055319  0.78539664  1

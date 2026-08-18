@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MgSeTlSe
+_chemical_formula_sum              "Mg1 Se2 Tl1"
+_cell_length_a       4.051884287504261
+_cell_length_b       4.0512856954448795
+_cell_length_c       7.101653156247473
+_cell_angle_alpha    89.99385905867362
+_cell_angle_beta     90.01412655342186
+_cell_angle_gamma    119.99085268155952
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.12329663950921704  0.8498772343229677  0.1159313044975176  1.0000
+  Se  Se1       1.0  0.7898079831458801  0.18298288839501123  0.9010912711015535  1.0000
+  Tl  Tl1       1.0  0.12294588838733056  0.8493631394329878  0.6159342227154495  1.0000
+  Se  Se2       1.0  0.4567204519595245  0.5165663976147371  0.3313051139525135  1.0000

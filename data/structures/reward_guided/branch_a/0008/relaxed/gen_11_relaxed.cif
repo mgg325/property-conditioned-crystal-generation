@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb3Sr5In2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.76298948
+_cell_length_b   7.67868553
+_cell_length_c   13.37977369
+_cell_angle_alpha   89.98142907
+_cell_angle_beta   102.40958559
+_cell_angle_gamma   90.01117860
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb3Sr5In2
+_chemical_formula_sum   'Rb3 Sr5 In2'
+_cell_volume   578.25091691
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.34919811  0.37382435  0.02663332  1
+  Rb  Rb1  1  0.00267901  0.37273739  0.33507144  1
+  Rb  Rb2  1  0.89100383  0.87265224  0.10621929  1
+  Sr  Sr3  1  0.74317570  0.62595945  0.81608680  1
+  Sr  Sr4  1  0.74375731  0.12138997  0.81573348  1
+  Sr  Sr5  1  0.56527123  0.87222882  0.45698669  1
+  Sr  Sr6  1  0.14651998  0.62198838  0.62160747  1
+  Sr  Sr7  1  0.14679353  0.12625322  0.62101126  1
+  In  In8  1  0.62359054  0.37453661  0.57531615  1
+  In  In9  1  0.26619480  0.87393158  0.86121373  1

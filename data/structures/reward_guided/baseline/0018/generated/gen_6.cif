@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AgCu2F2Ag
+_chemical_formula_sum              "Ag2 Cu2 F2"
+_cell_length_a       2.9561666901897015
+_cell_length_b       2.937254797398778
+_cell_length_c       11.33962345123291
+_cell_angle_alpha    90.41780517303302
+_cell_angle_beta     89.80916701480785
+_cell_angle_gamma    120.94576791751277
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.9923657178878783  0.6018472909927368  0.2879963517189026  1.0000
+  Cu  Cu1       1.0  0.6586720943450928  0.9360160827636719  0.10412251204252243  1.0000
+  Cu  Cu2       1.0  0.6603161096572875  0.9329981803894042  0.6797688007354736  1.0000
+  F   F1        1.0  0.9932718276977538  0.5999140739440918  0.7673239707946778  1.0000
+  F   F2        1.0  0.32486629486083984  0.2698233127593994  0.012787017971277237  1.0000
+  Ag  Ag2       1.0  0.3298994302749634  0.2689496576786041  0.49369603395462036  1.0000

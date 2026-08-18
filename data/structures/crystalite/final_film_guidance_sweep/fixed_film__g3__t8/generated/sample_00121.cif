@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Na3SbAsPbSe7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.01507330
+_cell_length_b   5.85680056
+_cell_length_c   7.28071976
+_cell_angle_alpha   76.32065582
+_cell_angle_beta   92.49131012
+_cell_angle_gamma   91.97060394
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3SbAsPbSe7
+_chemical_formula_sum   'Na3 Sb1 As1 Pb1 Se7'
+_cell_volume   248.90517721
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.87773824  0.27206632  0.25554234  1
+  Se  Se1  1  0.53179097  0.46625286  0.16375661  1
+  Na  Na2  1  0.97759616  0.77511156  0.86703235  1
+  Na  Na3  1  0.51786965  0.06009290  0.20064163  1
+  Pb  Pb4  1  0.33700609  0.09981874  0.62896061  1
+  Se  Se5  1  0.69083267  0.70463443  0.64453673  1
+  Se  Se6  1  0.38400963  0.59822810  0.88443875  1
+  Se  Se7  1  0.80720878  0.51165628  0.23440281  1
+  Sb  Sb8  1  0.19388878  0.24183795  0.95046318  1
+  As  As9  1  0.99231696  0.08127782  0.59050739  1
+  Se  Se10  1  0.28556317  0.60037661  0.57342589  1
+  Se  Se11  1  0.20549148  0.93334699  0.18899602  1
+  Se  Se12  1  0.70271099  0.10311571  0.72962129  1

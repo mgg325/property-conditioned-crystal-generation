@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Dy6Tl2Co
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.81281078
+_cell_length_b   8.61663959
+_cell_length_c   8.62211816
+_cell_angle_alpha   120.01905128
+_cell_angle_beta   89.99838109
+_cell_angle_gamma   90.00177025
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy6Tl2Co
+_chemical_formula_sum   'Dy6 Tl2 Co1'
+_cell_volume   245.26996954
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.12725347  0.28635721  0.89069053  1
+  Dy  Dy1  1  0.62705275  0.05409595  0.05574659  1
+  Dy  Dy2  1  0.62712443  0.65613700  0.26145375  1
+  Dy  Dy3  1  0.12727450  0.82128976  0.65860647  1
+  Dy  Dy4  1  0.62744426  0.45139493  0.65875174  1
+  Dy  Dy5  1  0.12735725  0.05367692  0.42560727  1
+  Tl  Tl6  1  0.12728589  0.38692127  0.32518925  1
+  Tl  Tl7  1  0.12698885  0.72084337  0.99240071  1
+  Co  Co8  1  0.62732548  0.05377028  0.65769593  1

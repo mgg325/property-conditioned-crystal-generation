@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ac3Nd2U5Tc3Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.37724471
+_cell_length_b   11.74199776
+_cell_length_c   6.83516719
+_cell_angle_alpha   73.43036370
+_cell_angle_beta   36.30469985
+_cell_angle_gamma   61.47042184
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ac3Nd2U5Tc3Br
+_chemical_formula_sum   'Ac3 Nd2 U5 Tc3 Br1'
+_cell_volume   384.23149746
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.14829067  0.58931924  1.19010178  1
+  Ac  Ac1  1  0.84578279  0.88392216  0.16669011  1
+  Ac  Ac2  1  0.15130443  0.35853944  0.60680828  1
+  Nd  Nd3  1  0.57579931  0.27097377  0.53646471  1
+  Nd  Nd4  1  0.20725619  0.04779192  0.87212592  1
+  U  U5  1  0.27452789  0.12538648  0.24117724  1
+  U  U6  1  0.91960346  0.89978077  0.61932749  1
+  U  U7  1  0.82435635  0.12678611  0.77480622  1
+  U  U8  1  0.89107067  0.40279508  0.33393953  1
+  U  U9  1  0.48717903  0.61589288  0.31350310  1
+  Tc  Tc10  1  0.69049690  0.37476800  0.87607602  1
+  Tc  Tc11  1  0.89364350  0.64208813  -0.04317297  1
+  Tc  Tc12  1  0.39875072  0.88708796  0.31500201  1
+  Br  Br13  1  0.44115231  0.76413534  0.91684798  1

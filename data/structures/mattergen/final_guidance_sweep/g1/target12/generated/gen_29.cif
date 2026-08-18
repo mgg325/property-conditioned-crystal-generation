@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CdTeCdTe
+_chemical_formula_sum              "Cd2 Te2"
+_cell_length_a       4.6839114453565545
+_cell_length_b       4.693347966450131
+_cell_length_c       7.6804656982421875
+_cell_angle_alpha    90.00705126015625
+_cell_angle_beta     89.96117287997515
+_cell_angle_gamma    119.96780691555416
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.3875046670436859  0.5893375873565674  0.4200039207935333  1.0000
+  Te  Te1       1.0  0.38695403933525085  0.5885685682296753  0.7962679862976074  1.0000
+  Cd  Cd2       1.0  0.05395344272255894  0.9233843684196471  0.9207857847213745  1.0000
+  Te  Te2       1.0  0.05409258976578715  0.9233342409133911  0.29628700017929077  1.0000

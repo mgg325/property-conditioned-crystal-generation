@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Rb2MgInPb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.18810104
+_cell_length_b   7.27854720
+_cell_length_c   10.21127869
+_cell_angle_alpha   110.87080970
+_cell_angle_beta   110.64152256
+_cell_angle_gamma   89.99196002
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2MgInPb2
+_chemical_formula_sum   'Rb4 Mg2 In2 Pb4'
+_cell_volume   462.31096434
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.40316450  0.56503125  0.62129384  1
+  Rb  Rb1  1  0.91885007  0.06542065  0.62140152  1
+  Rb  Rb2  1  0.26599859  0.91154872  0.31461460  1
+  Rb  Rb3  1  0.75005699  0.41155402  0.31436303  1
+  Mg  Mg4  1  0.83460577  0.98822902  0.96782786  1
+  Mg  Mg5  1  0.83462218  0.48838297  0.96791329  1
+  In  In6  1  0.33438189  0.48880695  0.96799849  1
+  In  In7  1  0.33429271  0.98800745  0.96791798  1
+  Pb  Pb8  1  0.68447029  0.83189539  0.15512730  1
+  Pb  Pb9  1  0.98435714  0.64474876  0.78055940  1
+  Pb  Pb10  1  0.17194995  0.33179193  0.15490108  1
+  Pb  Pb11  1  0.49700936  0.14490549  0.78105933  1

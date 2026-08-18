@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KCeNiS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.02333667
+_cell_length_b   8.84479623
+_cell_length_c   9.02620736
+_cell_angle_alpha   105.68793516
+_cell_angle_beta   89.99756625
+_cell_angle_gamma   89.99150309
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCeNiS3
+_chemical_formula_sum   'K2 Ce2 Ni2 S6'
+_cell_volume   309.23771167
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.40428711  0.60696927  0.54519854  1
+  K  K1  1  0.90394001  0.98519024  0.00943251  1
+  Ce  Ce2  1  0.40437551  0.12138260  0.61570643  1
+  Ce  Ce3  1  0.90390953  0.47112189  0.93978691  1
+  Ni  Ni4  1  0.90427201  0.87980653  0.36291022  1
+  Ni  Ni5  1  0.40374545  0.71343575  0.19227404  1
+  S  S6  1  0.90420037  0.34245217  0.61594775  1
+  S  S7  1  0.90385017  0.61922720  0.24877809  1
+  S  S8  1  0.40423220  0.97405706  0.30648828  1
+  S  S9  1  0.40379800  0.67956187  0.92916518  1
+  S  S10  1  0.40400005  0.25007164  0.93960576  1
+  S  S11  1  0.90443523  0.91281780  0.62587224  1

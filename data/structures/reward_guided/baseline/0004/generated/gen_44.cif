@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ErMgCaMg
+_chemical_formula_sum              "Er1 Mg2 Ca1"
+_cell_length_a       3.7493796381699864
+_cell_length_b       5.503486502541679
+_cell_length_c       5.504106044769287
+_cell_angle_alpha    90.0313325851598
+_cell_angle_beta     89.99759144760628
+_cell_angle_gamma    90.00244771218463
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.23735256493091586  0.6846317052841187  0.0993288978934288  1.0000
+  Mg  Mg1       1.0  0.7373991012573242  0.6852954626083374  0.5994203090667725  1.0000
+  Ca  Ca1       1.0  0.23730845749378207  0.18548914790153506  0.5991632342338562  1.0000
+  Mg  Mg2       1.0  0.7375060319900513  0.18475034832954407  0.09931326657533646  1.0000

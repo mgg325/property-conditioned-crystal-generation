@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiSnO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.27665658
+_cell_length_b   3.29751114
+_cell_length_c   5.39753054
+_cell_angle_alpha   73.32188802
+_cell_angle_beta   72.92209307
+_cell_angle_gamma   60.45760272
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSnO2
+_chemical_formula_sum   'Li1 Sn1 O2'
+_cell_volume   47.78586484
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.69144737  0.82096485  0.48941898  1
+  Sn  Sn1  1  0.18776460  0.28403450  0.99462989  1
+  O  O2  1  0.93672900  0.01498970  0.75061733  1
+  O  O3  1  0.43368430  0.53458785  0.24150468  1

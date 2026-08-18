@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       InAuAgAu
+_chemical_formula_sum              "In1 Au2 Ag1"
+_cell_length_a       4.152290042581929
+_cell_length_b       4.131654663018015
+_cell_length_c       5.2508015632629395
+_cell_angle_alpha    113.00212584535599
+_cell_angle_beta     111.89538066961454
+_cell_angle_gamma    89.7190499703155
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.7287018299102783  0.7746949791908264  0.7679970264434814  1.0000
+  Au  Au1       1.0  0.22747576236724854  0.2738620340824127  0.7680120468139648  1.0000
+  Ag  Ag1       1.0  0.47872450947761536  0.02326620742678642  0.26907289028167725  1.0000
+  Au  Au2       1.0  0.9794911742210388  0.5229032039642334  0.2678602933883667  1.0000

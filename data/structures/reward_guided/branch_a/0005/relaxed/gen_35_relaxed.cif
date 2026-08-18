@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Sc7(TlGa)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.53261032
+_cell_length_b   7.43826374
+_cell_length_c   8.21194112
+_cell_angle_alpha   112.68518844
+_cell_angle_beta   106.02024329
+_cell_angle_gamma   89.99913299
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc7(TlGa)2
+_chemical_formula_sum   'Sc7 Tl2 Ga2'
+_cell_volume   243.75009113
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.93358365  0.83890717  0.07748284  1
+  Sc  Sc1  1  0.16956261  0.14285472  0.54940217  1
+  Sc  Sc2  1  0.60838995  0.36077001  0.42717874  1
+  Sc  Sc3  1  0.72915784  0.88222997  0.66851972  1
+  Sc  Sc4  1  0.09232453  0.68257704  0.39504083  1
+  Sc  Sc5  1  0.44646730  0.52397072  0.10333985  1
+  Sc  Sc6  1  0.37940081  0.06502755  0.96912868  1
+  Tl  Tl7  1  0.26906110  0.61729487  0.74851718  1
+  Tl  Tl8  1  0.81393014  0.33549385  0.83816410  1
+  Ga  Ga9  1  0.98598099  0.26874541  0.18243350  1
+  Ga  Ga10  1  0.55700364  0.92899010  0.32430461  1

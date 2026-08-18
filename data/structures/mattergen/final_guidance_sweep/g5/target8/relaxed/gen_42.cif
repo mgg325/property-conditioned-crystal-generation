@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Hg3Te
+_chemical_formula_sum              "Hg3 Te1"
+_cell_length_a       5.400120354897917
+_cell_length_b       5.3975682210964
+_cell_length_c       5.406096941516228
+_cell_angle_alpha    119.93303555798563
+_cell_angle_beta     90.14876856330535
+_cell_angle_gamma    119.69178970060325
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.7026397692826795  0.7736292243086484  0.8420011182600128  1.0000
+  Hg  Hg2       1.0  0.4534737876470557  0.27469202100709306  0.09219795174624629  1.0000
+  Hg  Hg3       1.0  0.20309075411947788  0.7743781115240772  0.34224277594797115  1.0000
+  Te  Te1       1.0  0.9531568815251691  0.2742950122376874  0.5921947238712386  1.0000

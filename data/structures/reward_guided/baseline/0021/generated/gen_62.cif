@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       NaLiNaLi2PdGe2PdGe
+_chemical_formula_sum              "Na2 Li3 Pd2 Ge3"
+_cell_length_a       4.3716949002349335
+_cell_length_b       4.496292978292009
+_cell_length_c       8.180014610290527
+_cell_angle_alpha    89.89180547800595
+_cell_angle_beta     105.06349303388879
+_cell_angle_gamma    89.15231460464821
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.3032640516757965  0.944146692752838  0.8022225499153137  1.0000
+  Li  Li1       1.0  0.9119700193405151  0.9429053664207458  0.015489679761230918  1.0000
+  Na  Na2       1.0  0.6061111688613892  0.44309496879577637  0.4040371179580688  1.0000
+  Li  Li2       1.0  0.5099387168884277  0.9437454342842102  0.20758797228336334  1.0000
+  Li  Li3       1.0  0.20317910611629486  0.44319331645965576  0.600577712059021  1.0000
+  Pd  Pd1       1.0  0.9976022839546204  0.44340765476226807  0.18766087293624878  1.0000
+  Ge  Ge1       1.0  0.4130593240261078  0.4432726800441742  0.017443103715777383  1.0000
+  Ge  Ge2       1.0  0.8068867921829224  0.444002240896225  0.8083903193473816  1.0000
+  Pd  Pd2       1.0  0.7029198408126831  0.9423080682754517  0.5998783707618713  1.0000
+  Ge  Ge3       1.0  0.10347183048725128  0.9446316957473754  0.3944634795188904  1.0000

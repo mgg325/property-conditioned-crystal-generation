@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Dy3ScAg3Te8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.61416554
+_cell_length_b   8.61753093
+_cell_length_c   8.63116661
+_cell_angle_alpha   59.93598275
+_cell_angle_beta   59.97995689
+_cell_angle_gamma   60.07124280
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy3ScAg3Te8
+_chemical_formula_sum   'Dy3 Sc1 Ag3 Te8'
+_cell_volume   453.00942049
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.20870436  0.09999304  0.47099106  1
+  Dy  Dy1  1  0.70806233  0.09987674  0.97063627  1
+  Dy  Dy2  1  0.20861385  0.59979895  0.97171947  1
+  Sc  Sc3  1  0.70748407  0.59985768  0.47101602  1
+  Ag  Ag4  1  0.20960183  0.60137695  0.46960746  1
+  Ag  Ag5  1  0.70812195  0.10030235  0.47028306  1
+  Ag  Ag6  1  0.71016472  0.60097116  0.96997816  1
+  Te  Te7  1  0.95151279  0.84312174  0.23223135  1
+  Te  Te8  1  0.46196414  0.35288122  0.22196251  1
+  Te  Te9  1  0.46409524  0.83900288  0.22798208  1
+  Te  Te10  1  0.95669528  0.84662821  0.71966981  1
+  Te  Te11  1  0.95172875  0.36164442  0.71204605  1
+  Te  Te12  1  0.94603378  0.35587885  0.22850062  1
+  Te  Te13  1  0.46333652  0.35617433  0.71056590  1
+  Te  Te14  1  0.47130443  0.84296318  0.71350435  1

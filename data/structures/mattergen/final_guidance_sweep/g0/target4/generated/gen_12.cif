@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ClAuRbCl
+_chemical_formula_sum              "Cl2 Au1 Rb1"
+_cell_length_a       5.209921190575152
+_cell_length_b       4.436531589239865
+_cell_length_c       5.209061145782471
+_cell_angle_alpha    89.9721968050233
+_cell_angle_beta     89.98031789824947
+_cell_angle_gamma    90.05685017241075
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.869731068611145  0.38148531317710876  0.714480459690094  1.0000
+  Au  Au1       1.0  0.36927855014801025  0.381346732378006  0.7145874500274658  1.0000
+  Rb  Rb1       1.0  0.8699618577957153  0.8817468881607057  0.2141333520412445  1.0000
+  Cl  Cl2       1.0  0.3697471618652344  0.3815406560897827  0.2147381603717804  1.0000

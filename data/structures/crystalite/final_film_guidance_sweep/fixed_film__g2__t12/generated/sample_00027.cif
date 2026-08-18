@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_KUGeTePbAu2I
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47814751
+_cell_length_b   5.56531954
+_cell_length_c   6.78617668
+_cell_angle_alpha   89.88938904
+_cell_angle_beta   89.90097046
+_cell_angle_gamma   90.19899750
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KUGeTePbAu2I
+_chemical_formula_sum   'K1 U1 Ge1 Te1 Pb1 Au2 I1'
+_cell_volume   206.89257597
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pb  Pb0  1  0.45910266  0.35957104  0.79633701  1
+  Au  Au1  1  0.39460340  0.90042412  0.49277931  1
+  U  U2  1  0.21896395  0.95679134  0.99478555  1
+  Ge  Ge3  1  0.21913621  0.28314465  0.47943181  1
+  K  K4  1  0.94138139  0.56357610  0.21069947  1
+  I  I5  1  0.61674285  0.05553341  0.18773094  1
+  Au  Au6  1  0.89639926  0.94632530  0.49218112  1
+  Te  Te7  1  0.74566680  0.62413377  0.66521573  1

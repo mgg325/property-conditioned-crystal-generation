@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ZrCdGaTcSnP4S
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.42367554
+_cell_length_b   10.09944916
+_cell_length_c   9.93400288
+_cell_angle_alpha   92.31520081
+_cell_angle_beta   89.01226044
+_cell_angle_gamma   113.30513763
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCdGaTcSnP4S
+_chemical_formula_sum   'Zr1 Cd1 Ga1 Tc1 Sn1 P4 S1'
+_cell_volume   1051.74341438
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.30780792  0.84931600  0.54417866  1
+  S  S1  1  0.32270658  0.75710905  0.25244343  1
+  P  P2  1  0.71366239  0.79503334  0.41395208  1
+  Zr  Zr3  1  0.28462470  0.93780911  0.89347851  1
+  Sn  Sn4  1  0.74271595  0.73860621  0.81884336  1
+  Cd  Cd5  1  0.05170321  0.43876791  0.58492517  1
+  P  P6  1  0.90873528  0.27514422  0.82845896  1
+  Tc  Tc7  1  0.84708744  0.39504310  0.19901264  1
+  Ga  Ga8  1  0.28890890  0.09775662  0.33569694  1
+  P  P9  1  0.57389474  0.67298639  0.04523176  1

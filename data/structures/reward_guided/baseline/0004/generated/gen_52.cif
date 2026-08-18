@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SCuCa2S2CuS
+_chemical_formula_sum              "S4 Cu2 Ca2"
+_cell_length_a       3.879696418951714
+_cell_length_b       6.500116452973016
+_cell_length_c       7.2386474609375
+_cell_angle_alpha    100.7081130855925
+_cell_angle_beta     105.54325113348729
+_cell_angle_gamma    90.06001963959686
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.6724581122398375  0.4771168828010559  0.6228911280632019  1.0000
+  Cu  Cu1       1.0  0.8292154073715209  0.4097166955471039  0.9376460909843445  1.0000
+  Ca  Ca1       1.0  0.027256216853857037  0.34074047207832336  0.3338627517223358  1.0000
+  Ca  Ca2       1.0  0.266641229391098  0.7714594006538391  0.8119868040084839  1.0000
+  S   S2        1.0  0.836013376712799  0.056993983685970306  0.9513506889343262  1.0000
+  S   S3        1.0  0.4108447134494781  0.5240712761878967  0.10165920853614807  1.0000
+  Cu  Cu2       1.0  0.6735931038856505  0.10232991725206377  0.6241846084594727  1.0000
+  S   S4        1.0  0.10535459965467452  0.9750744104385376  0.48843899369239807  1.0000

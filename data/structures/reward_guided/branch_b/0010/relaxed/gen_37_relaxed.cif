@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K2AlCdGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55426953
+_cell_length_b   6.50958530
+_cell_length_c   9.27991609
+_cell_angle_alpha   110.55199216
+_cell_angle_beta   110.68624427
+_cell_angle_gamma   89.98372045
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2AlCdGe2
+_chemical_formula_sum   'K4 Al2 Cd2 Ge4'
+_cell_volume   343.35481836
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.53466423  0.32237517  0.47399693  1
+  K  K1  1  0.87892792  0.16672722  0.16235374  1
+  K  K2  1  0.39767636  0.66656004  0.16198990  1
+  K  K3  1  0.05336374  0.82184377  0.47323934  1
+  Al  Al4  1  0.96599691  0.24416539  0.81790554  1
+  Al  Al5  1  0.96607231  0.74456096  0.81786072  1
+  Cd  Cd6  1  0.46596746  0.24418496  0.81793364  1
+  Cd  Cd7  1  0.46594468  0.74466146  0.81787003  1
+  Ge  Ge8  1  0.28095044  0.08505157  -0.00090592  1
+  Ge  Ge9  1  0.83202193  0.58488265  -0.00137113  1
+  Ge  Ge10  1  0.65109873  0.90374860  0.63673521  1
+  Ge  Ge11  1  0.10001478  0.40380047  0.63703594  1

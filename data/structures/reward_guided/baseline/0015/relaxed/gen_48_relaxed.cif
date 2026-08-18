@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs2SmHCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.64248200
+_cell_length_b   7.63864836
+_cell_length_c   7.64039521
+_cell_angle_alpha   100.32598323
+_cell_angle_beta   114.24505942
+_cell_angle_gamma   114.23497318
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2SmHCl6
+_chemical_formula_sum   'Cs2 Sm1 H1 Cl6'
+_cell_volume   336.84275171
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.15593329  0.55195070  0.76321324  1
+  Cs  Cs1  1  0.15602201  0.05238752  0.26281936  1
+  Sm  Sm2  1  0.65577990  0.32752223  0.03848031  1
+  H  H3  1  0.65538323  0.82695893  0.53682501  1
+  Cl  Cl4  1  0.20941301  0.05900489  0.77001883  1
+  Cl  Cl5  1  0.10227412  0.50613275  0.21713585  1
+  Cl  Cl6  1  0.65593928  0.50603242  0.77052353  1
+  Cl  Cl7  1  0.65595778  0.05915391  0.21652814  1
+  Cl  Cl8  1  0.65501398  0.58895585  0.30020429  1
+  Cl  Cl9  1  0.65632740  0.95948100  0.66988131  1

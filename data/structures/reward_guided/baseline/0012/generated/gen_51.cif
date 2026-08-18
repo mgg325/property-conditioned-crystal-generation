@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ta3NbC
+_chemical_formula_sum              "Ta3 Nb1 C1"
+_cell_length_a       3.2144992665956926
+_cell_length_b       3.2099626064932387
+_cell_length_c       7.608115196228027
+_cell_angle_alpha    89.9996405044359
+_cell_angle_beta     90.03222050424341
+_cell_angle_gamma    90.04957601802768
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.5974461436271667  0.40531545877456665  0.4097694456577301  1.0000
+  Ta  Ta2       1.0  0.0978773683309555  0.904693067073822  0.6845527291297913  1.0000
+  Ta  Ta3       1.0  0.09785358607769012  0.9048086404800416  0.18964815139770508  1.0000
+  Nb  Nb1       1.0  0.5975466370582581  0.404750794172287  0.9655902981758118  1.0000
+  C   C1        1.0  0.5979551672935486  0.40489324927330017  0.6851665377616882  1.0000

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_SrCa3CuP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22048902
+_cell_length_b   6.93013965
+_cell_length_c   6.94019978
+_cell_angle_alpha   92.57784172
+_cell_angle_beta   99.43801937
+_cell_angle_gamma   96.03185574
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCa3CuP2
+_chemical_formula_sum   'Sr1 Ca3 Cu1 P2'
+_cell_volume   198.73380157
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.56816806  0.61554071  0.82942712  1
+  Ca  Ca1  1  0.89887845  1.06764630  0.07825277  1
+  Ca  Ca2  1  0.59570821  0.12062790  0.51204541  1
+  Ca  Ca3  1  0.06435499  0.59927805  0.34521631  1
+  Cu  Cu4  1  0.30876061  0.19460772  0.84641983  1
+  P  P5  1  0.47214037  0.35171206  0.15952337  1
+  P  P6  1  0.09318492  0.89768000  0.68980487  1

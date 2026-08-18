@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ErTeCuErTe2CuTe
+_chemical_formula_sum              "Er2 Te4 Cu2"
+_cell_length_a       4.808240687796155
+_cell_length_b       6.833602261349366
+_cell_length_c       6.829199314117432
+_cell_angle_alpha    89.93351060870165
+_cell_angle_beta     89.98065257733296
+_cell_angle_gamma    90.02347786466882
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.26980000734329224  0.49538195133209234  0.23470336198806763  1.0000
+  Te  Te1       1.0  0.7916855216026306  0.6945408582687378  0.4342990517616272  1.0000
+  Cu  Cu1       1.0  0.0639573484659195  0.49519482254981995  0.7351858019828796  1.0000
+  Er  Er2       1.0  0.8611020445823669  0.9954066276550293  0.7346656918525696  1.0000
+  Te  Te2       1.0  0.7908656597137451  0.2959403693675995  0.03560944274067879  1.0000
+  Te  Te3       1.0  0.3364492952823639  0.7963826060295105  0.9339070320129395  1.0000
+  Cu  Cu2       1.0  0.06277855485677719  0.9952204823493958  0.23500749468803406  1.0000
+  Te  Te4       1.0  0.3382573127746582  0.1942739337682724  0.5359011292457581  1.0000

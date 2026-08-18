@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaCa2Se2TeSe2
+_chemical_formula_sum              "Na1 Ca2 Se4 Te1"
+_cell_length_a       5.8731899743017015
+_cell_length_b       5.897018116679981
+_cell_length_c       7.16417932510376
+_cell_angle_alpha    112.93976627430311
+_cell_angle_beta     113.07724517862151
+_cell_angle_gamma    89.99609467685438
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9244478344917297  0.4602169394493103  0.7570830583572389  1.0000
+  Ca  Ca1       1.0  0.6750935316085815  0.7106260657310485  0.25954818725585943  1.0000
+  Ca  Ca2       1.0  0.17457564175128937  0.2103394418954849  0.25845980644226074  1.0000
+  Se  Se1       1.0  0.4237108826637268  0.4604944586753845  0.759420931339264  1.0000
+  Se  Se2       1.0  0.6618977189064026  0.19833432137966153  0.2333145737648011  1.0000
+  Te  Te1       1.0  0.4251728057861328  0.9612544775009155  0.7584749460220338  1.0000
+  Se  Se3       1.0  0.18786001205444336  0.7228481769561768  0.2842872142791749  1.0000
+  Se  Se4       1.0  0.9251542687416077  0.9610747694969177  0.7596496343612673  1.0000

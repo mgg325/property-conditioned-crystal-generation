@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Au2Hf2Au2
+_chemical_formula_sum              "Au4 Hf2"
+_cell_length_a       3.4748855304969006
+_cell_length_b       4.717862398731605
+_cell_length_c       7.026957035064697
+_cell_angle_alpha    89.40106999628001
+_cell_angle_beta     102.37552021001355
+_cell_angle_gamma    89.78342405602457
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.08667344599962234  0.5081093311309814  0.0979344993829727  1.0000
+  Au  Au2       1.0  0.29802608489990234  0.005377054214477539  0.5241659283638  1.0000
+  Hf  Hf1       1.0  0.7540136575698853  0.5106847882270813  0.43561029434204096  1.0000
+  Hf  Hf2       1.0  0.9600763320922852  0.009336723946034908  0.8527470231056212  1.0000
+  Au  Au3       1.0  0.625990092754364  0.007043102756142616  0.18640197813510892  1.0000
+  Au  Au4       1.0  0.41598933935165405  0.506865382194519  0.7624201774597167  1.0000

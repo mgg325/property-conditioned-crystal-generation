@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ce2Hg3TmHg2
+_chemical_formula_sum              "Ce2 Hg5 Tm1"
+_cell_length_a       5.049984012401962
+_cell_length_b       5.034765882645978
+_cell_length_c       8.698554992675781
+_cell_angle_alpha    104.80684867989773
+_cell_angle_beta     105.89759443063586
+_cell_angle_gamma    89.17543480940184
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.5559008717536926  0.43126288056373596  0.8514738082885742  1.0000
+  Ce  Ce2       1.0  0.03604179248213768  0.9093250632286072  0.8142306804656982  1.0000
+  Hg  Hg1       1.0  0.7943570613861084  0.6708207726478576  0.33372172713279724  1.0000
+  Hg  Hg2       1.0  0.17941445112228394  0.5564294457435608  0.10048334300518035  1.0000
+  Hg  Hg3       1.0  0.9115026593208313  0.2861957252025604  0.563775897026062  1.0000
+  Tm  Tm1       1.0  0.29745450615882874  0.17125393450260162  0.3348519206047058  1.0000
+  Hg  Hg4       1.0  0.6798030734062195  0.05356474593281746  0.10004273802042007  1.0000
+  Hg  Hg5       1.0  0.412924587726593  0.7855257987976073  0.5659553408622742  1.0000

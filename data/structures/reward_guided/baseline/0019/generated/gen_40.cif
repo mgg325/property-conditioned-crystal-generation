@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tm2ErTmPtErTmPt
+_chemical_formula_sum              "Tm4 Er2 Pt2"
+_cell_length_a       3.7235797784097873
+_cell_length_b       6.256048216383552
+_cell_length_c       9.12912654876709
+_cell_angle_alpha    91.66601536905787
+_cell_angle_beta     90.87796869017096
+_cell_angle_gamma    109.37788965017867
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.42524826526641846  0.9379980564117432  0.11081789433956146  1.0000
+  Tm  Tm2       1.0  0.6987395882606506  0.48319536447525024  0.6123929023742676  1.0000
+  Er  Er1       1.0  0.9920056462287903  0.07151737064123154  0.7989468574523926  1.0000
+  Tm  Tm3       1.0  0.697757363319397  0.48353144526481623  0.9852339029312134  1.0000
+  Pt  Pt1       1.0  0.8179885149002074  0.7246694564819335  0.3001343011856079  1.0000
+  Er  Er2       1.0  0.12878347933292386  0.3484224081039428  0.2998949885368347  1.0000
+  Tm  Tm4       1.0  0.4240415394306183  0.9367783069610596  0.4867435693740845  1.0000
+  Pt  Pt2       1.0  0.3042038083076477  0.6949828267097473  0.7987325191497803  1.0000

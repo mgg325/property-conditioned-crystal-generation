@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K2SbAuCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.76908459
+_cell_length_b   7.86433889
+_cell_length_c   7.67830946
+_cell_angle_alpha   109.09703026
+_cell_angle_beta   109.45465081
+_cell_angle_gamma   86.72343982
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2SbAuCl8
+_chemical_formula_sum   'K2 Sb1 Au1 Cl8'
+_cell_volume   417.29813565
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.52885804  0.88071994  0.32190143  1
+  K  K1  1  0.01986660  0.37979489  0.31989944  1
+  Sb  Sb2  1  0.77484223  0.63099701  0.82099389  1
+  Au  Au3  1  0.27497903  0.13070138  0.82161259  1
+  Cl  Cl4  1  0.46743050  0.64320883  0.60113883  1
+  Cl  Cl5  1  0.64893724  0.51188495  0.01548444  1
+  Cl  Cl6  1  0.90100667  0.75010545  0.62674860  1
+  Cl  Cl7  1  0.78972276  0.32573228  0.60923259  1
+  Cl  Cl8  1  0.75965081  0.93630088  0.03255389  1
+  Cl  Cl9  1  0.22774014  0.08325900  0.50164913  1
+  Cl  Cl10  1  0.08212946  0.61858505  0.04101903  1
+  Cl  Cl11  1  0.32216068  0.17824248  0.14157593  1

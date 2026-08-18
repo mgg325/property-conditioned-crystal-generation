@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BePN3ClF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98888779
+_cell_length_b   6.18163443
+_cell_length_c   6.28518486
+_cell_angle_alpha   61.70716476
+_cell_angle_beta   61.20592880
+_cell_angle_gamma   62.18744659
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BePN3ClF6
+_chemical_formula_sum   'Be1 P1 N3 Cl1 F6'
+_cell_volume   142.26341775
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.36332819  0.01821232  0.98198223  1
+  F  F1  1  0.25927508  0.55545783  0.93106151  1
+  F  F2  1  0.21150020  0.57831925  0.53195071  1
+  F  F3  1  0.18121997  0.58846164  0.90485203  1
+  N  N4  1  0.54976088  0.51927471  0.42543665  1
+  N  N5  1  0.50030488  0.15014175  0.39603004  1
+  Be  Be6  1  0.74543035  0.06725627  0.00690314  1
+  P  P7  1  0.27730155  0.30786383  0.81992584  1
+  N  N8  1  0.51614016  0.54292762  0.92966264  1
+  Cl  Cl9  1  0.31311190  0.03445643  0.96653545  1
+  F  F10  1  0.85804820  0.97650707  0.10628033  1
+  F  F11  1  0.29627520  0.41766608  0.49995410  1

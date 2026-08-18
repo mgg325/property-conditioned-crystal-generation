@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaBrClF9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71971941
+_cell_length_b   6.39417839
+_cell_length_c   8.17797089
+_cell_angle_alpha   111.00699615
+_cell_angle_beta   112.78813171
+_cell_angle_gamma   91.43192291
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaBrClF9
+_chemical_formula_sum   'Na1 Br1 Cl1 F9'
+_cell_volume   252.71189380
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.23753211  0.91912007  0.31509948  1
+  F  F1  1  0.02114680  0.86148202  0.50211412  1
+  F  F2  1  0.40512526  0.14045373  0.48880723  1
+  Na  Na3  1  0.85780931  0.24114120  0.80531979  1
+  F  F4  1  0.54167944  0.65458119  0.47392860  1
+  F  F5  1  0.60532033  0.39812535  0.04597959  1
+  F  F6  1  0.92983729  0.14661336  0.94903767  1
+  F  F7  1  0.26737750  0.78574860  0.08835545  1
+  Br  Br8  1  0.78240156  0.56586611  0.33521256  1
+  F  F9  1  0.98068404  0.43101409  0.50382078  1
+  F  F10  1  0.19871652  0.13884687  0.96500623  1
+  F  F11  1  0.78344560  0.66391993  0.07912549  1

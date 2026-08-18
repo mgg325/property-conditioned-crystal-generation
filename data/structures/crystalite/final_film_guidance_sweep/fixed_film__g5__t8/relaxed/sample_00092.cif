@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CsK2GaTe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.16222923
+_cell_length_b   6.59310456
+_cell_length_c   7.21941009
+_cell_angle_alpha   53.00936215
+_cell_angle_beta   54.97263255
+_cell_angle_gamma   51.45300374
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsK2GaTe
+_chemical_formula_sum   'Cs1 K2 Ga1 Te1'
+_cell_volume   201.86484084
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.57489496  0.08116099  0.69353566  1
+  K  K1  1  0.37370827  0.94980247  0.50688672  1
+  K  K2  1  1.02440275  0.51168236  0.09723591  1
+  Ga  Ga3  1  0.78656259  0.24591287  -0.02584402  1
+  Te  Te4  1  0.18969195  0.74971640  0.29306369  1

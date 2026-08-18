@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaPCuLaCuP
+_chemical_formula_sum              "Na1 P2 Cu2 La1"
+_cell_length_a       3.99718109609292
+_cell_length_b       3.9937789546445157
+_cell_length_c       8.09377384185791
+_cell_angle_alpha    89.08285147407689
+_cell_angle_beta     91.31756651294269
+_cell_angle_gamma    120.05654138226298
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.20574516057968137  0.7915903925895691  0.21998649835586548  1.0000
+  P   P1        1.0  0.5416394472122192  0.455812931060791  0.9599212408065796  1.0000
+  Cu  Cu1       1.0  0.8721949458122252  0.11929896473884583  0.9756327271461487  1.0000
+  La  La1       1.0  0.2053389400243759  0.7904187440872192  0.719213604927063  1.0000
+  Cu  Cu2       1.0  0.5414745211601257  0.4566018581390381  0.4619181454181671  1.0000
+  P   P2        1.0  0.8736259937286376  0.1239941567182541  0.4810824394226074  1.0000

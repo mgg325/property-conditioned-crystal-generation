@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_BaBiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.43935339
+_cell_length_b   4.41777347
+_cell_length_c   4.41069102
+_cell_angle_alpha   90.04932921
+_cell_angle_beta   89.96030058
+_cell_angle_gamma   89.99528607
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaBiO3
+_chemical_formula_sum   'Ba1 Bi1 O3'
+_cell_volume   86.50267341
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.81385591  0.14733610  0.13029157  1
+  Bi  Bi1  1  0.31136556  0.64769722  0.63100525  1
+  O  O2  1  0.30926825  0.14768571  0.63320279  1
+  O  O3  1  0.30634891  0.64383159  0.13131449  1
+  O  O4  1  0.81041173  0.65141389  0.63175748  1

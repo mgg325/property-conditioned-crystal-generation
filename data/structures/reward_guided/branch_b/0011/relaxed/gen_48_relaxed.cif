@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_NdGa2Cu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.13172665
+_cell_length_b   4.26051164
+_cell_length_c   9.22052615
+_cell_angle_alpha   89.98929846
+_cell_angle_beta   102.93642010
+_cell_angle_gamma   90.03234762
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdGa2Cu
+_chemical_formula_sum   'Nd2 Ga4 Cu2'
+_cell_volume   158.19176948
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.15064142  0.31381576  0.78480090  1
+  Nd  Nd1  1  0.37062224  0.81393669  0.22393148  1
+  Ga  Ga2  1  0.79658922  0.31386907  0.07471242  1
+  Ga  Ga3  1  0.72476827  0.81389746  0.93376956  1
+  Ga  Ga4  1  0.00965072  0.81412608  0.50364625  1
+  Ga  Ga5  1  0.51208513  0.31391335  0.50520788  1
+  Cu  Cu6  1  0.93184056  0.31390644  0.34413428  1
+  Cu  Cu7  1  0.58982091  0.81326832  0.66435353  1

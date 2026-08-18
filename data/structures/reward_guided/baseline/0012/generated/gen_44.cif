@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       YbSnRhSn3RhSn
+_chemical_formula_sum              "Yb1 Sn5 Rh2"
+_cell_length_a       4.274963996724867
+_cell_length_b       5.669893803489729
+_cell_length_c       7.976020336151123
+_cell_angle_alpha    90.00846510912007
+_cell_angle_beta     90.01471473344995
+_cell_angle_gamma    112.08208528774277
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.09873518347740173  0.5415766835212708  0.3771885335445404  1.0000
+  Sn  Sn1       1.0  0.6766281127929688  0.6973350048065186  0.669177770614624  1.0000
+  Rh  Rh1       1.0  0.8197296261787415  0.9825289249420166  0.3773483633995056  1.0000
+  Sn  Sn2       1.0  0.388938844203949  0.12204138934612274  0.5812612175941467  1.0000
+  Sn  Sn3       1.0  0.38890743255615234  0.12152557075023651  0.17321108281612396  1.0000
+  Sn  Sn4       1.0  0.9665051102638245  0.2762260437011719  0.8768288493156433  1.0000
+  Rh  Rh2       1.0  0.24105703830718994  0.8250178098678589  0.8773657083511353  1.0000
+  Sn  Sn5       1.0  0.676839292049408  0.6973643898963928  0.08522062003612518  1.0000

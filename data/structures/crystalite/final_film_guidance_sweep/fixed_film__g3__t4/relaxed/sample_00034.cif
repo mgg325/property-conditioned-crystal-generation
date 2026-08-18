@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_CsSi2AsO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12300106
+_cell_length_b   5.39950290
+_cell_length_c   8.69073843
+_cell_angle_alpha   91.25457024
+_cell_angle_beta   89.57593318
+_cell_angle_gamma   122.24838278
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsSi2AsO9
+_chemical_formula_sum   'Cs1 Si2 As1 O9'
+_cell_volume   203.26545093
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.24390512  0.87208312  0.06268719  1
+  Si  Si1  1  0.55752492  0.51451237  0.78599118  1
+  Si  Si2  1  0.30335149  0.51468933  0.45813105  1
+  As  As3  1  0.89901191  0.05336121  0.57339498  1
+  O  O4  1  0.65599036  0.78617958  0.43837052  1
+  O  O5  1  0.86697491  0.85080341  0.73043426  1
+  O  O6  1  0.96267317  0.20402079  0.18114141  1
+  O  O7  1  0.21901288  0.16357437  0.44249112  1
+  O  O8  1  0.26904495  0.45952843  0.66211929  1
+  O  O9  1  1.05842524  0.54158851  0.36382398  1
+  O  O10  1  0.65547346  0.26873018  0.76136413  1
+  O  O11  1  0.50182109  0.51523832  0.96121500  1
+  O  O12  1  0.71205008  0.25008940  0.58799401  1

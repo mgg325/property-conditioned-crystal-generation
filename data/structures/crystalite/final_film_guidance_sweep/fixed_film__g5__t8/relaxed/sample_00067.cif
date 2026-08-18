@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TlZn2GaRe2(BiSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07104562
+_cell_length_b   4.72737719
+_cell_length_c   11.86113050
+_cell_angle_alpha   89.47239525
+_cell_angle_beta   90.58164336
+_cell_angle_gamma   115.20765983
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlZn2GaRe2(BiSe2)2
+_chemical_formula_sum   'Tl1 Zn2 Ga1 Re2 Bi2 Se4'
+_cell_volume   206.51987337
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.64023905  0.49523443  0.65071714  1
+  Zn  Zn1  1  0.56420500  0.55108335  0.91972232  1
+  Zn  Zn2  1  0.59321497  0.46050983  0.47049007  1
+  Ga  Ga3  1  0.28137366  0.81783448  0.32019729  1
+  Re  Re4  1  -0.00467390  0.20772732  0.11030234  1
+  Re  Re5  1  0.96398618  0.20644385  0.66268214  1
+  Bi  Bi6  1  0.29272619  0.90248030  0.76825679  1
+  Bi  Bi7  1  0.99489254  0.19693948  0.65918459  1
+  Se  Se8  1  0.63340596  0.51817052  0.10137302  1
+  Se  Se9  1  0.96287045  0.30258220  0.38628896  1
+  Se  Se10  1  0.61682272  0.49716277  0.38811807  1
+  Se  Se11  1  0.90013031  0.22311348  0.90255316  1

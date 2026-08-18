@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2ZnIr
+_chemical_formula_sum              "Li2 Zn1 Ir1"
+_cell_length_a       3.148606284315336
+_cell_length_b       4.1169143224102065
+_cell_length_c       4.791990280151367
+_cell_angle_alpha    115.30424658209905
+_cell_angle_beta     107.81790985716896
+_cell_angle_gamma    89.73830340280152
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.29089078307151794  0.98841792345047  0.907374382019043  1.0000
+  Li  Li2       1.0  0.03287418559193611  0.2297446131706238  0.3909022808074951  1.0000
+  Zn  Zn1       1.0  0.7766656279563904  0.4772380292415619  0.883807897567749  1.0000
+  Ir  Ir1       1.0  0.533694863319397  0.7335068583488464  0.39600041508674616  1.0000

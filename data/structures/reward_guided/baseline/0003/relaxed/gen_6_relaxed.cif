@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaGaPb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05543000
+_cell_length_b   7.74115759
+_cell_length_c   8.50228327
+_cell_angle_alpha   89.97494115
+_cell_angle_beta   90.00724194
+_cell_angle_gamma   90.00033236
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaGaPb
+_chemical_formula_sum   'Na4 Ga4 Pb4'
+_cell_volume   332.73580381
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.59263607  0.24055374  0.06488026  1
+  Na  Na1  1  0.59272275  0.74112073  0.18852865  1
+  Na  Na2  1  0.09282202  0.22148348  0.68829609  1
+  Na  Na3  1  0.09278351  0.72132840  0.56455592  1
+  Ga  Ga4  1  0.09267551  0.42686936  0.28879620  1
+  Ga  Ga5  1  0.59250019  0.53442679  0.78897995  1
+  Ga  Ga6  1  0.59288957  0.03549532  0.46444182  1
+  Ga  Ga7  1  0.09293776  0.92762479  0.96425706  1
+  Pb  Pb8  1  0.59291555  0.91799676  0.78903319  1
+  Pb  Pb9  1  0.59271640  0.41878618  0.46404483  1
+  Pb  Pb10  1  0.09284057  0.04356447  0.28908886  1
+  Pb  Pb11  1  0.09254463  0.54407770  0.96409682  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K4SiP3S2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.21652987
+_cell_length_b   7.73937187
+_cell_length_c   9.00183203
+_cell_angle_alpha   116.65548887
+_cell_angle_beta   113.04653212
+_cell_angle_gamma   93.69676554
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K4SiP3S2
+_chemical_formula_sum   'K4 Si1 P3 S2'
+_cell_volume   340.65609872
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  1.08569868  0.98341586  0.62270216  1
+  K  K1  1  0.76307005  1.19354847  0.14396139  1
+  K  K2  1  0.54205618  0.45354297  0.52624689  1
+  K  K3  1  0.10049208  0.80709350  0.03425738  1
+  Si  Si4  1  0.43123687  0.61325327  0.86715116  1
+  P  P5  1  0.46138258  0.79597747  0.41222407  1
+  P  P6  1  0.41107012  0.53989516  0.17852843  1
+  P  P7  1  0.67085870  0.55410622  0.07364941  1
+  S  S8  1  0.22939242  0.24214827  0.08592513  1
+  S  S9  1  0.08985007  0.44926785  0.61997048  1

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ErBeAlNi2
+_chemical_formula_sum              "Er1 Be1 Al1 Ni2"
+_cell_length_a       3.7493880509508313
+_cell_length_b       3.6595603679145947
+_cell_length_c       5.870713233947754
+_cell_angle_alpha    106.92358582446371
+_cell_angle_beta     105.41690731810822
+_cell_angle_gamma    87.98461852744643
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.4018908143043518  0.7943848371505737  0.5198888182640076  1.0000
+  Be  Be1       1.0  0.7939198017120361  0.18626849353313446  0.29958096146583557  1.0000
+  Al  Al1       1.0  0.15149249136447906  0.04137025400996208  0.01622248627245426  1.0000
+  Ni  Ni1       1.0  0.0030992329120635956  0.39143490791320795  0.7162253260612488  1.0000
+  Ni  Ni2       1.0  0.6672717928886414  0.5539050102233887  0.040770791471004486  1.0000

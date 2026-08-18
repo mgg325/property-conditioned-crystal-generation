@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ScSnPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.26475133
+_cell_length_b   4.48668995
+_cell_length_c   6.65346338
+_cell_angle_alpha   89.98932624
+_cell_angle_beta   108.53841375
+_cell_angle_gamma   89.96164359
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScSnPd
+_chemical_formula_sum   'Sc2 Sn2 Pd2'
+_cell_volume   120.70533317
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.48013958  0.50023929  0.21856688  1
+  Sc  Sc1  1  0.26444431  0.99990480  0.79128623  1
+  Sn  Sn2  1  0.97654593  1.00057683  0.21009582  1
+  Sn  Sn3  1  0.76804381  0.49982781  0.79949590  1
+  Pd  Pd4  1  0.12237345  0.49997515  0.50643595  1
+  Pd  Pd5  1  0.62231380  1.00035517  0.50365825  1

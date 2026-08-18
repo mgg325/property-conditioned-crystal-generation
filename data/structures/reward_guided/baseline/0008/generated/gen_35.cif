@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       O2TaOTaO2F
+_chemical_formula_sum              "O5 Ta2 F1"
+_cell_length_a       3.8192300375082815
+_cell_length_b       4.010334574051146
+_cell_length_c       8.496722221374512
+_cell_angle_alpha    103.62753402991203
+_cell_angle_beta     89.95553797202662
+_cell_angle_gamma    89.98834337196305
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.1880340725183487  0.7918564081192017  0.8457184433937073  1.0000
+  O   O2        1.0  0.18725058436393738  0.5457028746604919  0.3509356379508972  1.0000
+  Ta  Ta1       1.0  0.1872704029083252  0.6884126067161559  0.6375330686569214  1.0000
+  O   O3        1.0  0.6870985627174377  0.015345888212323189  0.2934350371360779  1.0000
+  Ta  Ta2       1.0  0.6871764063835144  0.5075430274009705  0.27926889061927795  1.0000
+  O   O4        1.0  0.6869716644287109  0.4034978747367859  0.06506086885929108  1.0000
+  O   O5        1.0  0.6876022815704346  0.6565050482749939  0.5752145648002625  1.0000
+  F   F1        1.0  0.18717944622039795  0.17628593742847443  0.6143605709075928  1.0000

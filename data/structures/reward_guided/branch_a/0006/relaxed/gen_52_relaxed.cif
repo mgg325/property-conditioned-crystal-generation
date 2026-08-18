@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_K3Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.38638307
+_cell_length_b   7.38727384
+_cell_length_c   7.38522795
+_cell_angle_alpha   89.73558800
+_cell_angle_beta   89.78580737
+_cell_angle_gamma   89.78258920
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Hg
+_chemical_formula_sum   'K6 Hg2'
+_cell_volume   402.96671238
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.53374056  0.29430462  0.63044233  1
+  K  K1  1  0.53502211  0.29693060  0.12965870  1
+  K  K2  1  0.03323161  0.54670471  0.88192713  1
+  K  K3  1  0.03418202  0.04621373  0.88043168  1
+  K  K4  1  0.78243166  0.79635205  0.38130334  1
+  K  K5  1  0.28388634  0.79382375  0.38315692  1
+  Hg  Hg6  1  0.03290524  0.29515653  0.38224928  1
+  Hg  Hg7  1  0.53315699  0.79436064  0.88115957  1

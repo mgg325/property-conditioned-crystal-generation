@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CsTlCl2
+_chemical_formula_sum              "Cs1 Tl1 Cl2"
+_cell_length_a       3.949110510991783
+_cell_length_b       3.9949322798246114
+_cell_length_c       8.007647514343262
+_cell_angle_alpha    90.4528850296521
+_cell_angle_beta     90.5610137328678
+_cell_angle_gamma    90.9833243147659
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.5356950163841248  0.6846445202827454  0.3943920135498047  1.0000
+  Tl  Tl1       1.0  0.53777676820755  0.6856633424758911  0.8928844332695007  1.0000
+  Cl  Cl1       1.0  0.03733012080192566  0.18538729846477509  0.13175079226493835  1.0000
+  Cl  Cl2       1.0  0.036422647535800934  0.1856461763381958  0.6556397080421448  1.0000

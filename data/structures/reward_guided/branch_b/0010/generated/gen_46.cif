@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sr3GeHg2
+_chemical_formula_sum              "Sr3 Ge1 Hg2"
+_cell_length_a       3.894389749979548
+_cell_length_b       3.9135888443271063
+_cell_length_c       11.666756629943848
+_cell_angle_alpha    89.61460225278098
+_cell_angle_beta     90.94475425540247
+_cell_angle_gamma    91.25236554221583
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.5737821459770203  0.10239910334348679  0.6107417941093445  1.0000
+  Sr  Sr2       1.0  0.5721495747566223  0.10400161147117613  0.9565576314926147  1.0000
+  Sr  Sr3       1.0  0.5739210844039917  0.10283266752958298  0.26814278960227966  1.0000
+  Ge  Ge1       1.0  0.07472369819879532  0.6049181222915649  0.11224108934402466  1.0000
+  Hg  Hg1       1.0  0.07441015541553497  0.6039426922798157  0.7822986841201782  1.0000
+  Hg  Hg2       1.0  0.07376977056264877  0.6051667332649231  0.4420837461948395  1.0000

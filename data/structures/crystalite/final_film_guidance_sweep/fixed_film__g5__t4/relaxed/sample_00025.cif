@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Cs2RbNaSrCaSe(O2F)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.04526068
+_cell_length_b   7.48737127
+_cell_length_c   15.72149527
+_cell_angle_alpha   91.74797619
+_cell_angle_beta   76.99485807
+_cell_angle_gamma   62.11653362
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2RbNaSrCaSe(O2F)3
+_chemical_formula_sum   'Cs2 Rb1 Na1 Sr1 Ca1 Se1 O6 F3'
+_cell_volume   204.75154883
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.43576126  0.33720449  0.90936583  1
+  Cs  Cs1  1  0.69433675  0.39544450  0.98635460  1
+  Rb  Rb2  1  0.16541602  0.39000934  0.86671673  1
+  Na  Na3  1  0.30504138  0.32605609  0.86081633  1
+  Sr  Sr4  1  1.07175883  0.33285705  0.36405645  1
+  Ca  Ca5  1  0.81957426  0.39743110  0.78069714  1
+  Se  Se6  1  0.97372075  0.44055674  0.41314465  1
+  O  O7  1  0.55527965  0.58476993  0.62213910  1
+  O  O8  1  0.49905059  0.42729898  0.51517348  1
+  O  O9  1  0.61546506  0.40044689  0.96883615  1
+  O  O10  1  0.36380567  0.51725535  0.34957143  1
+  O  O11  1  0.26395094  0.90980377  0.87322891  1
+  O  O12  1  0.39480074  0.48507544  0.47853016  1
+  F  F13  1  0.14698885  0.65882814  0.44410828  1
+  F  F14  1  1.02858145  0.44780168  0.88249973  1
+  F  F15  1  0.45101674  0.44984650  0.49634981  1

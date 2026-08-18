@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Cd2SNaS
+_chemical_formula_sum              "Cd2 S2 Na1"
+_cell_length_a       4.462844771058578
+_cell_length_b       4.463123655684374
+_cell_length_c       6.738833427429199
+_cell_angle_alpha    89.9133615474455
+_cell_angle_beta     90.02423601621828
+_cell_angle_gamma    119.8965961365504
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.2905538082122803  0.31156301498413086  0.4036422669887543  1.0000
+  Cd  Cd2       1.0  0.9584120512008667  0.6531228423118592  0.723164439201355  1.0000
+  S   S1        1.0  0.29221901297569275  0.31660109758377075  0.8091470003128052  1.0000
+  Na  Na1       1.0  0.6257444024086  0.9821086525917054  0.0638691857457161  1.0000
+  S   S2        1.0  0.9578549861907959  0.647140383720398  0.3170012831687927  1.0000

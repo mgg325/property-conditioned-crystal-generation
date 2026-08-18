@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_BaNF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.60560635
+_cell_length_b   4.89153169
+_cell_length_c   9.87766064
+_cell_angle_alpha   78.75767166
+_cell_angle_beta   80.12747936
+_cell_angle_gamma   85.52639263
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNF3
+_chemical_formula_sum   'Ba1 N1 F3'
+_cell_volume   214.79763036
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.26685825  0.89741512  0.72209310  1
+  N  N1  1  0.45234328  0.79434247  0.12329742  1
+  F  F2  1  0.13488135  0.36798342  0.85683482  1
+  F  F3  1  0.79704722  0.92727469  0.63550037  1
+  F  F4  1  0.30117702  0.42322958  0.64439471  1

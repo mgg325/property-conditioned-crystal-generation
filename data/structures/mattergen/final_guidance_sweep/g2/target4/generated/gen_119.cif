@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SrHgAsSeHgSeAsSr
+_chemical_formula_sum              "Sr2 Hg2 As2 Se2"
+_cell_length_a       4.289558593380107
+_cell_length_b       4.275798374274337
+_cell_length_c       12.436066627502441
+_cell_angle_alpha    90.16922728290243
+_cell_angle_beta     91.50187910800568
+_cell_angle_gamma    90.11132092207741
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.3216802775859833  0.12705916166305542  0.10321543365716933  1.0000
+  Hg  Hg1       1.0  0.552773654460907  0.12774783372879028  0.39241772890090937  1.0000
+  As  As1       1.0  0.8248542547225952  0.12808270752429962  0.849438726902008  1.0000
+  Se  Se1       1.0  0.8304277062416077  0.6275197267532349  0.1959738880395889  1.0000
+  Hg  Hg2       1.0  0.07048297673463821  0.6274664402008057  0.45440766215324396  1.0000
+  Se  Se2       1.0  0.8204776048660278  0.12662695348262787  0.6505272388458252  1.0000
+  As  As2       1.0  0.8212125897407532  0.6267575621604919  0.9964473843574523  1.0000
+  Sr  Sr2       1.0  0.32288065552711487  0.6266164183616638  0.7441639900207518  1.0000

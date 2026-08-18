@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_AcU2Tc7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   1.20485854
+_cell_length_b   4.99093437
+_cell_length_c   8.70292664
+_cell_angle_alpha   71.75953674
+_cell_angle_beta   105.42926788
+_cell_angle_gamma   54.93376923
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcU2Tc7
+_chemical_formula_sum   'Ac1 U2 Tc7'
+_cell_volume   33.32493335
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.98277509  0.65994751  0.72827917  1
+  Tc  Tc1  1  0.94994783  0.33016914  0.98938286  1
+  Tc  Tc2  1  0.61126226  0.23497233  0.29196441  1
+  Tc  Tc3  1  0.11770818  0.26372769  0.41911852  1
+  Tc  Tc4  1  0.32098034  0.97919464  0.84062898  1
+  Tc  Tc5  1  0.32454458  0.50881875  0.12712112  1
+  U  U6  1  0.86833274  0.79699725  0.39354864  1
+  Tc  Tc7  1  0.69406635  0.29679856  0.67161286  1
+  U  U8  1  0.34006891  0.76556158  0.42172331  1
+  Tc  Tc9  1  0.66938406  0.86613637  0.05538031  1

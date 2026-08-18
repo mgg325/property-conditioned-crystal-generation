@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Hf3CuGe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89549700
+_cell_length_b   8.48428092
+_cell_length_c   7.59818460
+_cell_angle_alpha   99.10398297
+_cell_angle_beta   90.00046510
+_cell_angle_gamma   89.99988610
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf3CuGe3
+_chemical_formula_sum   'Hf6 Cu2 Ge6'
+_cell_volume   247.96027717
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.26196720  0.94283052  0.21243192  1
+  Hf  Hf1  1  0.26190080  0.65256994  0.77906627  1
+  Hf  Hf2  1  0.76180537  0.70224338  0.42522532  1
+  Hf  Hf3  1  0.76191223  0.98845433  0.83930426  1
+  Hf  Hf4  1  0.76195464  0.41264759  0.99178296  1
+  Hf  Hf5  1  0.26192394  0.36682193  0.36479496  1
+  Cu  Cu6  1  0.76189556  0.09530428  0.50285007  1
+  Cu  Cu7  1  0.26195718  0.25861951  0.70044690  1
+  Ge  Ge8  1  0.26174680  0.18706955  0.99164846  1
+  Ge  Ge9  1  0.76177715  0.75283224  0.03479840  1
+  Ge  Ge10  1  0.76193107  0.43491633  0.62557094  1
+  Ge  Ge11  1  0.76184723  0.16826509  0.21225012  1
+  Ge  Ge12  1  0.26193944  0.91991549  0.57890465  1
+  Ge  Ge13  1  0.26195521  0.60263243  0.16958009  1

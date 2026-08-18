@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cs2ErSmO4
+_chemical_formula_sum              "Cs2 Er1 Sm1 O4"
+_cell_length_a       3.5912548629980194
+_cell_length_b       6.112159217764193
+_cell_length_c       7.110382556915283
+_cell_angle_alpha    105.79264984756256
+_cell_angle_beta     88.516219109369
+_cell_angle_gamma    89.56054809187728
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.4882118701934815  0.21354374289512634  0.5845538973808289  1.0000
+  Cs  Cs2       1.0  0.9897930026054383  0.7175701260566711  0.5857750177383423  1.0000
+  Er  Er1       1.0  0.48922413587570196  0.7143267989158631  0.08673420548439026  1.0000
+  Sm  Sm1       1.0  0.9896996617317201  0.21621163189411166  0.08186767250299454  1.0000
+  O   O1        1.0  0.49203541874885565  0.9859592914581299  0.9195636510848999  1.0000
+  O   O2        1.0  0.9902458786964418  0.50028395652771  0.9188899993896484  1.0000
+  O   O3        1.0  0.9897558689117433  0.9302946329116821  0.2487592101097107  1.0000
+  O   O4        1.0  0.491253674030304  0.44410476088523865  0.2501007616519928  1.0000

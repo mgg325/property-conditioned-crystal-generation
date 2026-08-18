@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ba2NaMg2GeCBrN7F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   1.80583151
+_cell_length_b   4.17134492
+_cell_length_c   10.73886208
+_cell_angle_alpha   101.19195351
+_cell_angle_beta   91.12147817
+_cell_angle_gamma   94.76643197
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2NaMg2GeCBrN7F
+_chemical_formula_sum   'Ba2 Na1 Mg2 Ge1 C1 Br1 N7 F1'
+_cell_volume   79.02754943
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.83415360  0.76206626  0.43393675  1
+  Ba  Ba1  1  0.78402203  0.69345456  0.90918484  1
+  Na  Na2  1  0.31923757  0.23588836  0.97036895  1
+  Mg  Mg3  1  0.31561549  0.25795588  0.73725246  1
+  Mg  Mg4  1  0.32634599  0.24879741  0.30979202  1
+  Ge  Ge5  1  0.34708737  0.65060996  0.65197358  1
+  C  C6  1  0.81283089  0.19325928  0.85620958  1
+  Br  Br7  1  0.29968995  0.76206939  0.13444210  1
+  N  N8  1  0.82127872  0.20618964  0.36509253  1
+  N  N9  1  0.83209013  0.22935650  0.25436195  1
+  N  N10  1  0.80581660  0.24284295  0.10068170  1
+  N  N11  1  0.80457073  0.27051995  0.62332581  1
+  N  N12  1  0.36212502  0.71384043  0.28824225  1
+  N  N13  1  0.33302408  0.66265911  0.61587815  1
+  N  N14  1  0.33503945  0.65989189  0.62389945  1
+  F  F15  1  0.81913380  0.21395374  0.28208838  1

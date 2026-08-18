@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Pr2BiSeSO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.13302107
+_cell_length_b   4.88219323
+_cell_length_c   8.07069368
+_cell_angle_alpha   98.93835249
+_cell_angle_beta   76.14062556
+_cell_angle_gamma   89.13209496
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2BiSeSO
+_chemical_formula_sum   'Pr2 Bi1 Se1 S1 O1'
+_cell_volume   155.95788856
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.78523237  0.08582980  0.80194211  1
+  Pr  Pr1  1  0.48920823  0.84588859  0.38317179  1
+  Bi  Bi2  1  1.08502862  0.27821796  0.18059180  1
+  Se  Se3  1  0.92844202  0.49896811  0.53598861  1
+  S  S4  1  0.70345519  0.63726716  1.00655599  1
+  O  O5  1  0.35095512  0.02633908  0.67159927  1

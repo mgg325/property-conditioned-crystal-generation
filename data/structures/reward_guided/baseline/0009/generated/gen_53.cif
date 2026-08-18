@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       SnTlHg2SnIn2HgTl2
+_chemical_formula_sum              "Sn2 Tl3 Hg3 In2"
+_cell_length_a       5.619499716318708
+_cell_length_b       6.2560833275349
+_cell_length_c       8.991096496582031
+_cell_angle_alpha    99.5984879264143
+_cell_angle_beta     108.1141833409847
+_cell_angle_gamma    89.97221049627163
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.9156521558761597  0.253797322511673  0.986164927482605  1.0000
+  Tl  Tl1       1.0  0.7106454372406006  0.6531398296356201  0.5727912187576294  1.0000
+  Hg  Hg1       1.0  0.10903141647577286  0.6070011854171753  0.36332258582115173  1.0000
+  Hg  Hg2       1.0  0.7193523049354553  0.15795306861400604  0.595905065536499  1.0000
+  Sn  Sn2       1.0  0.9174253344535828  0.7549678683280945  0.9899516701698303  1.0000
+  In  In1       1.0  0.3156048655509949  0.20212849974632263  0.7882096767425537  1.0000
+  In  In2       1.0  0.49978718161582947  0.5451633334159851  0.15077273547649384  1.0000
+  Hg  Hg3       1.0  0.31233227252960205  0.7015193104743958  0.7810006737709045  1.0000
+  Tl  Tl2       1.0  0.5072000622749329  0.048168763518333435  0.16842526197433472  1.0000
+  Tl  Tl3       1.0  0.1182064563035965  0.1119224801659584  0.3912619948387146  1.0000

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CaSnTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.36776638
+_cell_length_b   5.36380148
+_cell_length_c   6.49738979
+_cell_angle_alpha   64.43177795
+_cell_angle_beta   68.80958557
+_cell_angle_gamma   90.21029663
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaSnTe2
+_chemical_formula_sum   'Ca1 Sn1 Te2'
+_cell_volume   125.70031975
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.65251797  0.99122715  0.12352848  1
+  Te  Te1  1  0.25384694  0.56895494  0.11908343  1
+  Ca  Ca2  1  0.96885860  0.76254213  0.61530268  1
+  Sn  Sn3  1  0.34741339  0.24440360  0.60347301  1

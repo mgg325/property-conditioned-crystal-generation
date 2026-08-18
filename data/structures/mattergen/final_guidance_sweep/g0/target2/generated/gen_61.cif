@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       NaHOHONa2OH
+_chemical_formula_sum              "Na3 H3 O3"
+_cell_length_a       3.4232935581808546
+_cell_length_b       3.3966341665550472
+_cell_length_c       8.915513038635254
+_cell_angle_alpha    90.06174057704585
+_cell_angle_beta     78.95079898374323
+_cell_angle_gamma    90.02028133632516
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.29609939455986023  0.8050900697708129  0.6840309500694275  1.0000
+  H   H1        1.0  0.927737057209015  0.8017981648445128  0.42261365056037903  1.0000
+  O   O1        1.0  0.8107681274414064  0.30580198764801025  0.65375816822052  1.0000
+  H   H2        1.0  0.6977304816246033  0.2985931038856506  0.8804218769073486  1.0000
+  O   O2        1.0  0.9843165874481202  0.7991877198219298  0.3064466118812561  1.0000
+  Na  Na2       1.0  0.5016586184501648  0.2989806830883026  0.27032470703125  1.0000
+  Na  Na3       1.0  0.11500840634107591  0.7978037595748901  0.04551936313509941  1.0000
+  O   O3        1.0  0.6388633251190186  0.2980354428291321  0.9974128603935242  1.0000
+  H   H3        1.0  0.8671768307685853  0.3023297190666198  0.5405833721160889  1.0000

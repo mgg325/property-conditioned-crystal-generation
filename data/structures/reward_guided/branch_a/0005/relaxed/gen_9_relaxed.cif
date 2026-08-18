@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_ScZn3Cd2Ag
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.36065761
+_cell_length_b   5.35286377
+_cell_length_c   6.13765625
+_cell_angle_alpha   90.71194156
+_cell_angle_beta   89.99271906
+_cell_angle_gamma   114.02892977
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScZn3Cd2Ag
+_chemical_formula_sum   'Sc1 Zn3 Cd2 Ag1'
+_cell_volume   130.83783305
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.22092612  0.55244195  0.33936022  1
+  Zn  Zn1  1  0.63211290  0.37458279  0.62538522  1
+  Zn  Zn2  1  0.80304056  0.71605142  0.03548568  1
+  Zn  Zn3  1  0.36021379  0.83054391  0.79429173  1
+  Cd  Cd4  1  0.51896936  0.14847230  0.17785198  1
+  Cd  Cd5  1  0.91771871  0.94723169  0.49484496  1
+  Ag  Ag6  1  0.09277946  0.29574212  0.87974336  1

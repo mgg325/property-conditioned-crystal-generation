@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Li2CsOCsO2
+_chemical_formula_sum              "Li2 Cs2 O3"
+_cell_length_a       3.8254850936032563
+_cell_length_b       3.8246015337885253
+_cell_length_c       10.73622983607203
+_cell_angle_alpha    79.76813429772017
+_cell_angle_beta     79.77410838424554
+_cell_angle_gamma    60.052431355491564
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9243308130380475  0.7031047084256004  0.8153240974650485  1.0000
+  Li  Li2       1.0  0.6369709860019964  0.4156008111849044  0.6764217219667803  1.0000
+  Cs  Cs1       1.0  0.17606243783771938  0.9537338751996414  0.06765327298616898  1.0000
+  O   O1        1.0  0.9842950180102529  0.7627803866166195  0.6336150545859804  1.0000
+  Cs  Cs2       1.0  0.3897429606740923  0.16731764489996406  0.42431272846678136  1.0000
+  O   O2        1.0  0.5776625529728772  0.3549922981732085  0.8584064339727303  1.0000
+  O   O3        1.0  0.7825592236453325  0.5600058755795859  0.24593790815325245  1.0000

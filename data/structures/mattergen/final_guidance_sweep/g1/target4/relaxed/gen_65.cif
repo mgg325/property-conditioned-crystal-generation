@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AgClBiCl3
+_chemical_formula_sum              "Ag1 Cl4 Bi1"
+_cell_length_a       4.006330664507344
+_cell_length_b       7.295260340887011
+_cell_length_c       6.802143378167575
+_cell_angle_alpha    85.25174972469415
+_cell_angle_beta     90.02741449700683
+_cell_angle_gamma    89.98058880478605
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.9362584033835089  0.7766102524136633  0.23623374852957324  1.0000
+  Cl  Cl1       1.0  0.43604062567995017  0.5874578446571654  0.43231215571077924  1.0000
+  Bi  Bi1       1.0  0.43593488528888197  0.2763449730384469  0.23693671815323572  1.0000
+  Cl  Cl2       1.0  0.43617523914268264  0.9659581097644756  0.04038437292227661  1.0000
+  Cl  Cl3       1.0  0.9357596658534474  0.4245371230418885  0.9924249274982511  1.0000
+  Cl  Cl4       1.0  0.936279197675459  0.12798243599178846  0.4814207150616822  1.0000

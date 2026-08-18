@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LuMnTeSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28527378
+_cell_length_b   4.22197203
+_cell_length_c   6.83634445
+_cell_angle_alpha   91.21554211
+_cell_angle_beta   89.31763119
+_cell_angle_gamma   119.48525516
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuMnTeSe
+_chemical_formula_sum   'Lu1 Mn1 Te1 Se1'
+_cell_volume   107.64143835
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.96007197  0.03581504  -0.01665610  1
+  Mn  Mn1  1  0.28620061  0.68956880  0.63129339  1
+  Te  Te2  1  0.29976613  0.71118438  0.24838869  1
+  Se  Se3  1  0.62961836  0.36189979  0.76012050  1

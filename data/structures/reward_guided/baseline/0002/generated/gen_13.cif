@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       YMgYIr2
+_chemical_formula_sum              "Y2 Mg1 Ir2"
+_cell_length_a       4.301466358423222
+_cell_length_b       5.555762810985935
+_cell_length_c       5.557510852813721
+_cell_angle_alpha    64.39181309322288
+_cell_angle_beta     67.20548078997996
+_cell_angle_gamma    67.17242228200033
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.1361202895641327  0.3245454430580139  0.8856225609779358  1.0000
+  Mg  Mg1       1.0  0.9305020570755004  0.029654614627361294  0.5911721587181091  1.0000
+  Y   Y2        1.0  0.7249242067337036  0.7348951101303101  0.2966153919696808  1.0000
+  Ir  Ir1       1.0  0.43052402138710016  0.3073726296424865  0.3130880892276764  1.0000
+  Ir  Ir2       1.0  0.4305898249149322  0.7522226572036743  0.8689677715301514  1.0000

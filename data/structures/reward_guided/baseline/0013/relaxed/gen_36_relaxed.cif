@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LaSbO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.20501535
+_cell_length_b   5.58031542
+_cell_length_c   7.34055247
+_cell_angle_alpha   90.11666954
+_cell_angle_beta   106.69674592
+_cell_angle_gamma   89.99992404
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaSbO3
+_chemical_formula_sum   'La2 Sb2 O6'
+_cell_volume   164.98578627
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.87454545  0.44392793  0.04500054  1
+  La  La1  1  0.51402345  0.94510699  0.32316715  1
+  Sb  Sb2  1  0.26555444  0.94469841  0.82805123  1
+  Sb  Sb3  1  0.12297107  0.44473875  0.54000223  1
+  O  O4  1  0.77864003  0.94673724  0.85409331  1
+  O  O5  1  0.01850857  0.69742766  0.33193160  1
+  O  O6  1  0.36996762  0.69195625  0.03604670  1
+  O  O7  1  0.01833217  0.19138499  0.33156533  1
+  O  O8  1  0.60972537  0.44349743  0.51363992  1
+  O  O9  1  0.37025270  0.19791294  0.03662465  1

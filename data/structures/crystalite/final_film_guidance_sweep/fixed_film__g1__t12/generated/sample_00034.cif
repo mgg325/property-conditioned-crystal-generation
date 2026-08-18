@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_NaSi3Te8As
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.12301588
+_cell_length_b   7.20566130
+_cell_length_c   8.87598133
+_cell_angle_alpha   90.18630219
+_cell_angle_beta   90.15549469
+_cell_angle_gamma   119.69760895
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSi3Te8As
+_chemical_formula_sum   'Na1 Si3 Te8 As1'
+_cell_volume   395.72398806
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.36288068  0.88044536  0.11342287  1
+  Te  Te1  1  0.07000589  0.66265935  0.22784728  1
+  As  As2  1  0.80715024  0.26960254  0.89305401  1
+  Te  Te3  1  0.26824322  0.92820454  0.78759658  1
+  Te  Te4  1  0.70371205  0.87916392  0.14680430  1
+  Si  Si5  1  0.46899056  0.59419417  0.79661882  1
+  Si  Si6  1  0.15631914  0.05035907  0.25175798  1
+  Te  Te7  1  0.08575836  0.36334378  0.72750151  1
+  Te  Te8  1  0.03919119  0.26024401  0.30120659  1
+  Te  Te9  1  0.46313730  0.33790237  0.10793984  1
+  Te  Te10  1  0.76504529  0.70685595  0.73332715  1
+  Na  Na11  1  0.60416591  0.58635628  0.42748290  1
+  Te  Te12  1  0.60396457  0.12372574  0.62633198  1

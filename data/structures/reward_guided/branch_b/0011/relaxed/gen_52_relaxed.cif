@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiErAgPbCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.95670493
+_cell_length_b   6.95695141
+_cell_length_c   7.48655162
+_cell_angle_alpha   62.44729376
+_cell_angle_beta   62.27567034
+_cell_angle_gamma   60.07596973
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiErAgPbCl6
+_chemical_formula_sum   'Li1 Er1 Ag1 Pb1 Cl6'
+_cell_volume   265.13370180
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.74398273  0.02822583  0.14740101  1
+  Er  Er1  1  0.24866158  0.53494820  0.62562706  1
+  Ag  Ag2  1  0.95585997  0.24306864  0.50652317  1
+  Pb  Pb3  1  0.45026207  0.73758323  0.02278923  1
+  Cl  Cl4  1  0.51652419  0.18317968  0.85251586  1
+  Cl  Cl5  1  0.62998406  0.65201134  0.36280732  1
+  Cl  Cl6  1  0.36610864  0.30037953  0.36173224  1
+  Cl  Cl7  1  0.01418945  0.91673788  0.36369651  1
+  Cl  Cl8  1  0.10593238  0.80126862  0.85542475  1
+  Cl  Cl9  1  0.89549439  0.39131917  0.85386607  1

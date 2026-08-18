@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TlBaSn2LiTl
+_chemical_formula_sum              "Tl2 Ba1 Sn2 Li1"
+_cell_length_a       5.168558026418111
+_cell_length_b       5.167620107636664
+_cell_length_c       7.865140438079834
+_cell_angle_alpha    90.04825778885645
+_cell_angle_beta     90.03304012949513
+_cell_angle_gamma    119.94618302718304
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.3317703306674957  0.4368877410888672  0.6126254200935365  1.0000
+  Ba  Ba1       1.0  0.6644514203071594  0.10383637249469757  0.36801344156265264  1.0000
+  Sn  Sn1       1.0  0.331647127866745  0.4369400441646576  0.01686928980052471  1.0000
+  Sn  Sn2       1.0  0.9983252286911011  0.7711820006370544  0.719868302345276  1.0000
+  Li  Li1       1.0  0.6653127074241638  0.10361011326313019  0.8673543334007264  1.0000
+  Tl  Tl2       1.0  0.9983415603637695  0.7700158357620239  0.12522882223129272  1.0000

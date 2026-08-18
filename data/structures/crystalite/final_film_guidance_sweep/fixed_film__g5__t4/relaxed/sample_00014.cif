@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cs2KLiBeS2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.75140979
+_cell_length_b   5.13866180
+_cell_length_c   5.81626855
+_cell_angle_alpha   90.03512517
+_cell_angle_beta   105.90902865
+_cell_angle_gamma   120.90073167
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2KLiBeS2O5
+_chemical_formula_sum   'Cs2 K1 Li1 Be1 S2 O5'
+_cell_volume   66.85525143
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.29954656  0.26559228  0.52851769  1
+  Cs  Cs1  1  0.67328131  0.00962546  0.08715850  1
+  K  K2  1  0.08376812  0.02487485  0.79750297  1
+  Li  Li3  1  0.65270774  0.32949839  0.07225700  1
+  Be  Be4  1  0.37029993  0.23596710  0.48958217  1
+  S  S5  1  0.60926881  0.09016999  0.32993828  1
+  S  S6  1  0.95315877  0.88880109  0.39637668  1
+  O  O7  1  0.03861566  0.05752490  0.52859262  1
+  O  O8  1  0.75805109  0.83482293  0.38762813  1
+  O  O9  1  0.08327767  0.29508973  0.21491583  1
+  O  O10  1  0.71891816  0.96862071  0.14621656  1
+  O  O11  1  0.08587912  0.94525384  0.41284574  1

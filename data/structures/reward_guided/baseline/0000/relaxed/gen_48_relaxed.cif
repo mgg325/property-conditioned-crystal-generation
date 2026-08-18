@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2Pr(DySe2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.16313937
+_cell_length_b   7.16310475
+_cell_length_c   7.30985797
+_cell_angle_alpha   99.39231312
+_cell_angle_beta   99.39381135
+_cell_angle_gamma   120.00649598
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Pr(DySe2)3
+_chemical_formula_sum   'Na2 Pr1 Dy3 Se6'
+_cell_volume   307.00608902
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.85768603  0.34948398  0.63665873  1
+  Na  Na1  1  0.19065444  0.01657751  0.63670993  1
+  Pr  Pr2  1  0.52414373  0.68318153  0.63664586  1
+  Dy  Dy3  1  0.02423143  0.18308762  0.13659913  1
+  Dy  Dy4  1  0.69023825  0.51716148  0.13678635  1
+  Dy  Dy5  1  0.35814161  0.84910778  0.13666962  1
+  Se  Se6  1  0.10281208  0.59563332  0.37468613  1
+  Se  Se7  1  0.27802864  0.43691653  0.89915359  1
+  Se  Se8  1  0.77045099  0.92936560  0.37415664  1
+  Se  Se9  1  0.94546152  0.77044477  0.89858957  1
+  Se  Se10  1  0.43674257  0.26176212  0.37476156  1
+  Se  Se11  1  0.61160120  0.10452366  0.89867415  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Cd2Si3Tc2Sn2HgGeBi2AsRh2Pb3Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.12511063
+_cell_length_b   8.41990280
+_cell_length_c   8.98824692
+_cell_angle_alpha   93.46464539
+_cell_angle_beta   89.71748352
+_cell_angle_gamma   91.12202454
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd2Si3Tc2Sn2HgGeBi2AsRh2Pb3Se
+_chemical_formula_sum   'Cd2 Si3 Tc2 Sn2 Hg1 Ge1 Bi2 As1 Rh2 Pb3 Se1'
+_cell_volume   613.66381799
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rh  Rh0  1  0.38860220  0.97587091  0.26951945  1
+  Si  Si1  1  0.79560816  0.35680979  0.91334939  1
+  Hg  Hg2  1  0.07910582  0.24160689  0.79940808  1
+  Si  Si3  1  0.59495610  0.31853282  0.13422403  1
+  As  As4  1  0.43752480  0.74896020  0.22946858  1
+  Bi  Bi5  1  0.88826728  0.77495921  0.89878082  1
+  Si  Si6  1  0.10064149  0.86531460  0.05907667  1
+  Tc  Tc7  1  0.65841037  0.66070759  0.43576968  1
+  Rh  Rh8  1  0.58679247  0.36043581  0.68053550  1
+  Sn  Sn9  1  0.89401627  0.38913009  0.31891745  1
+  Cd  Cd10  1  0.64103055  0.01321533  0.89652050  1
+  Tc  Tc11  1  0.13455087  0.41785651  0.15317932  1
+  Se  Se12  1  0.45372504  0.15753570  0.23727459  1
+  Bi  Bi13  1  0.34905618  0.49193060  0.95925122  1
+  Pb  Pb14  1  0.34666893  0.11035347  0.68000209  1
+  Pb  Pb15  1  0.21712333  0.48227000  0.43795988  1
+  Pb  Pb16  1  0.83746016  0.17730856  0.59248012  1
+  Sn  Sn17  1  0.14164868  0.81635201  0.53255439  1
+  Ge  Ge18  1  0.57066756  0.65081561  0.62811255  1
+  Cd  Cd19  1  0.92026711  0.97418672  0.28918445  1

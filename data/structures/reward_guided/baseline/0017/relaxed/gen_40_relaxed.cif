@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_K2Na2Cd3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48159749
+_cell_length_b   7.09365755
+_cell_length_c   8.14611319
+_cell_angle_alpha   115.62383500
+_cell_angle_beta   90.06725004
+_cell_angle_gamma   112.77818255
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Na2Cd3
+_chemical_formula_sum   'K2 Na2 Cd3'
+_cell_volume   257.85880256
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.26127520  0.34119280  0.80614095  1
+  K  K1  1  0.93839212  0.69935205  0.26320372  1
+  Na  Na2  1  0.24203966  0.30413276  0.30035726  1
+  Na  Na3  1  0.95872474  0.73661500  0.76873998  1
+  Cd  Cd4  1  0.52728892  0.87535229  0.63230686  1
+  Cd  Cd5  1  0.59998422  0.02035452  0.03453015  1
+  Cd  Cd6  1  0.67322278  0.16514729  0.43681656  1

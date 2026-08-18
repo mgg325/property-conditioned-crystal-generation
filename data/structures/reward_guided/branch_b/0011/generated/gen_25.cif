@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HfAlHfTi
+_chemical_formula_sum              "Hf2 Al1 Ti1"
+_cell_length_a       3.4061139360716757
+_cell_length_b       3.452027087917586
+_cell_length_c       6.275913238525391
+_cell_angle_alpha    90.0302875643158
+_cell_angle_beta     91.75171375666642
+_cell_angle_gamma    90.47492603900733
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.6332221627235414  0.31666898727416987  0.22143328189849854  1.0000
+  Al  Al1       1.0  0.13503551483154297  0.8131405711174011  0.9696815013885498  1.0000
+  Hf  Hf2       1.0  0.6365920901298524  0.3122622668743133  0.7188594937324524  1.0000
+  Ti  Ti1       1.0  0.1356898546218872  0.8140673637390137  0.469198077917099  1.0000

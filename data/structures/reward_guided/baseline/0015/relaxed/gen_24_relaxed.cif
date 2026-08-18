@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Tb2Ga4Ir3Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09886782
+_cell_length_b   4.09909232
+_cell_length_c   11.00705758
+_cell_angle_alpha   89.99886199
+_cell_angle_beta   89.99412505
+_cell_angle_gamma   90.00019731
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Ga4Ir3Pd
+_chemical_formula_sum   'Tb2 Ga4 Ir3 Pd1'
+_cell_volume   184.93659124
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.11647807  0.83168857  0.20903728  1
+  Tb  Tb1  1  0.61670060  0.33190984  0.68952263  1
+  Ga  Ga2  1  0.11657183  0.33173531  0.44914177  1
+  Ga  Ga3  1  0.11666486  0.83187425  0.81607115  1
+  Ga  Ga4  1  0.61665848  0.83170403  0.44929630  1
+  Ga  Ga5  1  0.61649591  0.33175305  0.08245707  1
+  Ir  Ir6  1  0.61668771  0.33169180  0.30810316  1
+  Ir  Ir7  1  0.11671137  0.83174648  0.59036810  1
+  Ir  Ir8  1  0.61657254  0.83181046  0.94932150  1
+  Pd  Pd9  1  0.11657469  0.33186697  0.94920541  1

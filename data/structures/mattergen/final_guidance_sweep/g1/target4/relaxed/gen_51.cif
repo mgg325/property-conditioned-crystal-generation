@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       PtHO2
+_chemical_formula_sum              "Pt1 H1 O2"
+_cell_length_a       4.276623880077429
+_cell_length_b       3.053555592339064
+_cell_length_c       4.6113534259924265
+_cell_angle_alpha    89.99463631731624
+_cell_angle_beta     86.67230816145687
+_cell_angle_gamma    110.74671840619223
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.5082176090061317  0.14031166761575642  0.38913746221697443  1.0000
+  H   H1        1.0  0.48003226282717715  0.6262876037916396  0.8443464724907496  1.0000
+  O   O1        1.0  0.6413283029322805  0.706397222295235  0.13919998061892128  1.0000
+  O   O2        1.0  0.35999156748136607  0.5667280023907284  0.6538216681395076  1.0000

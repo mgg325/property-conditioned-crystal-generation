@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TbCe2S2O4F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03726799
+_cell_length_b   4.02056507
+_cell_length_c   10.12454356
+_cell_angle_alpha   101.93000996
+_cell_angle_beta   80.05179191
+_cell_angle_gamma   90.28722202
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbCe2S2O4F
+_chemical_formula_sum   'Tb1 Ce2 S2 O4 F1'
+_cell_volume   158.29491921
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.31955784  0.15055823  0.35221246  1
+  Ce  Ce1  1  0.67152043  0.80179092  0.60158300  1
+  Ce  Ce2  1  0.87867265  0.54155846  0.10053904  1
+  S  S3  1  0.03626657  0.92020954  0.85054342  1
+  S  S4  1  0.52433567  0.42235342  0.84946616  1
+  O  O5  1  0.33270292  0.59440434  0.19139054  1
+  O  O6  1  0.70448138  0.25666749  0.50988741  1
+  O  O7  1  0.20597568  0.76284998  0.51113700  1
+  O  O8  1  0.81965888  0.08928680  0.18936116  1
+  F  F9  1  0.75252767  0.68003314  0.35058810  1

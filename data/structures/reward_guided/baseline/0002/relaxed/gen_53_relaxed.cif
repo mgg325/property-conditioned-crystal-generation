@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_La6CoHg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75817504
+_cell_length_b   7.58043774
+_cell_length_c   7.60686268
+_cell_angle_alpha   120.06955120
+_cell_angle_beta   89.91958611
+_cell_angle_gamma   89.83264350
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La6CoHg2
+_chemical_formula_sum   'La6 Co1 Hg2'
+_cell_volume   287.34677075
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.86049902  0.54625204  0.58727307  1
+  La  La1  1  0.35186917  0.19525009  0.47202544  1
+  La  La2  1  0.34901255  0.78293738  0.93329785  1
+  La  La3  1  0.35170977  0.32544706  0.05987508  1
+  La  La4  1  0.86306299  0.08891441  0.71412290  1
+  La  La5  1  0.86030798  0.67640087  0.17532803  1
+  Co  Co6  1  0.10600345  0.43597700  0.82362562  1
+  Hg  Hg7  1  0.35122316  0.76785809  0.49076709  1
+  Hg  Hg8  1  0.86097193  0.10371145  0.15655454  1

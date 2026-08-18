@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_BaSeO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   1.95219967
+_cell_length_b   1.76255041
+_cell_length_c   5.82983498
+_cell_angle_alpha   92.73659969
+_cell_angle_beta   86.15590093
+_cell_angle_gamma   98.57528400
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSeO
+_chemical_formula_sum   'Ba2 Se2 O2'
+_cell_volume   19.77622209
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.64066063  0.49457950  0.51254003  1
+  Ba  Ba1  1  0.77921158  0.42047662  0.50984888  1
+  Se  Se2  1  0.71221947  0.46725482  0.55869689  1
+  Se  Se3  1  0.86823698  0.47708110  0.01531113  1
+  O  O4  1  0.78548802  0.60294018  0.51552494  1
+  O  O5  1  0.76766124  0.53542756  0.62952065  1

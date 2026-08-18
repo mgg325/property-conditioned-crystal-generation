@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       BrErBr
+_chemical_formula_sum              "Br2 Er1"
+_cell_length_a       3.8155772051230117
+_cell_length_b       3.815069333257982
+_cell_length_c       7.93454122543335
+_cell_angle_alpha    76.1032859070971
+_cell_angle_beta     76.11430888220985
+_cell_angle_gamma    60.05725916363825
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.07474734634160997  0.40297022461891174  0.21636855602264407  1.0000
+  Er  Er1       1.0  0.6600831747055054  0.987317681312561  0.4575887322425843  1.0000
+  Br  Br2       1.0  0.9125171899795532  0.24094505608081818  0.6981400847434999  1.0000

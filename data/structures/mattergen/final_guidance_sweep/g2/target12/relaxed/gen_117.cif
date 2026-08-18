@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sb2CuPdCuPd3
+_chemical_formula_sum              "Sb2 Cu2 Pd4"
+_cell_length_a       4.487574332497779
+_cell_length_b       4.5164762588726814
+_cell_length_c       7.775604532362438
+_cell_angle_alpha    89.72000586438199
+_cell_angle_beta     106.52171345393296
+_cell_angle_gamma    119.93662774496025
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.5323243650058659  0.6810434117732949  0.373531363680225  1.0000
+  Sb  Sb2       1.0  0.5354130389428292  0.17947343140909489  0.8750929665859134  1.0000
+  Cu  Cu1       1.0  0.03259356726055925  0.9312359364281179  0.12364167631631291  1.0000
+  Pd  Pd1       1.0  0.283310417440155  0.5545471621046834  0.998534826350845  1.0000
+  Cu  Cu2       1.0  0.03469567806535823  0.43004800678896427  0.6250878853720008  1.0000
+  Pd  Pd2       1.0  0.7835721916185469  0.3078670069360899  0.2509627994117266  1.0000
+  Pd  Pd3       1.0  0.2833326232788533  0.05547041713479321  0.4996739509480409  1.0000
+  Pd  Pd4       1.0  0.785588267786332  0.8030949702506065  0.7479418139338027  1.0000

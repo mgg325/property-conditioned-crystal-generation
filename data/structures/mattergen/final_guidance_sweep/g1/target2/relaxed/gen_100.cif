@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       H3OHBr2
+_chemical_formula_sum              "H4 O1 Br2"
+_cell_length_a       5.087251129616819
+_cell_length_b       6.827091468068128
+_cell_length_c       5.098394402099452
+_cell_angle_alpha    104.7860386108783
+_cell_angle_beta     114.53982232766852
+_cell_angle_gamma    101.01758013580331
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.8656360002572285  0.0922082889186324  0.11175224585752094  1.0000
+  H   H2        1.0  0.17296105164464817  0.09171699327665216  0.4191937877521745  1.0000
+  H   H3        1.0  0.8544540218095443  0.10377911699927765  0.4410736649565379  1.0000
+  O   O1        1.0  0.9909594472514788  0.14488591986593086  0.3476572076028964  1.0000
+  H   H4        1.0  0.5143875338859301  0.6646409074705816  0.3400133164257636  1.0000
+  Br  Br1       1.0  0.5742334165023261  0.007743427524959871  0.6257163002615481  1.0000
+  Br  Br2       1.0  0.5362123085364217  0.4779149663186649  0.14055559599236914  1.0000

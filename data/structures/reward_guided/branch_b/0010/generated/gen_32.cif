@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       SnCd3SnHg2CdHg2
+_chemical_formula_sum              "Sn2 Cd4 Hg4"
+_cell_length_a       3.544510829132858
+_cell_length_b       8.423136888515371
+_cell_length_c       8.456944465637207
+_cell_angle_alpha    91.13345183190428
+_cell_angle_beta     89.58130510188984
+_cell_angle_gamma    89.97685499151511
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.43579134345054626  0.587048828601837  0.12154487520456314  1.0000
+  Cd  Cd1       1.0  0.43676313757896423  0.21694576740264893  0.9923421144485474  1.0000
+  Cd  Cd2       1.0  0.4362255036830902  0.7153719663619995  0.7484501600265503  1.0000
+  Cd  Cd3       1.0  0.435158908367157  0.4550572633743286  0.4905046522617341  1.0000
+  Sn  Sn2       1.0  0.4346870183944702  0.0876481905579567  0.6186335682868958  1.0000
+  Hg  Hg1       1.0  0.9360224008560181  0.25476327538490295  0.2888514995574951  1.0000
+  Hg  Hg2       1.0  0.9354223608970642  0.41700199246406555  0.7900395393371582  1.0000
+  Cd  Cd4       1.0  0.43612658977508545  0.955890417098999  0.25119274854660034  1.0000
+  Hg  Hg3       1.0  0.9378703832626343  0.9159609079360962  0.9519890546798706  1.0000
+  Hg  Hg4       1.0  0.9354972243309021  0.7542778253555298  0.4500623047351837  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       HgInLiHg5
+_chemical_formula_sum              "Hg6 In1 Li1"
+_cell_length_a       5.002012230460981
+_cell_length_b       5.001692441377495
+_cell_length_c       8.275992393493652
+_cell_angle_alpha    89.89897034379376
+_cell_angle_beta     89.95025823670633
+_cell_angle_gamma    89.88349314122578
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.6562528610229492  0.01580042392015457  0.6899176239967346  1.0000
+  In  In1       1.0  0.15615224838256836  0.5159921646118164  0.1905660778284073  1.0000
+  Li  Li1       1.0  0.15626005828380585  0.5159121155738831  0.690003514289856  1.0000
+  Hg  Hg2       1.0  0.6564280390739441  0.016064073890447617  0.1893388330936432  1.0000
+  Hg  Hg3       1.0  0.15632104873657227  0.01589820347726345  0.4524686634540558  1.0000
+  Hg  Hg4       1.0  0.6564667820930481  0.5159595608711243  0.9273152947425842  1.0000
+  Hg  Hg5       1.0  0.15667463839054108  0.016060831025242805  0.926599383354187  1.0000
+  Hg  Hg6       1.0  0.6562616229057312  0.5160049796104431  0.4524960517883301  1.0000

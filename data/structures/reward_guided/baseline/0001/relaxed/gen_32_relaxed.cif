@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2TiGaI6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.49254758
+_cell_length_b   8.49277596
+_cell_length_c   8.49321221
+_cell_angle_alpha   59.99323586
+_cell_angle_beta   59.98840907
+_cell_angle_gamma   59.99887152
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2TiGaI6
+_chemical_formula_sum   'Rb2 Ti1 Ga1 I6'
+_cell_volume   433.09250721
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.29156066  0.09879547  0.98314730  1
+  Rb  Rb1  1  0.79175597  0.59876545  0.48209803  1
+  Ti  Ti2  1  0.04152146  0.84891071  0.73249435  1
+  Ga  Ga3  1  0.54139543  0.34893038  0.23254591  1
+  I  I4  1  0.27824972  0.61212986  0.96923262  1
+  I  I5  1  0.27835041  0.61231137  0.49560254  1
+  I  I6  1  0.27835073  0.08552669  0.49590352  1
+  I  I7  1  0.80468180  0.08577569  0.49590361  1
+  I  I8  1  0.80492376  0.61203439  0.96909039  1
+  I  I9  1  0.80481421  0.08552265  0.96945807  1

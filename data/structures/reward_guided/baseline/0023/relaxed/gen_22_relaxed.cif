@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiEuPbAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.19408926
+_cell_length_b   5.24455355
+_cell_length_c   5.22278742
+_cell_angle_alpha   59.56875711
+_cell_angle_beta   60.52913161
+_cell_angle_gamma   59.95659073
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiEuPbAu
+_chemical_formula_sum   'Li1 Eu1 Pb1 Au1'
+_cell_volume   100.62877631
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.98078111  0.12673214  0.55783292  1
+  Eu  Eu1  1  0.48284121  0.62685753  0.05940595  1
+  Pb  Pb2  1  0.23231032  0.37755959  0.80795153  1
+  Au  Au3  1  0.73005862  0.87719588  0.30900711  1

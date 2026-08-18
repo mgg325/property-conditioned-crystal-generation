@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Tb2NdDySc2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06612233
+_cell_length_b   6.06324257
+_cell_length_c   5.96463110
+_cell_angle_alpha   98.48865110
+_cell_angle_beta   98.43845043
+_cell_angle_gamma   121.09454983
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2NdDySc2
+_chemical_formula_sum   'Tb2 Nd1 Dy1 Sc2'
+_cell_volume   179.24657351
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.26080395  0.17214357  0.00686786  1
+  Tb  Tb1  1  0.43339142  0.00184040  0.50713484  1
+  Nd  Nd2  1  0.75999261  0.67478354  0.50621168  1
+  Dy  Dy3  1  0.93481199  0.49930964  0.00645621  1
+  Sc  Sc4  1  0.09742019  0.33713494  0.50576404  1
+  Sc  Sc5  1  0.59467796  0.83628168  0.00591961  1

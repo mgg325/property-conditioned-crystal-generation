@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KCaZnN2F7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.45559403
+_cell_length_b   6.66521856
+_cell_length_c   7.46746798
+_cell_angle_alpha   62.70047745
+_cell_angle_beta   65.08708407
+_cell_angle_gamma   59.98090422
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCaZnN2F7
+_chemical_formula_sum   'K1 Ca1 Zn1 N2 F7'
+_cell_volume   239.41901059
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50038189  0.43778327  0.21936407  1
+  Ca  Ca1  1  0.90265225  0.00117473  0.92682314  1
+  Zn  Zn2  1  0.17515251  0.30753743  0.93650356  1
+  N  N3  1  0.44690605  0.11850424  0.64804106  1
+  N  N4  1  0.52912340  0.84031276  0.26464556  1
+  F  F5  1  0.32723426  0.00018691  0.35986282  1
+  F  F6  1  0.91455197  0.39006917  0.81769007  1
+  F  F7  1  0.69935502  1.00705451  0.60769123  1
+  F  F8  1  1.07311751  0.01190736  0.11834240  1
+  F  F9  1  0.37841843  0.90952336  0.73037726  1
+  F  F10  1  0.04502171  0.58887138  0.04000347  1
+  F  F11  1  0.50812298  0.24805434  0.92469986  1

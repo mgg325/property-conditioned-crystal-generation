@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CaLiInAgCaAgIn2Ag2
+_chemical_formula_sum              "Ca2 Li1 In3 Ag4"
+_cell_length_a       4.6259926735120445
+_cell_length_b       5.617540981049135
+_cell_length_c       9.39175033569336
+_cell_angle_alpha    83.09070623756192
+_cell_angle_beta     76.88195497805582
+_cell_angle_gamma    67.43664791684125
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.8424025177955629  0.12787015736103058  0.7049952745437622  1.0000
+  Li  Li1       1.0  0.15013442933559415  0.9176036119461061  0.2997739911079407  1.0000
+  In  In1       1.0  0.28054395318031317  0.9738301038742065  0.9837822914123535  1.0000
+  Ag  Ag1       1.0  0.5459187626838684  0.7151286602020264  0.7122575044631958  1.0000
+  Ca  Ca2       1.0  0.5001205801963806  0.37927716970443726  0.13918852806091309  1.0000
+  Ag  Ag2       1.0  0.7875730991363525  0.7945519089698792  0.14744745194911957  1.0000
+  In  In2       1.0  0.5240379571914673  0.02326924726366997  0.44635269045829773  1.0000
+  In  In3       1.0  0.05531248077750206  0.5313928127288818  0.8747552633285522  1.0000
+  Ag  Ag3       1.0  0.2003101110458374  0.5633205771446228  0.5526871085166931  1.0000
+  Ag  Ag4       1.0  0.8451468348503113  0.4343144297599793  0.3925696015357971  1.0000

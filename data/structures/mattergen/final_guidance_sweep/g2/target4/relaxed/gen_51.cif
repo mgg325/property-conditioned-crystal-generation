@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CuOCoO
+_chemical_formula_sum              "Cu1 O2 Co1"
+_cell_length_a       2.8749134888718806
+_cell_length_b       2.8752527160249723
+_cell_length_c       5.908392822445769
+_cell_angle_alpha    75.89480333519407
+_cell_angle_beta     75.93211156421471
+_cell_angle_gamma    59.99988680516834
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.8834803863860045  0.11115933117639112  0.6798795639058753  1.0000
+  O   O1        1.0  0.9933210310811695  0.21937204180160336  0.3530532322979977  1.0000
+  Co  Co1       1.0  0.38412547096946376  0.6107887082861767  0.17984111345201256  1.0000
+  O   O2        1.0  0.7749008675158229  0.0021399765654726106  0.006677445002055475  1.0000

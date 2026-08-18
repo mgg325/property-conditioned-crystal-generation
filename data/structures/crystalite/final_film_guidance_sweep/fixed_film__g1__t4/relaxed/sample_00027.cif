@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CsLi(CuTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47636458
+_cell_length_b   5.72407721
+_cell_length_c   8.79711445
+_cell_angle_alpha   99.74119566
+_cell_angle_beta   92.60398831
+_cell_angle_gamma   91.55234769
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsLi(CuTe2)2
+_chemical_formula_sum   'Cs1 Li1 Cu2 Te4'
+_cell_volume   271.33829481
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.45702525  0.16148429  0.97785063  1
+  Li  Li1  1  0.96707078  0.25867890  0.50733385  1
+  Cu  Cu2  1  0.21563602  0.74743052  0.47629897  1
+  Cu  Cu3  1  0.69898797  0.74673831  0.41901031  1
+  Te  Te4  1  0.44136998  1.10284742  0.39031436  1
+  Te  Te5  1  0.98055295  0.48308479  0.25130688  1
+  Te  Te6  1  0.91913311  0.88458547  0.69544461  1
+  Te  Te7  1  0.52683612  0.51975918  0.64112962  1

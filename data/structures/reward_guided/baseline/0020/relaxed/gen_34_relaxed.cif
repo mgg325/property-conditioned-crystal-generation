@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Sr(AgHg)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50186260
+_cell_length_b   7.17217567
+_cell_length_c   7.18470164
+_cell_angle_alpha   82.80412531
+_cell_angle_beta   71.68158471
+_cell_angle_gamma   71.69990038
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(AgHg)4
+_chemical_formula_sum   'Sr1 Ag4 Hg4'
+_cell_volume   208.99619003
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.72626837  0.37945282  0.96600462  1
+  Ag  Ag1  1  0.04807324  0.37005611  0.33166387  1
+  Ag  Ag2  1  0.07578388  0.02905023  0.61544377  1
+  Ag  Ag3  1  0.37874389  0.71272978  0.32750389  1
+  Ag  Ag4  1  0.71916908  0.03829059  0.32024634  1
+  Hg  Hg5  1  0.72452284  0.72653244  0.62100594  1
+  Hg  Hg6  1  0.42158690  0.35079410  0.60346932  1
+  Hg  Hg7  1  0.02607707  0.73006459  0.01602245  1
+  Hg  Hg8  1  0.38602757  0.02718154  0.99888991  1

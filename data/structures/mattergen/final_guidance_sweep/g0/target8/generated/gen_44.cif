@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       TaHgO4TaO2
+_chemical_formula_sum              "Ta2 Hg1 O6"
+_cell_length_a       3.8649530954137323
+_cell_length_b       5.561726252519331
+_cell_length_c       7.221987247467041
+_cell_angle_alpha    101.59715187504047
+_cell_angle_beta     89.99039242833408
+_cell_angle_gamma    110.44990159104191
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.9832027554512024  0.6771847605705261  0.5899887084960938  1.0000
+  Hg  Hg1       1.0  0.7676659822463989  0.24608728289604187  0.916646420955658  1.0000
+  O   O1        1.0  0.4852527678012848  0.6830316781997681  0.5044934153556824  1.0000
+  O   O2        1.0  0.04989477992057801  0.8095967173576355  0.3293856978416443  1.0000
+  O   O3        1.0  0.8227241635322571  0.3550868332386017  0.6560786366462708  1.0000
+  O   O4        1.0  0.11392453312873847  0.9384887218475343  0.7966067790985107  1.0000
+  Ta  Ta2       1.0  0.5519667267799377  0.8151801228523254  0.24421581625938416  1.0000
+  O   O5        1.0  0.42194077372550964  0.5544459223747253  0.03606259450316429  1.0000
+  O   O6        1.0  0.7121496796607971  0.13613298535346985  0.17705324292182922  1.0000

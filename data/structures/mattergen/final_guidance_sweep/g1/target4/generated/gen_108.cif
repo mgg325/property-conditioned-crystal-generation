@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CsNS2
+_chemical_formula_sum              "Cs1 N1 S2"
+_cell_length_a       5.112488571553786
+_cell_length_b       5.138782490319778
+_cell_length_c       6.663075923919678
+_cell_angle_alpha    112.70501207931002
+_cell_angle_beta     112.4918354918386
+_cell_angle_gamma    90.01695555195118
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.13866770267486575  0.1749682724475861  0.686684787273407  1.0000
+  N   N1        1.0  0.6370966434478761  0.6737294793128968  0.6851274967193604  1.0000
+  S   S1        1.0  0.4980164766311646  0.5330387353897095  0.4036505818367004  1.0000
+  S   S2        1.0  0.7786722779273987  0.8152471780776979  0.965839922428131  1.0000

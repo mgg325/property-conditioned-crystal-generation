@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_AlZnAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.30849271
+_cell_length_b   4.31128387
+_cell_length_c   4.30763149
+_cell_angle_alpha   59.99090990
+_cell_angle_beta   59.96025161
+_cell_angle_gamma   59.92768224
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlZnAu
+_chemical_formula_sum   'Al1 Zn1 Au1'
+_cell_volume   56.52718031
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.90863127  0.14139767  0.20109677  1
+  Zn  Zn1  1  0.40848839  0.64156020  0.70116615  1
+  Au  Au2  1  0.65830690  0.89169043  0.95085561  1

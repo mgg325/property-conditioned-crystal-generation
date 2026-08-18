@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_MgTl5Te4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.51365794
+_cell_length_b   8.18252602
+_cell_length_c   11.53545744
+_cell_angle_alpha   120.76143952
+_cell_angle_beta   101.24121710
+_cell_angle_gamma   89.96478271
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTl5Te4
+_chemical_formula_sum   'Mg1 Tl5 Te4'
+_cell_volume   356.58455126
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.23339627  0.61964725  0.91353752  1
+  Tl  Tl1  1  0.55507357  0.86435305  0.55710437  1
+  Tl  Tl2  1  0.91114680  0.37282489  0.26995089  1
+  Tl  Tl3  1  0.23315948  0.11922541  0.91244485  1
+  Tl  Tl4  1  0.53889147  0.32507547  0.52250337  1
+  Tl  Tl5  1  0.92729974  0.91003824  0.30278974  1
+  Te  Te6  1  0.37221217  0.59185620  0.19175519  1
+  Te  Te7  1  0.09381839  0.64403452  0.63393708  1
+  Te  Te8  1  0.67779925  0.33406166  0.80066520  1
+  Te  Te9  1  0.78866748  0.90474495  0.02579445  1

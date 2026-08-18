@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TiMoTiPd
+_chemical_formula_sum              "Ti2 Mo1 Pd1"
+_cell_length_a       3.1592852954874715
+_cell_length_b       4.436346439124409
+_cell_length_c       4.405383110046387
+_cell_angle_alpha    89.43284409659775
+_cell_angle_beta     88.53507034800874
+_cell_angle_gamma    90.33517352780558
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.7636662721633911  0.9959636330604553  0.18391923606395721  1.0000
+  Mo  Mo1       1.0  0.26221033930778503  0.9969363212585449  0.6854198575019836  1.0000
+  Ti  Ti2       1.0  0.7627789974212646  0.4962971210479736  0.6829197406768799  1.0000
+  Pd  Pd1       1.0  0.26185113191604614  0.49605250358581543  0.1835150420665741  1.0000

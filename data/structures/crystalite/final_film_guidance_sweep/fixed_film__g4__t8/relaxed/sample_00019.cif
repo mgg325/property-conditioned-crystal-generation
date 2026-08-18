@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Tl3Zn2Bi2PbSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41047883
+_cell_length_b   7.37688772
+_cell_length_c   10.25944605
+_cell_angle_alpha   83.39519333
+_cell_angle_beta   63.60896665
+_cell_angle_gamma   61.71204224
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl3Zn2Bi2PbSe2
+_chemical_formula_sum   'Tl3 Zn2 Bi2 Pb1 Se2'
+_cell_volume   439.13457716
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.02807807  1.00608812  0.18191025  1
+  Tl  Tl1  1  0.07587085  1.03505054  0.55459496  1
+  Tl  Tl2  1  0.01850645  0.52528832  0.16003468  1
+  Zn  Zn3  1  0.65883152  0.39102781  0.42470511  1
+  Zn  Zn4  1  0.01483514  0.53422081  0.44508464  1
+  Bi  Bi5  1  0.64214773  0.97222819  0.46726498  1
+  Bi  Bi6  1  0.50582866  1.01581217  0.22005301  1
+  Pb  Pb7  1  0.50853499  0.59124448  0.20171357  1
+  Se  Se8  1  0.71037015  0.47438347  0.62118345  1
+  Se  Se9  1  0.24622264  0.58394359  0.52455350  1

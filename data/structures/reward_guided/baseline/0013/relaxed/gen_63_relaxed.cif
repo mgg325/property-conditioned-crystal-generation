@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_RbTi2Cl7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.93190907
+_cell_length_b   4.93249045
+_cell_length_c   12.17292923
+_cell_angle_alpha   101.65407521
+_cell_angle_beta   101.70366445
+_cell_angle_gamma   89.99280906
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbTi2Cl7
+_chemical_formula_sum   'Rb1 Ti2 Cl7'
+_cell_volume   283.73394015
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.35898009  0.24282257  0.42544841  1
+  Ti  Ti1  1  0.97418937  0.85748431  0.65521676  1
+  Ti  Ti2  1  0.74373416  0.62812822  0.19591917  1
+  Cl  Cl3  1  0.65037724  0.53437483  0.00666471  1
+  Cl  Cl4  1  0.85936612  0.74274997  0.42587463  1
+  Cl  Cl5  1  0.96337681  0.34669479  0.63379309  1
+  Cl  Cl6  1  0.75497735  0.13875302  0.21721421  1
+  Cl  Cl7  1  0.06806663  0.95125510  0.84443251  1
+  Cl  Cl8  1  0.46319914  0.84690084  0.63350335  1
+  Cl  Cl9  1  0.25488410  0.63863827  0.21741582  1

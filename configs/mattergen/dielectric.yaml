@@ -1,0 +1,3 @@
+defaults:
+  - default
+  - /lightning_module/diffusion_module/model/property_embeddings@adapter.property_embeddings_adapt.dft_dielectric_scalar: dft_dielectric_scalar

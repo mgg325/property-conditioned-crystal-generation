@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cd3TeGeTe3
+_chemical_formula_sum              "Cd3 Te4 Ge1"
+_cell_length_a       6.576662542398407
+_cell_length_b       6.581426772691326
+_cell_length_c       8.03580093383789
+_cell_angle_alpha    114.22423193976948
+_cell_angle_beta     114.77318573875233
+_cell_angle_gamma    91.51637304796462
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.21562401950359342  0.3659464120864868  0.9441312551498413  1.0000
+  Cd  Cd2       1.0  0.9664087891578673  0.6167336106300354  0.4449116885662079  1.0000
+  Cd  Cd3       1.0  0.4657394587993621  0.1167798563838005  0.44475385546684265  1.0000
+  Te  Te1       1.0  0.09584102034568785  0.24552462995052335  0.19659461081027985  1.0000
+  Ge  Ge1       1.0  0.7152513265609741  0.8670371770858765  0.9456013441085815  1.0000
+  Te  Te2       1.0  0.5894220471382141  0.7392936944961548  0.19714067876338953  1.0000
+  Te  Te3       1.0  0.3369120657444  0.9939602613449096  0.6902232766151428  1.0000
+  Te  Te4       1.0  0.8428967595100402  0.48671406507492065  0.691452145576477  1.0000

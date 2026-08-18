@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Bi2SnPbSnK
+_chemical_formula_sum              "Bi2 Sn2 Pb1 K1"
+_cell_length_a       5.610383952610578
+_cell_length_b       5.596585078429221
+_cell_length_c       7.332327365875244
+_cell_angle_alpha    89.8735347201625
+_cell_angle_beta     89.59777265204707
+_cell_angle_gamma    119.62555894117473
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.6136387586593628  0.7035021781921387  0.5248675346374512  1.0000
+  Bi  Bi2       1.0  0.28206005692481995  0.03683018684387207  0.10706590861082078  1.0000
+  Sn  Sn1       1.0  0.6152140498161316  0.7014862298965454  0.12026039510965349  1.0000
+  Pb  Pb1       1.0  0.9491199254989624  0.36747005581855774  0.3176698684692383  1.0000
+  Sn  Sn2       1.0  0.2833706736564636  0.03778650611639022  0.5118355751037598  1.0000
+  K   K1        1.0  0.946668803691864  0.37106773257255554  0.8166754245758058  1.0000

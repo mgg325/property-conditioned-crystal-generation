@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_La2Sm2IrRu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12636913
+_cell_length_b   6.08147548
+_cell_length_c   7.98164782
+_cell_angle_alpha   101.06433673
+_cell_angle_beta   104.98106632
+_cell_angle_gamma   90.00179023
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Sm2IrRu2
+_chemical_formula_sum   'La2 Sm2 Ir1 Ru2'
+_cell_volume   189.63005070
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.52410974  0.80991195  0.88689108  1
+  La  La1  1  0.77992789  0.69639177  0.39821013  1
+  Sm  Sm2  1  0.20202406  0.17056912  0.24263949  1
+  Sm  Sm3  1  0.94695267  0.28060000  0.73253308  1
+  Ir  Ir4  1  0.36374965  0.48912025  0.56601265  1
+  Ru  Ru5  1  0.12693780  0.61099083  0.09228205  1
+  Ru  Ru6  1  0.59757999  0.35627050  0.03362248  1

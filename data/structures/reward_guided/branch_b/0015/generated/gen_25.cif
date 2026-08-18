@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ScBeIr2B
+_chemical_formula_sum              "Sc1 Be1 Ir2 B1"
+_cell_length_a       2.998408308961792
+_cell_length_b       3.8590202923620796
+_cell_length_c       6.180959701538086
+_cell_angle_alpha    107.30473561923361
+_cell_angle_beta     105.00749888241613
+_cell_angle_gamma    89.65702458509175
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.42166778445243835  0.15088330209255219  0.9980947971343994  1.0000
+  Be  Be1       1.0  0.6959149241447449  0.9214656352996827  0.5442638993263245  1.0000
+  Ir  Ir1       1.0  0.2198096662759781  0.44049626588821417  0.5829916596412659  1.0000
+  Ir  Ir2       1.0  0.02917414903640747  0.7597549557685852  0.2139536738395691  1.0000
+  B   B1        1.0  0.842373251914978  0.569146990776062  0.8373573422431946  1.0000

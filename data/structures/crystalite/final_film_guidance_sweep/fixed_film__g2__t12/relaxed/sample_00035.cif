@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_GaBiRh2SeSI
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58012288
+_cell_length_b   4.88675848
+_cell_length_c   6.51703451
+_cell_angle_alpha   100.00420832
+_cell_angle_beta   90.04535330
+_cell_angle_gamma   88.16469759
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaBiRh2SeSI
+_chemical_formula_sum   'Ga1 Bi1 Rh2 Se1 S1 I1'
+_cell_volume   174.91721145
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.05366041  0.83666376  0.59788858  1
+  Bi  Bi1  1  0.80782667  0.45092590  0.25791797  1
+  Rh  Rh2  1  0.35519500  0.70799908  0.86645080  1
+  Rh  Rh3  1  1.07616070  0.19743528  0.93324360  1
+  Se  Se4  1  0.78619077  0.81423210  0.93084333  1
+  S  S5  1  0.30856103  0.49408834  0.14407184  1
+  I  I6  1  0.42716105  0.23271889  0.59381403  1

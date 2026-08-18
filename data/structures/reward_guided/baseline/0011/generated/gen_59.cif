@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Nd2PCeP2SmP
+_chemical_formula_sum              "Nd2 P4 Ce1 Sm1"
+_cell_length_a       4.131374236214714
+_cell_length_b       7.154243597130857
+_cell_length_c       7.15103816986084
+_cell_angle_alpha    109.248226070824
+_cell_angle_beta     89.8039077735321
+_cell_angle_gamma    89.93632465958564
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.88951575756073  0.8229448199272157  0.8796856999397278  1.0000
+  Nd  Nd2       1.0  0.3896300792694092  0.8229849338531494  0.3796391487121582  1.0000
+  P   P1        1.0  0.8892882466316223  0.5671234726905823  0.13035058975219727  1.0000
+  Ce  Ce1       1.0  0.8896877765655518  0.3229238688945771  0.3795831799507141  1.0000
+  P   P2        1.0  0.8895941376686096  0.07872692495584488  0.6287106275558472  1.0000
+  P   P3        1.0  0.3900262415409088  0.08013474196195604  0.13371863961219788  1.0000
+  Sm  Sm1       1.0  0.38931766152381897  0.32291033864021307  0.8796214461326599  1.0000
+  P   P4        1.0  0.38931000232696533  0.5659564137458801  0.6252821087837219  1.0000

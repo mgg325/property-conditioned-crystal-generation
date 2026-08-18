@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Rb2AcSiSbP7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.25615597
+_cell_length_b   8.21657372
+_cell_length_c   7.41502619
+_cell_angle_alpha   89.57544708
+_cell_angle_beta   90.22505188
+_cell_angle_gamma   91.85449982
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2AcSiSbP7
+_chemical_formula_sum   'Rb2 Ac1 Si1 Sb1 P7'
+_cell_volume   441.84265981
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.93279421  0.42901719  0.40355974  1
+  P  P1  1  0.70971382  0.91632450  0.75155389  1
+  P  P2  1  0.83611667  0.90559638  0.09710637  1
+  Rb  Rb3  1  0.44894528  0.96039057  0.40841350  1
+  Ac  Ac4  1  0.27866715  0.94946599  0.94507349  1
+  Si  Si5  1  0.26026177  0.41902715  0.68813276  1
+  Sb  Sb6  1  0.34951669  0.57074702  0.17397803  1
+  P  P7  1  0.05698445  0.91430759  0.54505807  1
+  P  P8  1  0.10934871  0.41814750  0.00924614  1
+  P  P9  1  0.49596301  0.47268289  0.46527970  1
+  P  P10  1  0.60610878  0.34420097  0.76624393  1
+  P  P11  1  0.76575857  0.38906249  0.01893216  1

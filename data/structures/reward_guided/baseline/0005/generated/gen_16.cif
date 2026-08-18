@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TiWTiZn
+_chemical_formula_sum              "Ti2 W1 Zn1"
+_cell_length_a       3.2319176222536123
+_cell_length_b       3.2372081994390403
+_cell_length_c       6.1112589836120605
+_cell_angle_alpha    89.98796088151859
+_cell_angle_beta     89.94604400883591
+_cell_angle_gamma    90.02980944946022
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.07747793942689896  0.943268895149231  0.6738136410713196  1.0000
+  W   W1        1.0  0.5779169797897339  0.44345891475677496  0.4331718981266021  1.0000
+  Ti  Ti2       1.0  0.07768352329730988  0.9435088038444519  0.19325628876686093  1.0000
+  Zn  Zn1       1.0  0.5777156949043274  0.443317711353302  0.9336062669754027  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OSrOSrO2
+_chemical_formula_sum              "O4 Sr2"
+_cell_length_a       4.2862387125855
+_cell_length_b       4.9329156195012915
+_cell_length_c       4.473733901977539
+_cell_angle_alpha    90.22653256787159
+_cell_angle_beta     89.99195654216355
+_cell_angle_gamma    89.9542470658882
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.6494881510734558  0.4342232346534729  0.9907670021057129  1.0000
+  Sr  Sr1       1.0  0.6497901678085327  0.9342770576477051  0.8198916912078857  1.0000
+  O   O2        1.0  0.14937083423137665  0.9342371821403502  0.14922377467155457  1.0000
+  Sr  Sr2       1.0  0.15004312992095947  0.4345593750476837  0.3198995590209961  1.0000
+  O   O3        1.0  0.15036709606647491  0.9343972206115722  0.49312177300453186  1.0000
+  O   O4        1.0  0.6502926349639893  0.43390905857086176  0.6465122699737548  1.0000

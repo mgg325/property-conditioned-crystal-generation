@@ -1,0 +1,28 @@
+# generated using pymatgen
+data_TaMo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.24397402
+_cell_length_b   3.24382448
+_cell_length_c   3.24358699
+_cell_angle_alpha   90.01960633
+_cell_angle_beta   90.05447765
+_cell_angle_gamma   90.04128382
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaMo
+_chemical_formula_sum   'Ta1 Mo1'
+_cell_volume   34.13185797
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.37450404  0.26586575  0.96074171  1
+  Mo  Mo1  1  0.87478869  0.76566257  0.46021046  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Be3Al3SiP5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13517952
+_cell_length_b   5.40948105
+_cell_length_c   7.86942053
+_cell_angle_alpha   89.73736572
+_cell_angle_beta   90.02842712
+_cell_angle_gamma   90.78543854
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be3Al3SiP5
+_chemical_formula_sum   'Be3 Al3 Si1 P5'
+_cell_volume   218.57907139
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.89035892  0.97232533  0.37877345  1
+  P  P1  1  0.66629595  0.69585216  0.88376808  1
+  P  P2  1  0.72366881  0.15568990  0.11400014  1
+  Be  Be3  1  0.90715623  0.92237425  0.91372967  1
+  Be  Be4  1  0.42391250  0.91114795  0.13855818  1
+  Al  Al5  1  0.94562268  0.45279646  0.65747881  1
+  Al  Al6  1  0.41799760  0.42624888  0.02566931  1
+  P  P7  1  0.20433402  0.76587546  0.48043990  1
+  P  P8  1  0.64857233  0.48991257  0.37926835  1
+  Al  Al9  1  0.43855092  0.95445836  0.63018602  1
+  P  P10  1  0.18459722  0.18276560  0.80186999  1
+  Be  Be11  1  0.93901682  0.46624765  0.16538009  1

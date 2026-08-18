@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       POPO3
+_chemical_formula_sum              "P2 O4"
+_cell_length_a       4.906324734745057
+_cell_length_b       4.922209387222386
+_cell_length_c       4.899916172027588
+_cell_angle_alpha    60.97835780324415
+_cell_angle_beta     60.99647186155496
+_cell_angle_gamma    61.010269137744004
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.6504437923431396  0.9993126392364503  0.14175459742546073  1.0000
+  O   O1        1.0  0.3920306861400604  0.23622457683086395  0.37914788722991943  1.0000
+  P   P2        1.0  0.10682244598865506  0.4559628665447235  0.5977640151977539  1.0000
+  O   O2        1.0  0.8887906074523926  0.7408676147460938  0.37874147295951843  1.0000
+  O   O3        1.0  0.8880755305290222  0.2371158003807068  0.8826020956039429  1.0000
+  O   O4        1.0  0.2290520966053009  0.5769527554512024  0.718612790107727  1.0000

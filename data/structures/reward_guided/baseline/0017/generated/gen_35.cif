@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LaPr2LaGa2Pr2
+_chemical_formula_sum              "La2 Pr4 Ga2"
+_cell_length_a       5.30142337083068
+_cell_length_b       7.0860133354265935
+_cell_length_c       7.1631245613098145
+_cell_angle_alpha    119.95959686924111
+_cell_angle_beta     90.13448209581603
+_cell_angle_gamma    89.65014655399986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.6509591341018677  0.4270387291908264  0.16091580688953402  1.0000
+  Pr  Pr1       1.0  0.6512818336486816  0.4347832202911377  0.7120179533958435  1.0000
+  Pr  Pr2       1.0  0.15115728974342346  0.2557574212551117  0.3533954322338104  1.0000
+  La  La2       1.0  0.1516323834657669  0.7978960275650024  0.9036998152732849  1.0000
+  Ga  Ga1       1.0  0.6507673859596252  0.9510113000869751  0.20903801918029785  1.0000
+  Ga  Ga2       1.0  0.1508605033159256  0.2726748287677765  0.8554384112358093  1.0000
+  Pr  Pr3       1.0  0.6514977216720581  0.9695860743522643  0.7116891741752625  1.0000
+  Pr  Pr4       1.0  0.15101680159568787  0.7892462611198424  0.35282310843467707  1.0000

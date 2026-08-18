@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Dy2Tl2HgTe7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41214039
+_cell_length_b   9.46284076
+_cell_length_c   11.30689581
+_cell_angle_alpha   103.11465370
+_cell_angle_beta   89.23038061
+_cell_angle_gamma   89.99731571
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2Tl2HgTe7
+_chemical_formula_sum   'Dy2 Tl2 Hg1 Te7'
+_cell_volume   459.72196014
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.96596975  0.11331154  0.91807600  1
+  Dy  Dy1  1  0.45729011  0.77870774  0.63617957  1
+  Tl  Tl2  1  0.46344300  0.26046222  0.54606381  1
+  Tl  Tl3  1  0.96403171  0.63096715  -0.02194635  1
+  Hg  Hg4  1  0.45697879  0.34811998  0.14658257  1
+  Te  Te5  1  0.46765121  0.88083138  0.91177878  1
+  Te  Te6  1  0.50693646  0.65373979  0.22256564  1
+  Te  Te7  1  0.84378693  0.60564032  0.41965727  1
+  Te  Te8  1  0.97549984  0.55373181  0.66708472  1
+  Te  Te9  1  0.46638813  0.32571528  0.88305716  1
+  Te  Te10  1  0.96535406  1.00803444  0.62697934  1
+  Te  Te11  1  0.95919038  0.17965658  0.19518129  1

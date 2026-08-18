@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Tb4SmIn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.56269710
+_cell_length_b   8.88563276
+_cell_length_c   9.52657375
+_cell_angle_alpha   119.04135512
+_cell_angle_beta   90.00584131
+_cell_angle_gamma   89.96819445
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb4SmIn2
+_chemical_formula_sum   'Tb8 Sm2 In4'
+_cell_volume   411.67622391
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.52882557  0.19915387  0.60492471  1
+  Tb  Tb1  1  0.02871805  0.37131860  0.83787535  1
+  Tb  Tb2  1  0.02864797  0.62728795  0.66429734  1
+  Tb  Tb3  1  0.02875988  0.49406010  0.23417790  1
+  Tb  Tb4  1  0.52878654  0.46821598  0.43192617  1
+  Tb  Tb5  1  0.02882109  0.92330763  0.53824712  1
+  Tb  Tb6  1  0.52855472  0.65281692  0.88755038  1
+  Tb  Tb7  1  0.02903965  0.19276851  0.38054017  1
+  Sm  Sm8  1  0.02931055  0.05055987  0.95746113  1
+  Sm  Sm9  1  0.52864070  0.76808859  0.28881260  1
+  In  In10  1  0.52927936  0.06326066  0.16787550  1
+  In  In11  1  0.52897992  0.88243872  0.70367399  1
+  In  In12  1  0.52888692  0.32681720  0.01388446  1
+  In  In13  1  0.02850218  0.78248875  0.10350782  1

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Zr2AlRhZrAl2Si2
+_chemical_formula_sum              "Zr3 Al3 Rh1 Si2"
+_cell_length_a       3.98394803688976
+_cell_length_b       6.672430323716988
+_cell_length_c       6.581127166748047
+_cell_angle_alpha    118.80921639726786
+_cell_angle_beta     89.07402012963922
+_cell_angle_gamma    89.97589873241304
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.39230108261108393  0.24666020274162292  0.9364885091781615  1.0000
+  Zr  Zr2       1.0  0.3915801048278808  0.3945912718772888  0.5094550848007202  1.0000
+  Al  Al1       1.0  0.8921112418174743  0.8207653760910034  0.7504070401191711  1.0000
+  Rh  Rh1       1.0  0.38843640685081476  0.819231390953064  0.5078938007354736  1.0000
+  Zr  Zr3       1.0  0.39226883649826044  0.8213488459587097  0.08455109596252441  1.0000
+  Al  Al2       1.0  0.8933998942375182  0.06164612993597984  0.5117542147636414  1.0000
+  Al  Al3       1.0  0.8944880366325377  0.5794076919555664  0.26832410693168635  1.0000
+  Si  Si1       1.0  0.8936042189598082  0.4867955446243286  0.8426182866096497  1.0000
+  Si  Si2       1.0  0.8912084102630614  0.1525573581457138  0.17812946438789368  1.0000

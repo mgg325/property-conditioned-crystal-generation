@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Ta2ReW
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.22734368
+_cell_length_b   3.22734412
+_cell_length_c   6.45319407
+_cell_angle_alpha   90.00019214
+_cell_angle_beta   89.99981234
+_cell_angle_gamma   89.99997767
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2ReW
+_chemical_formula_sum   'Ta2 Re1 W1'
+_cell_volume   67.21484732
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.29903468  0.83623351  0.08673624  1
+  Ta  Ta1  1  0.29901252  0.83634420  0.59619947  1
+  Re  Re2  1  0.79900129  0.33626969  0.84149441  1
+  W  W3  1  0.79901905  0.33630891  0.34147564  1

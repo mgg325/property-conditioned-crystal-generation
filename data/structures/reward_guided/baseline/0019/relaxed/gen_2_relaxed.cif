@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeTl2(AgS2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.85111278
+_cell_length_b   7.05751359
+_cell_length_c   6.89869034
+_cell_angle_alpha   59.26856420
+_cell_angle_beta   81.35727970
+_cell_angle_gamma   72.90963331
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeTl2(AgS2)3
+_chemical_formula_sum   'Ce1 Tl2 Ag3 S6'
+_cell_volume   274.06152605
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.96496056  0.65755737  0.08747974  1
+  Tl  Tl1  1  0.96468003  0.32495677  0.75187854  1
+  Tl  Tl2  1  0.46473685  0.15309102  0.09676682  1
+  Ag  Ag3  1  0.96454180  0.98211305  0.43721313  1
+  Ag  Ag4  1  0.46474597  0.50383515  0.39569116  1
+  Ag  Ag5  1  0.46517024  0.80590997  0.79011226  1
+  S  S6  1  0.70556826  0.70139270  0.42426427  1
+  S  S7  1  0.71616557  0.03596964  0.75700987  1
+  S  S8  1  0.74492768  0.38124039  0.10521072  1
+  S  S9  1  0.21350915  0.60928945  0.75701967  1
+  S  S10  1  0.22435523  0.27723931  0.42399947  1
+  S  S11  1  0.18501564  0.91645491  0.10476843  1

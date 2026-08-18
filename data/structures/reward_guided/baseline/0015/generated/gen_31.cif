@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Sr2AgMg
+_chemical_formula_sum              "Sr2 Ag1 Mg1"
+_cell_length_a       4.095999079897622
+_cell_length_b       5.627990130066468
+_cell_length_c       5.6040873527526855
+_cell_angle_alpha    89.81167369170105
+_cell_angle_beta     90.02250114943662
+_cell_angle_gamma    90.10615730221016
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.29275065660476685  0.5483561158180237  0.2502235472202301  1.0000
+  Sr  Sr2       1.0  0.2920275628566742  0.04684326797723771  0.7506434917449951  1.0000
+  Ag  Ag1       1.0  0.7922527194023132  0.5466436147689819  0.7503142356872559  1.0000
+  Mg  Mg1       1.0  0.7917546033859253  0.04864216595888138  0.2514358162879944  1.0000

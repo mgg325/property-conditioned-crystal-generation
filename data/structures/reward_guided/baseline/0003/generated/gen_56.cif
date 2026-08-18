@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TiAlCd2
+_chemical_formula_sum              "Ti1 Al1 Cd2"
+_cell_length_a       4.121924027248584
+_cell_length_b       4.123226801620352
+_cell_length_c       4.330244541168213
+_cell_angle_alpha    90.10061801414922
+_cell_angle_beta     90.03041050679715
+_cell_angle_gamma    89.9923458626991
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.4953857362270355  0.514603316783905  0.09651335328817368  1.0000
+  Al  Al1       1.0  0.9953873157501221  0.01445339061319828  0.09678521752357483  1.0000
+  Cd  Cd1       1.0  0.9954102039337158  0.514735221862793  0.5966817736625671  1.0000
+  Cd  Cd2       1.0  0.49549829959869385  0.01469063013792038  0.5962541699409485  1.0000

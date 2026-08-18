@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NbTe7(MoS)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.46171985
+_cell_length_b   3.53676862
+_cell_length_c   39.95991648
+_cell_angle_alpha   90.06682724
+_cell_angle_beta   90.11248234
+_cell_angle_gamma   119.86784114
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbTe7(MoS)2
+_chemical_formula_sum   'Nb1 Te7 Mo2 S2'
+_cell_volume   424.25642293
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.59210837  0.68975667  0.47925603  1
+  Te  Te1  1  0.27716895  0.02712375  0.18513119  1
+  Te  Te2  1  0.26161966  0.01801139  0.03913865  1
+  Te  Te3  1  0.56212740  0.64829842  0.27337583  1
+  Te  Te4  1  0.58335175  0.65756388  0.84847130  1
+  Te  Te5  1  0.56327266  0.66364906  0.34180758  1
+  Te  Te6  1  0.26033866  0.02317054  0.43186890  1
+  Te  Te7  1  0.58873171  0.66301747  0.94014152  1
+  Mo  Mo8  1  0.60408067  0.68813910  0.13984009  1
+  Mo  Mo9  1  0.25445523  0.99539372  0.89421568  1
+  S  S10  1  0.27107280  0.02072759  0.10364228  1
+  S  S11  1  0.26533752  0.03070820  0.51622231  1

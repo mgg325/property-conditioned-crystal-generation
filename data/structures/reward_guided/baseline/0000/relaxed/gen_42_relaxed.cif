@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Tb2Nd2YAl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98478107
+_cell_length_b   6.27912831
+_cell_length_c   8.44310782
+_cell_angle_alpha   97.72333041
+_cell_angle_beta   89.99997035
+_cell_angle_gamma   108.49990133
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Nd2YAl2
+_chemical_formula_sum   'Tb2 Nd2 Y1 Al2'
+_cell_volume   198.31600042
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.45712512  0.87737857  0.60370088  1
+  Tb  Tb1  1  0.91587736  0.79484482  0.91576794  1
+  Nd  Nd2  1  0.31144328  0.58596745  0.20269566  1
+  Nd  Nd3  1  0.06154316  0.08618071  0.31672316  1
+  Y  Y4  1  0.18654150  0.33613368  0.75968597  1
+  Al  Al5  1  0.75629019  0.47566385  0.49912408  1
+  Al  Al6  1  0.61671147  0.19656776  0.02025924  1

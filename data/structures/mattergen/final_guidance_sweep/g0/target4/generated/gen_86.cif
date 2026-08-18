@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CsFe2Te2
+_chemical_formula_sum              "Cs1 Fe2 Te2"
+_cell_length_a       3.9440553625791903
+_cell_length_b       3.948194301366029
+_cell_length_c       8.991576194763184
+_cell_angle_alpha    102.83288313243933
+_cell_angle_beta     102.81810184716376
+_cell_angle_gamma    89.96655532194582
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.9103925228118896  0.15452279150485995  0.3739100396633148  1.0000
+  Fe  Fe1       1.0  0.6608158946037292  0.4041623771190644  0.8744628429412842  1.0000
+  Fe  Fe2       1.0  0.159269779920578  0.9056927561759949  0.8746134042739868  1.0000
+  Te  Te1       1.0  0.560515820980072  0.8053414225578308  0.6761588454246521  1.0000
+  Te  Te2       1.0  0.2597780227661133  0.5042871236801147  0.07340031117200853  1.0000

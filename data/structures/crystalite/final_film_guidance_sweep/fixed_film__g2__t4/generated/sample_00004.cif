@@ -1,0 +1,28 @@
+# generated using pymatgen
+data_BaCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.54687166
+_cell_length_b   4.53781748
+_cell_length_c   4.61960411
+_cell_angle_alpha   59.71473694
+_cell_angle_beta   60.03221130
+_cell_angle_gamma   59.72983170
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCl
+_chemical_formula_sum   'Ba1 Cl1'
+_cell_volume   67.13026205
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.48261136  0.56685013  0.62941796  1
+  Ba  Ba1  1  0.98795772  0.06705794  0.13562894  1

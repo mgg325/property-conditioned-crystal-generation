@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_La2TlHgBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.33718241
+_cell_length_b   7.84300141
+_cell_length_c   7.93961345
+_cell_angle_alpha   112.82351036
+_cell_angle_beta   104.95985238
+_cell_angle_gamma   100.22910091
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2TlHgBr6
+_chemical_formula_sum   'La2 Tl1 Hg1 Br6'
+_cell_volume   386.55128565
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.43933953  0.12615223  0.20319988  1
+  La  La1  1  0.52409091  0.80664379  0.59779497  1
+  Tl  Tl2  1  0.98173268  0.46625529  0.90045315  1
+  Hg  Hg3  1  0.98199036  0.96646659  0.90017808  1
+  Br  Br4  1  0.54995310  0.20805929  0.89900129  1
+  Br  Br5  1  0.21396657  0.41329561  0.31488882  1
+  Br  Br6  1  0.75688200  0.03421115  0.45123699  1
+  Br  Br7  1  0.20656339  0.89846950  0.34976948  1
+  Br  Br8  1  0.41339951  0.72471370  0.90183617  1
+  Br  Br9  1  0.74929929  0.51928665  0.48615817  1

@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       RbTe2
+_chemical_formula_sum              "Rb1 Te2"
+_cell_length_a       5.473977321646315
+_cell_length_b       5.211948119184391
+_cell_length_c       5.177811145782471
+_cell_angle_alpha    88.67935122553885
+_cell_angle_beta     73.54286523544656
+_cell_angle_gamma    74.90412891622915
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.6136187314987183  0.668024480342865  0.9298499822616577  1.0000
+  Te  Te1       1.0  0.329012006521225  0.23581928014755252  0.5084437727928162  1.0000
+  Te  Te2       1.0  0.897885799407959  0.0996265783905983  0.34986305236816406  1.0000

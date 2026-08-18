@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       B2TeAlTiTe
+_chemical_formula_sum              "B2 Te2 Al1 Ti1"
+_cell_length_a       3.614639835497446
+_cell_length_b       3.614573098002816
+_cell_length_c       9.952666312233786
+_cell_angle_alpha    79.58726818637967
+_cell_angle_beta     79.58062364749078
+_cell_angle_gamma    60.00091201349317
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.7197214874837022  0.6667894780804864  0.4037145366292403  1.0000
+  B   B2        1.0  0.6585085917574177  0.6059487028830931  0.5871536255287529  1.0000
+  Te  Te1       1.0  0.9497045895565677  0.8973562917929684  0.7135767006861695  1.0000
+  Al  Al1       1.0  0.04144149641359857  0.9885196184793267  0.43878025556688854  1.0000
+  Ti  Ti1       1.0  0.4353070677360184  0.38223962381124693  0.2564062069464199  1.0000
+  Te  Te2       1.0  0.16452296696329577  0.11141848567657023  0.06777343364908824  1.0000

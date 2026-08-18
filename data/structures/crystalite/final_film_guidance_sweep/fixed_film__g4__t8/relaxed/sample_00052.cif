@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_SnHg3Sb2S5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42930071
+_cell_length_b   3.77438820
+_cell_length_c   6.69781265
+_cell_angle_alpha   90.50092434
+_cell_angle_beta   102.30911212
+_cell_angle_gamma   97.81848418
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnHg3Sb2S5
+_chemical_formula_sum   'Sn1 Hg3 Sb2 S5'
+_cell_volume   132.75066433
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.20863103  0.39741353  0.81902718  1
+  Hg  Hg1  1  0.24173300  0.64753896  0.83959783  1
+  Hg  Hg2  1  0.51851367  0.02615703  0.61611576  1
+  Hg  Hg3  1  0.67131463  0.47003614  0.57024229  1
+  Sb  Sb4  1  0.25174294  0.54075510  0.15135847  1
+  Sb  Sb5  1  0.51314099  0.16170916  0.22930061  1
+  S  S6  1  0.61308939  0.53049653  0.55360239  1
+  S  S7  1  0.90866894  0.91485241  0.38336928  1
+  S  S8  1  0.46070076  0.24320642  0.36021189  1
+  S  S9  1  0.67041870  0.45032243  0.95882900  1
+  S  S10  1  0.91513472  0.07714882  0.93740934  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_MgGe(NF3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77195167
+_cell_length_b   5.92827204
+_cell_length_c   6.22577195
+_cell_angle_alpha   60.29194974
+_cell_angle_beta   60.24477357
+_cell_angle_gamma   62.88591637
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgGe(NF3)2
+_chemical_formula_sum   'Mg1 Ge1 N2 F6'
+_cell_volume   154.29196481
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.10872270  0.61260209  1.00302803  1
+  Ge  Ge1  1  0.48896473  0.05065557  0.40609867  1
+  N  N2  1  0.54848671  0.06541657  1.02714701  1
+  N  N3  1  0.39980622  0.93884646  0.22573846  1
+  F  F4  1  0.21085358  0.37020388  0.31036874  1
+  F  F5  1  0.66136088  0.25968386  0.34799600  1
+  F  F6  1  0.26000610  0.36757076  0.83219007  1
+  F  F7  1  0.77197585  0.89085574  0.85896935  1
+  F  F8  1  0.80620687  0.77275669  0.37376049  1
+  F  F9  1  0.29883791  0.90385327  0.75102393  1

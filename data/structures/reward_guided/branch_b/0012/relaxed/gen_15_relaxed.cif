@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_ErRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.80769505
+_cell_length_b   4.80788023
+_cell_length_c   4.80757418
+_cell_angle_alpha   60.00264108
+_cell_angle_beta   60.00399665
+_cell_angle_gamma   59.99921632
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErRh
+_chemical_formula_sum   'Er2 Rh2'
+_cell_volume   78.58158083
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.83226603  0.63015144  0.45587127  1
+  Er  Er1  1  0.33269929  0.12970936  0.95602176  1
+  Rh  Rh2  1  0.08234136  0.88012650  0.70590215  1
+  Rh  Rh3  1  0.58236743  0.38013531  0.20601885  1

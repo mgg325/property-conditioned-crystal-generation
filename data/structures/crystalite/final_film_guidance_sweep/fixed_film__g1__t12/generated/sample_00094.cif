@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CdBiSbPb(SeO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.81180859
+_cell_length_b   7.21361780
+_cell_length_c   7.63655519
+_cell_angle_alpha   103.36705017
+_cell_angle_beta   89.63896179
+_cell_angle_gamma   105.97494507
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdBiSbPb(SeO2)2
+_chemical_formula_sum   'Cd1 Bi1 Sb1 Pb1 Se2 O4'
+_cell_volume   196.03461461
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.00072944  0.43824145  0.10177857  1
+  Cd  Cd1  1  0.50966650  0.56009316  0.05748087  1
+  O  O2  1  0.76690030  0.82843816  0.28375286  1
+  Bi  Bi3  1  0.68625468  0.07068580  0.92563224  1
+  Se  Se4  1  0.87700427  0.25001556  0.66142797  1
+  O  O5  1  0.50068539  0.32485765  0.30565137  1
+  O  O6  1  0.23337334  0.90251172  0.09704989  1
+  Se  Se7  1  0.04645857  0.74754620  0.70524031  1
+  Sb  Sb8  1  0.29802376  0.05302373  0.33770716  1
+  Pb  Pb9  1  0.18012416  0.54870206  0.47284096  1

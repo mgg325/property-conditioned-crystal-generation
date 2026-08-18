@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiInLiBaIn
+_chemical_formula_sum              "Li2 In2 Ba1"
+_cell_length_a       5.189465210003024
+_cell_length_b       5.189800582939309
+_cell_length_c       6.280402660369873
+_cell_angle_alpha    114.13218773272634
+_cell_angle_beta     115.04562766932733
+_cell_angle_gamma    90.5811360743973
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.07448285818099976  0.1254635900259018  0.9123210310935974  1.0000
+  In  In1       1.0  0.18423232436180115  0.7357645034790039  0.13426530361175534  1.0000
+  Li  Li2       1.0  0.5735666155815125  0.6244376301765442  0.9119061827659607  1.0000
+  Ba  Ba1       1.0  0.8236439824104309  0.3751567006111145  0.41229796409606934  1.0000
+  In  In2       1.0  0.4614185690879822  0.015101080760359764  0.6892446875572205  1.0000

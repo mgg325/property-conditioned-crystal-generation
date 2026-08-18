@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Y3Sc3(SiN)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.54101441
+_cell_length_b   6.31104623
+_cell_length_c   8.79808486
+_cell_angle_alpha   89.75035081
+_cell_angle_beta   89.99992129
+_cell_angle_gamma   106.29110594
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y3Sc3(SiN)2
+_chemical_formula_sum   'Y3 Sc3 Si2 N2'
+_cell_volume   188.71897738
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.87079521  0.38643227  0.30788349  1
+  Y  Y1  1  0.86943469  0.38341726  0.70798317  1
+  Y  Y2  1  0.61448752  0.87393407  0.20516110  1
+  Sc  Sc3  1  0.18745343  0.01948109  0.51064803  1
+  Sc  Sc4  1  0.29327653  0.23102788  0.00613820  1
+  Sc  Sc5  1  0.61956055  0.88370255  0.80545192  1
+  Si  Si6  1  0.98320191  0.61107727  0.99918332  1
+  Si  Si7  1  0.50729163  0.65898220  0.51385049  1
+  N  N8  1  0.23629846  0.11671702  0.76055997  1
+  N  N9  1  0.24267172  0.12989989  0.25773576  1

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ti2RuOs
+_chemical_formula_sum              "Ti2 Ru1 Os1"
+_cell_length_a       4.316125963009084
+_cell_length_b       4.317798654044082
+_cell_length_c       4.316723346710205
+_cell_angle_alpha    60.296521051407
+_cell_angle_beta     61.04542448261657
+_cell_angle_gamma    60.53656869069095
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.7422146201133728  0.628170907497406  0.4507000148296356  1.0000
+  Ti  Ti2       1.0  0.24220886826515198  0.12861798703670502  0.9522358775138855  1.0000
+  Ru  Ru1       1.0  0.9911517500877379  0.8794458508491516  0.7022842168807985  1.0000
+  Os  Os1       1.0  0.49185267090797424  0.37840479612350464  0.20154617726802831  1.0000

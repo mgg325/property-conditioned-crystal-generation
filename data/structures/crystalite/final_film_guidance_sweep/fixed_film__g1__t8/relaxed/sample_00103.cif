@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaInAg2(TeO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77129455
+_cell_length_b   6.02665513
+_cell_length_c   8.32951861
+_cell_angle_alpha   91.22758306
+_cell_angle_beta   90.33328852
+_cell_angle_gamma   88.57185309
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaInAg2(TeO3)4
+_chemical_formula_sum   'Na1 In1 Ag2 Te4 O12'
+_cell_volume   289.55348761
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.84712881  -0.03198101  0.07056416  1
+  In  In1  1  0.87947283  0.89253720  0.57089806  1
+  Ag  Ag2  1  0.34167096  0.51834409  0.07800295  1
+  Ag  Ag3  1  0.35290261  0.46326380  0.57443836  1
+  Te  Te4  1  0.82938051  0.44086615  0.32580590  1
+  Te  Te5  1  0.82521985  0.41721101  0.83378102  1
+  Te  Te6  1  0.34491251  0.94668637  0.82921268  1
+  Te  Te7  1  0.37358812  0.96422564  0.33217901  1
+  O  O8  1  0.62931241  0.78316728  0.84847143  1
+  O  O9  1  0.15583882  0.73981215  0.39736524  1
+  O  O10  1  0.62459950  0.77827781  0.25507783  1
+  O  O11  1  0.52447815  0.30488645  0.87282423  1
+  O  O12  1  0.14688777  0.72013270  0.73262683  1
+  O  O13  1  -0.02269895  0.16411253  0.39585793  1
+  O  O14  1  0.94474800  0.38103342  0.04764155  1
+  O  O15  1  0.24180348  0.89977274  0.04429764  1
+  O  O16  1  -0.03361729  0.13885153  0.75668447  1
+  O  O17  1  0.74892669  0.55196588  0.54299474  1
+  O  O18  1  0.54011850  0.31108691  0.27045430  1
+  O  O19  1  0.51646883  0.00871271  0.54493405  1

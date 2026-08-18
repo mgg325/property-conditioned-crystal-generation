@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OBiCaBiIO3
+_chemical_formula_sum              "O4 Bi2 Ca1 I1"
+_cell_length_a       4.001344414967618
+_cell_length_b       4.000279148283485
+_cell_length_c       9.684446829446616
+_cell_angle_alpha    90.00828404465635
+_cell_angle_beta     89.99739715568441
+_cell_angle_gamma    89.99994377681527
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.1103497480012225  0.66280625717924  0.9069432393972502  1.0000
+  Bi  Bi1       1.0  0.6102122621873957  0.6629734770706672  0.07738319732692679  1.0000
+  Ca  Ca1       1.0  0.11013234198855101  0.16308034258903215  0.31113295224567694  1.0000
+  Bi  Bi2       1.0  0.11022975017127211  0.1627796206121935  0.8006394637042231  1.0000
+  I   I1        1.0  0.6101144827387879  0.6625601026549858  0.5387247405264766  1.0000
+  O   O2        1.0  0.6102481735840168  0.1628284812417042  0.9068110951289853  1.0000
+  O   O3        1.0  0.6101641708607098  0.16301961060462447  0.1983316700390484  1.0000
+  O   O4        1.0  0.11020515412864985  0.6630496648143911  0.19823520651430515  1.0000

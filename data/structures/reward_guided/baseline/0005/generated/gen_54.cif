@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       RhMg2In
+_chemical_formula_sum              "Rh1 Mg2 In1"
+_cell_length_a       4.057276837589858
+_cell_length_b       4.068987201054108
+_cell_length_c       5.300553798675537
+_cell_angle_alpha    112.56703510695462
+_cell_angle_beta     112.44269951623137
+_cell_angle_gamma    89.95580423606619
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.7771605849266052  0.3063501715660095  0.4557148814201355  1.0000
+  Mg  Mg1       1.0  0.5269215703010559  0.556933343410492  0.9559179544448853  1.0000
+  Mg  Mg2       1.0  0.027939867228269574  0.05642087385058403  0.9561125040054321  1.0000
+  In  In1       1.0  0.2771235704421997  0.806390643119812  0.45537883043289185  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ni2Be2Ni4
+_chemical_formula_sum              "Ni6 Be2"
+_cell_length_a       3.972947307802441
+_cell_length_b       4.144626603626045
+_cell_length_c       4.867652893066406
+_cell_angle_alpha    89.67834157612448
+_cell_angle_beta     90.15976745942399
+_cell_angle_gamma    90.09289306737854
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.983583688735962  0.24937939643859866  0.8639220595359802  1.0000
+  Ni  Ni2       1.0  0.48330566287040716  0.9300357699394226  0.34945347905158997  1.0000
+  Be  Be1       1.0  0.48315119743347174  0.9313268661499023  0.8518805503845215  1.0000
+  Be  Be2       1.0  0.9832667112350465  0.7568618655204773  0.11705391108989716  1.0000
+  Ni  Ni3       1.0  0.48375979065895086  0.42530137300491333  0.612084150314331  1.0000
+  Ni  Ni4       1.0  0.9826900959014894  0.7602955102920532  0.619228720664978  1.0000
+  Ni  Ni5       1.0  0.9840707778930665  0.2630220949649811  0.3557099401950836  1.0000
+  Ni  Ni6       1.0  0.4830783903598786  0.4389130175113678  0.10362052917480469  1.0000

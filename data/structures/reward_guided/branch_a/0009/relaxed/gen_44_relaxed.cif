@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cs2Hg9Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.07268078
+_cell_length_b   7.60532195
+_cell_length_c   7.60779503
+_cell_angle_alpha   81.05789001
+_cell_angle_beta   90.03648458
+_cell_angle_gamma   89.93465992
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Hg9Au
+_chemical_formula_sum   'Cs2 Hg9 Au1'
+_cell_volume   404.24925878
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.01714469  0.42446518  0.21887541  1
+  Cs  Cs1  1  0.51833656  0.05346301  0.59000110  1
+  Hg  Hg2  1  0.78328748  0.53746814  0.70215223  1
+  Hg  Hg3  1  0.51767280  0.60246489  0.37870516  1
+  Hg  Hg4  1  0.01805702  0.19639134  0.76640079  1
+  Hg  Hg5  1  0.25277264  0.94150653  0.10703153  1
+  Hg  Hg6  1  0.25248781  0.53637307  0.70128846  1
+  Hg  Hg7  1  0.78336917  0.93974211  0.10646057  1
+  Hg  Hg8  1  0.51670628  0.66957622  0.97280177  1
+  Hg  Hg9  1  0.01807302  0.87768000  0.44666942  1
+  Hg  Hg10  1  0.51853087  0.26389731  0.04099927  1
+  Au  Au11  1  0.01898928  0.81604394  0.82695546  1

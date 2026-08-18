@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_In2PdAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.55684627
+_cell_length_b   5.28272877
+_cell_length_c   9.20595808
+_cell_angle_alpha   89.94987203
+_cell_angle_beta   89.99597668
+_cell_angle_gamma   109.67192974
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2PdAu
+_chemical_formula_sum   'In4 Pd2 Au2'
+_cell_volume   162.88273875
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.82393151  0.80603468  0.78602167  1
+  In  In1  1  0.74680616  0.65040717  0.28638418  1
+  In  In2  1  0.45500793  0.06659691  0.07595720  1
+  In  In3  1  0.11707530  0.39011274  0.57522988  1
+  Pd  Pd4  1  0.02814669  0.21355865  0.29138276  1
+  Pd  Pd5  1  0.54288448  0.24313443  0.79134596  1
+  Au  Au6  1  0.17878608  0.51534768  0.00252071  1
+  Au  Au7  1  0.39249403  0.94170172  0.50189238  1

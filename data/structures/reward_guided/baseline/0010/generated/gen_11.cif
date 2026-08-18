@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SrZn2Ba
+_chemical_formula_sum              "Sr1 Zn2 Ba1"
+_cell_length_a       4.65515681874966
+_cell_length_b       4.6532868613408285
+_cell_length_c       8.54139518737793
+_cell_angle_alpha    74.13772646766937
+_cell_angle_beta     74.06761469228414
+_cell_angle_gamma    59.901492145504484
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.9259602427482605  0.08653914928436278  0.8272196650505066  1.0000
+  Zn  Zn1       1.0  0.3402973413467408  0.5009338855743407  0.5842368006706238  1.0000
+  Zn  Zn2       1.0  0.6740899085998535  0.8344274163246154  0.5839873552322388  1.0000
+  Ba  Ba1       1.0  0.09717509895563126  0.2594063878059387  0.312915563583374  1.0000

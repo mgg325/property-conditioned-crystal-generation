@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_BaNaLi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52526078
+_cell_length_b   5.51805317
+_cell_length_c   10.26662699
+_cell_angle_alpha   90.00114251
+_cell_angle_beta   90.03912427
+_cell_angle_gamma   119.88222383
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNaLi
+_chemical_formula_sum   'Ba2 Na2 Li2'
+_cell_volume   271.40080523
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.91402869  0.62708731  0.49499183  1
+  Ba  Ba1  1  0.24775457  0.29351986  0.17415144  1
+  Na  Na2  1  0.58042804  0.96086032  0.68918106  1
+  Na  Na3  1  0.58141995  0.95975140  0.97882445  1
+  Li  Li4  1  0.91484983  0.62656876  0.87899664  1
+  Li  Li5  1  0.24755572  0.29394308  0.79083146  1

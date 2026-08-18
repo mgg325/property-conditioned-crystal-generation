@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CrCoCrNiCoNi2CoNi2
+_chemical_formula_sum              "Cr2 Co3 Ni5"
+_cell_length_a       4.264588481291382
+_cell_length_b       4.939095914037361
+_cell_length_c       5.548196315765381
+_cell_angle_alpha    77.29914890274284
+_cell_angle_beta     75.15508519877073
+_cell_angle_gamma    73.29630987528643
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.3046646118164063  0.7678086757659912  0.08012473583221436  1.0000
+  Co  Co1       1.0  0.704242467880249  0.3713029623031616  0.2714157700538635  1.0000
+  Cr  Cr2       1.0  0.30312082171440125  0.26819321513175964  0.07821545749902725  1.0000
+  Ni  Ni1       1.0  0.10265018045902256  0.9693720340728759  0.47376319766044617  1.0000
+  Co  Co2       1.0  0.9050112962722779  0.6674345135688781  0.8837190866470337  1.0000
+  Ni  Ni2       1.0  0.5046101212501526  0.06856800615787506  0.6800447702407837  1.0000
+  Ni  Ni3       1.0  0.10264001041650773  0.4711748361587524  0.47329622507095337  1.0000
+  Co  Co3       1.0  0.7029157280921936  0.8697987794876099  0.27354589104652405  1.0000
+  Ni  Ni4       1.0  0.50341135263443  0.5683021545410155  0.6800664067268372  1.0000
+  Ni  Ni5       1.0  0.9039735198020935  0.16739735007286072  0.8801907300949097  1.0000

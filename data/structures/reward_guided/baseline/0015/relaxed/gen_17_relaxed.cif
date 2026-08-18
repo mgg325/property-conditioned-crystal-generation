@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Ti2MoPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.15669475
+_cell_length_b   4.43325973
+_cell_length_c   4.43130006
+_cell_angle_alpha   89.95331715
+_cell_angle_beta   89.94876122
+_cell_angle_gamma   90.01046453
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2MoPd
+_chemical_formula_sum   'Ti2 Mo1 Pd1'
+_cell_volume   62.01355061
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.76314447  0.99612244  0.18418167  1
+  Ti  Ti1  1  0.76262177  0.49640907  0.68343950  1
+  Mo  Mo2  1  0.26260165  0.99656580  0.68451798  1
+  Pd  Pd3  1  0.26213884  0.49615227  0.18363472  1

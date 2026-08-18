@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbAl9Pd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.80302467
+_cell_length_b   8.24278663
+_cell_length_c   8.23743731
+_cell_angle_alpha   120.07256672
+_cell_angle_beta   90.00498195
+_cell_angle_gamma   90.00688383
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbAl9Pd2
+_chemical_formula_sum   'Yb1 Al9 Pd2'
+_cell_volume   223.46417651
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.09788767  0.12866256  0.69944863  1
+  Al  Al1  1  0.59829796  0.32710712  0.49984373  1
+  Al  Al2  1  0.09824272  0.62858288  0.69852490  1
+  Al  Al3  1  0.59776749  0.93037251  0.89685969  1
+  Al  Al4  1  0.59806021  0.32831693  0.09544702  1
+  Al  Al5  1  0.09785458  0.62966248  0.19851627  1
+  Al  Al6  1  0.59853997  0.73209456  0.49976727  1
+  Al  Al7  1  0.09841555  0.12938644  0.19820426  1
+  Al  Al8  1  0.59740376  0.52623328  0.89686473  1
+  Al  Al9  1  0.59796928  0.93138998  0.30148624  1
+  Pd  Pd10  1  0.09738260  0.79616383  0.03223042  1
+  Pd  Pd11  1  0.09812003  0.46287531  0.36472451  1

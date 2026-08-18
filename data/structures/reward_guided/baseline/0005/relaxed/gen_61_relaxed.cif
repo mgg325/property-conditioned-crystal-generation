@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Li7Pt3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.70056667
+_cell_length_b   7.18614359
+_cell_length_c   8.18760414
+_cell_angle_alpha   90.03057694
+_cell_angle_beta   90.00379819
+_cell_angle_gamma   90.00030906
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li7Pt3
+_chemical_formula_sum   'Li7 Pt3'
+_cell_volume   158.89402533
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.89320029  0.39504993  0.35600838  1
+  Li  Li1  1  0.89225714  0.76468843  0.81558929  1
+  Li  Li2  1  0.89236544  0.39519517  0.81554105  1
+  Li  Li3  1  0.89320668  0.76451727  0.35508095  1
+  Li  Li4  1  0.89271804  0.07942976  0.58552378  1
+  Li  Li5  1  0.89281732  0.90108969  0.08540237  1
+  Li  Li6  1  0.89278143  0.25930620  0.08568634  1
+  Pt  Pt7  1  0.39283039  0.58012742  0.08552420  1
+  Pt  Pt8  1  0.39257096  0.08007511  0.85650745  1
+  Pt  Pt9  1  0.39299761  0.07992283  0.31454482  1

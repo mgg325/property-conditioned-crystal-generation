@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tb3AuTbCdAuNi
+_chemical_formula_sum              "Tb4 Au2 Cd1 Ni1"
+_cell_length_a       5.087250552847025
+_cell_length_b       5.013418349140435
+_cell_length_c       8.638399124145508
+_cell_angle_alpha    72.94618085957629
+_cell_angle_beta     73.37852427062451
+_cell_angle_gamma    60.36075899167614
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.32890650629997253  0.9200466871261598  0.9945842623710632  1.0000
+  Tb  Tb2       1.0  0.8432319164276123  0.43764975666999817  0.44317761063575745  1.0000
+  Tb  Tb3       1.0  0.07522749900817874  0.6682373285293579  0.7485315799713135  1.0000
+  Au  Au1       1.0  0.20171722769737235  0.794641673564911  0.37167638540267944  1.0000
+  Tb  Tb4       1.0  0.5932168364524841  0.18596839904785156  0.19788609445095062  1.0000
+  Cd  Cd1       1.0  0.4591319262981415  0.05292186513543129  0.5960583686828613  1.0000
+  Au  Au2       1.0  0.7189425826072693  0.3106924593448639  0.8215531706809998  1.0000
+  Ni  Ni1       1.0  0.9617546796798706  0.5523392558097839  0.09473500400781631  1.0000

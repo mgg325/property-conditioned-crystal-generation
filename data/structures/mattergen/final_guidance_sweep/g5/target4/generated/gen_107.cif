@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ZnLiOZnO3Si
+_chemical_formula_sum              "Zn2 Li1 O4 Si1"
+_cell_length_a       4.551424921505333
+_cell_length_b       4.548534791511083
+_cell_length_c       5.3312907218933105
+_cell_angle_alpha    115.22958116639917
+_cell_angle_beta     115.31809855427609
+_cell_angle_gamma    90.13399615234854
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.4572155773639679  0.7513278722763062  0.14428821206092834  1.0000
+  Li  Li1       1.0  0.706565797328949  0.5016130805015563  0.6439210772514343  1.0000
+  O   O1        1.0  0.8836110830307007  0.1063435822725296  0.42373454570770264  1.0000
+  Zn  Zn2       1.0  0.9563831090927124  0.2512108087539673  0.14412905275821686  1.0000
+  O   O2        1.0  0.30991968512535095  0.6777142286300659  0.42450329661369324  1.0000
+  O   O3        1.0  0.5318695306777954  0.32540577650070185  0.8646356463432312  1.0000
+  O   O4        1.0  0.1025504320859909  0.8981001973152161  0.8637334704399109  1.0000
+  Si  Si1       1.0  0.2074282318353653  0.002372145652770996  0.6439836621284485  1.0000

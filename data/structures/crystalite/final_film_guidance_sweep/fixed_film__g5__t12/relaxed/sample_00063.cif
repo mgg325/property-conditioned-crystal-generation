@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Rb5UTc3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.85000205
+_cell_length_b   4.51841652
+_cell_length_c   25.84441595
+_cell_angle_alpha   85.09237733
+_cell_angle_beta   93.89538571
+_cell_angle_gamma   85.55597766
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb5UTc3
+_chemical_formula_sum   'Rb5 U1 Tc3'
+_cell_volume   329.66163984
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.16039040  0.68854275  1.00262720  1
+  Rb  Rb1  1  0.04735862  0.03334844  0.34665635  1
+  Rb  Rb2  1  0.07833738  -0.15496661  0.72329133  1
+  Rb  Rb3  1  0.81833895  0.94062891  0.53622614  1
+  Rb  Rb4  1  0.95871203  0.58184580  0.18854718  1
+  U  U5  1  0.59309532  0.27726627  0.86351223  1
+  Tc  Tc6  1  0.50195849  0.40286488  0.63156453  1
+  Tc  Tc7  1  0.55737599  1.13410946  0.09739170  1
+  Tc  Tc8  1  0.57199480  0.48767684  0.43711135  1

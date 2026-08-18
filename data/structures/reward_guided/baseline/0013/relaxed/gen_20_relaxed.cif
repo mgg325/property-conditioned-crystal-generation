@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_YGa2Cu2Ag
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35853242
+_cell_length_b   4.35876404
+_cell_length_c   6.28848631
+_cell_angle_alpha   90.00088901
+_cell_angle_beta   89.99884893
+_cell_angle_gamma   120.00599287
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YGa2Cu2Ag
+_chemical_formula_sum   'Y1 Ga2 Cu2 Ag1'
+_cell_volume   103.45563788
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.47594767  0.08363847  0.43095380  1
+  Ga  Ga1  1  0.80898076  0.75025440  0.71560246  1
+  Ga  Ga2  1  0.14258108  0.41699457  0.14642799  1
+  Cu  Cu3  1  0.14230309  0.41701164  0.71449276  1
+  Cu  Cu4  1  0.80932645  0.75029245  0.14753101  1
+  Ag  Ag5  1  0.47582628  0.08366994  0.93093849  1

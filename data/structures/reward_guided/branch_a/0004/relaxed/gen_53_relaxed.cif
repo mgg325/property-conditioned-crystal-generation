@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sr2Zn6CuAg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73405425
+_cell_length_b   6.71984811
+_cell_length_c   6.91521886
+_cell_angle_alpha   61.00808684
+_cell_angle_beta   61.09840794
+_cell_angle_gamma   60.11194388
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Zn6CuAg
+_chemical_formula_sum   'Sr2 Zn6 Cu1 Ag1'
+_cell_volume   224.92475606
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.04973973  0.87835884  0.85065005  1
+  Sr  Sr1  1  0.62959517  0.45752182  0.11347803  1
+  Zn  Zn2  1  0.58321390  0.02477517  0.63513946  1
+  Zn  Zn3  1  0.19677818  0.41318062  0.63501824  1
+  Zn  Zn4  1  0.09493369  0.92259154  0.32797207  1
+  Zn  Zn5  1  0.58360618  0.41170341  0.63712470  1
+  Zn  Zn6  1  0.48219387  0.92236542  0.32887776  1
+  Zn  Zn7  1  0.09619635  0.31011593  0.32800319  1
+  Cu  Cu8  1  0.33950764  0.16651990  0.98210196  1
+  Ag  Ag9  1  0.83948387  0.66715720  0.48170018  1

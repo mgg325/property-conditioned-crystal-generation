@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cs2BeO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.68050216
+_cell_length_b   6.46753048
+_cell_length_c   7.73787362
+_cell_angle_alpha   114.60351503
+_cell_angle_beta   120.45690033
+_cell_angle_gamma   91.08945563
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2BeO9
+_chemical_formula_sum   'Cs2 Be1 O9'
+_cell_volume   212.99025527
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.61190815  0.11601857  0.07605369  1
+  Cs  Cs1  1  0.34964354  0.65030465  0.62256307  1
+  Be  Be2  1  0.92916731  0.82558866  0.24215124  1
+  O  O3  1  0.13516290  0.85738257  0.92507290  1
+  O  O4  1  -0.01891036  0.86200212  0.68703816  1
+  O  O5  1  0.97322233  0.77788638  0.62319727  1
+  O  O6  1  0.75564679  0.82181598  0.82199125  1
+  O  O7  1  0.14218463  0.86856735  0.09881871  1
+  O  O8  1  -0.07648552  0.69487705  0.56005143  1
+  O  O9  1  0.06312563  0.85816807  0.67906748  1
+  O  O10  1  0.89957014  0.28958269  0.04920732  1
+  O  O11  1  0.89971668  0.56665807  0.99527978  1

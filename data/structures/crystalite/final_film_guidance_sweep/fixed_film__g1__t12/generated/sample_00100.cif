@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_InAgSbTeSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06542397
+_cell_length_b   6.13003492
+_cell_length_c   6.92808867
+_cell_angle_alpha   115.82312012
+_cell_angle_beta   115.19092560
+_cell_angle_gamma   90.47687531
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InAgSbTeSe3
+_chemical_formula_sum   'In1 Ag1 Sb1 Te1 Se3'
+_cell_volume   203.79922887
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.21633947  0.50702584  0.10940260  1
+  Se  Se1  1  0.82520556  0.64953274  0.88382065  1
+  Se  Se2  1  0.35492903  0.10874981  0.88830173  1
+  Se  Se3  1  0.06981921  0.35871860  0.35561034  1
+  Te  Te4  1  0.60855764  0.90432602  0.34129238  1
+  Ag  Ag5  1  0.45964429  0.27468932  0.63262928  1
+  In  In6  1  0.95852196  0.75695407  0.63938165  1

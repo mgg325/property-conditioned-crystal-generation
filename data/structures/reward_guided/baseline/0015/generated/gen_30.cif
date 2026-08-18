@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiHgGeLaGe
+_chemical_formula_sum              "Li1 Hg1 Ge2 La1"
+_cell_length_a       4.3438438932100905
+_cell_length_b       4.331790037735538
+_cell_length_c       6.485925674438477
+_cell_angle_alpha    110.39488347163343
+_cell_angle_beta     110.00135564096064
+_cell_angle_gamma    89.56849251169643
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.11162851750850677  0.6356902718544006  0.321965754032135  1.0000
+  Hg  Hg1       1.0  0.6108819842338562  0.1346568167209625  0.3223169147968292  1.0000
+  Ge  Ge1       1.0  0.253176212310791  0.2773282527923584  0.6067009568214417  1.0000
+  La  La1       1.0  0.8611114025115967  0.8861069083213805  0.8236395120620728  1.0000
+  Ge  Ge2       1.0  0.4690873324871063  0.4928032457828521  0.03799349069595337  1.0000

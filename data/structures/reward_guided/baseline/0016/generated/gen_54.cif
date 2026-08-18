@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NdSm3
+_chemical_formula_sum              "Nd1 Sm3"
+_cell_length_a       3.6454577112561375
+_cell_length_b       5.942169877498748
+_cell_length_c       6.279401779174805
+_cell_angle_alpha    90.5052110778748
+_cell_angle_beta     90.3717628713461
+_cell_angle_gamma    89.96685560125046
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.6883327960968019  0.6579472422599792  0.00509395869448781  1.0000
+  Sm  Sm1       1.0  0.18672174215316775  0.15807287395000458  0.17395962774753573  1.0000
+  Sm  Sm2       1.0  0.18756443262100223  0.6581889986991882  0.5038729906082153  1.0000
+  Sm  Sm3       1.0  0.686663329601288  0.15819677710533142  0.6728671789169312  1.0000

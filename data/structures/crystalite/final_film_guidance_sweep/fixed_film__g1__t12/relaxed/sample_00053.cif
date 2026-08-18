@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_AlSiGeTeAsS2O11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.80615907
+_cell_length_b   7.11819415
+_cell_length_c   8.88515757
+_cell_angle_alpha   112.93031298
+_cell_angle_beta   87.97214268
+_cell_angle_gamma   91.26282952
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlSiGeTeAsS2O11
+_chemical_formula_sum   'Al1 Si1 Ge1 Te1 As1 S2 O11'
+_cell_volume   279.76507675
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.84666504  0.89209947  0.49996420  1
+  Si  Si1  1  0.17815140  0.13535395  0.87584420  1
+  Ge  Ge2  1  0.73409663  0.39291477  0.10929716  1
+  Te  Te3  1  0.92042757  0.86852347  0.06282516  1
+  As  As4  1  0.40787511  0.52567664  0.51566894  1
+  S  S5  1  0.90772177  0.60105350  0.70206463  1
+  S  S6  1  0.34871697  1.00297922  0.33079434  1
+  O  O7  1  0.33800330  0.18738202  0.04211742  1
+  O  O8  1  0.88208674  0.25236474  0.90118733  1
+  O  O9  1  0.72089149  0.76827112  0.84313598  1
+  O  O10  1  0.71475983  0.65843050  0.10152892  1
+  O  O11  1  0.66377499  0.65593531  0.44614668  1
+  O  O12  1  0.20792582  0.20721119  0.41297526  1
+  O  O13  1  0.10773822  0.51781202  0.78054294  1
+  O  O14  1  0.26841348  -0.01898576  0.70067267  1
+  O  O15  1  0.15909653  0.84879494  0.37761794  1
+  O  O16  1  0.66076869  0.43250956  0.62730612  1
+  O  O17  1  0.61710235  0.02911135  0.42811189  1

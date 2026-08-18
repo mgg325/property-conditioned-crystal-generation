@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_GaHgPb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91510106
+_cell_length_b   4.94778472
+_cell_length_c   4.92975751
+_cell_angle_alpha   60.50452019
+_cell_angle_beta   60.63535656
+_cell_angle_gamma   60.05122646
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaHgPb
+_chemical_formula_sum   'Ga1 Hg1 Pb1'
+_cell_volume   85.52860967
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.74794633  0.25969237  0.84428768  1
+  Hg  Hg1  1  0.99917065  0.50813715  0.09329286  1
+  Pb  Pb2  1  0.49905247  0.00800592  0.59249576  1

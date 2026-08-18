@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_BaCaN4Cl2F5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.46406651
+_cell_length_b   8.63357544
+_cell_length_c   27.44643402
+_cell_angle_alpha   89.26837921
+_cell_angle_beta   91.22650909
+_cell_angle_gamma   92.38160706
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCaN4Cl2F5
+_chemical_formula_sum   'Ba1 Ca1 N4 Cl2 F5'
+_cell_volume   2003.31922531
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.16015860  0.70020741  0.14997020  1
+  N  N1  1  0.14901668  0.35138065  0.01087752  1
+  Ca  Ca2  1  0.18945000  0.07863823  0.30220926  1
+  F  F3  1  0.18428540  0.76653230  0.14477986  1
+  N  N4  1  0.16091278  0.57048458  0.35650742  1
+  N  N5  1  0.58284670  0.82935774  0.15315184  1
+  F  F6  1  0.72293568  0.30558133  0.45137224  1
+  Cl  Cl7  1  0.31588742  0.76591098  0.94047070  1
+  Ba  Ba8  1  0.62830400  0.85892034  0.12124720  1
+  N  N9  1  0.03851339  0.77185392  0.62648726  1
+  F  F10  1  0.14150730  0.68544501  0.91875494  1
+  F  F11  1  0.22115618  0.78824162  0.13394955  1
+  F  F12  1  0.30259299  0.80408579  0.15481392  1

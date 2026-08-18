@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Sc2CoPbC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.79401794
+_cell_length_b   4.63215091
+_cell_length_c   4.63165490
+_cell_angle_alpha   90.08909528
+_cell_angle_beta   90.02126730
+_cell_angle_gamma   90.04262931
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2CoPbC
+_chemical_formula_sum   'Sc2 Co1 Pb1 C1'
+_cell_volume   81.39872423
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.50474194  0.99603770  0.04591460  1
+  Sc  Sc1  1  0.50469285  0.49602647  0.54613608  1
+  Co  Co2  1  0.00449994  0.99537850  0.54485935  1
+  Pb  Pb3  1  0.00434849  0.49664699  0.04575955  1
+  C  C4  1  0.50459882  0.99616550  0.54566599  1

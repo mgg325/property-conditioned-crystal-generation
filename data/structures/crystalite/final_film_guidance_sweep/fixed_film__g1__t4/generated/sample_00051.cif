@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Pr2Ni3As3N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96921539
+_cell_length_b   6.09301424
+_cell_length_c   6.99464798
+_cell_angle_alpha   101.62215424
+_cell_angle_beta   90.16939545
+_cell_angle_gamma   109.02634430
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2Ni3As3N
+_chemical_formula_sum   'Pr2 Ni3 As3 N1'
+_cell_volume   156.21081803
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.92050606  0.36085060  0.18325207  1
+  Ni  Ni1  1  0.88254160  0.28678861  0.55778283  1
+  As  As2  1  0.76508296  0.14408317  0.88398999  1
+  N  N3  1  0.05800036  0.66280782  0.10362998  1
+  As  As4  1  0.20180982  0.98575664  0.63942134  1
+  As  As5  1  0.37880689  0.26401445  0.35014886  1
+  Pr  Pr6  1  0.50194609  0.57062560  0.84382349  1
+  Ni  Ni7  1  0.22470063  0.99330848  0.02586952  1
+  Pr  Pr8  1  0.61818659  0.81778097  0.35045508  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_KZnCuAsSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33550564
+_cell_length_b   6.00418676
+_cell_length_c   7.55520719
+_cell_angle_alpha   108.94422709
+_cell_angle_beta   93.46199603
+_cell_angle_gamma   113.47449978
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KZnCuAsSe4
+_chemical_formula_sum   'K1 Zn1 Cu1 As1 Se4'
+_cell_volume   243.29854244
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.52877852  -0.03262832  0.14673345  1
+  Zn  Zn1  1  0.55127087  0.79860514  0.60677060  1
+  Cu  Cu2  1  0.95389224  0.21876820  0.57301233  1
+  As  As3  1  0.10563112  0.65995403  0.61152507  1
+  Se  Se4  1  0.66172136  0.24616679  0.75602200  1
+  Se  Se5  1  -0.00249090  0.81024135  0.89847122  1
+  Se  Se6  1  0.45348235  0.49141242  0.28527403  1
+  Se  Se7  1  0.90003485  0.78351597  0.39228194  1

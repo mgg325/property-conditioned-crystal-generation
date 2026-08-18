@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_SmDy5Ge3O2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.61476291
+_cell_length_b   4.61510965
+_cell_length_c   12.09920301
+_cell_angle_alpha   101.00256146
+_cell_angle_beta   101.00165904
+_cell_angle_gamma   90.00001091
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmDy5Ge3O2
+_chemical_formula_sum   'Sm1 Dy5 Ge3 O2'
+_cell_volume   248.12164128
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.98261064  0.30682131  0.09994818  1
+  Dy  Dy1  1  0.26576664  0.08993853  0.66567261  1
+  Dy  Dy2  1  0.38189919  0.70612695  0.89800744  1
+  Dy  Dy3  1  0.10143995  0.92554131  0.33741950  1
+  Dy  Dy4  1  0.76579204  0.58998758  0.66571457  1
+  Dy  Dy5  1  0.60148114  0.42559114  0.33755430  1
+  Ge  Ge6  1  0.68363464  0.00776276  0.50159724  1
+  Ge  Ge7  1  0.85520992  0.17934769  0.84427530  1
+  Ge  Ge8  1  0.51082901  0.83499311  0.15650493  1
+  O  O9  1  0.09158514  0.41572117  0.31785428  1
+  O  O10  1  0.27714976  0.60132457  0.68832771  1

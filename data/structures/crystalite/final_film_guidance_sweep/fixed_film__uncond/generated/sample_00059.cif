@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Cs2NaLi2Si2GeH3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98683882
+_cell_length_b   5.84821129
+_cell_length_c   8.62402439
+_cell_angle_alpha   109.83633423
+_cell_angle_beta   109.82651520
+_cell_angle_gamma   90.28391266
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2NaLi2Si2GeH3
+_chemical_formula_sum   'Cs2 Na1 Li2 Si2 Ge1 H3'
+_cell_volume   264.72469524
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.86715215  0.55933797  0.61702520  1
+  H  H1  1  0.76333845  0.09379473  0.35870764  1
+  Cs  Cs2  1  0.63357788  0.44417319  0.94598091  1
+  Si  Si3  1  0.50988322  0.59806335  0.47410461  1
+  Li  Li4  1  0.32788706  0.35178024  0.56347704  1
+  Si  Si5  1  0.19769076  0.94391781  0.71449023  1
+  Na  Na6  1  0.75545573  0.00071168  0.59126550  1
+  H  H7  1  0.12114289  0.68716753  0.80037653  1
+  Ge  Ge8  1  0.92683232  0.30282080  0.34590691  1
+  H  H9  1  0.01370776  0.22771502  0.81664658  1
+  Cs  Cs10  1  0.22002578  0.85570884  0.19799238  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Al2In2GaAsPbSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.68362904
+_cell_length_b   6.01570129
+_cell_length_c   5.87584639
+_cell_angle_alpha   119.81720734
+_cell_angle_beta   119.88667297
+_cell_angle_gamma   90.77981567
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2In2GaAsPbSe
+_chemical_formula_sum   'Al2 In2 Ga1 As1 Pb1 Se1'
+_cell_volume   141.70858717
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.52743518  0.77025908  0.61759126  1
+  In  In1  1  0.11516055  0.26088691  0.38763765  1
+  Al  Al2  1  0.85561264  0.54636419  0.92672044  1
+  In  In3  1  0.52026021  0.86222786  0.12183589  1
+  Ga  Ga4  1  0.84637427  0.45262682  0.58870924  1
+  Pb  Pb5  1  0.28730875  0.08129150  0.81533730  1
+  Al  Al6  1  0.67441452  0.76137066  0.36517429  1
+  As  As7  1  0.95287144  0.30241394  0.07795656  1

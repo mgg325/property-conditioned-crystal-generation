@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LaLi2LaSLaS2
+_chemical_formula_sum              "La3 Li2 S3"
+_cell_length_a       4.273416194395625
+_cell_length_b       6.162899881962893
+_cell_length_c       7.683920383453369
+_cell_angle_alpha    81.97433224482043
+_cell_angle_beta     106.17968911741436
+_cell_angle_gamma    90.06883040104405
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.8051422238349915  0.1643730252981186  0.983920454978943  1.0000
+  Li  Li1       1.0  0.15827392041683197  0.5756028294563293  0.6905999779701234  1.0000
+  Li  Li2       1.0  0.7150707840919495  0.7376393675804139  0.8039376735687257  1.0000
+  La  La2       1.0  0.4361337721347809  0.6569175124168396  0.24683649837970736  1.0000
+  S   S1        1.0  0.4366312325000763  0.15666650235652924  0.24705384671688083  1.0000
+  La  La3       1.0  0.06786607950925827  0.15059582889080048  0.5103649497032166  1.0000
+  S   S2        1.0  0.24180473387241366  0.8777217268943788  0.8588918447494508  1.0000
+  S   S3        1.0  0.6312799453735352  0.43677860498428345  0.6349892020225526  1.0000

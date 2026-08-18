@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ba2GaLaGa3LaCa2
+_chemical_formula_sum              "Ba2 Ga4 La2 Ca2"
+_cell_length_a       4.158624834198882
+_cell_length_b       8.761242192485312
+_cell_length_c       8.922195434570312
+_cell_angle_alpha    89.38495756041803
+_cell_angle_beta     89.1132868782136
+_cell_angle_gamma    89.00580685428913
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.5986872315406799  0.9359855651855469  0.5279664397239685  1.0000
+  Ba  Ba2       1.0  0.5972390174865723  0.43723204731941223  0.6900057196617126  1.0000
+  Ga  Ga1       1.0  0.09782174974679947  0.3842180073261261  0.9962251186370848  1.0000
+  La  La1       1.0  0.5975938439369202  0.5944960117340088  0.1853342056274414  1.0000
+  Ga  Ga2       1.0  0.09810306876897812  0.6377914547920227  0.4553602933883667  1.0000
+  Ga  Ga3       1.0  0.09831245243549347  0.8833802938461304  0.22328239679336548  1.0000
+  Ga  Ga4       1.0  0.0987124964594841  0.13471235334873197  0.761601448059082  1.0000
+  La  La2       1.0  0.5987040996551514  0.09600566327571869  0.03445650264620781  1.0000
+  Ca  Ca1       1.0  0.09849680215120317  0.7689066529273986  0.8694405555725098  1.0000
+  Ca  Ca2       1.0  0.09811880439519882  0.2680652439594269  0.34974655508995056  1.0000

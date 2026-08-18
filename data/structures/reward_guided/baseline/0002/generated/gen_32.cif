@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ScIrCuZr
+_chemical_formula_sum              "Sc1 Ir1 Cu1 Zr1"
+_cell_length_a       4.619245563034804
+_cell_length_b       4.61751978790611
+_cell_length_c       4.617878437042236
+_cell_angle_alpha    60.03877769494428
+_cell_angle_beta     60.04652919600638
+_cell_angle_gamma    60.01726223064461
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.5536142587661743  0.6061562299728394  0.258745402097702  1.0000
+  Ir  Ir1       1.0  0.8036699295043945  0.8559584617614747  0.5088154673576354  1.0000
+  Cu  Cu1       1.0  0.30373829603195185  0.35575717687606817  0.008946345187723588  1.0000
+  Zr  Zr1       1.0  0.053735613822937005  0.10571912676095964  0.7588294148445129  1.0000

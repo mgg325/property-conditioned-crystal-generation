@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Al2P2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.49874016
+_cell_length_b   5.20380139
+_cell_length_c   5.32127739
+_cell_angle_alpha   102.14508315
+_cell_angle_beta   99.62900884
+_cell_angle_gamma   98.43707880
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2P2O7
+_chemical_formula_sum   'Al2 P2 O7'
+_cell_volume   117.91206661
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.59366745  0.03228916  0.42250675  1
+  Al  Al1  1  0.62070529  0.38658192  0.00478734  1
+  P  P2  1  0.19774206  0.49794418  0.49643948  1
+  P  P3  1  0.01831560  0.92148026  0.92795944  1
+  O  O4  1  0.10949565  0.71061108  0.71216414  1
+  O  O5  1  0.39365656  0.31313794  0.62666645  1
+  O  O6  1  0.39072633  0.66666668  0.35568126  1
+  O  O7  1  0.87966963  0.32929594  0.33183222  1
+  O  O8  1  0.33562154  0.09330330  0.09027756  1
+  O  O9  1  0.82009964  0.10548975  0.79833144  1
+  O  O10  1  0.82670762  0.75013885  0.06743667  1

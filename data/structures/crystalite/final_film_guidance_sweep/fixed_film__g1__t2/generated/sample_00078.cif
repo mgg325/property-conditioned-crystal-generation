@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_YbBrO5F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47224998
+_cell_length_b   4.90480137
+_cell_length_c   5.10145473
+_cell_angle_alpha   87.68687439
+_cell_angle_beta   88.14840698
+_cell_angle_gamma   88.71648407
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbBrO5F
+_chemical_formula_sum   'Yb1 Br1 O5 F1'
+_cell_volume   111.72845195
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.46178395  0.02315170  0.60768360  1
+  O  O1  1  0.88410372  0.30305201  0.03679192  1
+  O  O2  1  0.88410282  0.50462741  0.62869930  1
+  F  F3  1  0.47293824  0.69521773  0.91772282  1
+  O  O4  1  0.42039666  0.53062016  0.32731897  1
+  Yb  Yb5  1  0.32590139  0.22218928  0.97975695  1
+  O  O6  1  0.87496948  0.02623492  0.28742963  1
+  Br  Br7  1  0.68896866  0.74637753  0.46231124  1

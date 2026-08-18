@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Rb2Mg2SiBi3Se5S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.03208431
+_cell_length_b   3.90849642
+_cell_length_c   18.05578128
+_cell_angle_alpha   89.97369494
+_cell_angle_beta   89.81129039
+_cell_angle_gamma   90.40933859
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Mg2SiBi3Se5S3
+_chemical_formula_sum   'Rb2 Mg2 Si1 Bi3 Se5 S3'
+_cell_volume   143.40167912
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.59715639  0.34876191  0.66663207  1
+  Rb  Rb1  1  0.31742064  0.22182883  0.29087886  1
+  Mg  Mg2  1  0.83797873  0.47216331  0.54173136  1
+  Mg  Mg3  1  0.33892625  0.80065817  0.09979468  1
+  Si  Si4  1  0.82309995  0.03434666  0.47810149  1
+  Bi  Bi5  1  0.81568864  0.99370416  0.57946688  1
+  Bi  Bi6  1  0.83236635  0.29196366  0.15896674  1
+  Bi  Bi7  1  0.32022531  0.05079203  0.56406361  1
+  Se  Se8  1  0.29602153  0.36714561  0.92578643  1
+  Se  Se9  1  0.35561889  0.80213116  0.89638589  1
+  Se  Se10  1  0.31446718  0.03338545  0.85935497  1
+  Se  Se11  1  0.80536306  0.71020566  0.36694803  1
+  Se  Se12  1  0.09485316  0.78001997  0.84173035  1
+  S  S13  1  0.86627005  0.40201164  0.88944721  1
+  S  S14  1  0.69813447  0.01449179  0.76205013  1
+  S  S15  1  0.34356880  0.31215323  0.04070470  1

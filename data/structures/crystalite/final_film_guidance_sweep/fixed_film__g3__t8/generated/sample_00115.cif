@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuCdCuBiPbSe7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.50770712
+_cell_length_b   6.55045462
+_cell_length_c   7.97667789
+_cell_angle_alpha   90.24941254
+_cell_angle_beta   90.00315857
+_cell_angle_gamma   90.28440857
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuCdCuBiPbSe7
+_chemical_formula_sum   'Lu1 Cd1 Cu1 Bi1 Pb1 Se7'
+_cell_volume   340.02592432
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.92054820  0.60324121  0.87070817  1
+  Se  Se1  1  0.55000949  0.41251844  0.53018802  1
+  Se  Se2  1  0.18784559  0.67126465  0.19459397  1
+  Se  Se3  1  0.84950960  0.12175620  0.80664861  1
+  Cu  Cu4  1  0.82264823  0.52902108  0.28366244  1
+  Bi  Bi5  1  0.37145126  0.48537865  0.36734235  1
+  Se  Se6  1  0.04566228  0.11632279  0.60458732  1
+  Pb  Pb7  1  0.32656363  0.60525167  0.87461621  1
+  Se  Se8  1  0.96745759  0.03910428  0.13956830  1
+  Se  Se9  1  0.64358842  0.35217071  0.06270090  1
+  Cd  Cd10  1  0.30006802  0.07063508  0.30172902  1
+  Se  Se11  1  0.73219097  0.78795040  0.66587609  1

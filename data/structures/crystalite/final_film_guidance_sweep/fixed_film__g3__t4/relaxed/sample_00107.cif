@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_K3NaCaMgAlS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.52159982
+_cell_length_b   7.84882229
+_cell_length_c   8.35471501
+_cell_angle_alpha   105.82156335
+_cell_angle_beta   105.28785150
+_cell_angle_gamma   106.93254876
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3NaCaMgAlS6
+_chemical_formula_sum   'K3 Na1 Ca1 Mg1 Al1 S6'
+_cell_volume   365.24749575
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.84401429  0.91103492  0.83495154  1
+  K  K1  1  0.80185853  0.92929533  0.23179507  1
+  K  K2  1  0.48079035  0.18894498  0.90126433  1
+  Na  Na3  1  0.26411398  0.42902016  0.40481853  1
+  Ca  Ca4  1  0.76044571  0.38808106  0.47868521  1
+  Mg  Mg5  1  0.19666011  0.75127565  0.42309900  1
+  Al  Al6  1  0.09936058  0.54384119  0.88900402  1
+  S  S7  1  0.16852807  0.73544061  0.72741515  1
+  S  S8  1  0.25452133  0.35306964  0.34825354  1
+  S  S9  1  0.08238730  0.27573774  0.70332322  1
+  S  S10  1  0.92047454  0.56693223  0.08581111  1
+  S  S11  1  0.56038688  0.72237722  0.43456882  1
+  S  S12  1  0.35025769  1.11105115  0.21970092  1

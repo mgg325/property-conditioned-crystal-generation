@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TaPbTaS4Pb
+_chemical_formula_sum              "Ta2 Pb2 S4"
+_cell_length_a       3.4150884441901947
+_cell_length_b       3.357611360457119
+_cell_length_c       17.862178802490234
+_cell_angle_alpha    89.42556992257053
+_cell_angle_beta     89.57767141628553
+_cell_angle_gamma    118.06725205330312
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.1191926151514053  0.6197622418403625  0.13598515093326569  1.0000
+  Pb  Pb1       1.0  0.7852043509483337  0.9502583146095276  0.3859404921531677  1.0000
+  Ta  Ta2       1.0  0.4502185583114624  0.2836442291736603  0.6347528100013733  1.0000
+  S   S1        1.0  0.7826916575431824  0.9484605193138121  0.5506671071052551  1.0000
+  S   S2        1.0  0.784212052822113  0.9514377713203429  0.7223519682884216  1.0000
+  S   S3        1.0  0.7872515320777893  0.9542150497436523  0.2220594733953476  1.0000
+  S   S4        1.0  0.7855359315872192  0.9543792009353637  0.05092627555131912  1.0000
+  Pb  Pb2       1.0  0.7847738265991211  0.9516168832778931  0.8863191604614258  1.0000

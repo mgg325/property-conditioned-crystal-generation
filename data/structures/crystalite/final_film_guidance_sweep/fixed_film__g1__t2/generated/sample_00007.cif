@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_K2NaLiCNO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.36575985
+_cell_length_b   6.28619099
+_cell_length_c   6.37997007
+_cell_angle_alpha   108.76528931
+_cell_angle_beta   108.91864777
+_cell_angle_gamma   110.40343475
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NaLiCNO8
+_chemical_formula_sum   'K2 Na1 Li1 C1 N1 O8'
+_cell_volume   197.28292163
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.15976298  0.07470164  0.41831243  1
+  O  O1  1  0.26199806  0.38269082  0.24487361  1
+  O  O2  1  0.73182297  0.73867565  0.66842675  1
+  O  O3  1  0.23748100  0.68819773  0.83304548  1
+  Li  Li4  1  0.97131538  0.86775869  0.98910367  1
+  K  K5  1  0.65874285  0.28339013  0.46788046  1
+  O  O6  1  0.87593627  0.16745776  0.96963608  1
+  O  O7  1  0.97613966  0.53170323  0.04010612  1
+  O  O8  1  0.69118851  0.83360368  0.37487003  1
+  K  K9  1  0.47673920  0.32650709  0.96579629  1
+  O  O10  1  0.45725289  0.89372247  0.62055933  1
+  Na  Na11  1  0.06844917  0.77223182  0.47594890  1
+  N  N12  1  0.54909050  0.78499770  0.50477213  1
+  C  C13  1  0.04567334  0.35788992  0.01122963  1

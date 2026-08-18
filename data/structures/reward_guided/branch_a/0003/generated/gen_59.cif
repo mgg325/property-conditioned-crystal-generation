@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       RbHgCsAu
+_chemical_formula_sum              "Rb1 Hg1 Cs1 Au1"
+_cell_length_a       6.173836997065406
+_cell_length_b       6.208162317396274
+_cell_length_c       6.179691314697266
+_cell_angle_alpha    59.37149648931126
+_cell_angle_beta     59.61289404272296
+_cell_angle_gamma    60.7579294680786
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.6983991861343384  0.1634652018547058  0.27322542667388916  1.0000
+  Hg  Hg1       1.0  0.44696792960166937  0.9104773998260497  0.02371196821331978  1.0000
+  Cs  Cs1       1.0  0.19663614034652716  0.6591661572456359  0.7700418829917908  1.0000
+  Au  Au1       1.0  0.9479223489761354  0.4108700752258301  0.521222174167633  1.0000

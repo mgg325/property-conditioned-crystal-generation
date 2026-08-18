@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_BeSnBiTe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87489810
+_cell_length_b   5.72706735
+_cell_length_c   6.10296232
+_cell_angle_alpha   68.50944786
+_cell_angle_beta   66.19196993
+_cell_angle_gamma   94.73791038
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeSnBiTe
+_chemical_formula_sum   'Be1 Sn1 Bi1 Te1'
+_cell_volume   110.98994191
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.80720342  0.70483928  0.72201451  1
+  Sn  Sn1  1  0.46628415  0.00547405  0.52202737  1
+  Bi  Bi2  1  0.31886684  0.64612067  0.18915038  1
+  Te  Te3  1  0.49472564  0.26054405  0.86073897  1

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       GaN2Ca
+_chemical_formula_sum              "Ga1 N2 Ca1"
+_cell_length_a       3.1755544212101348
+_cell_length_b       3.1777457533036113
+_cell_length_c       5.667238712310791
+_cell_angle_alpha    73.70837545370927
+_cell_angle_beta     73.68419593639756
+_cell_angle_gamma    59.95641263241546
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.6824313402175903  0.6216223835945129  0.5045722723007202  1.0000
+  N   N1        1.0  0.4202525317668915  0.3595295548439026  0.2907845377922058  1.0000
+  N   N2        1.0  0.944503903388977  0.8837895393371582  0.7174893617630005  1.0000
+  Ca  Ca1       1.0  0.1827070415019989  0.12202215194702148  0.003951043821871281  1.0000

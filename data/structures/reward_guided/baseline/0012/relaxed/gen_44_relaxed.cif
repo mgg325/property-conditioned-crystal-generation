@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_YbSn5Rh2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21432530
+_cell_length_b   5.58608584
+_cell_length_c   8.24564608
+_cell_angle_alpha   90.00188276
+_cell_angle_beta   90.00026275
+_cell_angle_gamma   112.16133811
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbSn5Rh2
+_chemical_formula_sum   'Yb1 Sn5 Rh2'
+_cell_volume   179.77533782
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.09665619  0.53684327  0.37721877  1
+  Sn  Sn1  1  0.67659734  0.69680524  0.67554769  1
+  Sn  Sn2  1  0.38930782  0.12219256  0.57496611  1
+  Sn  Sn3  1  0.38929511  0.12223831  0.17942546  1
+  Sn  Sn4  1  0.96508562  0.27379738  0.87723505  1
+  Sn  Sn5  1  0.67658800  0.69684129  0.07884248  1
+  Rh  Rh6  1  0.80806346  0.95972603  0.37719031  1
+  Rh  Rh7  1  0.25574710  0.85517175  0.87717628  1

@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_CdTeSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44483415
+_cell_length_b   4.31006229
+_cell_length_c   5.43435067
+_cell_angle_alpha   96.90900461
+_cell_angle_beta   79.48828196
+_cell_angle_gamma   119.62561690
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdTeSe
+_chemical_formula_sum   'Cd1 Te1 Se1'
+_cell_volume   88.92491516
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.10301103  0.07188172  0.55453633  1
+  Te  Te1  1  0.50483573  0.73192617  0.26322509  1
+  Se  Se2  1  0.65705385  0.46062792  0.83677761  1

@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_TbFeRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14768103
+_cell_length_b   4.15091433
+_cell_length_c   3.85657918
+_cell_angle_alpha   90.05233331
+_cell_angle_beta   89.90140002
+_cell_angle_gamma   120.01132011
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbFeRh
+_chemical_formula_sum   'Tb1 Fe1 Rh1'
+_cell_volume   57.49522934
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.46464522  0.85556607  0.90307733  1
+  Fe  Fe1  1  0.13082778  0.18881703  0.40331034  1
+  Rh  Rh2  1  0.79768799  0.52218344  0.40289096  1

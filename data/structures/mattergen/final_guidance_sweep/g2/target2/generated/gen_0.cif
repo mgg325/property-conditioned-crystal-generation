@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BeMgF4
+_chemical_formula_sum              "Be1 Mg1 F4"
+_cell_length_a       2.950242698611507
+_cell_length_b       3.1676765921493275
+_cell_length_c       6.62250280380249
+_cell_angle_alpha    90.21391720819221
+_cell_angle_beta     90.48577923078592
+_cell_angle_gamma    90.36207083274162
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.5779287219047546  0.9496559500694275  0.9664738774299622  1.0000
+  Mg  Mg1       1.0  0.5899950265884399  0.11421663314104079  0.4667903184890747  1.0000
+  F   F1        1.0  0.0792476162314415  0.6470793485641481  0.4667563736438751  1.0000
+  F   F2        1.0  0.07796194404363632  0.7209696769714357  0.9664223790168762  1.0000
+  F   F3        1.0  0.5779683589935303  0.16343359649181366  0.7546060681343079  1.0000
+  F   F4        1.0  0.578504741191864  0.16101877391338348  0.17902453243732452  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ga2WNbGa2
+_chemical_formula_sum              "Ga4 W1 Nb1"
+_cell_length_a       4.381236288628617
+_cell_length_b       4.382333026678907
+_cell_length_c       5.550162315368652
+_cell_angle_alpha    89.85990849489426
+_cell_angle_beta     90.46334889803886
+_cell_angle_gamma    60.183221391135135
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.7497203946113586  0.9489091634750365  0.9382941722869873  1.0000
+  Ga  Ga2       1.0  0.41561284661293035  0.6166221499443054  0.9392179250717163  1.0000
+  W   W1        1.0  0.08277563005685805  0.28289657831192017  0.1825266182422638  1.0000
+  Nb  Nb1       1.0  0.08278945088386538  0.28316631913185114  0.6830215454101562  1.0000
+  Ga  Ga3       1.0  0.7491479516029359  0.9488403201103209  0.42700493335723877  1.0000
+  Ga  Ga4       1.0  0.4164275527000427  0.6168850660324096  0.42778369784355164  1.0000

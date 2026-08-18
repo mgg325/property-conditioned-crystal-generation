@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       InCo2InCoLi2Co
+_chemical_formula_sum              "In2 Co4 Li2"
+_cell_length_a       4.083239766803012
+_cell_length_b       4.420970984293024
+_cell_length_c       6.743406295776367
+_cell_angle_alpha    90.01001556202841
+_cell_angle_beta     89.9667326524673
+_cell_angle_gamma    89.94130385503783
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.9523067474365234  0.025342078879475594  0.14059579372406006  1.0000
+  Co  Co1       1.0  0.9517360925674438  0.5749112963676453  0.40230283141136164  1.0000
+  Co  Co2       1.0  0.9517797827720642  0.07498749345541  0.5409908294677734  1.0000
+  In  In2       1.0  0.9520980715751648  0.5252650380134583  0.8041223883628844  1.0000
+  Co  Co3       1.0  0.45223569869995117  0.9102105498313903  0.4082955420017242  1.0000
+  Li  Li1       1.0  0.45182135701179504  0.48845827579498297  0.13666298985481262  1.0000
+  Li  Li2       1.0  0.4521205723285675  0.9866275787353517  0.8084646463394164  1.0000
+  Co  Co4       1.0  0.4523700773715973  0.4107733368873596  0.5387312769889832  1.0000

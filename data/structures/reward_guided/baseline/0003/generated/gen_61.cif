@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiBr2TeBr2
+_chemical_formula_sum              "Li1 Br4 Te1"
+_cell_length_a       4.5183519869861986
+_cell_length_b       6.910392613053592
+_cell_length_c       7.827588081359863
+_cell_angle_alpha    114.31100045515568
+_cell_angle_beta     101.0073857076485
+_cell_angle_gamma    97.49737162016362
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9409319162368774  0.17437228560447693  0.33121564984321594  1.0000
+  Br  Br1       1.0  0.6949385404586792  0.7451415657997132  0.0661130771040917  1.0000
+  Br  Br2       1.0  0.005664234515279538  0.6166700124740601  0.521963357925415  1.0000
+  Te  Te1       1.0  0.34337547421455383  0.6736915707588196  0.28910493850708013  1.0000
+  Br  Br3       1.0  0.472963809967041  0.12453794479370119  0.5057283043861389  1.0000
+  Br  Br4       1.0  0.17170310020446777  0.24524374306201935  0.06333498656749727  1.0000

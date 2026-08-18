@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_GaSi3GeBi4SbPbIBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38579649
+_cell_length_b   8.01685336
+_cell_length_c   11.71381287
+_cell_angle_alpha   89.30212035
+_cell_angle_beta   92.27147389
+_cell_angle_gamma   105.36800893
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaSi3GeBi4SbPbIBr
+_chemical_formula_sum   'Ga1 Si3 Ge1 Bi4 Sb1 Pb1 I1 Br1'
+_cell_volume   396.82168067
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.01452929  0.84112962  0.96647045  1
+  Si  Si1  1  0.38936539  -0.10710153  0.54845648  1
+  Si  Si2  1  0.97289313  0.72191899  0.16180780  1
+  Si  Si3  1  0.09905144  0.16368550  0.95026712  1
+  Ge  Ge4  1  0.80999196  0.75537170  0.50970058  1
+  Bi  Bi5  1  0.36417883  0.50114877  0.15966438  1
+  Bi  Bi6  1  0.60348971  1.08740947  0.09829280  1
+  Bi  Bi7  1  0.47911906  0.53312128  0.88250706  1
+  Bi  Bi8  1  0.14690533  -0.03006733  0.33195228  1
+  Sb  Sb9  1  0.10001010  0.73177147  0.73597865  1
+  Pb  Pb10  1  0.84089221  0.40075076  0.35692138  1
+  I  I11  1  0.79611597  0.16876377  0.75744386  1
+  Br  Br12  1  0.34999546  0.39459541  0.52712825  1

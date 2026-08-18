@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BeKP2K
+_chemical_formula_sum              "Be1 K2 P2"
+_cell_length_a       3.7095952990565486
+_cell_length_b       5.4946806844746865
+_cell_length_c       7.194589614868164
+_cell_angle_alpha    112.57346189872187
+_cell_angle_beta     105.11182972032476
+_cell_angle_gamma    90.01707111533541
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.6875187754631042  0.6289662718772888  0.191109836101532  1.0000
+  K   K1        1.0  0.5326629281044006  0.9780238270759584  0.8859007954597473  1.0000
+  P   P1        1.0  0.09581641852855682  0.5410219430923462  0.009997823275625737  1.0000
+  P   P2        1.0  0.2789261043071747  0.7206962108612062  0.3720360994338989  1.0000
+  K   K2        1.0  0.8401006460189819  0.28185737133026123  0.4948066771030426  1.0000

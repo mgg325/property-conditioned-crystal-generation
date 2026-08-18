@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ca2CuSnSb2CSe6NO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.45622230
+_cell_length_b   2.82574224
+_cell_length_c   14.70853424
+_cell_angle_alpha   95.87775421
+_cell_angle_beta   90.00972748
+_cell_angle_gamma   90.68858337
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2CuSnSb2CSe6NO6
+_chemical_formula_sum   'Ca2 Cu1 Sn1 Sb2 C1 Se6 N1 O6'
+_cell_volume   101.54266444
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C0  1  0.78918409  0.53632069  0.54653502  1
+  O  O1  1  0.43109316  0.53234720  0.60998958  1
+  Se  Se2  1  0.46914104  0.55421007  0.65375459  1
+  Sn  Sn3  1  0.40497237  0.54605860  0.14948291  1
+  Sb  Sb4  1  0.83191872  0.53912652  0.88891876  1
+  Ca  Ca5  1  0.00304836  0.00584906  0.48474044  1
+  O  O6  1  0.45670041  0.93179834  0.55293292  1
+  O  O7  1  0.92279243  0.56649011  0.82905138  1
+  Cu  Cu8  1  0.46655050  0.02201268  0.49910796  1
+  O  O9  1  0.44537425  0.50899595  0.54169387  1
+  Ca  Ca10  1  0.96404636  0.97873509  0.70349652  1
+  O  O11  1  0.87698638  0.51590049  0.51626480  1
+  N  N12  1  0.41320008  0.73690176  0.73991537  1
+  Se  Se13  1  0.96721172  0.55373269  0.62977135  1
+  Se  Se14  1  0.07526985  0.49247232  0.54691827  1
+  Se  Se15  1  0.47251660  0.53446686  0.42051733  1
+  O  O16  1  0.91082042  0.52962685  0.35757613  1
+  Sb  Sb17  1  0.44180453  0.54340911  0.86833847  1
+  Se  Se18  1  0.45004016  0.00710568  0.53485447  1
+  Se  Se19  1  0.49505779  0.10476983  0.31426254  1

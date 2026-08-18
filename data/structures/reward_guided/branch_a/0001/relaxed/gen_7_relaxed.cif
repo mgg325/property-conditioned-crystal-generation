@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_AlInAg4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97259499
+_cell_length_b   3.08434901
+_cell_length_c   9.02733978
+_cell_angle_alpha   89.99590525
+_cell_angle_beta   89.99984062
+_cell_angle_gamma   89.99904043
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlInAg4
+_chemical_formula_sum   'Al1 In1 Ag4'
+_cell_volume   110.61081554
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.40787781  0.50433542  0.73278672  1
+  In  In1  1  0.90790577  0.00400683  0.23278350  1
+  Ag  Ag2  1  0.90781696  0.00404762  0.57786282  1
+  Ag  Ag3  1  0.40797206  0.50400172  0.05166540  1
+  Ag  Ag4  1  0.90796823  0.00416196  0.88772014  1
+  Ag  Ag5  1  0.40782320  0.50404772  0.41392705  1

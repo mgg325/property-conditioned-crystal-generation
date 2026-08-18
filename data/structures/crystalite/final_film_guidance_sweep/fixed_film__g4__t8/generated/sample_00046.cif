@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Lu2PbSe6SO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89421439
+_cell_length_b   4.01073503
+_cell_length_c   6.16662121
+_cell_angle_alpha   109.49626923
+_cell_angle_beta   111.56318665
+_cell_angle_gamma   90.84347534
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2PbSe6SO
+_chemical_formula_sum   'Lu2 Pb1 Se6 S1 O1'
+_cell_volume   83.39455222
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.19232550  0.44007629  0.77450889  1
+  Se  Se1  1  0.49177077  0.39234883  0.99244952  1
+  O  O2  1  0.25979811  0.19830889  0.97772819  1
+  Se  Se3  1  0.33631837  0.37670907  0.13062787  1
+  Pb  Pb4  1  0.59081852  0.93823403  0.57867402  1
+  Se  Se5  1  0.12781930  0.50843209  0.36459586  1
+  S  S6  1  0.18899754  0.98279065  0.19670713  1
+  Lu  Lu7  1  0.27041274  0.28018531  0.58255208  1
+  Se  Se8  1  0.62921286  0.00195181  0.97789860  1
+  Lu  Lu9  1  0.05596331  0.55174130  0.99014056  1
+  Se  Se10  1  0.40820515  0.34901100  0.98906004  1

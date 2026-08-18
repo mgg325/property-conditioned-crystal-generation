@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       PInPHgIn2P
+_chemical_formula_sum              "P3 In3 Hg1"
+_cell_length_a       4.151209672470516
+_cell_length_b       4.150848128187481
+_cell_length_c       12.99650857283816
+_cell_angle_alpha    90.11915746927866
+_cell_angle_beta     89.90032057243208
+_cell_angle_gamma    120.036192444466
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.03876702376974122  0.3564420939364096  0.25749763340309567  1.0000
+  In  In1       1.0  0.03883786609632654  0.3561331566043596  0.4576898184589165  1.0000
+  P   P2        1.0  0.37197497809467767  0.023173345350265977  0.5254787393051031  1.0000
+  Hg  Hg1       1.0  0.3733564791984048  0.021591922258613633  0.9732715495324014  1.0000
+  In  In2       1.0  0.3720447959738497  0.023573834234165324  0.7278314247856725  1.0000
+  In  In3       1.0  0.3721680163946115  0.022976152469065227  0.18552036414714668  1.0000
+  P   P3        1.0  0.038568144504698434  0.3571525246499689  0.8040555750266171  1.0000

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ca3SiN4F3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.95558323
+_cell_length_b   6.09331414
+_cell_length_c   6.69419471
+_cell_angle_alpha   55.78087218
+_cell_angle_beta   58.25652584
+_cell_angle_gamma   59.36399789
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3SiN4F3
+_chemical_formula_sum   'Ca3 Si1 N4 F3'
+_cell_volume   162.74596140
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.23170333  0.23371345  1.04733130  1
+  Ca  Ca1  1  0.62738723  0.80304840  0.61594126  1
+  Ca  Ca2  1  0.86654967  0.09548153  0.74814404  1
+  Si  Si3  1  0.47790713  0.53205196  0.15017196  1
+  N  N4  1  0.21970453  0.74422659  0.56320908  1
+  N  N5  1  0.58592658  0.37259189  -0.03702143  1
+  N  N6  1  0.57905089  0.81601633  0.99859021  1
+  N  N7  1  0.30034105  0.93815004  0.42065831  1
+  F  F8  1  0.65458596  0.25872988  0.40441748  1
+  F  F9  1  0.15827928  0.85761298  -0.06552193  1
+  F  F10  1  0.17111055  0.47352863  0.38913423  1

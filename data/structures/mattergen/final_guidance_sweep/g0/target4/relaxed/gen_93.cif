@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CdS3CdInCdS
+_chemical_formula_sum              "Cd3 S4 In1"
+_cell_length_a       5.956078701859982
+_cell_length_b       5.956357776142167
+_cell_length_c       7.295160301375531
+_cell_angle_alpha    114.07816686107019
+_cell_angle_beta     114.09082819583911
+_cell_angle_gamma    90.00733963839642
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.03955292188790934  0.14049826341224014  0.4891568065396509  1.0000
+  S   S1        1.0  0.6631481003628514  0.7641377905039283  0.24191527093932544  1.0000
+  S   S2        1.0  0.16867592967554534  0.26966578804323493  0.24168057604663892  1.0000
+  S   S3        1.0  0.41611290860537714  0.011047209787169708  0.7359190241678497  1.0000
+  Cd  Cd2       1.0  0.289419011776401  0.8905179869938616  0.9889302930520818  1.0000
+  In  In1       1.0  0.5393481397873148  0.6403786941865015  0.48871978769052754  1.0000
+  Cd  Cd3       1.0  0.7894562502090499  0.39057766191750565  0.98892434128161  1.0000
+  S   S4        1.0  0.910126376471328  0.5170405193554135  0.7360206359521875  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TeBiTeSe
+_chemical_formula_sum              "Te2 Bi1 Se1"
+_cell_length_a       4.395020041158945
+_cell_length_b       4.397520817110593
+_cell_length_c       7.593344411667096
+_cell_angle_alpha    73.66647122900362
+_cell_angle_beta     73.59072156746541
+_cell_angle_gamma    60.03658165077394
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.486453274118894  0.06380425437744801  0.8892003211946762  1.0000
+  Bi  Bi1       1.0  0.7353610489788417  0.314375510565436  0.1499175468608598  1.0000
+  Te  Te2       1.0  0.9839485004896278  0.5650542654399983  0.41102910152074834  1.0000
+  Se  Se1       1.0  0.23511258870228077  0.813977499594687  0.6496201032812288  1.0000

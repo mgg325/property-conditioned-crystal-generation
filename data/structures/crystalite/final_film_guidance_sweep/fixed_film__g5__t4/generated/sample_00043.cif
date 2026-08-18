@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BaSeO7F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.22831655
+_cell_length_b   4.16302586
+_cell_length_c   7.20554876
+_cell_angle_alpha   98.73237610
+_cell_angle_beta   97.65036011
+_cell_angle_gamma   128.01705933
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSeO7F
+_chemical_formula_sum   'Ba1 Se1 O7 F1'
+_cell_volume   49.79675332
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.92231238  0.09621871  0.16163218  1
+  F  F1  1  0.17340928  0.43913293  0.71261150  1
+  O  O2  1  0.86863214  0.48788950  0.22073579  1
+  Ba  Ba3  1  0.96084881  0.42819485  0.10919747  1
+  O  O4  1  0.29172421  0.59729737  0.84196842  1
+  O  O5  1  0.02210009  0.47874215  0.02150255  1
+  O  O6  1  0.19408575  0.50475782  0.18914655  1
+  O  O7  1  0.11891073  0.33461776  0.70822680  1
+  O  O8  1  0.14958617  0.06032029  0.69238067  1
+  Se  Se9  1  0.18414783  0.45139626  0.52979589  1

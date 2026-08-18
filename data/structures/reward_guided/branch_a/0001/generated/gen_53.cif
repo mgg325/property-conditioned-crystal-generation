@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TiSnTi5Co
+_chemical_formula_sum              "Ti6 Sn1 Co1"
+_cell_length_a       5.0767533021136355
+_cell_length_b       5.054553925421304
+_cell_length_c       5.10996150970459
+_cell_angle_alpha    88.57987635869685
+_cell_angle_beta     90.6595255406467
+_cell_angle_gamma    90.03817643036578
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.24778327345848083  0.2858039140701294  0.6097920536994934  1.0000
+  Sn  Sn1       1.0  0.7490161061286926  0.2850134074687958  0.8721612691879272  1.0000
+  Ti  Ti2       1.0  0.48794278502464294  0.7859306931495667  0.8685450553894043  1.0000
+  Ti  Ti3       1.0  0.7454088926315308  0.02065470814704895  0.3712787330150604  1.0000
+  Ti  Ti4       1.0  0.24859176576137543  0.28312167525291443  0.1339442878961563  1.0000
+  Ti  Ti5       1.0  0.011824028566479683  0.782741129398346  0.8730772137641907  1.0000
+  Ti  Ti6       1.0  0.7498258948326111  0.5443909168243408  0.37184375524520874  1.0000
+  Co  Co1       1.0  0.24877862632274628  0.7826961278915405  0.37256500124931335  1.0000

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Pr2NdGa2Sn4GeTeAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25108814
+_cell_length_b   7.14850712
+_cell_length_c   10.62406826
+_cell_angle_alpha   93.46942139
+_cell_angle_beta   101.59812927
+_cell_angle_gamma   89.97135925
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2NdGa2Sn4GeTeAs
+_chemical_formula_sum   'Pr2 Nd1 Ga2 Sn4 Ge1 Te1 As1'
+_cell_volume   315.65990767
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.10877842  0.57514721  0.31927079  1
+  Te  Te1  1  0.41896582  0.85798836  0.94333458  1
+  Ge  Ge2  1  0.94193172  0.53964639  0.94187832  1
+  Sn  Sn3  1  0.77421200  0.45614156  0.61940265  1
+  Sn  Sn4  1  0.39298829  0.34151202  0.85385036  1
+  Ga  Ga5  1  0.66270101  0.77937961  0.42515242  1
+  Pr  Pr6  1  0.53807425  0.53891337  0.12938184  1
+  Ga  Ga7  1  0.25599951  0.36966360  0.50438648  1
+  Sn  Sn8  1  0.22722664  0.97954023  0.54162651  1
+  As  As9  1  0.62004673  0.08673584  0.29537630  1
+  Nd  Nd10  1  0.04736820  0.12622601  0.13289142  1
+  Pr  Pr11  1  0.82845539  0.93689406  0.73818684  1

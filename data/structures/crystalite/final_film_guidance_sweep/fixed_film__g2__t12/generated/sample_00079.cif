@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiMg3AlGeB2PH(CN)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.20121336
+_cell_length_b   4.61180210
+_cell_length_c   8.32060337
+_cell_angle_alpha   92.06635284
+_cell_angle_beta   89.78475189
+_cell_angle_gamma   90.45257568
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMg3AlGeB2PH(CN)3
+_chemical_formula_sum   'Li1 Mg3 Al1 Ge1 B2 P1 H1 C3 N3'
+_cell_volume   122.75563527
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.47808269  0.25765342  0.86640400  1
+  C  C1  1  0.48939401  0.34314308  0.21242410  1
+  Mg  Mg2  1  0.98844033  0.26276308  0.15504184  1
+  B  B3  1  0.95793581  0.85866606  0.38318175  1
+  Mg  Mg4  1  0.42964944  0.70419222  0.62119734  1
+  Ge  Ge5  1  0.48070291  0.53982306  0.32089606  1
+  C  C6  1  0.99201930  0.57108110  0.41761604  1
+  N  N7  1  0.96118832  0.94987130  0.58147293  1
+  Li  Li8  1  0.46599054  0.95441884  0.11153972  1
+  Mg  Mg9  1  0.97271794  0.24178734  0.53301543  1
+  C  C10  1  0.46042603  0.47519794  0.90582865  1
+  B  B11  1  0.49923739  0.95874178  0.38877225  1
+  N  N12  1  0.01191288  0.19142744  0.80440336  1
+  H  H13  1  0.00458515  0.62155235  0.93167961  1
+  N  N14  1  0.94411409  0.86103332  0.02318758  1
+  Al  Al15  1  0.96218777  0.97492778  0.75547820  1

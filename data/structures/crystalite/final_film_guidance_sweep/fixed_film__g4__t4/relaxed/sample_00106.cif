@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cs2K2LiBe2S7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.81104534
+_cell_length_b   6.23756014
+_cell_length_c   7.48569509
+_cell_angle_alpha   58.48606634
+_cell_angle_beta   61.08570555
+_cell_angle_gamma   54.82963022
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2K2LiBe2S7
+_chemical_formula_sum   'Cs2 K2 Li1 Be2 S7'
+_cell_volume   213.89764183
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.51230183  0.47332351  0.88963725  1
+  Cs  Cs1  1  0.96524499  0.20550482  0.80196901  1
+  K  K2  1  0.71590216  0.42514533  0.39525208  1
+  K  K3  1  0.25516927  0.87614198  0.29905140  1
+  Li  Li4  1  0.52045791  0.63789750  0.82286200  1
+  Be  Be5  1  0.30214277  0.93476028  0.79044970  1
+  Be  Be6  1  0.04996200  0.96072878  0.71812273  1
+  S  S7  1  0.65941436  0.01798919  0.91101026  1
+  S  S8  1  0.23418547  0.26833165  0.71350298  1
+  S  S9  1  0.80254213  0.22571692  0.90573389  1
+  S  S10  1  0.40765058  0.61367023  0.68580877  1
+  S  S11  1  0.44574712  0.50349879  0.93609164  1
+  S  S12  1  0.03554522  0.89861545  0.08094873  1
+  S  S13  1  0.85163839  0.95069813  0.65088597  1

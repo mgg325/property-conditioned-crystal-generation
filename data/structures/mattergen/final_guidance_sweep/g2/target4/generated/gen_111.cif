@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       RbO2BRbOBO
+_chemical_formula_sum              "Rb2 O4 B2"
+_cell_length_a       3.7653758482566078
+_cell_length_b       4.7743795040703025
+_cell_length_c       6.985835552215576
+_cell_angle_alpha    89.79914031275743
+_cell_angle_beta     89.79308875970074
+_cell_angle_gamma    90.02243967613441
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.9035783410072328  0.11889080703258516  0.8359248042106627  1.0000
+  O   O1        1.0  0.4028767049312592  0.6183804869651794  0.8536431789398192  1.0000
+  O   O2        1.0  0.40290105342864996  0.11944428831338882  0.4535533189773559  1.0000
+  B   B1        1.0  0.4033834040164948  0.6189201474189758  0.04112539812922478  1.0000
+  Rb  Rb2       1.0  0.902369797229767  0.6186293363571167  0.4697881639003753  1.0000
+  O   O3        1.0  0.4032284617424012  0.3694770634174347  0.1532108038663864  1.0000
+  B   B2        1.0  0.4032974541187287  0.11950064450502396  0.2652445137500763  1.0000
+  O   O4        1.0  0.40376961231231695  0.8690889477729797  0.15355771780014038  1.0000

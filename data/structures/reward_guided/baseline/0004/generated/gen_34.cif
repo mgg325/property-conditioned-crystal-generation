@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiGeNdGeNi2
+_chemical_formula_sum              "Ni3 Ge2 Nd1"
+_cell_length_a       3.709390646681254
+_cell_length_b       5.384742805284149
+_cell_length_c       5.393044948577881
+_cell_angle_alpha    119.91074808121427
+_cell_angle_beta     89.9966283909731
+_cell_angle_gamma    90.00540518425149
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.0030670622363686557  0.46035090088844294  0.8317431807518005  1.0000
+  Ge  Ge1       1.0  0.5028713345527649  0.6269161701202393  0.16474957764148715  1.0000
+  Nd  Nd1       1.0  0.5030467510223389  0.9604064226150512  0.8317080736160278  1.0000
+  Ge  Ge2       1.0  0.5032852292060852  0.29373136162757874  0.49881964921951294  1.0000
+  Ni  Ni2       1.0  0.0030905632302165027  0.46031555533409124  0.3316158056259155  1.0000
+  Ni  Ni3       1.0  0.003017306327819824  0.9602453112602235  0.33176264166831976  1.0000

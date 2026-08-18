@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       FBrHF3
+_chemical_formula_sum              "F4 Br1 H1"
+_cell_length_a       4.766134403617221
+_cell_length_b       4.908741297983522
+_cell_length_c       5.037820339202881
+_cell_angle_alpha    116.27256395499597
+_cell_angle_beta     100.30635486034873
+_cell_angle_gamma    104.91890575689324
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.41396206617355347  0.8397742509841919  0.19798192381858817  1.0000
+  Br  Br1       1.0  0.656857430934906  0.2756737470626831  0.39485517144203186  1.0000
+  H   H1        1.0  0.9188457131385803  0.9773598313331604  0.8475038409233093  1.0000
+  F   F2        1.0  0.9153028130531311  0.20205682516098025  0.08044062554836273  1.0000
+  F   F3        1.0  0.4606143534183502  0.3844274878501892  0.6814826726913452  1.0000
+  F   F4        1.0  0.9416395425796509  0.7995725274085999  0.6410626769065857  1.0000

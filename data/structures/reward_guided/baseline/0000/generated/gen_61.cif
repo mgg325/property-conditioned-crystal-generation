@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AsHgKHgAuAsAu
+_chemical_formula_sum              "As2 Hg2 K1 Au2"
+_cell_length_a       5.511610836327692
+_cell_length_b       6.247425644912489
+_cell_length_c       6.239253044128418
+_cell_angle_alpha    87.18451656219332
+_cell_angle_beta     66.60163189714585
+_cell_angle_gamma    66.626900167776
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.6033390164375305  0.4350156188011169  0.6251481771469116  1.0000
+  Hg  Hg1       1.0  0.0526547394692898  0.19234365224838254  0.0342472419142723  1.0000
+  K   K1        1.0  0.7926278114318848  0.7749110460281372  0.9608740806579589  1.0000
+  Hg  Hg2       1.0  0.060083139687776586  0.8394112586975098  0.37393707036972046  1.0000
+  Au  Au1       1.0  0.45533409714698786  0.8692668080329894  0.564586877822876  1.0000
+  As  As2       1.0  0.30341094732284546  0.3028725683689117  0.49483940005302424  1.0000
+  Au  Au2       1.0  0.4541554749011993  0.3761161267757416  0.05979691073298458  1.0000

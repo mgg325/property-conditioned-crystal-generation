@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       MoO6ReHg
+_chemical_formula_sum              "Mo1 O6 Re1 Hg1"
+_cell_length_a       5.378703209779257
+_cell_length_b       5.383843894046002
+_cell_length_c       6.743894100189209
+_cell_angle_alpha    90.04816899740615
+_cell_angle_beta     90.02636020386798
+_cell_angle_gamma    120.29024523366894
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.12917843461036682  0.23039530217647552  0.5063009262084961  1.0000
+  O   O1        1.0  0.4795918762683869  0.30601149797439575  0.3432183563709259  1.0000
+  O   O2        1.0  0.051517605781555176  0.501171350479126  0.3451474606990814  1.0000
+  O   O3        1.0  0.48001125454902643  0.5046148896217345  0.6673056483268738  1.0000
+  O   O4        1.0  0.8556779623031616  0.3056455850601196  0.6688340306282043  1.0000
+  O   O5        1.0  0.05221825838088986  0.8784229159355162  0.6684120893478394  1.0000
+  O   O6        1.0  0.8548728227615355  0.878074824810028  0.3442384600639342  1.0000
+  Re  Re1       1.0  0.7957048416137695  0.563467502593994  0.5060116052627563  1.0000
+  Hg  Hg1       1.0  0.4625485241413117  0.8956921696662903  0.005015538539737463  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       DySmPr3DyPrTm
+_chemical_formula_sum              "Dy2 Sm1 Pr4 Tm1"
+_cell_length_a       5.183763706595648
+_cell_length_b       5.192816072969043
+_cell_length_c       10.131424903869629
+_cell_angle_alpha    89.93685740417095
+_cell_angle_beta     89.91693373300531
+_cell_angle_gamma    89.92127773754093
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.22499996423721313  0.7254008054733276  0.41898056864738464  1.0000
+  Sm  Sm1       1.0  0.22478045523166656  0.7253680229187012  0.9193395972251892  1.0000
+  Pr  Pr1       1.0  0.22473669052124023  0.2256374955177307  0.1719408631324768  1.0000
+  Pr  Pr2       1.0  0.7245736122131348  0.7255057692527771  0.1721138805150986  1.0000
+  Pr  Pr3       1.0  0.22520413994789124  0.2250322550535202  0.666593611240387  1.0000
+  Dy  Dy2       1.0  0.7248004078865051  0.22564595937728882  0.9190344214439392  1.0000
+  Pr  Pr4       1.0  0.7253574728965759  0.7254624366760254  0.6662701964378357  1.0000
+  Tm  Tm1       1.0  0.7246862053871155  0.22549320757389069  0.4193935692310333  1.0000

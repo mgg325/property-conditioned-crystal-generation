@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_InFe2(TeO4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.83610214
+_cell_length_b   4.83256395
+_cell_length_c   9.55402084
+_cell_angle_alpha   90.12513846
+_cell_angle_beta   89.98358634
+_cell_angle_gamma   90.01947521
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InFe2(TeO4)3
+_chemical_formula_sum   'In1 Fe2 Te3 O12'
+_cell_volume   223.28429662
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.72319905  0.00495818  0.13066924  1
+  Fe  Fe1  1  0.72178202  0.00419301  0.80789261  1
+  Fe  Fe2  1  0.22149765  0.50312181  0.64897872  1
+  Te  Te3  1  0.22224062  0.50470078  0.96163449  1
+  Te  Te4  1  0.72172333  1.00366908  0.48898073  1
+  Te  Te5  1  0.22447385  0.50552898  0.31912530  1
+  O  O6  1  0.53746644  0.81503593  0.63905509  1
+  O  O7  1  0.90666703  0.19115131  0.63937168  1
+  O  O8  1  0.41801366  0.30633215  0.81802994  1
+  O  O9  1  0.02616910  0.70246977  0.81854264  1
+  O  O10  1  0.92997655  0.21481067  0.96091723  1
+  O  O11  1  0.51467666  0.79549291  0.96104515  1
+  O  O12  1  0.90426082  0.18926454  0.32558526  1
+  O  O13  1  0.04028963  0.69041574  0.12415662  1
+  O  O14  1  0.42733500  0.29342977  0.48018438  1
+  O  O15  1  0.40682228  0.32051335  0.12340105  1
+  O  O16  1  0.01652820  0.71283236  0.48000828  1
+  O  O17  1  0.53469264  0.81303630  0.32462904  1

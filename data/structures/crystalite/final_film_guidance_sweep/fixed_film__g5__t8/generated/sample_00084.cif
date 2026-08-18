@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KNaGaTcSb3Te3Pb2Se3SXeBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63717794
+_cell_length_b   6.22118902
+_cell_length_c   8.08708096
+_cell_angle_alpha   115.29273987
+_cell_angle_beta   120.86515045
+_cell_angle_gamma   91.20269775
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaGaTcSb3Te3Pb2Se3SXeBr
+_chemical_formula_sum   'K1 Na1 Ga1 Tc1 Sb3 Te3 Pb2 Se3 S1 Xe1 Br1'
+_cell_volume   209.30461297
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Xe  Xe0  1  0.28801626  0.68722475  0.84366667  1
+  Br  Br1  1  0.02340195  0.05349720  0.55198282  1
+  Te  Te2  1  0.28290749  0.32242408  0.64049214  1
+  Te  Te3  1  0.87969673  0.56305796  0.50331455  1
+  Te  Te4  1  0.41344920  0.74124932  0.26400879  1
+  Na  Na5  1  0.20726725  0.50660455  0.21511772  1
+  Se  Se6  1  0.38569507  0.98864758  0.34722972  1
+  K  K7  1  0.19302610  0.56615728  0.31038362  1
+  Pb  Pb8  1  0.57417798  0.68148208  0.90311348  1
+  Sb  Sb9  1  0.80365098  0.65130258  0.05209321  1
+  Sb  Sb10  1  0.73943388  0.10843495  0.11277452  1
+  S  S11  1  0.48156703  0.67472804  0.87391734  1
+  Se  Se12  1  0.63398707  0.51313865  0.06864798  1
+  Sb  Sb13  1  0.00717902  0.67285722  0.93321359  1
+  Ga  Ga14  1  0.73454779  0.74001694  0.90342867  1
+  Se  Se15  1  0.05341628  0.44678563  0.65877944  1
+  Pb  Pb16  1  0.68354392  0.62359381  0.68517935  1
+  Tc  Tc17  1  0.82763910  0.07907614  0.97028750  1

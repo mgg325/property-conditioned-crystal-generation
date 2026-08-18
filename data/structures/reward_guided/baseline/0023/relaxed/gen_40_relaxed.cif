@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CeMg(AsRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28806252
+_cell_length_b   4.28993053
+_cell_length_c   6.85272968
+_cell_angle_alpha   89.96957637
+_cell_angle_beta   89.98922651
+_cell_angle_gamma   119.99434785
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeMg(AsRh)2
+_chemical_formula_sum   'Ce1 Mg1 As2 Rh2'
+_cell_volume   109.17676261
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.44079247  0.55623605  0.61421461  1
+  Mg  Mg1  1  0.44052037  0.55661686  0.11411687  1
+  As  As2  1  0.10699772  0.88970225  0.87177482  1
+  As  As3  1  0.77416139  0.22356503  0.35671644  1
+  Rh  Rh4  1  0.10751303  0.89064456  0.27542077  1
+  Rh  Rh5  1  0.77342114  0.22300994  0.95249234  1

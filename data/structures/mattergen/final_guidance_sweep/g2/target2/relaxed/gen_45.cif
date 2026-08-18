@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       H3O
+_chemical_formula_sum              "H3 O1"
+_cell_length_a       5.724190035917046
+_cell_length_b       5.704296161959135
+_cell_length_c       5.748614855886021
+_cell_angle_alpha    111.23654175217102
+_cell_angle_beta     68.26330722933953
+_cell_angle_gamma    111.03661522319872
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.35661263128050624  0.3074023091217989  0.6354197524249932  1.0000
+  H   H2        1.0  0.6104363725539439  0.5547235979656083  0.6371856471403895  1.0000
+  H   H3        1.0  0.6081981970643888  0.30729816872683763  0.38334110322085146  1.0000
+  O   O1        1.0  0.5501502345208625  0.3618334666716755  0.5763814537424844  1.0000

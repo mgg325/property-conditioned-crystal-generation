@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaSiLiSiAu2
+_chemical_formula_sum              "Ca1 Si2 Li1 Au2"
+_cell_length_a       4.30825585631433
+_cell_length_b       4.302954378668179
+_cell_length_c       6.79174280166626
+_cell_angle_alpha    90.18370042726599
+_cell_angle_beta     88.67869550593528
+_cell_angle_gamma    118.30971994594555
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.7902814149856566  0.8870838880538939  0.22049279510974884  1.0000
+  Si  Si1       1.0  0.12393753975629807  0.551770806312561  0.5198861360549927  1.0000
+  Li  Li1       1.0  0.7934040427207947  0.884975016117096  0.7230278849601746  1.0000
+  Si  Si2       1.0  0.4572884142398834  0.2202443927526474  0.9235814213752748  1.0000
+  Au  Au1       1.0  0.12547856569290156  0.5557754635810851  0.9136563539505006  1.0000
+  Au  Au2       1.0  0.4570353031158447  0.21711088716983795  0.5299922823905945  1.0000

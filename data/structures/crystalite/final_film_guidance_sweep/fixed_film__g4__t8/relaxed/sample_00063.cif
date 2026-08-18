@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CsK2NaTcSnTeSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.79399129
+_cell_length_b   7.07179991
+_cell_length_c   9.19538577
+_cell_angle_alpha   114.85825157
+_cell_angle_beta   116.62147922
+_cell_angle_gamma   93.19678973
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsK2NaTcSnTeSe2
+_chemical_formula_sum   'Cs1 K2 Na1 Tc1 Sn1 Te1 Se2'
+_cell_volume   341.75327759
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  -0.01042436  0.92658635  0.93924274  1
+  K  K1  1  0.70933488  0.27632497  0.34756393  1
+  K  K2  1  0.48294657  0.49908422  0.85800435  1
+  Na  Na3  1  0.06603200  0.03247887  0.58393895  1
+  Tc  Tc4  1  0.52840062  1.03614213  0.53925301  1
+  Sn  Sn5  1  0.31770365  0.66577697  0.47451453  1
+  Te  Te6  1  0.57966321  0.72164732  0.29967194  1
+  Se  Se7  1  -0.10493810  0.33555310  0.78518235  1
+  Se  Se8  1  0.23262673  0.19826960  0.40590411  1

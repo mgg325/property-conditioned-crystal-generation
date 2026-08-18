@@ -1,0 +1,27 @@
+# Install MatterGen, Crystalite, and AnisoNet separately; see THIRD_PARTY.md.
+# Dependencies imported by retained project-specific scripts.
+ase
+chgnet
+e3nn
+huggingface-hub
+lightning
+lmdb
+matminer
+matplotlib
+mattersim
+monty
+numpy
+omegaconf
+p-tqdm
+pandas
+pathos
+pymatgen
+pyxtal
+scipy
+seaborn
+smact
+torch
+torch-geometric
+torch-scatter
+tqdm
+wandb

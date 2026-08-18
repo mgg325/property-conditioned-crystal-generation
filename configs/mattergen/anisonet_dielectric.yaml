@@ -1,0 +1,51 @@
+_target_: mattergen.common.data.datamodule.CrystDataModule
+_recursive_: true
+properties:
+  - dft_dielectric_scalar
+
+transforms:
+- _target_: mattergen.common.data.transform.symmetrize_lattice
+  _partial_: true
+- _target_: mattergen.common.data.transform.set_chemical_system_string
+  _partial_: true
+
+dataset_transforms:
+  - _target_: mattergen.common.data.dataset_transform.filter_sparse_properties
+    _partial_: true
+
+# Used to set lattice_limit_density in MatterGen.
+average_density: 0.05771451654022283
+root_dir: external/mattergen_cache/anisonet_dielectric
+
+train_dataset:
+  _target_: mattergen.common.data.dataset.CrystalDataset.from_cache_path
+  cache_path: ${data_module.root_dir}/train
+  properties: ${data_module.properties}
+  transforms: ${data_module.transforms}
+  dataset_transforms: ${data_module.dataset_transforms}
+
+val_dataset:
+  _target_: mattergen.common.data.dataset.CrystalDataset.from_cache_path
+  cache_path: ${data_module.root_dir}/val
+  properties: ${data_module.properties}
+  transforms: ${data_module.transforms}
+  dataset_transforms: ${data_module.dataset_transforms}
+
+test_dataset:
+  _target_: mattergen.common.data.dataset.CrystalDataset.from_cache_path
+  cache_path: ${data_module.root_dir}/test
+  properties: ${data_module.properties}
+  transforms: ${data_module.transforms}
+  dataset_transforms: ${data_module.dataset_transforms}
+
+num_workers:
+  train: 0
+  val: 0
+  test: 0
+
+batch_size:
+  train: 1
+  val: 1
+  test: 1
+
+max_epochs: 1

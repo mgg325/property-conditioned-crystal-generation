@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Pr3Rh2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.07504931
+_cell_length_b   5.07431832
+_cell_length_c   6.11007348
+_cell_angle_alpha   90.00583653
+_cell_angle_beta   90.00130376
+_cell_angle_gamma   120.00396295
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3Rh2
+_chemical_formula_sum   'Pr3 Rh2'
+_cell_volume   136.26292001
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.31022986  0.20125394  0.50222217  1
+  Pr  Pr1  1  0.97689753  0.53455631  0.82477550  1
+  Pr  Pr2  1  0.64359221  0.86790214  0.14730391  1
+  Rh  Rh3  1  0.64357500  0.86794810  0.64407626  1
+  Rh  Rh4  1  0.31027380  0.20125668  1.00541185  1

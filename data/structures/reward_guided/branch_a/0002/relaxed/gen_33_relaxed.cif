@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CeMnCrSiC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.81844800
+_cell_length_b   5.66585026
+_cell_length_c   7.06402188
+_cell_angle_alpha   90.00573888
+_cell_angle_beta   90.00508601
+_cell_angle_gamma   109.69347969
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeMnCrSiC
+_chemical_formula_sum   'Ce2 Mn2 Cr2 Si2 C2'
+_cell_volume   143.88927784
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.78481048  0.82459665  0.14839750  1
+  Ce  Ce1  1  0.87505094  0.00564287  0.64818800  1
+  Mn  Mn2  1  0.15745000  0.57029946  0.83275608  1
+  Mn  Mn3  1  0.50245354  0.26036530  0.33281485  1
+  Cr  Cr4  1  0.49585269  0.24761466  0.96219745  1
+  Cr  Cr5  1  0.16367279  0.58309233  0.46258125  1
+  Si  Si6  1  0.06250262  0.38075491  0.14875772  1
+  Si  Si7  1  0.59692282  0.44942870  0.64887897  1
+  C  C8  1  0.32853123  0.91215178  0.89808254  1
+  C  C9  1  0.33139808  0.91845124  0.39811394  1

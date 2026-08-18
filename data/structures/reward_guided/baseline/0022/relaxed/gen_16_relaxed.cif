@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cs3K3(RbNa)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.85991511
+_cell_length_b   10.87385860
+_cell_length_c   13.13586929
+_cell_angle_alpha   104.65830046
+_cell_angle_beta   90.00309385
+_cell_angle_gamma   90.03302564
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3K3(RbNa)4
+_chemical_formula_sum   'Cs3 K3 Rb4 Na4'
+_cell_volume   947.96142905
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.42644927  0.28207150  0.89383328  1
+  Cs  Cs1  1  0.92761163  0.62260999  0.43814949  1
+  Cs  Cs2  1  0.92533033  0.99783586  0.96933658  1
+  K  K3  1  0.92795740  0.44468639  0.10033057  1
+  K  K4  1  0.42520467  0.91074557  0.36803723  1
+  K  K5  1  0.42461007  0.72151088  0.03356313  1
+  Rb  Rb6  1  0.42708381  0.33793007  0.50322653  1
+  Rb  Rb7  1  0.42683432  0.81092594  0.69893289  1
+  Rb  Rb8  1  0.92637869  0.08152508  0.60378287  1
+  Rb  Rb9  1  0.92513141  0.54711580  0.79226498  1
+  Na  Na10  1  0.92584803  0.17268252  0.30330391  1
+  Na  Na11  1  0.92382964  0.83173543  0.21206395  1
+  Na  Na12  1  0.42490343  0.15844237  0.16445726  1
+  Na  Na13  1  0.42743408  0.49524618  0.24108675  1

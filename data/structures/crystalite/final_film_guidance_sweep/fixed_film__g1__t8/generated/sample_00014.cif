@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li2In2GaAs5Se2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51786137
+_cell_length_b   5.66800690
+_cell_length_c   11.13316536
+_cell_angle_alpha   89.89045715
+_cell_angle_beta   90.01151276
+_cell_angle_gamma   90.12799072
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2In2GaAs5Se2
+_chemical_formula_sum   'Li2 In2 Ga1 As5 Se2'
+_cell_volume   348.19131063
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.02620181  0.17061609  0.55796516  1
+  As  As1  1  0.73482794  0.38773513  0.74083960  1
+  Se  Se2  1  0.24794608  0.88079393  0.67868745  1
+  As  As3  1  0.27250075  0.49180073  0.84939337  1
+  Li  Li4  1  0.54849410  0.65161061  0.55133307  1
+  In  In5  1  0.52170652  0.14820579  0.26338482  1
+  As  As6  1  0.78671789  0.45143145  0.11575752  1
+  In  In7  1  0.52620173  0.10310861  0.89449674  1
+  Ga  Ga8  1  0.01723853  0.64322340  0.05979052  1
+  Se  Se9  1  0.27273911  0.40616950  0.40211198  1
+  As  As10  1  0.16211930  0.91895175  0.16713470  1
+  As  As11  1  0.81376034  0.85784686  0.37787488  1

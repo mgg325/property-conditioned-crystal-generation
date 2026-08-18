@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MnClAgCl3
+_chemical_formula_sum              "Mn1 Cl4 Ag1"
+_cell_length_a       3.721312265606443
+_cell_length_b       6.847479292039572
+_cell_length_c       7.564232751230438
+_cell_angle_alpha    111.20667007671558
+_cell_angle_beta     89.97474611334306
+_cell_angle_gamma    90.06672967020954
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.6040012465083124  0.6696762480473438  0.6735447161755913  1.0000
+  Cl  Cl1       1.0  0.1039040268133638  0.884056993141085  0.8789904514428627  1.0000
+  Ag  Ag1       1.0  0.10422339742512825  0.1696171184779222  0.6733213272331222  1.0000
+  Cl  Cl2       1.0  0.6035515526466004  0.4439635135581646  0.8629037727007967  1.0000
+  Cl  Cl3       1.0  0.6046525358622545  0.8950322977641869  0.48393417386072807  1.0000
+  Cl  Cl4       1.0  0.10413949440460411  0.4552476625251534  0.4681055431969763  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OFeHFeHS3
+_chemical_formula_sum              "O1 Fe2 H2 S3"
+_cell_length_a       3.6693083533966795
+_cell_length_b       6.240204370216579
+_cell_length_c       7.830508736120067
+_cell_angle_alpha    73.93092973134371
+_cell_angle_beta     92.77718056070344
+_cell_angle_gamma    89.73245190765147
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.7527856928263508  0.570605874939276  0.6874550222373809  1.0000
+  Fe  Fe1       1.0  0.7454719501103134  0.6743119504268263  0.4331950480219697  1.0000
+  H   H1        1.0  0.5274224781557446  0.520625712211981  0.7489190795825561  1.0000
+  Fe  Fe2       1.0  0.22630278018309213  0.24831149925382237  0.23586895638514324  1.0000
+  H   H2        1.0  0.9750261825611297  0.40937012963205904  0.8289791534065627  1.0000
+  S   S1        1.0  0.74216860865121  0.07661105250567933  0.3792928806627228  1.0000
+  S   S2        1.0  0.22080710800597056  0.24851734667976308  0.9556013535330691  1.0000
+  S   S3        1.0  0.2259991386931408  0.6020719056819046  0.2625451810125565  1.0000

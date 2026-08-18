@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KErAgTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.43841629
+_cell_length_b   9.72304018
+_cell_length_c   10.49320013
+_cell_angle_alpha   108.79174159
+_cell_angle_beta   90.00157952
+_cell_angle_gamma   90.00046310
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KErAgTe3
+_chemical_formula_sum   'K2 Er2 Ag2 Te6'
+_cell_volume   428.69505515
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.03658321  0.90302058  0.46790841  1
+  K  K1  1  0.53617986  0.49489923  0.98117278  1
+  Er  Er2  1  0.03661690  0.37685523  0.38013426  1
+  Er  Er3  1  0.53645049  0.02067338  0.06834899  1
+  Ag  Ag4  1  0.03637464  0.78017752  0.81975326  1
+  Ag  Ag5  1  0.53652083  0.61664071  0.62881253  1
+  Te  Te6  1  0.03634171  0.81201264  0.09369440  1
+  Te  Te7  1  0.53656631  0.58568260  0.35509162  1
+  Te  Te8  1  0.53653802  0.15421938  0.37818607  1
+  Te  Te9  1  0.03654907  0.46870194  0.68984158  1
+  Te  Te10  1  0.53635154  0.92813650  0.75868752  1
+  Te  Te11  1  0.03639241  0.24329757  0.07017974  1

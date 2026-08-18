@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       NaPdSr2NaSr2PdSr2
+_chemical_formula_sum              "Na2 Pd2 Sr6"
+_cell_length_a       4.400929023994917
+_cell_length_b       6.956263330751183
+_cell_length_c       13.348966598510742
+_cell_angle_alpha    89.37693893532754
+_cell_angle_beta     98.6469943404405
+_cell_angle_gamma    90.540338796676
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5559599995613098  0.09780605882406235  0.42790320515632635  1.0000
+  Pd  Pd1       1.0  0.7625352740287781  0.09345998615026474  0.8399637937545777  1.0000
+  Sr  Sr1       1.0  0.4621587097644806  0.6026120781898499  0.2348033040761948  1.0000
+  Sr  Sr2       1.0  0.7109286189079285  0.5959325432777405  0.7360793948173523  1.0000
+  Na  Na2       1.0  0.08701175451278687  0.5963260531425476  0.4863903224468232  1.0000
+  Sr  Sr3       1.0  0.32204312086105347  0.8480580449104309  0.9568845629692079  1.0000
+  Sr  Sr4       1.0  0.9327452778816223  0.0980827733874321  0.17959998548030853  1.0000
+  Pd  Pd2       1.0  0.881477952003479  0.6036174297332765  0.07434818893671036  1.0000
+  Sr  Sr5       1.0  0.3211307227611542  0.34847348928451544  0.956563711166382  1.0000
+  Sr  Sr6       1.0  0.18000920116901398  0.09423263370990755  0.6785569190979004  1.0000

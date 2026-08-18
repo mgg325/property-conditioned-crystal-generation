@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_K2RuO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.64593792
+_cell_length_b   5.67473602
+_cell_length_c   6.31760311
+_cell_angle_alpha   88.51605988
+_cell_angle_beta   114.43365479
+_cell_angle_gamma   92.31282043
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2RuO5
+_chemical_formula_sum   'K2 Ru1 O5'
+_cell_volume   151.51198433
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.77782053  0.84399015  0.27588880  1
+  K  K1  1  0.91589868  0.23374233  0.46298310  1
+  Ru  Ru2  1  0.66194314  0.58725417  0.75306797  1
+  K  K3  1  0.39150411  0.91151202  0.13337886  1
+  O  O4  1  0.29275590  0.31134462  0.39256072  1
+  O  O5  1  0.74030805  0.14418384  0.75924909  1
+  O  O6  1  0.06775042  0.63047683  0.73935688  1
+  O  O7  1  0.60224563  0.54070199  0.49073890  1

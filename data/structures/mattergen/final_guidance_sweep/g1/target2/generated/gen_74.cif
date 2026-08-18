@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OCsOCsV2O2
+_chemical_formula_sum              "O4 Cs2 V2"
+_cell_length_a       6.170935689484909
+_cell_length_b       6.16779330494438
+_cell_length_c       6.164623737335205
+_cell_angle_alpha    60.024323378074804
+_cell_angle_beta     60.09670490471936
+_cell_angle_gamma    60.10435387619451
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.5951852202415466  0.8316740989685057  0.8601803183555603  1.0000
+  Cs  Cs1       1.0  0.22022730112075806  0.4563387930393219  0.9850562810897827  1.0000
+  O   O2        1.0  0.5955390334129333  0.8312386274337767  0.35972532629966736  1.0000
+  Cs  Cs2       1.0  0.9709703326225281  0.20659828186035156  0.7354990839958191  1.0000
+  V   V1        1.0  0.7204686403274537  0.9571599960327147  0.48494860529899597  1.0000
+  V   V2        1.0  0.47033169865608215  0.7064666748046875  0.2355927675962449  1.0000
+  O   O3        1.0  0.5956782102584839  0.3316889703273773  0.35943955183029175  1.0000
+  O   O4        1.0  0.09535980224609379  0.8314591050148009  0.36050546169281006  1.0000

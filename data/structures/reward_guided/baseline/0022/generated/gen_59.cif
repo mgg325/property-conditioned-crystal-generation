@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LaSnLiSnPd
+_chemical_formula_sum              "La1 Sn2 Li1 Pd1"
+_cell_length_a       4.469102052274695
+_cell_length_b       4.514139091705461
+_cell_length_c       6.467529296875
+_cell_angle_alpha    110.68551085571568
+_cell_angle_beta     110.08637138445155
+_cell_angle_gamma    91.33583750233629
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.2604941725730896  0.2121480256319046  0.8909197449684143  1.0000
+  Sn  Sn1       1.0  0.8875920176506042  0.8361050486564636  0.13916507363319397  1.0000
+  Li  Li1       1.0  0.012579300440847882  0.4618104696273804  0.3901093602180481  1.0000
+  Sn  Sn2       1.0  0.6379921436309814  0.5877922177314759  0.642447292804718  1.0000
+  Pd  Pd1       1.0  0.5110740661621094  0.9627260565757751  0.38997137546539307  1.0000

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_RbHoUSb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93214417
+_cell_length_b   4.17220831
+_cell_length_c   6.41251469
+_cell_angle_alpha   89.77436829
+_cell_angle_beta   90.33527374
+_cell_angle_gamma   119.23152161
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbHoUSb2
+_chemical_formula_sum   'Rb1 Ho1 U1 Sb2'
+_cell_volume   91.80321233
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.53486371  0.98272645  0.48642576  1
+  U  U1  1  0.19715464  0.29405159  0.93090904  1
+  Ho  Ho2  1  0.86729121  0.63915622  0.67282581  1
+  Sb  Sb3  1  0.53784692  0.97457707  0.07251129  1
+  Sb  Sb4  1  0.87751365  0.65174317  0.24766675  1

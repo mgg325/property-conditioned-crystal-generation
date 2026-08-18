@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Si3N5ClF11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   0.76819903
+_cell_length_b   3.46967626
+_cell_length_c   16.78363609
+_cell_angle_alpha   89.27105713
+_cell_angle_beta   86.58656311
+_cell_angle_gamma   114.52840424
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si3N5ClF11
+_chemical_formula_sum   'Si3 N5 Cl1 F11'
+_cell_volume   40.59129668
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.54346496  0.01294902  0.89813554  1
+  F  F1  1  0.32629091  0.45590442  0.98925388  1
+  F  F2  1  0.93113971  0.71854383  0.03251517  1
+  F  F3  1  0.94371593  0.63137555  0.68641710  1
+  F  F4  1  0.73335761  0.40987483  0.94069421  1
+  N  N5  1  0.64151770  0.93973845  0.98620993  1
+  Si  Si6  1  0.62244642  0.07447931  0.67860878  1
+  N  N7  1  0.31580514  0.76437974  0.93041372  1
+  F  F8  1  0.38137236  0.46156973  0.51397210  1
+  Cl  Cl9  1  0.03022629  0.46924391  0.96584976  1
+  F  F10  1  0.35342711  0.44645473  0.97830987  1
+  Si  Si11  1  0.62745923  0.51860976  0.94264346  1
+  F  F12  1  0.59764528  0.15144715  0.86017740  1
+  N  N13  1  0.64071596  0.27447271  0.85698485  1
+  F  F14  1  0.82020295  0.40525919  0.94008756  1
+  N  N15  1  0.02686515  0.57261586  0.98510742  1
+  F  F16  1  0.97412437  0.48609543  0.96485019  1
+  N  N17  1  0.63184226  0.02623630  0.54501987  1
+  F  F18  1  0.05737203  0.48504919  0.96251321  1
+  F  F19  1  0.34785897  0.34162012  0.94418728  1

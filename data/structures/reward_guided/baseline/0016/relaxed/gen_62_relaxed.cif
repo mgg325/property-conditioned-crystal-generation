@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_ErTmAl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.73457601
+_cell_length_b   3.73445691
+_cell_length_c   6.13426082
+_cell_angle_alpha   107.72958664
+_cell_angle_beta   107.72559787
+_cell_angle_gamma   89.99993173
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErTmAl
+_chemical_formula_sum   'Er1 Tm1 Al1'
+_cell_volume   77.21383427
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.14293868  0.21256358  0.80121500  1
+  Tm  Tm1  1  0.44226094  0.51189177  0.39978615  1
+  Al  Al2  1  0.79353106  0.86325894  0.10247330  1

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       O2I2N
+_chemical_formula_sum              "O2 I2 N1"
+_cell_length_a       4.579348949206427
+_cell_length_b       4.590417466501002
+_cell_length_c       7.706211090087891
+_cell_angle_alpha    87.67525200602353
+_cell_angle_beta     91.66214963211142
+_cell_angle_gamma    90.90478396251152
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.955690562725067  0.48621574044227606  0.56487637758255  1.0000
+  O   O2        1.0  0.5965827107429504  0.8512642979621887  0.5390943884849548  1.0000
+  I   I1        1.0  0.3839511573314667  0.06362117826938629  0.20696929097175598  1.0000
+  I   I2        1.0  0.1659785658121109  0.27769994735717773  0.8965757489204407  1.0000
+  N   N1        1.0  0.7764557600021362  0.6695000529289246  0.554742157459259  1.0000

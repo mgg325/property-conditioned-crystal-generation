@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Mg2ZnFeO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.36772251
+_cell_length_b   5.80955267
+_cell_length_c   6.54072952
+_cell_angle_alpha   115.44325256
+_cell_angle_beta   104.78273773
+_cell_angle_gamma   89.97464752
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2ZnFeO5
+_chemical_formula_sum   'Mg2 Zn1 Fe1 O5'
+_cell_volume   110.85570536
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.04946563  0.30337888  0.08870026  1
+  O  O1  1  0.19869706  0.89137650  0.34065962  1
+  O  O2  1  0.38860345  0.20924392  0.71996808  1
+  Mg  Mg3  1  0.05736050  0.96135384  0.05886734  1
+  O  O4  1  0.51772714  0.74117321  0.95202720  1
+  Mg  Mg5  1  0.31502685  0.54232013  0.59641701  1
+  Zn  Zn6  1  0.57893795  0.48870221  0.11869797  1
+  Fe  Fe7  1  0.81078577  0.00973821  0.58025098  1
+  O  O8  1  0.77008706  0.58882093  0.50088620  1

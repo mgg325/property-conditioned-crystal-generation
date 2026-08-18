@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CdLiCd2Mg2Sn2LiSn
+_chemical_formula_sum              "Cd3 Li2 Mg2 Sn3"
+_cell_length_a       4.402201342298526
+_cell_length_b       5.191594463224222
+_cell_length_c       10.436875343322754
+_cell_angle_alpha    91.01123931492687
+_cell_angle_beta     91.34122627937607
+_cell_angle_gamma    111.50227672891981
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.7640380859375  0.8767138719558715  0.28003787994384766  1.0000
+  Li  Li1       1.0  0.970307946205139  0.285437673330307  0.6780042052268982  1.0000
+  Cd  Cd2       1.0  0.6623141765594482  0.6720473170280457  0.5831204652786255  1.0000
+  Cd  Cd3       1.0  0.8780418038368225  0.10746777057647705  0.9740760326385496  1.0000
+  Mg  Mg1       1.0  0.36062419414520264  0.06844647973775864  0.4850117266178131  1.0000
+  Mg  Mg2       1.0  0.5732254385948181  0.5058391690254211  0.8724363446235657  1.0000
+  Sn  Sn1       1.0  0.27408838272094727  0.9058607220649719  0.7719265818595886  1.0000
+  Sn  Sn2       1.0  0.05889668315649031  0.4637726843357086  0.384433388710022  1.0000
+  Li  Li2       1.0  0.47025448083877563  0.28410449624061584  0.18020805716514587  1.0000
+  Sn  Sn3       1.0  0.17326542735099792  0.6912943720817566  0.08057181537151337  1.0000

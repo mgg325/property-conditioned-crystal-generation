@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mg2OSiO3
+_chemical_formula_sum              "Mg2 O4 Si1"
+_cell_length_a       4.700568479008952
+_cell_length_b       4.699579485955564
+_cell_length_c       4.0083692228210595
+_cell_angle_alpha    90.00223129262572
+_cell_angle_beta     90.01329889376875
+_cell_angle_gamma    89.98983781864808
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.5858680847813337  0.23475058209999108  0.09051918419944929  1.0000
+  Mg  Mg2       1.0  0.0857625711681365  0.7350097246578937  0.09123493445755554  1.0000
+  O   O1        1.0  0.2927311422384943  0.4420308163494032  0.8214322378602091  1.0000
+  Si  Si1       1.0  0.0859787475367742  0.23497175419976654  0.5907121655405562  1.0000
+  O   O2        1.0  0.2931728990421414  0.027911184458261556  0.36057264911631504  1.0000
+  O   O3        1.0  0.8791005720813596  0.02786941556798472  0.8211842580035216  1.0000
+  O   O4        1.0  0.8787958169111479  0.4417899171724013  0.36018031393807787  1.0000

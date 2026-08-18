@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SrHgNaAu2
+_chemical_formula_sum              "Sr1 Hg1 Na1 Au2"
+_cell_length_a       4.367299862038718
+_cell_length_b       4.364673478189554
+_cell_length_c       7.518237590789795
+_cell_angle_alpha    106.96254433817236
+_cell_angle_beta     106.94491636163237
+_cell_angle_gamma    90.0733307487772
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.9680580496788025  0.31382492184638977  0.5129517316818237  1.0000
+  Hg  Hg1       1.0  0.7181826829910278  0.563660204410553  0.013271169736981394  1.0000
+  Na  Na1       1.0  0.2179732471704483  0.06286199390888214  0.012634663842618467  1.0000
+  Au  Au1       1.0  0.5685349106788635  0.914244532585144  0.714559555053711  1.0000
+  Au  Au2       1.0  0.36732620000839233  0.712639570236206  0.3118280172348023  1.0000

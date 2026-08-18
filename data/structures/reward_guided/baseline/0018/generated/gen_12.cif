@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PdBaAuSiPd
+_chemical_formula_sum              "Pd2 Ba1 Au1 Si1"
+_cell_length_a       4.48310690805627
+_cell_length_b       4.392930059476874
+_cell_length_c       6.152665615081787
+_cell_angle_alpha    110.13273397897537
+_cell_angle_beta     110.54404949325497
+_cell_angle_gamma    89.79483118905388
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.13621951639652252  0.3526756465435028  0.2749788761138916  1.0000
+  Ba  Ba1       1.0  0.5572757720947266  0.7704490423202515  0.11234340071678162  1.0000
+  Au  Au1       1.0  0.3081538677215576  0.021108943969011307  0.6171075105667114  1.0000
+  Si  Si1       1.0  0.9114168882369995  0.1257227212190628  0.8217231035232544  1.0000
+  Pd  Pd2       1.0  0.8120957016944885  0.5263823866844177  0.6244790554046631  1.0000

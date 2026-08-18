@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_KRb2LiGaSn3SbSe7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.62221126
+_cell_length_b   5.08984597
+_cell_length_c   30.62980001
+_cell_angle_alpha   92.94008700
+_cell_angle_beta   90.02622288
+_cell_angle_gamma   88.00021931
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRb2LiGaSn3SbSe7
+_chemical_formula_sum   'K1 Rb2 Li1 Ga1 Sn3 Sb1 Se7'
+_cell_volume   563.61893675
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.38416231  0.21073194  0.79772140  1
+  Rb  Rb1  1  0.58549036  0.12865444  0.18602484  1
+  Rb  Rb2  1  0.59059028  0.59450424  0.41402778  1
+  Li  Li3  1  0.09138302  0.60570303  0.17484818  1
+  Ga  Ga4  1  0.59993735  0.23718168  0.58645186  1
+  Sn  Sn5  1  0.57169113  0.13865694  0.97002167  1
+  Sn  Sn6  1  0.10415518  0.59426904  0.91493435  1
+  Sn  Sn7  1  0.08445272  0.11423485  0.30023129  1
+  Sb  Sb8  1  0.06004674  0.62376113  0.69813459  1
+  Se  Se9  1  -0.19731657  0.71641237  0.84316035  1
+  Se  Se10  1  0.56918508  0.76954158  0.63688718  1
+  Se  Se11  1  0.59174667  0.60651893  0.12461774  1
+  Se  Se12  1  0.07999120  0.63464031  0.26104462  1
+  Se  Se13  1  0.07408544  0.06835527  0.02838853  1
+  Se  Se14  1  0.06733921  -0.19057563  0.50681114  1
+  Se  Se15  1  0.58896474  0.13472813  0.48724130  1

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SnSVS
+_chemical_formula_sum              "Sn1 S2 V1"
+_cell_length_a       3.277425223155161
+_cell_length_b       3.2716606280301557
+_cell_length_c       8.602664947509766
+_cell_angle_alpha    89.87197061757794
+_cell_angle_beta     90.09200515472597
+_cell_angle_gamma    119.95798782580164
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.023875480517745018  0.017217837274074554  0.21022503077983856  1.0000
+  S   S1        1.0  0.023102277889847755  0.017466092482209206  0.8802886009216309  1.0000
+  V   V1        1.0  0.6892423033714294  0.34988197684288025  0.7101166248321533  1.0000
+  S   S2        1.0  0.022606251761317253  0.01695786602795124  0.5404037833213806  1.0000

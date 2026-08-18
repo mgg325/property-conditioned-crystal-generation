@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_ZrFeCoB2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.43749452
+_cell_length_b   3.43763328
+_cell_length_c   5.03790514
+_cell_angle_alpha   109.94419291
+_cell_angle_beta   109.93989200
+_cell_angle_gamma   89.99822823
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrFeCoB2
+_chemical_formula_sum   'Zr1 Fe1 Co1 B2'
+_cell_volume   52.14929386
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.82133656  0.53534404  0.81234883  1
+  Fe  Fe1  1  0.57132304  0.78520995  0.31213269  1
+  Co  Co2  1  0.07122879  0.28531403  0.31218458  1
+  B  B3  1  0.43591991  0.14962050  0.04138753  1
+  B  B4  1  0.20668415  0.92056035  0.58329630  1

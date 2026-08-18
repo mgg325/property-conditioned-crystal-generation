@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ba2InNP
+_chemical_formula_sum              "Ba2 In1 N1 P1"
+_cell_length_a       4.426329421723145
+_cell_length_b       5.545354126792185
+_cell_length_c       5.545362370114001
+_cell_angle_alpha    90.03941654959513
+_cell_angle_beta     90.00035980692165
+_cell_angle_gamma    89.99995373156838
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.7715043678952089  0.3513142987804742  0.007591701898263974  1.0000
+  Ba  Ba2       1.0  0.7714549231579522  0.851256989879266  0.5075611715396756  1.0000
+  In  In1       1.0  0.27154122126134583  0.8512052899204655  0.007527037166788177  1.0000
+  N   N1        1.0  0.7714682650813132  0.8513607462213009  0.00753835755539205  1.0000
+  P   P1        1.0  0.27119226959941567  0.35089186212723433  0.5077127350674637  1.0000

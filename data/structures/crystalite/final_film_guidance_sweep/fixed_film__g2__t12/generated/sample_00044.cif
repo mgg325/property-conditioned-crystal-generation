@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ZrZnCd3TcSb2TeRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.27451229
+_cell_length_b   6.65634632
+_cell_length_c   8.85518646
+_cell_angle_alpha   108.71382904
+_cell_angle_beta   90.08000946
+_cell_angle_gamma   105.91811371
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrZnCd3TcSb2TeRh
+_chemical_formula_sum   'Zr1 Zn1 Cd3 Tc1 Sb2 Te1 Rh1'
+_cell_volume   174.94781048
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.98862433  0.66359425  0.43275982  1
+  Zr  Zr1  1  0.35255647  0.48572090  0.59919620  1
+  Zn  Zn2  1  0.84152460  0.38488090  0.88235068  1
+  Cd  Cd3  1  0.36497688  0.37968993  0.21191588  1
+  Sb  Sb4  1  0.71400845  0.10938531  0.14575073  1
+  Cd  Cd5  1  0.98567057  0.80171514  0.18022808  1
+  Rh  Rh6  1  0.28455201  0.68457770  0.99126554  1
+  Tc  Tc7  1  0.65043408  0.00658032  0.47027451  1
+  Cd  Cd8  1  0.60113585  0.90061945  0.82997358  1
+  Te  Te9  1  0.29246324  0.23837376  0.74248266  1

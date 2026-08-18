@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ag2BiAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.26162446
+_cell_length_b   8.02817717
+_cell_length_c   8.02842228
+_cell_angle_alpha   89.99155372
+_cell_angle_beta   90.00076291
+_cell_angle_gamma   90.00066560
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag2BiAu2
+_chemical_formula_sum   'Ag4 Bi2 Au4'
+_cell_volume   210.22342474
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.39288695  0.29472749  0.41103722  1
+  Ag  Ag1  1  0.39292030  0.96180344  0.74394490  1
+  Ag  Ag2  1  0.39290803  0.46170223  0.91117628  1
+  Ag  Ag3  1  0.39302840  0.79468672  0.24403611  1
+  Bi  Bi4  1  0.89302336  0.62828993  0.57763137  1
+  Bi  Bi5  1  0.89315411  0.12811255  0.07746855  1
+  Au  Au6  1  0.89299803  0.75644301  0.94934201  1
+  Au  Au7  1  0.89308410  0.25661563  0.70566703  1
+  Au  Au8  1  0.89300592  1.00000066  0.44911398  1
+  Au  Au9  1  0.89298481  0.49998676  0.20576487  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cs2BaSrSiPSeSO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20569944
+_cell_length_b   7.01704693
+_cell_length_c   4.23698092
+_cell_angle_alpha   85.11052704
+_cell_angle_beta   91.52554321
+_cell_angle_gamma   73.07244110
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2BaSrSiPSeSO4
+_chemical_formula_sum   'Cs2 Ba1 Sr1 Si1 P1 Se1 S1 O4'
+_cell_volume   147.31168016
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.35295159  0.59210557  0.58740783  1
+  Si  Si1  1  0.30447984  0.70417166  0.19496673  1
+  O  O2  1  0.20428190  0.38444692  0.07431349  1
+  O  O3  1  0.30013978  0.61915934  0.51192516  1
+  Ba  Ba4  1  0.29603347  0.72124720  0.20027474  1
+  S  S5  1  0.22097996  0.21358657  0.05894318  1
+  O  O6  1  0.46412289  0.74652779  0.21108875  1
+  P  P7  1  0.29118991  0.66603315  0.34608227  1
+  Cs  Cs8  1  0.46072909  0.60865074  0.86388731  1
+  O  O9  1  0.28898510  0.93358463  0.48655015  1
+  Se  Se10  1  0.31036586  0.64323187  0.49184692  1
+  Cs  Cs11  1  0.42407769  0.55022740  0.61853129  1

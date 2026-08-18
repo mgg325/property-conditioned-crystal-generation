@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AuGaScAuGaSc2Ga
+_chemical_formula_sum              "Au2 Ga3 Sc3"
+_cell_length_a       4.620779727076292
+_cell_length_b       5.794155026749272
+_cell_length_c       5.820178985595703
+_cell_angle_alpha    104.93756468802555
+_cell_angle_beta     89.98261284158632
+_cell_angle_gamma    90.00245454303688
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.24683795869350436  0.24861522018909457  0.22666627168655396  1.0000
+  Ga  Ga1       1.0  0.2470722943544388  0.7419635057449341  0.2364654541015625  1.0000
+  Sc  Sc1       1.0  0.7468224167823792  0.9644354581832887  0.015295253135263958  1.0000
+  Au  Au2       1.0  0.7464891672134399  0.007863809354603292  0.5263484120368958  1.0000
+  Ga  Ga2       1.0  0.24651873111724856  0.7386432886123658  0.7399381399154663  1.0000
+  Sc  Sc2       1.0  0.24665035307407382  0.2375904619693756  0.7311967015266418  1.0000
+  Sc  Sc3       1.0  0.7466579675674438  0.5101156234741211  0.46118590235710144  1.0000
+  Ga  Ga3       1.0  0.7467633485794067  0.46751654148101807  0.9609195590019226  1.0000

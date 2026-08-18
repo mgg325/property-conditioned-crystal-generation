@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CdGaTc2As
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.20262061
+_cell_length_b   4.35491295
+_cell_length_c   6.69790098
+_cell_angle_alpha   80.65886098
+_cell_angle_beta   103.90063802
+_cell_angle_gamma   118.63554542
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdGaTc2As
+_chemical_formula_sum   'Cd1 Ga1 Tc2 As1'
+_cell_volume   104.28016889
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.17480690  0.49494789  0.32416301  1
+  Ga  Ga1  1  0.35779500  0.43477485  0.75171560  1
+  Tc  Tc2  1  1.11142131  0.77350503  0.90706904  1
+  Tc  Tc3  1  0.94100130  0.81220277  0.56752265  1
+  As  As4  1  0.77005175  0.86748996  0.13860359  1

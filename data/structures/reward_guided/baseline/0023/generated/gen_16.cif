@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pr2In2Co2In2
+_chemical_formula_sum              "Pr2 In4 Co2"
+_cell_length_a       4.194467254465896
+_cell_length_b       5.531455125738312
+_cell_length_c       7.4101481437683105
+_cell_angle_alpha    90.0541454148576
+_cell_angle_beta     90.6074658440235
+_cell_angle_gamma    90.94489770422832
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.5050783753395081  0.548874020576477  0.8318454027175903  1.0000
+  Pr  Pr2       1.0  0.5066998600959778  0.04889476671814918  0.4276779890060425  1.0000
+  In  In1       1.0  0.006364718079566955  0.04886353760957717  0.7665594816207886  1.0000
+  In  In2       1.0  0.005459900014102459  0.7990292906761169  0.12970583140850067  1.0000
+  Co  Co1       1.0  0.5051126480102539  0.5481824278831482  0.24997727572917935  1.0000
+  Co  Co2       1.0  0.506232500076294  0.04969064891338348  0.006040334701538086  1.0000
+  In  In3       1.0  0.005203691311180591  0.30023801326751703  0.12970252335071564  1.0000
+  In  In4       1.0  0.005755550693720579  0.5504587888717651  0.49182629585266113  1.0000

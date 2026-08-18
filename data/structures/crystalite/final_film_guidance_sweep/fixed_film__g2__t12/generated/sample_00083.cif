@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SiBi3Sb3Te2AsPbS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63702154
+_cell_length_b   9.53254223
+_cell_length_c   8.55787563
+_cell_angle_alpha   90.12718201
+_cell_angle_beta   89.79351044
+_cell_angle_gamma   105.45087433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiBi3Sb3Te2AsPbS
+_chemical_formula_sum   'Si1 Bi3 Sb3 Te2 As1 Pb1 S1'
+_cell_volume   443.23579155
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  0.86802077  0.46599501  0.31264615  1
+  S  S1  1  0.42063400  0.72927439  0.67389780  1
+  Si  Si2  1  0.96708578  0.63791955  0.12618959  1
+  Pb  Pb3  1  0.31942856  0.17995495  0.92124659  1
+  Te  Te4  1  0.46162638  0.65806735  0.37655994  1
+  Sb  Sb5  1  0.09455886  0.94639754  0.73939395  1
+  Te  Te6  1  0.01034623  0.88746411  0.22650793  1
+  Sb  Sb7  1  0.51383406  0.68173152  0.96033800  1
+  Bi  Bi8  1  0.72855979  0.05856219  0.61142659  1
+  Bi  Bi9  1  0.11855450  0.21702778  0.49620113  1
+  Sb  Sb10  1  0.79478669  0.35680619  0.78804833  1
+  Bi  Bi11  1  0.60425532  0.17776144  0.16930130  1

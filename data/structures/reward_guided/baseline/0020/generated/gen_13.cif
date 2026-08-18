@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ZrGe2PdGeZrGePd
+_chemical_formula_sum              "Zr2 Ge4 Pd2"
+_cell_length_a       3.89537415275933
+_cell_length_b       3.8887687774325426
+_cell_length_c       9.096363067626953
+_cell_angle_alpha    90.06482099668301
+_cell_angle_beta     89.4552744453998
+_cell_angle_gamma    89.30194353674644
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.6150312423706055  0.12457139790058136  0.4426864683628082  1.0000
+  Ge  Ge1       1.0  0.6151622533798218  0.12514670193195343  0.895774245262146  1.0000
+  Ge  Ge2       1.0  0.11514706164598464  0.6245608329772949  0.5247628092765808  1.0000
+  Pd  Pd1       1.0  0.11491338163614272  0.12356460094451906  0.7118527889251709  1.0000
+  Ge  Ge3       1.0  0.6157805323600769  0.6248238682746887  0.20985868573188782  1.0000
+  Zr  Zr2       1.0  0.11579065769910811  0.625789225101471  0.9772124886512756  1.0000
+  Ge  Ge4       1.0  0.11632768809795378  0.12414048612117767  0.21216514706611633  1.0000
+  Pd  Pd2       1.0  0.6163451075553894  0.6251426935195923  0.7110986113548279  1.0000

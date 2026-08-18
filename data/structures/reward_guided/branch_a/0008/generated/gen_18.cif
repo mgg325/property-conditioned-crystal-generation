@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SbLaTeSbTeLa
+_chemical_formula_sum              "Sb2 La2 Te2"
+_cell_length_a       4.460182295199296
+_cell_length_b       4.395381002987904
+_cell_length_c       9.932271003723145
+_cell_angle_alpha    104.22663080503158
+_cell_angle_beta     102.21546074568228
+_cell_angle_gamma    91.09695190874774
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.6545003652572632  0.6707464456558228  0.5409650802612305  1.0000
+  La  La1       1.0  0.01625768467783928  0.533859372138977  0.2659527063369751  1.0000
+  Te  Te1       1.0  0.4695275127887726  0.9833759069442748  0.17081083357334134  1.0000
+  Sb  Sb2       1.0  0.15216124057769775  0.17219704389572144  0.5450759530067444  1.0000
+  Te  Te2       1.0  0.8425208330154419  0.3588656187057495  0.9154937863349915  1.0000
+  La  La2       1.0  0.2963399291038513  0.8106352090835571  0.8223182559013367  1.0000

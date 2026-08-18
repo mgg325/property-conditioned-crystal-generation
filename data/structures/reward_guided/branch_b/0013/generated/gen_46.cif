@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AlCu2GaTe4
+_chemical_formula_sum              "Al1 Cu2 Ga1 Te4"
+_cell_length_a       5.883538442236569
+_cell_length_b       5.986579182725025
+_cell_length_c       7.367557048797607
+_cell_angle_alpha    116.06274023701603
+_cell_angle_beta     113.309716971708
+_cell_angle_gamma    87.47172611741347
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.6101881265640259  0.24124951660633084  0.4728972613811493  1.0000
+  Cu  Cu1       1.0  0.8623951077461242  0.9909856915473939  0.9745057821273804  1.0000
+  Cu  Cu2       1.0  0.3628315329551697  0.4901431798934936  0.9752355217933655  1.0000
+  Ga  Ga1       1.0  0.11388167738914488  0.7431889772415161  0.47375717759132385  1.0000
+  Te  Te1       1.0  0.7260242104530334  0.3598090708255768  0.21020618081092834  1.0000
+  Te  Te2       1.0  0.23071296513080594  0.8606865406036377  0.21083319187164307  1.0000
+  Te  Te3       1.0  0.9893777966499328  0.12472467124462129  0.7391843199729919  1.0000
+  Te  Te4       1.0  0.49524992704391474  0.6216566562652588  0.7377539277076721  1.0000

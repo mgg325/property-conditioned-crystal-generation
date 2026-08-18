@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_InPbF11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80605078
+_cell_length_b   6.26972198
+_cell_length_c   7.18916035
+_cell_angle_alpha   90.05978394
+_cell_angle_beta   90.06974792
+_cell_angle_gamma   93.19422913
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InPbF11
+_chemical_formula_sum   'In1 Pb1 F11'
+_cell_volume   261.29520497
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.45939210  0.95951974  0.38530219  1
+  F  F1  1  0.60139924  0.64219165  0.16491872  1
+  F  F2  1  0.93225515  0.55207282  0.82781899  1
+  F  F3  1  0.51349503  0.78185481  0.68043745  1
+  F  F4  1  0.99648488  0.72178882  0.42915937  1
+  F  F5  1  0.65071726  0.05898491  0.97832882  1
+  F  F6  1  0.49909756  0.41508591  0.47120163  1
+  F  F7  1  0.93972558  0.27498657  0.23025435  1
+  F  F8  1  0.33575535  0.33904073  0.86836600  1
+  Pb  Pb9  1  0.93137395  0.23159325  0.91725552  1
+  In  In10  1  0.62460709  0.72058105  0.41981316  1
+  F  F11  1  0.92644393  0.16034791  0.62611192  1
+  F  F12  1  0.11828515  0.96248990  0.99461436  1

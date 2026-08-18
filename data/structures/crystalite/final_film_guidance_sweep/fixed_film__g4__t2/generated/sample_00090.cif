@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_GeCl2F11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   1.43075716
+_cell_length_b   5.53042221
+_cell_length_c   11.18514252
+_cell_angle_alpha   86.55065155
+_cell_angle_beta   87.35787201
+_cell_angle_gamma   94.07633972
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GeCl2F11
+_chemical_formula_sum   'Ge1 Cl2 F11'
+_cell_volume   88.00789540
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.58241147  0.78623199  0.16941819  1
+  F  F1  1  0.32229471  0.45627722  0.78945458  1
+  Cl  Cl2  1  0.35222304  0.55448580  0.89394450  1
+  F  F3  1  0.88945198  0.10139218  0.79178762  1
+  F  F4  1  0.21991539  0.49443024  0.88963497  1
+  Cl  Cl5  1  0.08747166  0.08007863  0.88208330  1
+  F  F6  1  0.70219737  0.04178351  0.70890987  1
+  F  F7  1  0.09609532  0.69060403  0.58134997  1
+  Ge  Ge8  1  0.15381199  0.66575623  0.57937956  1
+  F  F9  1  0.05142829  0.82729924  0.37207839  1
+  F  F10  1  0.71430522  0.39062703  0.27335268  1
+  F  F11  1  0.66769552  0.70765877  0.92481625  1
+  F  F12  1  0.90017915  0.14239651  0.03989324  1
+  F  F13  1  0.16128966  0.82351238  0.94958073  1

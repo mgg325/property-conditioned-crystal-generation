@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Cs2VIBr5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.91075834
+_cell_length_b   7.86364439
+_cell_length_c   7.91047630
+_cell_angle_alpha   119.78684958
+_cell_angle_beta   90.70943051
+_cell_angle_gamma   119.76768666
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2VIBr5
+_chemical_formula_sum   'Cs2 V1 I1 Br5'
+_cell_volume   348.11924068
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.17069173  0.13582383  0.59803767  1
+  Cs  Cs1  1  0.67088167  0.13570547  0.09807102  1
+  V  V2  1  0.41433131  0.63571502  0.35426670  1
+  I  I3  1  0.66673505  0.63566593  0.10184280  1
+  Br  Br4  1  0.19107005  0.63563480  0.57782698  1
+  Br  Br5  1  0.64580941  0.63567410  0.57397495  1
+  Br  Br6  1  0.19459706  0.63592402  0.12302554  1
+  Br  Br7  1  0.64547067  0.08653521  0.57377498  1
+  Br  Br8  1  0.19493163  0.18487442  0.12279451  1

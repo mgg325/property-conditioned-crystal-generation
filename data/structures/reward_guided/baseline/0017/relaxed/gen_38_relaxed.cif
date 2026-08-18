@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Na6In2Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43594909
+_cell_length_b   6.36489098
+_cell_length_c   9.38215236
+_cell_angle_alpha   59.83141152
+_cell_angle_beta   73.18936598
+_cell_angle_gamma   64.69497455
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na6In2Hg
+_chemical_formula_sum   'Na6 In2 Hg1'
+_cell_volume   252.56462900
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.44158369  0.52472749  0.23376296  1
+  Na  Na1  1  0.31559202  0.08265921  0.91086320  1
+  Na  Na2  1  0.19833797  0.64608492  0.57241323  1
+  Na  Na3  1  0.52547615  0.98093500  0.57872960  1
+  Na  Na4  1  0.65797438  0.39690204  0.91001789  1
+  Na  Na5  1  0.77502408  0.83407727  0.25372820  1
+  In  In6  1  0.98848395  0.72923955  0.91818612  1
+  In  In7  1  0.09364104  0.21591640  0.23715154  1
+  Hg  Hg8  1  0.87833587  0.27467409  0.58208870  1

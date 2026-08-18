@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Si2BiPd2Pb2S
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.08160739
+_cell_length_b   6.22403325
+_cell_length_c   7.00627824
+_cell_angle_alpha   121.67026007
+_cell_angle_beta   119.75305937
+_cell_angle_gamma   88.82642500
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si2BiPd2Pb2S
+_chemical_formula_sum   'Si2 Bi1 Pd2 Pb2 S1'
+_cell_volume   185.32328615
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.25430186  -0.00724302  0.77141726  1
+  Si  Si1  1  0.63296253  0.39447999  0.02878392  1
+  Bi  Bi2  1  0.50190122  0.67864596  0.47323011  1
+  Pd  Pd3  1  0.47431699  0.69019604  0.87971198  1
+  Pd  Pd4  1  0.96225738  0.17257347  0.93385142  1
+  Pb  Pb5  1  0.34490304  1.02990677  0.24864473  1
+  Pb  Pb6  1  0.96569625  0.25057213  0.44150558  1
+  S  S7  1  0.84628979  0.52249110  0.89254729  1

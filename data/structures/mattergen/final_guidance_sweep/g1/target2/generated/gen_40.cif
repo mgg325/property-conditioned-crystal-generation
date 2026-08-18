@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HClHCl
+_chemical_formula_sum              "H2 Cl2"
+_cell_length_a       4.397549063120008
+_cell_length_b       4.411240979912452
+_cell_length_c       5.034003257751465
+_cell_angle_alpha    90.41940347559671
+_cell_angle_beta     89.54733853356281
+_cell_angle_gamma    106.38649459200506
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.5980401635169983  0.7306162714958191  0.07289880514144897  1.0000
+  Cl  Cl1       1.0  0.28780579566955566  0.42068108916282654  0.35187336802482605  1.0000
+  H   H2        1.0  0.097316674888134  0.23032335937023163  0.1812688112258911  1.0000
+  Cl  Cl2       1.0  0.7895618081092834  0.9203587770462036  0.9025808572769166  1.0000

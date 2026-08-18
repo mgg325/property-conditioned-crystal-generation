@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ca5BeZn4CdBC3N2F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.24449472
+_cell_length_b   7.29140541
+_cell_length_c   9.03541292
+_cell_angle_alpha   107.78135779
+_cell_angle_beta   90.23295969
+_cell_angle_gamma   91.95320932
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca5BeZn4CdBC3N2F
+_chemical_formula_sum   'Ca5 Be1 Zn4 Cd1 B1 C3 N2 F1'
+_cell_volume   203.39721381
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.97379889  0.05863509  0.80487935  1
+  Ca  Ca1  1  0.51140715  0.41255168  0.73079681  1
+  Ca  Ca2  1  0.48544685  0.77394609  0.63539033  1
+  Ca  Ca3  1  0.50601575  0.10926309  0.32739871  1
+  Ca  Ca4  1  0.99927809  0.48525750  0.21714996  1
+  Be  Be5  1  0.51891036  0.47755330  0.42221519  1
+  Zn  Zn6  1  0.48903284  0.71139896  0.14909742  1
+  Zn  Zn7  1  0.48496620  0.25413566  1.02278431  1
+  Zn  Zn8  1  1.00360303  0.90112689  0.46127903  1
+  Zn  Zn9  1  1.01468311  0.28207838  0.52076814  1
+  Cd  Cd10  1  0.98793746  0.82473862  0.98937705  1
+  B  B11  1  -0.00222773  0.87106314  0.23623304  1
+  C  C12  1  -0.00237439  0.37376173  0.93968974  1
+  C  C13  1  0.04397168  0.53207027  0.49187647  1
+  C  C14  1  0.49120633  0.02545178  0.08138602  1
+  N  N15  1  0.42726813  0.48554746  0.42842089  1
+  N  N16  1  0.48598620  0.09537114  0.59753660  1
+  F  F17  1  0.47451097  0.69202872  0.83936594  1

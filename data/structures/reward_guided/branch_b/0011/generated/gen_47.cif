@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ho2PbAs
+_chemical_formula_sum              "Ho2 Pb1 As1"
+_cell_length_a       3.952968364880064
+_cell_length_b       3.9651831869918346
+_cell_length_c       7.96986722946167
+_cell_angle_alpha    76.6773221855152
+_cell_angle_beta     75.85953667343102
+_cell_angle_gamma    60.285757368277004
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.4662247896194458  0.027633681893348694  0.9195904135704042  1.0000
+  Ho  Ho2       1.0  0.9948463439941406  0.5549792051315308  0.33843579888343817  1.0000
+  Pb  Pb1       1.0  0.22704036533832542  0.7930792570114137  0.6292667388916017  1.0000
+  As  As1       1.0  0.7305952906608582  0.29023849964141846  0.12883023917675018  1.0000

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_NdSmU2GaSeXe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74096009
+_cell_length_b   6.10478218
+_cell_length_c   6.94475684
+_cell_angle_alpha   98.96392163
+_cell_angle_beta   92.76539042
+_cell_angle_gamma   90.44631177
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdSmU2GaSeXe2
+_chemical_formula_sum   'Nd1 Sm1 U2 Ga1 Se1 Xe2'
+_cell_volume   240.11350020
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.06385314  0.76491255  0.89343890  1
+  Sm  Sm1  1  0.48725138  0.30719855  0.88631488  1
+  U  U2  1  0.56865610  0.77823911  0.26820135  1
+  U  U3  1  0.19805467  0.85417857  0.40300773  1
+  Ga  Ga4  1  0.55778454  0.80507331  0.74669943  1
+  Se  Se5  1  0.40554599  0.45338473  0.49742313  1
+  Xe  Xe6  1  0.97426710  0.22808166  0.72491222  1
+  Xe  Xe7  1  0.86783642  0.18976202  0.20449502  1

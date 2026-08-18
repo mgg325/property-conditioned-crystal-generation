@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CoTmGe2Co
+_chemical_formula_sum              "Co2 Tm1 Ge2"
+_cell_length_a       3.9412138328793085
+_cell_length_b       3.9432930787815397
+_cell_length_c       5.756525039672852
+_cell_angle_alpha    110.05121729093295
+_cell_angle_beta     110.07506762367555
+_cell_angle_gamma    89.96444423982152
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.6531097888946533  0.7683249115943909  0.12590704858303067  1.0000
+  Tm  Tm1       1.0  0.403067946434021  0.018151171505451202  0.6261075735092163  1.0000
+  Ge  Ge1       1.0  0.030850440263748162  0.6459342837333679  0.8815165162086488  1.0000
+  Ge  Ge2       1.0  0.775506854057312  0.39060115814208984  0.3708467483520508  1.0000
+  Co  Co2       1.0  0.15322370827198029  0.2684177756309509  0.12612700462341309  1.0000

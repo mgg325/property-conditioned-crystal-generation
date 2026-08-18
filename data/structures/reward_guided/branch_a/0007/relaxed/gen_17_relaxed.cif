@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Tl2Cr2GeTe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98339220
+_cell_length_b   6.98300044
+_cell_length_c   8.53282490
+_cell_angle_alpha   97.65253555
+_cell_angle_beta   97.64705754
+_cell_angle_gamma   120.08531447
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2Cr2GeTe6
+_chemical_formula_sum   'Tl2 Cr2 Ge1 Te6'
+_cell_volume   347.01697680
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.91026073  0.34986602  0.33616485  1
+  Tl  Tl1  1  0.23244553  0.02927699  0.33575102  1
+  Cr  Cr2  1  0.40412928  0.85643148  0.83633326  1
+  Cr  Cr3  1  0.73944493  0.52119615  0.83610287  1
+  Ge  Ge4  1  0.07146871  0.18878231  0.83588676  1
+  Te  Te5  1  0.13195963  0.60102792  0.02320660  1
+  Te  Te6  1  0.01161439  0.77652185  0.64920411  1
+  Te  Te7  1  0.48400219  0.24918804  0.02308890  1
+  Te  Te8  1  0.65937677  0.12829483  0.64923047  1
+  Te  Te9  1  0.78199774  0.89889084  0.01924803  1
+  Te  Te10  1  0.36170870  0.47874401  0.65318317  1

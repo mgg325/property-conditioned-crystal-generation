@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Tc7Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.18331623
+_cell_length_b   3.01701450
+_cell_length_c   7.20958900
+_cell_angle_alpha   87.53624725
+_cell_angle_beta   91.96469116
+_cell_angle_gamma   156.88491821
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tc7Br
+_chemical_formula_sum   'Tc7 Br1'
+_cell_volume   78.33830474
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.57081175  0.41344690  0.11449233  1
+  Tc  Tc1  1  0.36944485  0.08684182  0.65658379  1
+  Tc  Tc2  1  0.56893349  0.64552850  0.53725046  1
+  Tc  Tc3  1  0.13219425  0.50572169  0.27429748  1
+  Tc  Tc4  1  0.94035012  0.10927469  0.44034672  1
+  Tc  Tc5  1  0.94869387  0.42571360  0.79583007  1
+  Tc  Tc6  1  0.79514158  0.92984182  0.04166445  1
+  Tc  Tc7  1  0.30238128  0.83276343  0.96499515  1

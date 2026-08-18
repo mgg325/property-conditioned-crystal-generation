@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_TbNdCdPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96166451
+_cell_length_b   4.42813907
+_cell_length_c   5.96176210
+_cell_angle_alpha   68.19297070
+_cell_angle_beta   43.54088471
+_cell_angle_gamma   68.19830073
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbNdCdPd
+_chemical_formula_sum   'Tb1 Nd1 Cd1 Pd1'
+_cell_volume   99.36851694
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.37850669  0.11054719  0.94402521  1
+  Nd  Nd1  1  0.12860854  0.86038827  0.69416887  1
+  Cd  Cd2  1  0.62841953  0.36052124  0.19396554  1
+  Pd  Pd3  1  0.87873431  0.61051873  0.44405967  1

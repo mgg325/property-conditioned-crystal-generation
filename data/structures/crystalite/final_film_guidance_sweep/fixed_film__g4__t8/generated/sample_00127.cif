@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ca2CdTcHgCSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.39858532
+_cell_length_b   5.08788490
+_cell_length_c   7.39261007
+_cell_angle_alpha   111.18281555
+_cell_angle_beta   113.33683014
+_cell_angle_gamma   91.22826385
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2CdTcHgCSe4
+_chemical_formula_sum   'Ca2 Cd1 Tc1 Hg1 C1 Se4'
+_cell_volume   139.00256181
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C0  1  0.67833805  0.77767617  0.07856962  1
+  Se  Se1  1  0.57421094  0.10395563  0.11308166  1
+  Se  Se2  1  0.09734735  0.48913971  0.66309029  1
+  Se  Se3  1  0.21516585  0.20417064  0.11919346  1
+  Ca  Ca4  1  0.94689596  0.65490282  0.82319051  1
+  Hg  Hg5  1  0.61236811  0.54106337  0.58405066  1
+  Se  Se6  1  0.44282305  0.95421207  0.65254998  1
+  Cd  Cd7  1  0.67760777  0.89646637  0.43381572  1
+  Tc  Tc8  1  0.15532106  0.62015229  0.38980955  1
+  Ca  Ca9  1  0.09928477  0.63940126  0.75156248  1

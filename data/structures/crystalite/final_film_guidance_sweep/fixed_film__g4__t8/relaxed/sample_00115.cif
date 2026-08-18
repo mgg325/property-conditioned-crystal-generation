@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZnCd2GaBi2TeSe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.13739455
+_cell_length_b   7.07591538
+_cell_length_c   7.63816051
+_cell_angle_alpha   91.30972094
+_cell_angle_beta   80.75540852
+_cell_angle_gamma   89.45104888
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCd2GaBi2TeSe5
+_chemical_formula_sum   'Zn1 Cd2 Ga1 Bi2 Te1 Se5'
+_cell_volume   380.61043817
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.67017193  0.39116750  0.04078613  1
+  Cd  Cd1  1  0.81406197  0.91346426  0.65353185  1
+  Cd  Cd2  1  0.33553811  0.91475452  0.47457379  1
+  Ga  Ga3  1  0.48476583  0.36715970  0.54815222  1
+  Bi  Bi4  1  0.27445251  0.80148093  0.95810769  1
+  Bi  Bi5  1  0.23762284  0.21755105  0.05072394  1
+  Te  Te6  1  0.99958814  0.94381420  0.30691232  1
+  Se  Se7  1  0.47141623  0.57483045  0.30398527  1
+  Se  Se8  1  -0.01362569  0.51304545  0.06591996  1
+  Se  Se9  1  0.18732318  0.22397906  0.65361780  1
+  Se  Se10  1  0.62851900  1.05135327  0.95715605  1
+  Se  Se11  1  0.60775243  0.56549024  0.76527630  1

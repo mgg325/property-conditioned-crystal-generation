@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OZnLiOLi
+_chemical_formula_sum              "O2 Zn1 Li2"
+_cell_length_a       3.258050079515785
+_cell_length_b       3.253886981602881
+_cell_length_c       5.354162625080459
+_cell_angle_alpha    90.01282914779638
+_cell_angle_beta     90.06788672524166
+_cell_angle_gamma    119.97938334517272
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.19641635740778296  0.3542744437029731  0.8576443811878154  1.0000
+  Zn  Zn1       1.0  0.5306509327154842  0.021543988934400828  0.9815804427201169  1.0000
+  Li  Li1       1.0  0.19749793517534595  0.3549096833723859  0.30186519435597986  1.0000
+  O   O2        1.0  0.5313129833144978  0.021972996406436688  0.36110378725640685  1.0000
+  Li  Li2       1.0  0.864559239599195  0.6881298039505416  0.58185163671728  1.0000

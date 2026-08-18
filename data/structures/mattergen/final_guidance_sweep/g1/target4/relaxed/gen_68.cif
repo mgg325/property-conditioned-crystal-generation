@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NiOAgO
+_chemical_formula_sum              "Ni1 O2 Ag1"
+_cell_length_a       3.008610480463612
+_cell_length_b       3.0079167169756498
+_cell_length_c       6.3651853629062645
+_cell_angle_alpha    90.08916875896566
+_cell_angle_beta     103.54245334739903
+_cell_angle_gamma    119.9697823682307
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.33438585355541706  0.5613956110189092  0.48413306648856147  1.0000
+  O   O1        1.0  0.5599746075409118  0.1737379974213517  0.3217689725353006  1.0000
+  Ag  Ag1       1.0  0.3341059702216563  0.061815464262388466  0.9841436992188243  1.0000
+  O   O2        1.0  0.10876378707323138  0.949062654568593  0.6465108984809768  1.0000

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BaPb2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33465535
+_cell_length_b   6.22486921
+_cell_length_c   6.09735616
+_cell_angle_alpha   61.72228225
+_cell_angle_beta   59.56726921
+_cell_angle_gamma   64.03493556
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaPb2O7
+_chemical_formula_sum   'Ba1 Pb2 O7'
+_cell_volume   176.26098589
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.76964022  0.62699072  0.57768611  1
+  Pb  Pb1  1  0.09555326  -0.00687040  0.73789327  1
+  Pb  Pb2  1  0.58798905  0.27625512  0.36831865  1
+  O  O3  1  0.28592051  0.01880759  0.13231398  1
+  O  O4  1  0.44082254  -0.00535009  0.76420051  1
+  O  O5  1  0.21354971  0.35014609  0.41200893  1
+  O  O6  1  -0.06087702  1.04739706  0.44367701  1
+  O  O7  1  0.76745875  0.20032519  0.98889302  1
+  O  O8  1  0.43178562  0.83438081  0.23972059  1
+  O  O9  1  0.26270682  0.61961329  0.77389165  1

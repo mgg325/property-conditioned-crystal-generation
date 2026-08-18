@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BiAlBiS2Al
+_chemical_formula_sum              "Bi2 Al2 S2"
+_cell_length_a       3.8540767078179137
+_cell_length_b       6.003153505825748
+_cell_length_c       7.821720123291016
+_cell_angle_alpha    102.66573349444994
+_cell_angle_beta     90.01195533547164
+_cell_angle_gamma    89.88619791031489
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.13125568628311157  0.5728806257247925  0.36112233996391296  1.0000
+  Al  Al1       1.0  0.6298146843910217  0.03659105673432351  0.9962157011032106  1.0000
+  Bi  Bi2       1.0  0.6297744512557983  0.1863891035318375  0.3507854640483856  1.0000
+  S   S1        1.0  0.6299146413803101  0.6480278968811035  0.8831730484962464  1.0000
+  S   S2        1.0  0.12990084290504456  0.14614734053611755  0.860628068447113  1.0000
+  Al  Al2       1.0  0.12993000447750092  0.5200711488723755  0.008951371535658836  1.0000

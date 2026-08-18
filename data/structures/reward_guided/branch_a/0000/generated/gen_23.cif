@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       EuO3IO2
+_chemical_formula_sum              "Eu1 O5 I1"
+_cell_length_a       3.941546594407808
+_cell_length_b       5.507517253343755
+_cell_length_c       5.546909809112549
+_cell_angle_alpha    94.78224138513247
+_cell_angle_beta     111.99267039606873
+_cell_angle_gamma    111.54685891957818
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.4455137252807617  0.5051892399787903  0.5114540457725525  1.0000
+  O   O1        1.0  0.7307804226875305  0.29516857862472534  0.30098822712898254  1.0000
+  O   O2        1.0  0.9436510801315308  0.006113290786743165  0.012814095243811607  1.0000
+  O   O3        1.0  0.15642580389976504  0.7188918590545654  0.7247676849365234  1.0000
+  I   I1        1.0  0.4432312250137329  0.006120022851973772  0.01277532521635294  1.0000
+  O   O4        1.0  0.44155773520469666  0.778498113155365  0.24016162753105164  1.0000
+  O   O5        1.0  0.4442678987979889  0.233321413397789  0.7850622534751892  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Rh2SbAu
+_chemical_formula_sum              "Rh2 Sb1 Au1"
+_cell_length_a       4.5759753079880845
+_cell_length_b       4.557235640034746
+_cell_length_c       4.593471527099609
+_cell_angle_alpha    59.39865352777844
+_cell_angle_beta     59.78376364261851
+_cell_angle_gamma    59.59184113205739
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.26322081685066223  0.5754566788673401  0.5762014985084534  1.0000
+  Rh  Rh2       1.0  0.7638469338417054  0.07444138079881668  0.07632999122142788  1.0000
+  Sb  Sb1       1.0  0.011896149255335336  0.325570672750473  0.32779762148857117  1.0000
+  Au  Au1       1.0  0.5105856657028198  0.8232635855674743  0.8260432481765747  1.0000

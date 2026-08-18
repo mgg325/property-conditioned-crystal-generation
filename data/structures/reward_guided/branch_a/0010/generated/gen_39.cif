@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Zr2NbH
+_chemical_formula_sum              "Zr2 Nb1 H1"
+_cell_length_a       3.0611472157279485
+_cell_length_b       4.969719035034525
+_cell_length_c       4.919877529144287
+_cell_angle_alpha    120.916559757181
+_cell_angle_beta     89.51079018781365
+_cell_angle_gamma    91.05253464566884
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.08426642417907715  0.08110502362251282  0.4047778844833374  1.0000
+  Zr  Zr2       1.0  0.6813382506370544  0.41590380668640137  0.08360513299703602  1.0000
+  Nb  Nb1       1.0  0.3764311373233795  0.7550987601280212  0.7403337955474854  1.0000
+  H   H1        1.0  0.18847233057022095  0.44514021277427673  0.8365418314933777  1.0000

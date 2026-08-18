@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LiTaF6
+_chemical_formula_sum              "Li1 Ta1 F6"
+_cell_length_a       5.622458455673773
+_cell_length_b       5.621898405801104
+_cell_length_c       5.622517078494189
+_cell_angle_alpha    60.012952912854814
+_cell_angle_beta     60.016149967143456
+_cell_angle_gamma    60.03017778739964
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9214396914282253  0.5074722177392386  0.6599145656572457  1.0000
+  Ta  Ta1       1.0  0.4213262755422255  0.0075373203237136125  0.1599801399803061  1.0000
+  F   F1        1.0  0.17915441176220318  0.2494013223212111  0.9180896872756056  1.0000
+  F   F2        1.0  0.6631319872017126  0.7652420982744693  0.4022457681151127  1.0000
+  F   F3        1.0  0.6632607807657085  0.7658674603382195  0.9175971841518442  1.0000
+  F   F4        1.0  0.6636752568184308  0.2494045217523932  0.9181583393391823  1.0000
+  F   F5        1.0  0.17935644139563486  0.2497660083936659  0.4018557739302595  1.0000
+  F   F6        1.0  0.17934446060542303  0.7652881986103861  0.4022670165623321  1.0000

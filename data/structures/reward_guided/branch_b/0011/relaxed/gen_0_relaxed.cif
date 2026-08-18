@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbMg3Cu8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03604377
+_cell_length_b   5.03666597
+_cell_length_c   8.29210271
+_cell_angle_alpha   90.00800631
+_cell_angle_beta   89.99828901
+_cell_angle_gamma   119.99536331
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbMg3Cu8
+_chemical_formula_sum   'Tb1 Mg3 Cu8'
+_cell_volume   182.15799383
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.93983575  0.79980707  0.96353818  1
+  Mg  Mg1  1  0.27275517  0.46627481  0.11059312  1
+  Mg  Mg2  1  0.27254680  0.46611432  0.47484973  1
+  Mg  Mg3  1  0.93905886  0.79967630  0.57846403  1
+  Cu  Cu4  1  0.94358085  0.30198138  0.77526073  1
+  Cu  Cu5  1  0.77276785  0.96586749  0.28544518  1
+  Cu  Cu6  1  0.27215610  0.96594128  0.28521080  1
+  Cu  Cu7  1  0.60501471  0.13328589  0.53260648  1
+  Cu  Cu8  1  0.43772510  0.30168212  0.77589533  1
+  Cu  Cu9  1  0.60647226  0.13296608  0.03313032  1
+  Cu  Cu10  1  0.43778368  0.79588371  0.77540836  1
+  Cu  Cu11  1  0.77235647  0.46615193  0.28513200  1

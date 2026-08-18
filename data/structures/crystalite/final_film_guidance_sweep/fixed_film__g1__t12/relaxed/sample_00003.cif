@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_NaSiAsSe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.85955847
+_cell_length_b   6.44595889
+_cell_length_c   6.24620581
+_cell_angle_alpha   87.87412674
+_cell_angle_beta   84.92192858
+_cell_angle_gamma   89.09985393
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSiAsSe5
+_chemical_formula_sum   'Na1 Si1 As1 Se5'
+_cell_volume   234.81611957
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.08001802  0.32598442  0.62895671  1
+  Si  Si1  1  0.66323320  0.59079189  0.05912059  1
+  As  As2  1  0.53072918  0.22857363  0.05900904  1
+  Se  Se3  1  0.57794646  0.19317571  0.68819726  1
+  Se  Se4  1  0.52890306  0.73854444  0.38787537  1
+  Se  Se5  1  0.90977309  0.30408165  0.16590977  1
+  Se  Se6  1  0.90115469  0.74857975  0.81435681  1
+  Se  Se7  1  0.28848140  0.76370863  0.09995453  1

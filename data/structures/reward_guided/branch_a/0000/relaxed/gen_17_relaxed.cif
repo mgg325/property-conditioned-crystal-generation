@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ho5Ag(HgRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.68003730
+_cell_length_b   11.59557119
+_cell_length_c   11.62199577
+_cell_angle_alpha   90.04686919
+_cell_angle_beta   90.00417443
+_cell_angle_gamma   90.01596775
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho5Ag(HgRh)2
+_chemical_formula_sum   'Ho10 Ag2 Hg4 Rh4'
+_cell_volume   495.93518008
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.41105038  0.03797808  0.93811845  1
+  Ho  Ho1  1  0.41121830  0.63480008  0.76941958  1
+  Ho  Ho2  1  0.41066680  0.75223265  0.05578487  1
+  Ho  Ho3  1  0.41124961  0.83665429  0.35388295  1
+  Ho  Ho4  1  0.41117837  0.53807024  0.27090555  1
+  Ho  Ho5  1  0.41154386  0.25252550  0.15255765  1
+  Ho  Ho6  1  0.41156360  0.42013078  0.55606414  1
+  Ho  Ho7  1  0.41085110  0.92158872  0.65267237  1
+  Ho  Ho8  1  0.41077939  0.13484681  0.43758302  1
+  Ho  Ho9  1  0.41069744  0.33620466  0.85424585  1
+  Ag  Ag10  1  0.91110645  0.83614405  0.85406521  1
+  Ag  Ag11  1  0.91146912  0.33642574  0.35451786  1
+  Hg  Hg12  1  0.91126418  0.50816334  0.02748389  1
+  Hg  Hg13  1  0.91217823  0.00839987  0.18120676  1
+  Hg  Hg14  1  0.91110316  0.16441734  0.68038508  1
+  Hg  Hg15  1  0.91229489  0.66545680  0.52691951  1
+  Rh  Rh16  1  0.91105321  0.20630054  0.98466809  1
+  Rh  Rh17  1  0.91091262  0.96664456  0.48441951  1
+  Rh  Rh18  1  0.91112681  0.46598622  0.72406796  1
+  Rh  Rh19  1  0.91100447  0.70580977  0.22363520  1

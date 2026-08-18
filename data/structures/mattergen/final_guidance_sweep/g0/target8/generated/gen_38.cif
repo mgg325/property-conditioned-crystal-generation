@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cu2SCuNiS
+_chemical_formula_sum              "Cu3 S2 Ni1"
+_cell_length_a       4.10509091452532
+_cell_length_b       4.038857018696225
+_cell_length_c       5.220034599304199
+_cell_angle_alpha    90.04881786465195
+_cell_angle_beta     83.68041085039154
+_cell_angle_gamma    90.29903503724968
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9215781092643738  0.5560579299926758  0.06975982338190079  1.0000
+  Cu  Cu2       1.0  0.5753121376037598  0.045463383197784424  0.2583813965320587  1.0000
+  S   S1        1.0  0.051849693059921265  0.8812333345413208  0.41765639185905457  1.0000
+  Cu  Cu3       1.0  0.8925409913063049  0.38415613770484924  0.5707909464836121  1.0000
+  Ni  Ni1       1.0  0.5926811099052429  0.8850754499435425  0.7667612433433533  1.0000
+  S   S2        1.0  0.44122445583343506  0.3805626630783081  0.9120134711265564  1.0000

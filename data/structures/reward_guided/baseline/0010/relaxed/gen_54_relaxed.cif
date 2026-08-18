@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K2(TlHg)5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22843367
+_cell_length_b   5.44681270
+_cell_length_c   16.94795455
+_cell_angle_alpha   99.25029756
+_cell_angle_beta   97.16444963
+_cell_angle_gamma   90.00003360
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2(TlHg)5
+_chemical_formula_sum   'K2 Tl5 Hg5'
+_cell_volume   382.17233982
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.17620902  0.33846493  0.58002661  1
+  K  K1  1  0.35687084  0.51811854  0.94063866  1
+  Tl  Tl2  1  0.43483448  0.09602900  0.09666217  1
+  Tl  Tl3  1  0.01717890  0.17893071  0.26181702  1
+  Tl  Tl4  1  0.09488358  0.75725408  0.41797723  1
+  Tl  Tl5  1  0.76632923  0.42733820  0.76003596  1
+  Tl  Tl6  1  0.26592002  0.92684953  0.75929369  1
+  Hg  Hg7  1  0.59240052  0.25452396  0.41249558  1
+  Hg  Hg8  1  0.68570498  0.84794375  0.59889581  1
+  Hg  Hg9  1  0.94248222  0.60371350  0.11219926  1
+  Hg  Hg10  1  0.51546083  0.67735527  0.25861892  1
+  Hg  Hg11  1  0.84572315  0.00695519  0.91824290  1

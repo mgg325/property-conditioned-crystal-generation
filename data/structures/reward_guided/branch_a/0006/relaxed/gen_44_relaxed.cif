@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LiNi5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28730539
+_cell_length_b   4.28553354
+_cell_length_c   4.28145066
+_cell_angle_alpha   99.75442987
+_cell_angle_beta   99.65770217
+_cell_angle_gamma   119.93483647
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiNi5
+_chemical_formula_sum   'Li1 Ni5'
+_cell_volume   64.18621451
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.85361036  0.22626580  0.96360555  1
+  Ni  Ni1  1  0.02073626  0.05829773  0.46417144  1
+  Ni  Ni2  1  0.52001294  0.55976772  0.96251817  1
+  Ni  Ni3  1  0.35324012  0.72575347  0.46332032  1
+  Ni  Ni4  1  0.68501924  0.39373137  0.46266830  1
+  Ni  Ni5  1  0.18681241  0.89288349  0.96414403  1

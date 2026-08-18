@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       NaH3RbH3C
+_chemical_formula_sum              "Na1 H6 Rb1 C1"
+_cell_length_a       4.347411222012582
+_cell_length_b       5.049485216531137
+_cell_length_c       6.055416400297753
+_cell_angle_alpha    90.04870102827773
+_cell_angle_beta     111.01986963426681
+_cell_angle_gamma    89.99010252790266
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7207404598171818  0.3530865557509695  0.7825483048210299  1.0000
+  H   H1        1.0  0.13211550113851306  0.3525294473184794  0.6057533061524174  1.0000
+  H   H2        1.0  0.7459457164619411  0.8524588417149821  0.8343008495050183  1.0000
+  H   H3        1.0  0.35442627152831346  0.5317769324635735  0.05025086234571419  1.0000
+  Rb  Rb1       1.0  0.04873025673514487  0.8523710397855074  0.4379987935815841  1.0000
+  H   H4        1.0  0.6725008587590278  0.35199528431247845  0.2756568280334189  1.0000
+  H   H5        1.0  0.35443469051512755  0.17259073234289457  0.049612501048460544  1.0000
+  H   H6        1.0  0.2610367957138713  0.3517835963260063  0.27534610463919096  1.0000
+  C   C1        1.0  0.4096840076274763  0.3520270013514837  0.16094718178025982  1.0000

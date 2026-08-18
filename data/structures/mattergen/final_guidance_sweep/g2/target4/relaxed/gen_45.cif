@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TlOBiO
+_chemical_formula_sum              "Tl1 O2 Bi1"
+_cell_length_a       3.9887125008048017
+_cell_length_b       3.9902582265714126
+_cell_length_c       5.959400603097643
+_cell_angle_alpha    90.0004688021476
+_cell_angle_beta     89.99881267403727
+_cell_angle_gamma    89.99757332474448
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.12311195987858846  0.07947132057437092  0.41680638285217325  1.0000
+  O   O1        1.0  0.12307106303860084  0.5795146032610341  0.6883058746855816  1.0000
+  Bi  Bi1       1.0  0.6230678309635932  0.579499734896577  0.8500670200355949  1.0000
+  O   O2        1.0  0.6230262004596084  0.07947527316740557  0.6885171464371251  1.0000

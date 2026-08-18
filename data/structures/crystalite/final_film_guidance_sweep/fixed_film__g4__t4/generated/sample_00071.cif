@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.75259805
+_cell_length_b   4.08832693
+_cell_length_c   4.23670244
+_cell_angle_alpha   88.01586914
+_cell_angle_beta   87.79394531
+_cell_angle_gamma   90.97766876
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SO5
+_chemical_formula_sum   'S1 O5'
+_cell_volume   64.90071569
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.08986446  0.72385693  0.95067894  1
+  O  O1  1  0.89240676  0.74503088  0.98581958  1
+  O  O2  1  0.01866394  0.24335429  0.56354833  1
+  O  O3  1  0.22004578  0.66181040  0.88349414  1
+  O  O4  1  0.05865708  0.88204515  0.97988760  1
+  S  S5  1  0.90136254  0.72116840  0.71586365  1

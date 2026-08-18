@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       InSiBa2Si
+_chemical_formula_sum              "In1 Si2 Ba2"
+_cell_length_a       4.018459334871994
+_cell_length_b       4.766774098103569
+_cell_length_c       9.093417167663574
+_cell_angle_alpha    105.63119133618011
+_cell_angle_beta     103.2789357432381
+_cell_angle_gamma    89.91382571917296
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.7534476518630981  0.12405132502317427  0.12957607209682465  1.0000
+  Si  Si1       1.0  0.005399695597589006  0.8798363208770751  0.6385520696640015  1.0000
+  Ba  Ba1       1.0  0.14766858518123627  0.5216705799102783  0.9204079508781433  1.0000
+  Ba  Ba2       1.0  0.42640841007232666  0.3031376898288727  0.4851193428039551  1.0000
+  Si  Si2       1.0  0.5810302495956421  0.9554870724678038  0.7896390557289124  1.0000

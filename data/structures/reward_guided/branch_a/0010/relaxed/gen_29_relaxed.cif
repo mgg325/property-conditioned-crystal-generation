@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ho3Sc7Bi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98921684
+_cell_length_b   6.31095158
+_cell_length_c   8.54669428
+_cell_angle_alpha   97.70911402
+_cell_angle_beta   90.44466375
+_cell_angle_gamma   90.43515136
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3Sc7Bi2
+_chemical_formula_sum   'Ho3 Sc7 Bi2'
+_cell_volume   320.10350434
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.16782150  0.89071391  0.55448437  1
+  Ho  Ho1  1  0.35703413  0.72680841  0.89926091  1
+  Ho  Ho2  1  0.86555492  0.89676675  0.08056277  1
+  Sc  Sc3  1  0.35995392  0.39638159  0.56324119  1
+  Sc  Sc4  1  0.37179586  0.05815932  0.23531348  1
+  Sc  Sc5  1  0.85683324  0.25389338  0.41349685  1
+  Sc  Sc6  1  0.67018795  0.08073075  0.74181485  1
+  Sc  Sc7  1  0.84644701  0.56044868  0.73875528  1
+  Sc  Sc8  1  0.17201437  0.22859651  0.88912704  1
+  Sc  Sc9  1  0.67349131  0.39320335  0.07420055  1
+  Bi  Bi10  1  0.67696980  0.75095379  0.42215130  1
+  Bi  Bi11  1  0.18449690  0.52620381  0.21742271  1

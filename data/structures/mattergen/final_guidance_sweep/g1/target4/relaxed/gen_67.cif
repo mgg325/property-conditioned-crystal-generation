@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PbLiNaPb2Li
+_chemical_formula_sum              "Pb3 Li2 Na1"
+_cell_length_a       3.3822181806822975
+_cell_length_b       5.284828713092975
+_cell_length_c       9.160714548362767
+_cell_angle_alpha    90.05816815637343
+_cell_angle_beta     100.57812909767641
+_cell_angle_gamma    90.00194531310342
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.5104174028638464  0.39052074721024516  0.5722306527369291  1.0000
+  Li  Li1       1.0  0.7792988283445966  0.8913051260264073  0.11508264936373593  1.0000
+  Na  Na1       1.0  0.18873084488387987  0.39144416164004253  0.9289710517981726  1.0000
+  Pb  Pb2       1.0  0.8527744413624209  0.39146831996559345  0.25574128828512455  1.0000
+  Pb  Pb3       1.0  0.6175038103623749  0.8910321507465723  0.7853121909722353  1.0000
+  Li  Li2       1.0  0.9640711224297182  0.8901600418373792  0.4772216701871477  1.0000

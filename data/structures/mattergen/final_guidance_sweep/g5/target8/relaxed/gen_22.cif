@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TeInTeBi
+_chemical_formula_sum              "Te2 In1 Bi1"
+_cell_length_a       4.497032217167191
+_cell_length_b       4.496650042868023
+_cell_length_c       8.538560306179523
+_cell_angle_alpha    74.7372425019582
+_cell_angle_beta     74.7279042557165
+_cell_angle_gamma    59.996538130752334
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.5407996349833096  0.10524446275958267  0.21408914261877562  1.0000
+  In  In1       1.0  0.7827181559814731  0.3471743888516829  0.4883312455381919  1.0000
+  Te  Te2       1.0  0.02465733784369676  0.5890441396103716  0.7625401480741361  1.0000
+  Bi  Bi1       1.0  0.2827379593079422  0.8471403857548616  0.9883051429081274  1.0000

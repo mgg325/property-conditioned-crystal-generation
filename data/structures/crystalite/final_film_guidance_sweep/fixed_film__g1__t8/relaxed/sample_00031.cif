@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_BaInAs2Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.34479019
+_cell_length_b   4.36192681
+_cell_length_c   7.22486744
+_cell_angle_alpha   107.11679360
+_cell_angle_beta   107.28865174
+_cell_angle_gamma   89.97749716
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaInAs2Pd
+_chemical_formula_sum   'Ba1 In1 As2 Pd1'
+_cell_volume   124.37607405
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.59977724  0.97120983  0.86748063  1
+  In  In1  1  0.34836480  0.20552799  0.36841009  1
+  As  As2  1  0.22795112  0.58973391  0.11919615  1
+  As  As3  1  0.97332106  0.35349186  0.61906125  1
+  Pd  Pd4  1  0.84398632  0.74121080  0.36958755  1

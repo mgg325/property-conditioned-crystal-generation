@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CuLiCuPLi3P
+_chemical_formula_sum              "Cu2 Li4 P2"
+_cell_length_a       4.786842895347936
+_cell_length_b       4.7947718561637425
+_cell_length_c       5.75720739364624
+_cell_angle_alpha    80.80999030170734
+_cell_angle_beta     81.12743711252745
+_cell_angle_gamma    77.41261309795696
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.020357022061943987  0.8384976387023927  0.2145947366952896  1.0000
+  Li  Li1       1.0  0.22931511700153348  0.26775684952735906  0.3680395483970642  1.0000
+  Cu  Cu2       1.0  0.019290903583168997  0.8388448357582092  0.7134047150611877  1.0000
+  P   P1        1.0  0.2994990646839142  0.559027373790741  0.9636595845222473  1.0000
+  Li  Li2       1.0  0.8088822364807128  0.407391220331192  0.0562018044292927  1.0000
+  Li  Li3       1.0  0.44399601221084595  0.05318365991115571  0.8675468564033508  1.0000
+  Li  Li4       1.0  0.5946375131607056  0.6258294582366943  0.5597012639045715  1.0000
+  P   P2        1.0  0.738792896270752  0.1192503422498703  0.46282801032066345  1.0000

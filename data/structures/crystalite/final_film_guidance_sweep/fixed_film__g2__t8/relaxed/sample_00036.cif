@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CaHg2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.83485865
+_cell_length_b   6.96248058
+_cell_length_c   7.55499156
+_cell_angle_alpha   89.22027413
+_cell_angle_beta   93.60626423
+_cell_angle_gamma   119.36345997
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaHg2O3
+_chemical_formula_sum   'Ca3 Hg6 O9'
+_cell_volume   312.65266168
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.80096721  0.47195071  0.43598839  1
+  Ca  Ca1  1  0.23700743  -0.03816795  0.02385380  1
+  Ca  Ca2  1  0.35607339  0.51660135  0.70143351  1
+  Hg  Hg3  1  0.28898910  0.03661033  0.64107464  1
+  Hg  Hg4  1  0.91065124  1.10349309  0.28919510  1
+  Hg  Hg5  1  0.37275717  0.82829740  0.35482912  1
+  Hg  Hg6  1  0.39273174  0.45983664  0.16878631  1
+  Hg  Hg7  1  0.80433068  0.48532728  0.93056161  1
+  Hg  Hg8  1  0.80083248  1.04716601  0.73873972  1
+  O  O9  1  0.00153000  0.62775821  0.16095972  1
+  O  O10  1  0.25024678  0.28920806  -0.05671158  1
+  O  O11  1  0.19613497  0.07271560  0.32879254  1
+  O  O12  1  -0.01858641  0.83912339  0.76927515  1
+  O  O13  1  0.63635813  0.15323646  0.24641906  1
+  O  O14  1  0.60324286  0.36648811  0.69286388  1
+  O  O15  1  0.45258151  0.86480436  0.81363354  1
+  O  O16  1  0.53827825  0.62049753  0.40937407  1
+  O  O17  1  0.00340605  0.32711957  0.57778105  1

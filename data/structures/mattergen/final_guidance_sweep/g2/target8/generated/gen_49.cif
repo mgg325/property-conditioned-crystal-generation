@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Zn3SrSe4
+_chemical_formula_sum              "Zn3 Sr1 Se4"
+_cell_length_a       6.190974513537547
+_cell_length_b       6.192174460121638
+_cell_length_c       7.229959011077881
+_cell_angle_alpha    115.41772601896452
+_cell_angle_beta     115.4124522737855
+_cell_angle_gamma    90.01216612303976
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.8724198341369629  0.09628462046384813  0.4890855848789215  1.0000
+  Zn  Zn2       1.0  0.6223810315132141  0.3455793857574463  0.9886317253112792  1.0000
+  Zn  Zn3       1.0  0.12233262509107591  0.8459561467170716  0.9890634417533873  1.0000
+  Sr  Sr1       1.0  0.3732829689979553  0.5967599153518677  0.48930886387825007  1.0000
+  Se  Se1       1.0  0.947762131690979  0.7385636568069459  0.20644660294055936  1.0000
+  Se  Se2       1.0  0.5151638388633728  0.17081338167190552  0.20582386851310724  1.0000
+  Se  Se3       1.0  0.7976405024528503  0.020714078098535538  0.7713046073913573  1.0000
+  Se  Se4       1.0  0.22965966165065765  0.45359414815902716  0.7707147002220153  1.0000

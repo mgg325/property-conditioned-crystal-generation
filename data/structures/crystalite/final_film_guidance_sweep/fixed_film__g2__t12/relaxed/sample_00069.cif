@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LiAl2CdSnHgBi4TePRhS5IN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87468037
+_cell_length_b   7.63324623
+_cell_length_c   17.45516859
+_cell_angle_alpha   95.97667146
+_cell_angle_beta   90.22504519
+_cell_angle_gamma   90.01809247
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAl2CdSnHgBi4TePRhS5IN
+_chemical_formula_sum   'Li1 Al2 Cd1 Sn1 Hg1 Bi4 Te1 P1 Rh1 S5 I1 N1'
+_cell_volume   513.45056383
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.83877485  0.89559593  0.90709269  1
+  Al  Al1  1  0.86143590  0.08381090  0.76493285  1
+  Al  Al2  1  0.30799422  0.85880572  0.44938298  1
+  Cd  Cd3  1  0.32835931  0.50257435  0.93089831  1
+  Sn  Sn4  1  0.81177642  0.17080234  0.46636337  1
+  Hg  Hg5  1  0.79494604  0.18730643  1.02687728  1
+  Bi  Bi6  1  0.30778315  0.37519535  0.69216818  1
+  Bi  Bi7  1  0.81971845  0.79688347  0.15251595  1
+  Bi  Bi8  1  0.80352689  0.59929525  0.60058150  1
+  Bi  Bi9  1  0.32613632  0.35506833  0.16757279  1
+  Te  Te10  1  0.35420712  0.83573055  0.78104969  1
+  P  P11  1  0.35569542  1.00498751  0.09422176  1
+  Rh  Rh12  1  0.31299557  0.12557965  0.56687185  1
+  S  S13  1  0.82793335  0.67026160  -0.00613925  1
+  S  S14  1  0.30468342  0.58219235  0.49009112  1
+  S  S15  1  0.81733165  0.02748011  0.62782174  1
+  S  S16  1  0.21876629  0.17875808  0.88179448  1
+  S  S17  1  0.82882055  0.51322623  0.25487755  1
+  I  I18  1  0.30528471  1.02596376  0.30144191  1
+  N  N19  1  0.80759949  0.89529072  0.43813164  1

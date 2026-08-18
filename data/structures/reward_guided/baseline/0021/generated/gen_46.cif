@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2Sr2CdSrLiSr
+_chemical_formula_sum              "Li3 Sr4 Cd1"
+_cell_length_a       7.083929305472135
+_cell_length_b       7.093019728116645
+_cell_length_c       7.09922456741333
+_cell_angle_alpha    109.40790199905962
+_cell_angle_beta     108.95415314703592
+_cell_angle_gamma    108.91040410190367
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.41435706615448  0.31152427196502686  0.10342909395694734  1.0000
+  Li  Li2       1.0  0.9145586490631104  0.31025582551956177  0.6041423678398132  1.0000
+  Sr  Sr1       1.0  0.414111465215683  0.3091261386871338  0.6042492389678955  1.0000
+  Sr  Sr2       1.0  0.9155982136726379  0.3096346855163574  0.10435774177312858  1.0000
+  Cd  Cd1       1.0  0.9134868383407593  0.8087690472602844  0.10515172034502031  1.0000
+  Sr  Sr3       1.0  0.4138144850730896  0.8101861476898193  0.10461483895778663  1.0000
+  Li  Li3       1.0  0.4137727618217468  0.8094624280929565  0.6039367914199829  1.0000
+  Sr  Sr4       1.0  0.913136899471283  0.8097219467163086  0.6059021353721619  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cu2SeCuSeNbSe2
+_chemical_formula_sum              "Cu3 Se4 Nb1"
+_cell_length_a       5.655500782826643
+_cell_length_b       5.655544924472282
+_cell_length_c       6.036894540331981
+_cell_angle_alpha    89.98900206399547
+_cell_angle_beta     89.99586102775572
+_cell_angle_gamma    89.98480025317077
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.5531413981686821  0.796908066405666  0.3506402535716162  1.0000
+  Cu  Cu2       1.0  0.0527962989058942  0.29726664770008066  0.35036410481579305  1.0000
+  Se  Se1       1.0  0.2996811292719917  0.04377098373810207  0.5969342911251638  1.0000
+  Cu  Cu3       1.0  0.5535395872168275  0.2976683470276487  0.3513179809163616  1.0000
+  Se  Se2       1.0  0.8067269867326763  0.04347399282611782  0.10446518416833248  1.0000
+  Nb  Nb1       1.0  0.05311551380904785  0.797369379851497  0.3508799765372157  1.0000
+  Se  Se3       1.0  0.8069776801038879  0.551112614800146  0.5975052997758109  1.0000
+  Se  Se4       1.0  0.2993668444837393  0.5510871823357246  0.10453575463547012  1.0000

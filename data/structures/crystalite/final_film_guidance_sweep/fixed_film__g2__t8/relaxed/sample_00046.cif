@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_ReBiAsO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.78236827
+_cell_length_b   4.92400116
+_cell_length_c   6.96104364
+_cell_angle_alpha   110.42564808
+_cell_angle_beta   109.72743166
+_cell_angle_gamma   91.04602927
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReBiAsO8
+_chemical_formula_sum   'Re1 Bi1 As1 O8'
+_cell_volume   142.86883673
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.08008014  0.40184644  0.06037099  1
+  Bi  Bi1  1  0.22914345  0.10573304  0.55286618  1
+  As  As2  1  0.64334941  0.58338131  0.52913615  1
+  O  O3  1  0.33667814  0.69737609  0.64152609  1
+  O  O4  1  0.64645729  0.89170089  0.46129726  1
+  O  O5  1  0.80977489  0.09124628  0.92468951  1
+  O  O6  1  0.33559299  0.29855889  0.28326733  1
+  O  O7  1  0.89472709  0.41427767  0.38794417  1
+  O  O8  1  -0.00572050  0.75555474  0.17281181  1
+  O  O9  1  0.78700377  0.43709566  0.72862228  1
+  O  O10  1  0.34627594  0.39721819  0.93744700  1

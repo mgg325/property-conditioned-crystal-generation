@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_La3Zn4Au3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.39607827
+_cell_length_b   7.48395946
+_cell_length_c   7.48196733
+_cell_angle_alpha   107.37711013
+_cell_angle_beta   90.00643438
+_cell_angle_gamma   90.00608509
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3Zn4Au3
+_chemical_formula_sum   'La3 Zn4 Au3'
+_cell_volume   234.92257025
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.62917360  0.45957500  0.20672411  1
+  La  La1  1  0.62924477  0.66044009  0.77359632  1
+  La  La2  1  0.62928683  0.02727113  0.41117698  1
+  Zn  Zn3  1  0.12944101  0.08658723  0.10257305  1
+  Zn  Zn4  1  0.12938620  0.97637423  0.72875805  1
+  Zn  Zn5  1  0.12949350  0.35230830  0.83300813  1
+  Zn  Zn6  1  0.12955350  0.70803608  0.45445576  1
+  Au  Au7  1  0.62940269  0.12887997  0.87616390  1
+  Au  Au8  1  0.12917693  0.72165511  0.09629877  1
+  Au  Au9  1  0.12921197  0.34967710  0.46897273  1

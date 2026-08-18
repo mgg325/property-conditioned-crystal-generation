@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Cd2AgHg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.90040437
+_cell_length_b   4.93182357
+_cell_length_c   5.00666428
+_cell_angle_alpha   59.25783580
+_cell_angle_beta   59.71627777
+_cell_angle_gamma   61.57893204
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd2AgHg
+_chemical_formula_sum   'Cd2 Ag1 Hg1'
+_cell_volume   85.83798131
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.49715305  0.32195471  0.05404652  1
+  Cd  Cd1  1  0.99652333  0.82527089  0.55357030  1
+  Ag  Ag2  1  0.24445257  0.07318548  0.80613593  1
+  Hg  Hg3  1  0.74622739  0.57291954  0.30480190  1

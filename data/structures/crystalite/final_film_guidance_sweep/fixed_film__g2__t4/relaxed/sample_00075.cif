@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CsO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67493720
+_cell_length_b   5.83760858
+_cell_length_c   6.00023142
+_cell_angle_alpha   62.88607349
+_cell_angle_beta   65.71908361
+_cell_angle_gamma   62.68162005
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsO7
+_chemical_formula_sum   'Cs1 O7'
+_cell_volume   151.98087431
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.96206166  -0.02294643  0.55028779  1
+  O  O1  1  0.54520787  0.66958997  0.14290365  1
+  O  O2  1  0.04409587  0.47274467  1.04471259  1
+  O  O3  1  0.53801956  0.51773743  0.73608682  1
+  O  O4  1  0.41437757  0.90709904  0.02964555  1
+  O  O5  1  0.13854050  0.51547072  0.17298656  1
+  O  O6  1  0.44508959  0.45001543  0.60799541  1
+  O  O7  1  0.58644632  0.33176969  -0.04131169  1

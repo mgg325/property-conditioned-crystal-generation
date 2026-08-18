@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BeSiP3O12F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.28017791
+_cell_length_b   7.37683464
+_cell_length_c   7.27789280
+_cell_angle_alpha   109.20475595
+_cell_angle_beta   108.09300318
+_cell_angle_gamma   109.15875419
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeSiP3O12F
+_chemical_formula_sum   'Be1 Si1 P3 O12 F1'
+_cell_volume   265.61291401
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.09883503  0.86408876  0.59721669  1
+  Si  Si1  1  0.64555467  0.88989783  0.80519771  1
+  P  P2  1  0.58836849  0.90574855  0.49320063  1
+  P  P3  1  0.88274722  0.35307047  0.11963053  1
+  P  P4  1  0.87484656  0.62610660  0.23039038  1
+  O  O5  1  0.86059715  0.40228514  0.72522221  1
+  O  O6  1  0.46950410  0.78621811  0.89294868  1
+  O  O7  1  0.82423421  0.78956087  0.37900307  1
+  O  O8  1  0.71482095  0.22091460  0.83751038  1
+  O  O9  1  0.19137770  0.60967698  0.15986585  1
+  O  O10  1  0.80989292  0.41921403  0.39874465  1
+  O  O11  1  0.90037756  0.91181105  0.77434135  1
+  O  O12  1  0.05442084  0.60316053  0.51464925  1
+  O  O13  1  0.75775039  0.57871547  0.00329637  1
+  O  O14  1  0.34289114  0.89809060  0.55611564  1
+  O  O15  1  0.60818107  0.06824962  0.41382870  1
+  O  O16  1  0.88751725  0.36351634  0.12581617  1
+  F  F17  1  0.83889009  0.08156622  0.08980897  1

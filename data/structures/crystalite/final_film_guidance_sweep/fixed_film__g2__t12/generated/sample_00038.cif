@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Si6BiP4Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28338671
+_cell_length_b   4.79374266
+_cell_length_c   14.07378769
+_cell_angle_alpha   90.57377625
+_cell_angle_beta   89.32247162
+_cell_angle_gamma   66.75875854
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si6BiP4Pb
+_chemical_formula_sum   'Si6 Bi1 P4 Pb1'
+_cell_volume   265.48044467
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pb  Pb0  1  0.18139723  0.91212755  0.95922071  1
+  P  P1  1  0.88362747  0.65372980  0.12956586  1
+  Bi  Bi2  1  0.04998994  0.81547558  0.61402285  1
+  P  P3  1  0.11998284  0.01140279  0.36587963  1
+  P  P4  1  0.58052486  0.24999803  0.21297106  1
+  Si  Si5  1  0.69609845  0.41030693  0.72116905  1
+  P  P6  1  0.50383019  0.31354082  0.01347342  1
+  Si  Si7  1  0.46896994  0.26756793  0.55361599  1
+  Si  Si8  1  0.38964480  0.08479056  0.75150383  1
+  Si  Si9  1  0.72798204  0.38056368  0.85898697  1
+  Si  Si10  1  0.85781026  0.61362076  0.33559084  1
+  Si  Si11  1  0.24712145  0.91437769  0.19071469  1

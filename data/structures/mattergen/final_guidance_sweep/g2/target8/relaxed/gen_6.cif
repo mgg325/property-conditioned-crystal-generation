@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CdHgTeHgTe2Hg2Te2
+_chemical_formula_sum              "Cd1 Hg4 Te5"
+_cell_length_a       6.639299521617457
+_cell_length_b       8.131377146686956
+_cell_length_c       8.132177022853126
+_cell_angle_alpha    80.40380183973922
+_cell_angle_beta     65.90340098001079
+_cell_angle_gamma    65.90571962048823
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.863503244888154  0.383847352040579  0.8586604627261276  1.0000
+  Hg  Hg1       1.0  0.6634599280440655  0.9830298177496558  0.6591163828403752  1.0000
+  Te  Te1       1.0  0.9143418619468155  0.4839098532125763  0.159436608563854  1.0000
+  Hg  Hg2       1.0  0.06300539614050409  0.7842376967972787  0.05908062038545502  1.0000
+  Te  Te2       1.0  0.5120949490086115  0.6843432717571641  0.7584784203533561  1.0000
+  Te  Te3       1.0  0.11372420737028949  0.8834808829396991  0.35905020655780373  1.0000
+  Hg  Hg3       1.0  0.2638474120959745  0.18365702050881685  0.259070717066094  1.0000
+  Hg  Hg4       1.0  0.46460191668157935  0.5829763873862144  0.45828695108824685  1.0000
+  Te  Te4       1.0  0.7129197953360481  0.08291506706172608  0.959091375811962  1.0000
+  Te  Te5       1.0  0.3152487977505508  0.28302361104264473  0.5580577595219062  1.0000

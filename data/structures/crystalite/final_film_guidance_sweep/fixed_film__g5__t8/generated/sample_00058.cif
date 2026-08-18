@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_In3Ga2GeSe10XeN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.17515397
+_cell_length_b   7.53449965
+_cell_length_c   8.19328022
+_cell_angle_alpha   107.14434052
+_cell_angle_beta   92.17871094
+_cell_angle_gamma   104.09590149
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In3Ga2GeSe10XeN
+_chemical_formula_sum   'In3 Ga2 Ge1 Se10 Xe1 N1'
+_cell_volume   123.57050729
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.52042091  0.96553242  0.82202053  1
+  Se  Se1  1  0.59944195  0.76759803  0.25142008  1
+  Ga  Ga2  1  0.08707118  0.22030881  0.44145912  1
+  Se  Se3  1  0.78517282  0.15014187  0.53775215  1
+  Se  Se4  1  0.11597306  0.58268875  0.01208788  1
+  Xe  Xe5  1  0.52676642  0.60587150  0.41557994  1
+  Se  Se6  1  0.29890075  0.27343422  0.95745915  1
+  Se  Se7  1  0.89154726  0.47111288  0.50694627  1
+  N  N8  1  0.40404013  0.73276752  0.80935955  1
+  Se  Se9  1  0.17091066  0.82857746  0.84493482  1
+  Se  Se10  1  0.91381228  0.40975091  0.26739061  1
+  In  In11  1  0.74880373  0.87086117  0.51232755  1
+  Ga  Ga12  1  0.34717849  0.22957399  0.18032774  1
+  Se  Se13  1  0.93961692  0.40091234  0.26047766  1
+  In  In14  1  0.73077619  0.09750348  0.19768199  1
+  In  In15  1  0.78661001  0.00139278  0.80861139  1
+  Ge  Ge16  1  0.18330052  0.31267148  0.60702598  1
+  Se  Se17  1  0.03846037  0.18057629  0.99768621  1

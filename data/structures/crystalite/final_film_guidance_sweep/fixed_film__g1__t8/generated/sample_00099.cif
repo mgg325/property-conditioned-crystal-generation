@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CaMn5(SiS5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.19883108
+_cell_length_b   7.35081911
+_cell_length_c   7.36216497
+_cell_angle_alpha   109.48883057
+_cell_angle_beta   108.94973755
+_cell_angle_gamma   109.85282135
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaMn5(SiS5)2
+_chemical_formula_sum   'Ca1 Mn5 Si2 S10'
+_cell_volume   300.34092900
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.52369010  0.75159848  0.15220800  1
+  S  S1  1  0.03233442  0.56409204  0.80106604  1
+  Mn  Mn2  1  0.17411044  0.95480907  0.00484985  1
+  S  S3  1  0.06350103  0.65043604  0.40820497  1
+  Mn  Mn4  1  0.67236447  0.94270527  0.97787857  1
+  S  S5  1  0.83858907  0.12691328  0.80136520  1
+  S  S6  1  0.30618268  0.33159843  0.15284401  1
+  Ca  Ca7  1  0.69340146  0.44147962  0.00550944  1
+  Si  Si8  1  0.17278701  0.94316649  0.49929610  1
+  Mn  Mn9  1  0.18231738  0.45734870  0.99389184  1
+  S  S10  1  0.82159168  0.27393621  0.31644094  1
+  Mn  Mn11  1  0.67885703  0.46321353  0.49005458  1
+  S  S12  1  0.52957743  0.66725826  0.68219155  1
+  Mn  Mn13  1  0.18038020  0.44015774  0.50729024  1
+  Si  Si14  1  0.64635527  0.97048432  0.46534023  1
+  S  S15  1  0.33826032  0.00275961  0.80070221  1
+  S  S16  1  0.45455551  0.15847996  0.49696395  1
+  S  S17  1  0.97458208  0.91153437  0.15528071  1

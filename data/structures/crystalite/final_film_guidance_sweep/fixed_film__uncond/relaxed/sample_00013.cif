@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaNd2ThMnO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.25042873
+_cell_length_b   6.11163871
+_cell_length_c   6.67280002
+_cell_angle_alpha   113.78053593
+_cell_angle_beta   105.62547648
+_cell_angle_gamma   104.40196815
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaNd2ThMnO7
+_chemical_formula_sum   'Ca1 Nd2 Th1 Mn1 O7'
+_cell_volume   205.34560076
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.57644039  0.51591723  0.73590883  1
+  Nd  Nd1  1  0.36334005  0.74271398  0.25312679  1
+  Nd  Nd2  1  0.97853752  0.11058657  0.31533632  1
+  Th  Th3  1  0.11111725  0.83533141  0.70867019  1
+  Mn  Mn4  1  0.58252565  0.30139830  0.17189461  1
+  O  O5  1  0.26054062  0.55030277  0.48981206  1
+  O  O6  1  0.79476109  0.40797145  0.50602555  1
+  O  O7  1  0.78499019  -0.14350828  0.45611896  1
+  O  O8  1  1.00635389  0.78151501  0.00284450  1
+  O  O9  1  0.52561852  0.90402761  0.01796351  1
+  O  O10  1  0.30621238  0.07069253  0.53994927  1
+  O  O11  1  0.26360335  0.29291827  1.00417206  1

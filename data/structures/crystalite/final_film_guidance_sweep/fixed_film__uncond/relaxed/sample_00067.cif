@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaPb3F8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.94330571
+_cell_length_b   6.04244769
+_cell_length_c   5.98053188
+_cell_angle_alpha   89.89673571
+_cell_angle_beta   97.60641337
+_cell_angle_gamma   89.88586722
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaPb3F8
+_chemical_formula_sum   'Na1 Pb3 F8'
+_cell_volume   212.88280690
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.39121332  0.43707899  0.37516332  1
+  Pb  Pb1  1  0.93424819  0.92384289  0.30505881  1
+  Pb  Pb2  1  0.38281513  0.99475263  0.88710559  1
+  Pb  Pb3  1  0.92606415  0.48219189  0.78619234  1
+  F  F4  1  0.58731330  0.28119490  0.73987334  1
+  F  F5  1  0.20274834  0.71430101  0.11180638  1
+  F  F6  1  0.09398961  0.19858599  0.57981782  1
+  F  F7  1  0.72516193  0.78122914  0.94611500  1
+  F  F8  1  0.58450428  0.12392649  0.22905256  1
+  F  F9  1  0.73311877  0.62408336  0.44815929  1
+  F  F10  1  0.10988974  0.20062022  0.06757207  1
+  F  F11  1  0.19051579  0.71033335  0.61164038  1

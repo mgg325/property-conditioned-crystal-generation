@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Na2AcTcTeSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.69199970
+_cell_length_b   6.68294450
+_cell_length_c   10.22945900
+_cell_angle_alpha   113.00277193
+_cell_angle_beta   108.97850116
+_cell_angle_gamma   94.89515334
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2AcTcTeSe4
+_chemical_formula_sum   'Na2 Ac1 Tc1 Te1 Se4'
+_cell_volume   270.76292249
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.69220743  0.49852473  0.22145571  1
+  Na  Na1  1  0.34283439  0.02210415  0.11330730  1
+  Ac  Ac2  1  0.44467042  -0.03254020  0.51069713  1
+  Tc  Tc3  1  0.70612515  0.03996101  0.86415326  1
+  Te  Te4  1  0.01915791  0.33269107  0.54253504  1
+  Se  Se5  1  0.11102884  0.97175084  0.73795616  1
+  Se  Se6  1  0.01488231  0.41383445  0.02246236  1
+  Se  Se7  1  0.72729284  0.78843193  0.97325336  1
+  Se  Se8  1  0.32136458  0.45193716  0.39899742  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_La10(CdPb)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.98055317
+_cell_length_b   8.42055160
+_cell_length_c   7.68491628
+_cell_angle_alpha   89.99871461
+_cell_angle_beta   90.00385643
+_cell_angle_gamma   90.00053505
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La10(CdPb)3
+_chemical_formula_sum   'La10 Cd3 Pb3'
+_cell_volume   516.43144321
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.22536977  0.43050671  0.82958856  1
+  La  La1  1  0.47563551  0.18004744  0.58085627  1
+  La  La2  1  0.97389719  0.18227369  0.08016809  1
+  La  La3  1  0.97386329  0.68025673  0.08038811  1
+  La  La4  1  0.72839698  0.93120484  0.33021928  1
+  La  La5  1  0.47596261  0.68297006  0.58032154  1
+  La  La6  1  0.97434461  0.18186536  0.58107743  1
+  La  La7  1  0.47516359  0.68036853  0.07996934  1
+  La  La8  1  0.97471727  0.68075114  0.58083030  1
+  La  La9  1  0.47569065  0.18220343  0.08046662  1
+  Cd  Cd10  1  0.22447812  0.93074209  0.83159868  1
+  Cd  Cd11  1  0.72433558  0.43143854  0.33095239  1
+  Cd  Cd12  1  0.22377588  0.93181502  0.32903547  1
+  Pb  Pb13  1  0.22555303  0.43141494  0.33133621  1
+  Pb  Pb14  1  0.72543721  0.93109341  0.83111863  1
+  Pb  Pb15  1  0.72401134  0.43144447  0.82974871  1

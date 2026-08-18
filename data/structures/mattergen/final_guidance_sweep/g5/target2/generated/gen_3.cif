@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       H2F2
+_chemical_formula_sum              "H2 F2"
+_cell_length_a       3.477769728661673
+_cell_length_b       3.237971068993285
+_cell_length_c       3.5186386108398438
+_cell_angle_alpha    90.17590720148698
+_cell_angle_beta     109.17430927409141
+_cell_angle_gamma    89.69545803816042
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.4644910991191864  0.7362297773361205  0.08631995320320128  1.0000
+  H   H2        1.0  0.9623829126358032  0.7770055532455443  0.5855459570884705  1.0000
+  F   F1        1.0  0.7412397265434265  0.9417183399200438  0.3651993572711944  1.0000
+  F   F2        1.0  0.24240145087242126  0.5688526630401611  0.8633649349212645  1.0000

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SrCaMnRhO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50111341
+_cell_length_b   5.53374624
+_cell_length_c   7.77202463
+_cell_angle_alpha   89.96290588
+_cell_angle_beta   90.13040161
+_cell_angle_gamma   90.11879730
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCaMnRhO6
+_chemical_formula_sum   'Sr2 Ca2 Mn2 Rh2 O12'
+_cell_volume   236.59298257
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.66290116  0.23095509  0.69181406  1
+  O  O1  1  0.18809190  0.74875075  0.19007325  1
+  Ca  Ca2  1  0.62623191  0.72208202  0.18690905  1
+  O  O3  1  0.91808987  0.47654247  0.41397905  1
+  Sr  Sr4  1  0.60635382  0.77503252  0.69760823  1
+  O  O5  1  0.32613873  0.01995489  0.46832439  1
+  O  O6  1  0.41803250  0.54842407  0.92692965  1
+  Ca  Ca7  1  0.10137919  0.22104269  0.19463468  1
+  Sr  Sr8  1  0.12373295  0.27530816  0.69668496  1
+  Rh  Rh9  1  0.11824349  0.74997663  0.44408879  1
+  O  O10  1  0.39814451  0.53218538  0.47211897  1
+  O  O11  1  0.06555843  0.75130904  0.69399911  1
+  O  O12  1  0.55607778  0.26010862  0.19802335  1
+  O  O13  1  0.90301597  0.47245660  0.98131424  1
+  O  O14  1  0.83421695  0.96683407  0.99455297  1
+  O  O15  1  0.33590341  0.03504685  0.92563933  1
+  Rh  Rh16  1  0.61196804  0.24734542  0.95449609  1
+  O  O17  1  0.82912523  0.95985198  0.41758770  1
+  Mn  Mn18  1  0.11928135  0.74461943  0.95270586  1
+  Mn  Mn19  1  0.61586553  0.24424434  0.44966358  1

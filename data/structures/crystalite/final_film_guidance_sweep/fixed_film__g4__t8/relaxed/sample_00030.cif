@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BaLiZn2Cd4TcTeSe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.51931019
+_cell_length_b   3.80633692
+_cell_length_c   9.90283282
+_cell_angle_alpha   87.77975599
+_cell_angle_beta   110.25358189
+_cell_angle_gamma   91.56038488
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLiZn2Cd4TcTeSe6
+_chemical_formula_sum   'Ba1 Li1 Zn2 Cd4 Tc1 Te1 Se6'
+_cell_volume   159.67866138
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.82704395  0.26578306  0.31207150  1
+  Li  Li1  1  0.36919827  0.75426676  0.06086333  1
+  Zn  Zn2  1  0.81191116  0.11902001  0.65092238  1
+  Zn  Zn3  1  0.42308973  0.60366285  0.48811648  1
+  Cd  Cd4  1  0.16467272  0.10018726  0.60402745  1
+  Cd  Cd5  1  0.88776810  0.49822377  0.85422606  1
+  Cd  Cd6  1  0.21674488  0.64107609  0.49661941  1
+  Cd  Cd7  1  0.63001572  0.61175493  0.47794301  1
+  Tc  Tc8  1  0.27719387  0.22391835  0.09373424  1
+  Te  Te9  1  0.37075730  0.12651687  0.37697485  1
+  Se  Se10  1  0.81963926  0.54508210  0.30460607  1
+  Se  Se11  1  0.44426433  0.10880016  0.84251975  1
+  Se  Se12  1  0.20889139  0.59171377  0.71324614  1
+  Se  Se13  1  0.23892739  0.58285043  0.21828036  1
+  Se  Se14  1  0.93533957  0.12127422  0.58227404  1
+  Se  Se15  1  0.70433407  0.65226242  0.82734377  1

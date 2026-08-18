@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TbZn2Co3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00795988
+_cell_length_b   5.03522309
+_cell_length_c   5.03560456
+_cell_angle_alpha   117.43930192
+_cell_angle_beta   90.00865535
+_cell_angle_gamma   90.00182069
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbZn2Co3
+_chemical_formula_sum   'Tb1 Zn2 Co3'
+_cell_volume   90.19071115
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.46813320  0.89213056  0.91950415  1
+  Zn  Zn1  1  0.96788827  0.39218882  0.91910335  1
+  Zn  Zn2  1  0.96765653  0.89227449  0.41916552  1
+  Co  Co3  1  0.96779391  0.39214495  0.41902992  1
+  Co  Co4  1  0.46786242  0.54437171  0.26767796  1
+  Co  Co5  1  0.46751936  0.24069086  0.57025911  1

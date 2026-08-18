@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_TlZn3CdIn2BiSb3As3Se4XeBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.37431677
+_cell_length_b   15.07608449
+_cell_length_c   7.37861476
+_cell_angle_alpha   122.85670698
+_cell_angle_beta   90.29379345
+_cell_angle_gamma   110.85930388
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlZn3CdIn2BiSb3As3Se4XeBr
+_chemical_formula_sum   'Tl1 Zn3 Cd1 In2 Bi1 Sb3 As3 Se4 Xe1 Br1'
+_cell_volume   960.99627068
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.63705051  0.61967417  0.86267748  1
+  Zn  Zn1  1  0.11339338  0.22454875  0.69269010  1
+  Zn  Zn2  1  0.70987174  0.06619311  0.69412076  1
+  Zn  Zn3  1  0.69757922  0.97076872  0.92189184  1
+  Cd  Cd4  1  0.72558355  0.63340337  0.87586675  1
+  In  In5  1  0.17736125  0.46177228  0.85388301  1
+  In  In6  1  0.61749725  0.98765213  0.27119045  1
+  Bi  Bi7  1  0.20276489  0.24289596  0.22299344  1
+  Sb  Sb8  1  0.21947666  0.09197947  0.41016523  1
+  Sb  Sb9  1  0.06932284  0.97604905  0.56834427  1
+  Sb  Sb10  1  0.36322948  0.33800979  0.75113020  1
+  As  As11  1  0.16038190  0.38394138  0.12459668  1
+  As  As12  1  0.94008615  0.22843965  0.85756216  1
+  As  As13  1  0.83158590  0.47327967  0.34685156  1
+  Se  Se14  1  0.64911227  0.50985001  0.40690542  1
+  Se  Se15  1  0.69304296  0.72207364  0.65045750  1
+  Se  Se16  1  0.25832516  0.57786528  0.47111532  1
+  Se  Se17  1  0.47069358  0.66017441  0.43393316  1
+  Xe  Xe18  1  0.74078444  0.25870319  0.04784113  1
+  Br  Br19  1  0.91834624  0.35879900  0.49277907  1

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SeTe3V2Se
+_chemical_formula_sum              "Se2 Te3 V2"
+_cell_length_a       3.503452563669802
+_cell_length_b       8.501904806239162
+_cell_length_c       6.8875593511537305
+_cell_angle_alpha    121.26012337976975
+_cell_angle_beta     104.7184563661124
+_cell_angle_gamma    89.96242625585249
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.3141680721279933  0.08623277954797628  0.8595860852294853  1.0000
+  Te  Te1       1.0  0.9495836266070429  0.8998020726126099  0.13166298399725274  1.0000
+  Te  Te2       1.0  0.7293862049558761  0.4470516918118686  0.6902224446854592  1.0000
+  Te  Te3       1.0  0.9905666131706381  0.4438226779833945  0.21265142716289365  1.0000
+  V   V1        1.0  0.4202827950022433  0.6227623416125293  0.07257485993580176  1.0000
+  V   V2        1.0  0.24781946254434467  0.726718172350778  0.727704588700961  1.0000
+  Se  Se2       1.0  0.6526778436935  0.8243537170564306  0.5378442163674776  1.0000

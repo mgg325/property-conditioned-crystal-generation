@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LiSiN2F5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36435270
+_cell_length_b   5.62444401
+_cell_length_c   6.08058119
+_cell_angle_alpha   61.98224258
+_cell_angle_beta   62.89658737
+_cell_angle_gamma   59.59278870
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSiN2F5
+_chemical_formula_sum   'Li1 Si1 N2 F5'
+_cell_volume   133.84227474
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.87887317  0.41648108  0.73271835  1
+  Li  Li1  1  0.28118497  0.73390102  0.62323093  1
+  N  N2  1  0.59151638  0.04642096  0.11851513  1
+  F  F3  1  0.10560185  0.00778213  0.79213226  1
+  F  F4  1  0.05110815  0.91947007  0.21347943  1
+  F  F5  1  0.61138260  0.49547905  0.23874411  1
+  F  F6  1  0.56974441  0.44959873  0.75519347  1
+  N  N7  1  0.09239033  0.53180450  0.14066246  1
+  Si  Si8  1  0.89658737  0.36179811  0.75911015  1

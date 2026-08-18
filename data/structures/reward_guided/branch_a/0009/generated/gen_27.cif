@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       DyLu2Ag3
+_chemical_formula_sum              "Dy1 Lu2 Ag3"
+_cell_length_a       3.597102045789255
+_cell_length_b       3.55733467894175
+_cell_length_c       10.882277488708496
+_cell_angle_alpha    89.89496102700951
+_cell_angle_beta     89.87056358804215
+_cell_angle_gamma    86.85654468575602
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.8893664479255677  0.6961205005645751  0.2766752243041992  1.0000
+  Lu  Lu1       1.0  0.8908475637435913  0.6939877271652222  0.6140158176422119  1.0000
+  Lu  Lu2       1.0  0.8882926106452942  0.6927441358566284  0.939441442489624  1.0000
+  Ag  Ag1       1.0  0.39302876591682434  0.19277918338775635  0.7785460948944092  1.0000
+  Ag  Ag2       1.0  0.3914244472980499  0.19547918438911435  0.4520761966705322  1.0000
+  Ag  Ag3       1.0  0.388177752494812  0.193091481924057  0.10261832177639008  1.0000

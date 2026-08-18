@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HgLiSn2HgSr
+_chemical_formula_sum              "Hg2 Li1 Sn2 Sr1"
+_cell_length_a       4.880876585177628
+_cell_length_b       4.909197234228228
+_cell_length_c       7.472065448760986
+_cell_angle_alpha    90.65259296941113
+_cell_angle_beta     89.96336536982854
+_cell_angle_gamma    119.80120273975794
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.48074886202812195  0.27023908495903015  0.31797826290130615  1.0000
+  Li  Li1       1.0  0.14730475842952728  0.6031606197357178  0.132548525929451  1.0000
+  Sn  Sn1       1.0  0.4827272295951843  0.2699792683124542  0.8984851241111754  1.0000
+  Sn  Sn2       1.0  0.8145545721054077  0.9353673458099365  0.368115484714508  1.0000
+  Hg  Hg2       1.0  0.8142828941345215  0.9365428686141968  0.950544774532318  1.0000
+  Sr  Sr1       1.0  0.14722375571727753  0.6030337810516357  0.633860170841217  1.0000

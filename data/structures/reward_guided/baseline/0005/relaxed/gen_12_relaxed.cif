@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Dy4GaAg2Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16417499
+_cell_length_b   5.16432435
+_cell_length_c   8.95846390
+_cell_angle_alpha   73.24887792
+_cell_angle_beta   73.24840978
+_cell_angle_gamma   60.00132058
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy4GaAg2Hg
+_chemical_formula_sum   'Dy4 Ga1 Ag2 Hg1'
+_cell_volume   195.11627891
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.98703646  0.58449597  1.00023319  1
+  Dy  Dy1  1  0.23717052  0.83461634  0.24985464  1
+  Dy  Dy2  1  0.74249653  0.34005831  0.73382538  1
+  Dy  Dy3  1  0.49235911  0.08989729  0.48426982  1
+  Ga  Ga4  1  0.86476846  0.46227892  0.36700401  1
+  Ag  Ag5  1  0.61644763  0.21379167  0.11211825  1
+  Ag  Ag6  1  0.11310082  0.71074969  0.62204935  1
+  Hg  Hg7  1  0.36474890  0.96224150  0.86707494  1

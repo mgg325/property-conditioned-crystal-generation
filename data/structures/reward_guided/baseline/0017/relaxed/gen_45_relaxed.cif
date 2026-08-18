@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ce2Er6ScTi5(IrRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88654606
+_cell_length_b   10.38087955
+_cell_length_c   10.95657391
+_cell_angle_alpha   105.67549714
+_cell_angle_beta   89.99969449
+_cell_angle_gamma   90.00067711
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Er6ScTi5(IrRh)2
+_chemical_formula_sum   'Ce2 Er6 Sc1 Ti5 Ir2 Rh2'
+_cell_volume   425.61032542
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.39587919  0.47919469  0.27325516  1
+  Ce  Ce1  1  0.89601924  0.66299678  0.80829721  1
+  Er  Er2  1  0.39600685  1.01191261  0.87745376  1
+  Er  Er3  1  0.89590385  0.93999803  0.10616897  1
+  Er  Er4  1  0.39598662  0.40223727  0.90893808  1
+  Er  Er5  1  0.89605875  1.00553739  0.61104290  1
+  Er  Er6  1  0.89586141  0.24555064  0.38213819  1
+  Er  Er7  1  0.39592739  -0.03572439  0.35594536  1
+  Sc  Sc8  1  0.39601664  0.73812316  0.55415200  1
+  Ti  Ti9  1  0.39592170  0.70291159  0.09890257  1
+  Ti  Ti10  1  0.89596288  0.32023050  0.67367090  1
+  Ti  Ti11  1  0.39596400  0.45894651  0.59326715  1
+  Ti  Ti12  1  0.89594241  0.72791180  0.31854190  1
+  Ti  Ti13  1  0.89587456  0.25408924  0.07926334  1
+  Ir  Ir14  1  0.89601854  0.19333524  0.84116105  1
+  Ir  Ir15  1  0.89591283  0.54320264  0.09606473  1
+  Rh  Rh16  1  0.89594707  0.54624160  0.49203191  1
+  Rh  Rh17  1  0.39586030  0.15251430  0.17215875  1

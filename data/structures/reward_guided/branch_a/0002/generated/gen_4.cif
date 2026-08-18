@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       BaAuHg2
+_chemical_formula_sum              "Ba1 Au1 Hg2"
+_cell_length_a       4.717828624345727
+_cell_length_b       4.715973945562746
+_cell_length_c       5.229671001434326
+_cell_angle_alpha    91.98807930658896
+_cell_angle_beta     90.17983456435532
+_cell_angle_gamma    90.87008664322089
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.7919107675552368  0.1095183715224266  0.13091781735420227  1.0000
+  Au  Au1       1.0  0.2919618785381317  0.6090471744537354  0.130840465426445  1.0000
+  Hg  Hg1       1.0  0.29244309663772583  0.11044925451278687  0.629723846912384  1.0000
+  Hg  Hg2       1.0  0.7919138073921204  0.60992830991745  0.6288076639175415  1.0000

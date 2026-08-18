@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_ZrTc2P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.06040001
+_cell_length_b   6.47657776
+_cell_length_c   3.29770255
+_cell_angle_alpha   83.26047516
+_cell_angle_beta   89.65958405
+_cell_angle_gamma   124.13592529
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTc2P
+_chemical_formula_sum   'Zr1 Tc2 P1'
+_cell_volume   158.45556970
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.75102758  0.25154820  0.67189753  1
+  Tc  Tc1  1  0.28278804  0.69090408  0.52033043  1
+  P  P2  1  0.72386074  0.44449034  0.18694386  1
+  Tc  Tc3  1  0.36619124  0.82152677  0.01371837  1

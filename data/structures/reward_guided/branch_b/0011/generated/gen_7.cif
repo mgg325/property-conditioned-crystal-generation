@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TmCuTmZn2
+_chemical_formula_sum              "Tm2 Cu1 Zn2"
+_cell_length_a       3.4595407856409164
+_cell_length_b       4.28868421380329
+_cell_length_c       7.0425944328308105
+_cell_angle_alpha    107.26443111961746
+_cell_angle_beta     89.17156201221162
+_cell_angle_gamma    89.03139955117508
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.21641716361045835  0.8526057004928589  0.5710667967796326  1.0000
+  Cu  Cu1       1.0  0.7144428491592406  0.2352360785007477  0.333549439907074  1.0000
+  Tm  Tm2       1.0  0.2162702828645706  0.61759352684021  0.09669093042612076  1.0000
+  Zn  Zn1       1.0  0.7182560563087462  0.037852879613637924  0.9432483315467834  1.0000
+  Zn  Zn2       1.0  0.7143709659576415  0.4287268817424774  0.7256301045417786  1.0000

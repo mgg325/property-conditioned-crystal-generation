@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SrLa(BiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.92220677
+_cell_length_b   5.95868826
+_cell_length_c   6.61531105
+_cell_angle_alpha   116.84106431
+_cell_angle_beta   113.90518777
+_cell_angle_gamma   89.99471293
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLa(BiO3)2
+_chemical_formula_sum   'Sr1 La1 Bi2 O6'
+_cell_volume   185.57908717
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.19830410  0.44071298  0.06821833  1
+  La  La1  1  0.51642999  0.16357098  0.51354928  1
+  Bi  Bi2  1  0.82969330  0.95793366  0.10267764  1
+  Bi  Bi3  1  0.89298898  0.65482979  0.49611196  1
+  O  O4  1  0.13564561  0.32501464  0.36628990  1
+  O  O5  1  0.84079883  0.56423388  0.79299395  1
+  O  O6  1  0.59559611  0.77278593  0.23414914  1
+  O  O7  1  0.13574000  0.85551723  0.36658625  1
+  O  O8  1  0.83869382  0.04188403  0.79260663  1
+  O  O9  1  0.59568714  0.27475526  0.23469160  1

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LaInSn2
+_chemical_formula_sum              "La1 In1 Sn2"
+_cell_length_a       4.7511905762037685
+_cell_length_b       4.774518665361361
+_cell_length_c       4.755144119262695
+_cell_angle_alpha    90.65102875573
+_cell_angle_beta     90.30997697460906
+_cell_angle_gamma    90.03312892271708
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.6713441610336304  0.22283869981765747  0.6047431230545044  1.0000
+  In  In1       1.0  0.6728239059448242  0.724514901638031  0.10649332404136658  1.0000
+  Sn  Sn1       1.0  0.17171575129032135  0.723422646522522  0.6055175065994263  1.0000
+  Sn  Sn2       1.0  0.16997860372066498  0.22440707683563232  0.10579272359609604  1.0000

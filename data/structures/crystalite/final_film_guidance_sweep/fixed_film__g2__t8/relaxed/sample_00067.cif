@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Zn5GeTeAs2Se2I
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.26794729
+_cell_length_b   4.69450475
+_cell_length_c   17.53370508
+_cell_angle_alpha   89.80904917
+_cell_angle_beta   88.83079537
+_cell_angle_gamma   116.44937644
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn5GeTeAs2Se2I
+_chemical_formula_sum   'Zn5 Ge1 Te1 As2 Se2 I1'
+_cell_volume   314.43622005
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.68955873  0.64676452  0.62060265  1
+  Zn  Zn1  1  0.05586159  0.38302022  0.12756870  1
+  Zn  Zn2  1  0.68632301  0.63903580  0.22259188  1
+  Zn  Zn3  1  -0.01936047  0.28558051  0.78022559  1
+  Zn  Zn4  1  0.61324557  0.41678892  0.91327682  1
+  Ge  Ge5  1  0.68789308  0.66283268  0.75836786  1
+  Te  Te6  1  0.38451577  1.01013193  0.17859317  1
+  As  As7  1  0.35498509  0.89638770  0.37253739  1
+  As  As8  1  0.36168256  0.85139544  0.85264133  1
+  Se  Se9  1  0.10753973  0.40408765  0.98827620  1
+  Se  Se10  1  0.69285347  0.59339764  0.36786512  1
+  I  I11  1  0.01651165  0.27737959  0.55778415  1

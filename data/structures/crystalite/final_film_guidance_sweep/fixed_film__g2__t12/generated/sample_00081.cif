@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_AlCuSiBi2BAsPd2RhC3SN6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.82430983
+_cell_length_b   6.66004133
+_cell_length_c   11.45784760
+_cell_angle_alpha   103.93862915
+_cell_angle_beta   90.10163879
+_cell_angle_gamma   90.54232788
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlCuSiBi2BAsPd2RhC3SN6
+_chemical_formula_sum   'Al1 Si1 Cu1 Bi2 B1 As1 Pd2 Rh1 C3 S1 N6'
+_cell_volume   209.16494246
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C0  1  0.24344641  0.76387769  0.46549809  1
+  B  B1  1  0.76072669  0.09567234  0.59335613  1
+  N  N2  1  0.25578737  0.92359096  0.06157327  1
+  S  S3  1  0.75393909  0.16228077  0.37026107  1
+  Bi  Bi4  1  0.25477564  0.81552792  0.75970101  1
+  N  N5  1  0.75639969  0.67668802  0.33565357  1
+  Si  Si6  1  0.27096385  0.31711027  0.04322043  1
+  Cu  Cu7  1  0.24875227  0.63451612  0.29918545  1
+  N  N8  1  0.76792359  0.13930833  0.86858189  1
+  Rh  Rh9  1  0.25547582  0.26269785  0.72348297  1
+  N  N10  1  0.26486272  0.62162489  0.61487204  1
+  Pd  Pd11  1  0.23876759  0.12082115  0.19384477  1
+  Bi  Bi12  1  0.75289214  0.55313808  0.95172542  1
+  C  C13  1  0.76508158  0.60836929  0.17322105  1
+  N  N14  1  0.76440978  0.31777960  0.72847760  1
+  Pd  Pd15  1  0.75847358  0.92633080  0.16681045  1
+  N  N16  1  0.76629806  0.08487138  0.67597622  1
+  C  C17  1  0.27434182  0.94410694  0.20476422  1
+  As  As18  1  0.74330652  0.55482733  0.56239796  1
+  Al  Al19  1  0.25268829  0.41572237  0.47098273  1

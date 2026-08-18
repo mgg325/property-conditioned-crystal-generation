@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Pr2InOPr
+_chemical_formula_sum              "Pr3 In1 O1"
+_cell_length_a       5.032811677498702
+_cell_length_b       5.033250286836058
+_cell_length_c       5.038729190826416
+_cell_angle_alpha    89.90053445658327
+_cell_angle_beta     89.993165485165
+_cell_angle_gamma    89.90901755886429
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.1988508254289627  0.6425185799598694  0.7387472987174988  1.0000
+  Pr  Pr2       1.0  0.1989908218383789  0.1420656442642212  0.23855830729007724  1.0000
+  In  In1       1.0  0.6988599300384521  0.6422716975212097  0.23833674192428586  1.0000
+  O   O1        1.0  0.19886057078838348  0.14200063049793243  0.7384276986122131  1.0000
+  Pr  Pr3       1.0  0.6986902952194214  0.14257065951824188  0.7389125227928162  1.0000

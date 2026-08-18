@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SnBeKSe2KSe2
+_chemical_formula_sum              "Sn1 Be1 K2 Se4"
+_cell_length_a       7.160339071739296
+_cell_length_b       7.088353705424834
+_cell_length_c       6.810135841369629
+_cell_angle_alpha    120.7493707302252
+_cell_angle_beta     121.76946076984686
+_cell_angle_gamma    89.56700156793819
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.9580605626106261  0.148899108171463  0.050978198647499084  1.0000
+  Be  Be1       1.0  0.7084248661994934  0.3987252414226532  0.5491873025894164  1.0000
+  K   K1        1.0  0.208608403801918  0.8979432582855225  0.550891876220703  1.0000
+  Se  Se1       1.0  0.836517035961151  0.13613885641098022  0.34111574292182917  1.0000
+  Se  Se2       1.0  0.9738265872001647  0.7391247153282166  0.7630168795585631  1.0000
+  K   K2        1.0  0.45980104804038996  0.6476167440414429  0.051178880035877096  1.0000
+  Se  Se3       1.0  0.6574699282646179  0.27038517594337463  0.762099027633667  1.0000
+  Se  Se4       1.0  0.3692031800746918  0.4510670304298401  0.33923119306564326  1.0000

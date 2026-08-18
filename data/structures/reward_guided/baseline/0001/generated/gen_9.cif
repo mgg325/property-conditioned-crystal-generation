@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       TbScPr
+_chemical_formula_sum              "Tb1 Sc1 Pr1"
+_cell_length_a       3.402897887911326
+_cell_length_b       5.588972605614309
+_cell_length_c       5.587161540985107
+_cell_angle_alpha    119.97316070263811
+_cell_angle_beta     90.04901594080079
+_cell_angle_gamma    90.00562374862288
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.5422742962837219  0.8577075004577636  0.8859503865242004  1.0000
+  Sc  Sc1       1.0  0.5421896576881409  0.524049401283264  0.2196222990751266  1.0000
+  Pr  Pr1       1.0  0.04186340793967247  0.19141219556331632  0.5530810356140137  1.0000

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CaTbNdU2Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.69195039
+_cell_length_b   6.44642293
+_cell_length_c   7.98663379
+_cell_angle_alpha   105.07562105
+_cell_angle_beta   90.02649043
+_cell_angle_gamma   72.40334368
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaTbNdU2Se
+_chemical_formula_sum   'Ca1 Tb1 Nd1 U2 Se1'
+_cell_volume   174.31876090
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.95147672  0.84045772  0.73801201  1
+  Tb  Tb1  1  0.19688877  0.26137664  0.58658369  1
+  Nd  Nd2  1  0.60169321  0.47351109  0.99542513  1
+  U  U3  1  0.29066737  0.09870456  0.15240192  1
+  U  U4  1  0.88030673  0.91242291  0.26570719  1
+  Se  Se5  1  0.59032067  0.44819385  0.37447409  1

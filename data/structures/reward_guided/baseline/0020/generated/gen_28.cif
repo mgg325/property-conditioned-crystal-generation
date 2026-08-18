@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CHoMgCN
+_chemical_formula_sum              "C2 Ho1 Mg1 N1"
+_cell_length_a       3.41675680399835
+_cell_length_b       3.3743232991346215
+_cell_length_c       6.743326663970947
+_cell_angle_alpha    77.92812767554764
+_cell_angle_beta     74.91455801145555
+_cell_angle_gamma    60.786381218652934
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.958070695400238  0.1277726590633392  0.8743343353271485  1.0000
+  Ho  Ho1       1.0  0.19421172142028809  0.4320138990879059  0.10235957056283952  1.0000
+  Mg  Mg1       1.0  0.7133054733276367  0.00918775424361229  0.4760450720787049  1.0000
+  C   C2        1.0  0.9371496438980103  0.3365098834037781  0.7029775381088257  1.0000
+  N   N1        1.0  0.4517050087451935  0.7213292121887207  0.2952525019645691  1.0000

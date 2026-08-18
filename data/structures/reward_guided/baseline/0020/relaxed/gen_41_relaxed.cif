@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na5ScHg4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.74909495
+_cell_length_b   8.45754043
+_cell_length_c   8.46138238
+_cell_angle_alpha   88.29442382
+_cell_angle_beta   89.99411557
+_cell_angle_gamma   89.99035158
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na5ScHg4
+_chemical_formula_sum   'Na5 Sc1 Hg4'
+_cell_volume   268.17567754
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.96883967  0.37148046  0.06828610  1
+  Na  Na1  1  0.46920230  0.52950133  0.40660515  1
+  Na  Na2  1  0.96854344  0.86155784  0.25269049  1
+  Na  Na3  1  0.46818875  0.03449234  0.91041687  1
+  Na  Na4  1  0.96821111  0.18795673  0.57987134  1
+  Sc  Sc5  1  0.96846227  0.68488451  0.75635742  1
+  Hg  Hg6  1  0.46843793  0.40857485  0.76566785  1
+  Hg  Hg7  1  0.46842353  0.15763333  0.28353650  1
+  Hg  Hg8  1  0.46822440  0.88235055  0.55857569  1
+  Hg  Hg9  1  0.46887701  0.67498300  0.03252226  1

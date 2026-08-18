@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Zn4Ga3Bi(S5Cl)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.61024927
+_cell_length_b   5.77580262
+_cell_length_c   13.97450888
+_cell_angle_alpha   89.62054367
+_cell_angle_beta   90.03644904
+_cell_angle_gamma   91.30143771
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn4Ga3Bi(S5Cl)2
+_chemical_formula_sum   'Zn4 Ga3 Bi1 S10 Cl2'
+_cell_volume   452.69889476
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.98100634  0.03194584  0.05118326  1
+  Zn  Zn1  1  0.33112551  0.14398196  0.78208989  1
+  Zn  Zn2  1  0.49725621  0.52427324  0.55086820  1
+  Zn  Zn3  1  0.48883482  0.51115177  0.04254679  1
+  Ga  Ga4  1  0.45246309  0.04690409  0.37376188  1
+  Ga  Ga5  1  0.97717932  0.01314533  0.55211208  1
+  Ga  Ga6  1  0.95325904  0.53636056  0.89136098  1
+  Bi  Bi7  1  0.96539775  0.54425598  0.28997710  1
+  S  S8  1  0.79361075  0.33600310  0.12535254  1
+  S  S9  1  0.26483763  0.23833137  0.25478518  1
+  S  S10  1  0.54957356  0.81833145  0.23163690  1
+  S  S11  1  0.22879494  0.27193324  0.94452560  1
+  S  S12  1  0.73556834  0.26461087  0.45206920  1
+  S  S13  1  0.72164906  0.79213942  0.95943252  1
+  S  S14  1  0.23192019  0.26330089  0.63184700  1
+  S  S15  1  0.70266362  0.80924328  0.62656225  1
+  S  S16  1  0.24377094  0.75938650  0.14085633  1
+  S  S17  1  0.22916812  0.77977725  0.45810266  1
+  Cl  Cl18  1  0.20992495  0.74546808  0.79543682  1
+  Cl  Cl19  1  0.73970245  0.29025825  0.79483912  1

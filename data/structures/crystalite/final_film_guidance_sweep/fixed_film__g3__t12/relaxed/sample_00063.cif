@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_GaTc6SbP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.62709235
+_cell_length_b   6.63963761
+_cell_length_c   7.04672114
+_cell_angle_alpha   128.18710852
+_cell_angle_beta   101.95761512
+_cell_angle_gamma   92.13416017
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaTc6SbP
+_chemical_formula_sum   'Ga1 Tc6 Sb1 P1'
+_cell_volume   162.57529573
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.02517056  0.37866321  0.97827854  1
+  Tc  Tc1  1  0.49551950  0.24058480  0.17429814  1
+  Tc  Tc2  1  -0.03866217  0.97170038  0.94379181  1
+  Tc  Tc3  1  0.37891879  0.73084316  0.65763578  1
+  Tc  Tc4  1  0.68198350  0.40803044  0.66765160  1
+  Tc  Tc5  1  0.42208294  0.15853474  0.77212480  1
+  Tc  Tc6  1  1.09156853  0.27105617  0.46155075  1
+  Sb  Sb7  1  0.60827130  0.82096282  0.13316085  1
+  P  P8  1  0.83510247  0.62834347  0.51621415  1

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       RhHS2
+_chemical_formula_sum              "Rh1 H1 S2"
+_cell_length_a       3.595995816520505
+_cell_length_b       3.59089360762504
+_cell_length_c       5.62225866317749
+_cell_angle_alpha    90.29705426344752
+_cell_angle_beta     89.9123780046995
+_cell_angle_gamma    120.14632156232393
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.9650284647941588  0.591139018535614  0.7297025322914124  1.0000
+  H   H1        1.0  0.6321408748626708  0.9256033301353453  0.2897683382034302  1.0000
+  S   S1        1.0  0.298280268907547  0.2575811743736267  0.9538372159004211  1.0000
+  S   S2        1.0  0.6317082047462463  0.925822615623474  0.5417983531951904  1.0000

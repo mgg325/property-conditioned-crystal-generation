@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Tl(NiPd3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94624719
+_cell_length_b   8.32713088
+_cell_length_c   8.35982189
+_cell_angle_alpha   90.00560594
+_cell_angle_beta   90.00012096
+_cell_angle_gamma   90.00066496
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl(NiPd3)2
+_chemical_formula_sum   'Tl2 Ni4 Pd12'
+_cell_volume   274.71141095
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.75058224  0.91387245  0.31193397  1
+  Tl  Tl1  1  0.25048855  0.41392811  0.81446512  1
+  Ni  Ni2  1  0.75054881  0.58470775  0.63547405  1
+  Ni  Ni3  1  0.75055917  0.91243999  0.97077949  1
+  Ni  Ni4  1  0.25062026  0.08480387  0.49079982  1
+  Ni  Ni5  1  0.25057070  0.41229829  0.15560310  1
+  Pd  Pd6  1  0.75060046  0.91080027  0.65016472  1
+  Pd  Pd7  1  0.75059736  0.24253324  0.63970501  1
+  Pd  Pd8  1  0.25057645  0.74253471  0.48652486  1
+  Pd  Pd9  1  0.25055827  0.07100819  0.81398239  1
+  Pd  Pd10  1  0.75056585  0.24194024  0.98640128  1
+  Pd  Pd11  1  0.75055938  0.57104961  0.31220609  1
+  Pd  Pd12  1  0.25055077  0.74722134  0.81318171  1
+  Pd  Pd13  1  0.25056275  0.74180288  0.13988983  1
+  Pd  Pd14  1  0.75058141  0.24715686  0.31325444  1
+  Pd  Pd15  1  0.25054611  0.41081943  0.47620902  1
+  Pd  Pd16  1  0.75055693  0.58152389  0.98100340  1
+  Pd  Pd17  1  0.25056645  0.08129613  0.14521239  1

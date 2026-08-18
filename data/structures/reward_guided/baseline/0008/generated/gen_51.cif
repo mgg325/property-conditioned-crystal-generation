@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       S2CdBeCdSBeS
+_chemical_formula_sum              "S4 Cd2 Be2"
+_cell_length_a       3.7740816238655803
+_cell_length_b       6.698066638318507
+_cell_length_c       6.9088969230651855
+_cell_angle_alpha    94.29443667788412
+_cell_angle_beta     90.01643593977442
+_cell_angle_gamma    90.00252284389367
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.6193472743034363  0.0343015193939209  0.8324595093727112  1.0000
+  S   S2        1.0  0.6193772554397583  0.699266254901886  0.42055684328079224  1.0000
+  Cd  Cd1       1.0  0.11974034458398819  0.24861663579940796  0.9611241221427917  1.0000
+  Be  Be1       1.0  0.11976522207260132  0.5579712986946106  0.4795733392238617  1.0000
+  Cd  Cd2       1.0  0.6200699210166931  0.07863738387823106  0.464225172996521  1.0000
+  S   S3        1.0  0.11939764022827148  0.5854768753051758  0.7954582571983337  1.0000
+  Be  Be2       1.0  0.619282066822052  0.7308054566383362  0.7375881671905518  1.0000
+  S   S4        1.0  0.11966435611248016  0.277342826128006  0.3339017629623413  1.0000

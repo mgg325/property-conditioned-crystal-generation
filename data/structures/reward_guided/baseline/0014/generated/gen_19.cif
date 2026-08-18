@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ErSnErCo2Sn
+_chemical_formula_sum              "Er2 Sn2 Co2"
+_cell_length_a       4.3499715811866695
+_cell_length_b       4.368453951649109
+_cell_length_c       6.617918491363525
+_cell_angle_alpha    89.10289801416957
+_cell_angle_beta     89.12630514634044
+_cell_angle_gamma    89.4575284048753
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.5632890462875366  0.05917321518063545  0.2727043628692627  1.0000
+  Sn  Sn1       1.0  0.06437154114246368  0.5592514276504517  0.34003448486328125  1.0000
+  Er  Er2       1.0  0.0647754967212677  0.5589646100997925  0.8477315902709961  1.0000
+  Co  Co1       1.0  0.5638025403022766  0.5606857538223268  0.5609014630317688  1.0000
+  Co  Co2       1.0  0.06405045837163925  0.060130301862955086  0.5600703358650208  1.0000
+  Sn  Sn2       1.0  0.5642943382263184  0.05908417701721191  0.7813537120819092  1.0000

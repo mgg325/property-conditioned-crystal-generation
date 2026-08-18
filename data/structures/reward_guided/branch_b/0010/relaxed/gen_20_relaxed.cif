@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ca2InGeTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.49244445
+_cell_length_b   7.70953270
+_cell_length_c   7.80539568
+_cell_angle_alpha   109.52553272
+_cell_angle_beta   89.98815043
+_cell_angle_gamma   90.00928159
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2InGeTe4
+_chemical_formula_sum   'Ca2 In1 Ge1 Te4'
+_cell_volume   254.79074655
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.21614706  0.83791246  0.42643034  1
+  Ca  Ca1  1  0.71451997  0.83957116  0.92803521  1
+  In  In2  1  0.21588896  0.33869270  0.92539326  1
+  Ge  Ge3  1  0.71553355  0.33880951  0.42730374  1
+  Te  Te4  1  0.71624364  0.58683706  0.18356482  1
+  Te  Te5  1  0.71603425  0.08973126  0.66976314  1
+  Te  Te6  1  0.21473454  0.58373621  0.66886548  1
+  Te  Te7  1  0.21526066  0.09609759  0.18708479  1

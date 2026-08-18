@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Sm5Al
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98750254
+_cell_length_b   4.99949311
+_cell_length_c   7.78315668
+_cell_angle_alpha   90.01254209
+_cell_angle_beta   108.69709465
+_cell_angle_gamma   90.00652224
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm5Al
+_chemical_formula_sum   'Sm5 Al1'
+_cell_volume   183.83098471
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.20516644  0.40296600  0.78505849  1
+  Sm  Sm1  1  0.38533459  0.90299785  0.14488883  1
+  Sm  Sm2  1  0.88557722  0.40268664  0.14525814  1
+  Sm  Sm3  1  0.04546802  0.90230678  0.46541132  1
+  Sm  Sm4  1  0.70574498  0.90336240  0.78673060  1
+  Al  Al5  1  0.54563097  0.40222304  0.46517884  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SiBi3Te2PAuS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.24799353
+_cell_length_b   8.48279953
+_cell_length_c   7.16140404
+_cell_angle_alpha   115.97485906
+_cell_angle_beta   87.30788809
+_cell_angle_gamma   113.73642410
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiBi3Te2PAuS2
+_chemical_formula_sum   'Si1 Bi3 Te2 P1 Au1 S2'
+_cell_volume   308.47129324
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.51106701  0.25743016  0.94184352  1
+  Bi  Bi1  1  0.19895436  0.63799836  0.51036691  1
+  Bi  Bi2  1  0.71222468  0.69801193  0.61318405  1
+  Bi  Bi3  1  0.98008283  0.10730009  0.60617752  1
+  Te  Te4  1  0.92764040  0.30938779  0.05732539  1
+  Te  Te5  1  0.52890446  0.20316591  0.56077210  1
+  P  P6  1  0.51584941  0.54690270  0.18573640  1
+  Au  Au7  1  0.41982483  0.80452735  0.94491589  1
+  S  S8  1  0.71049334  0.74352667  0.06811274  1
+  S  S9  1  0.24020591  0.00541438  0.94792572  1

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sr2CdHg4CdHg
+_chemical_formula_sum              "Sr2 Cd2 Hg5"
+_cell_length_a       7.261235061296914
+_cell_length_b       7.123771691441027
+_cell_length_c       7.126673506110388
+_cell_angle_alpha    87.9386838311966
+_cell_angle_beta     120.61376487587347
+_cell_angle_gamma    120.60339254274564
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.13829834899288088  0.3395887664606764  0.08762010166824817  1.0000
+  Sr  Sr2       1.0  0.13816232357377897  0.8393024714238277  0.5872993688719488  1.0000
+  Cd  Cd1       1.0  0.6378193674794408  0.08216566887732829  0.34534494937433724  1.0000
+  Hg  Hg1       1.0  0.1961292812261405  0.36804867295292737  0.6170276864058566  1.0000
+  Hg  Hg2       1.0  0.6389100977795173  0.810364282270113  0.05904413202953024  1.0000
+  Hg  Hg3       1.0  0.6377500233849545  0.36844090812244007  0.6177404877552253  1.0000
+  Hg  Hg4       1.0  0.6380600102311549  0.3713761657601777  0.055500131526334325  1.0000
+  Cd  Cd2       1.0  0.6382021295352879  0.7956290345698186  0.631615714932974  1.0000
+  Hg  Hg5       1.0  0.07979724888657327  0.8098674321860343  0.05896870895741635  1.0000

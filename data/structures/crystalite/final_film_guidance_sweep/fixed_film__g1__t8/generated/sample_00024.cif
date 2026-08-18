@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K4AlAsS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23035574
+_cell_length_b   7.10140944
+_cell_length_c   8.10090923
+_cell_angle_alpha   115.73519897
+_cell_angle_beta   113.07553864
+_cell_angle_gamma   90.09498596
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K4AlAsS4
+_chemical_formula_sum   'K4 Al1 As1 S4'
+_cell_volume   290.57867321
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.58874130  0.56545776  0.04797149  1
+  K  K1  1  0.27550268  0.21884388  0.54602224  1
+  As  As2  1  0.89164877  0.46170861  0.23777342  1
+  Al  Al3  1  0.40789241  0.46623033  0.23700142  1
+  K  K4  1  0.54596573  0.96759069  0.95785677  1
+  S  S5  1  0.22137678  0.19394070  0.03582233  1
+  K  K6  1  0.78667617  0.95565903  0.52113479  1
+  S  S7  1  0.77076471  0.38431719  0.44195378  1
+  S  S8  1  0.22145158  0.72226286  0.44216177  1
+  K  K9  1  0.03498191  0.66153383  0.96145582  1

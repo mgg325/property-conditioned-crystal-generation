@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Li2InGa
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.70127299
+_cell_length_b   5.94405557
+_cell_length_c   5.99006801
+_cell_angle_alpha   120.28318800
+_cell_angle_beta   90.02798343
+_cell_angle_gamma   89.93826374
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2InGa
+_chemical_formula_sum   'Li4 In2 Ga2'
+_cell_volume   144.54866256
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.20866396  0.04573248  0.75709514  1
+  Li  Li1  1  0.20900539  0.04592410  0.26457763  1
+  Li  Li2  1  0.70907913  0.22279565  0.09894509  1
+  Li  Li3  1  0.20874070  0.55876805  0.76749486  1
+  In  In4  1  0.70863662  0.22178113  0.59873725  1
+  In  In5  1  0.20855676  0.54796274  0.26199748  1
+  Ga  Ga6  1  0.70880413  0.73497617  0.62132879  1
+  Ga  Ga7  1  0.70911066  0.73485803  0.08963305  1

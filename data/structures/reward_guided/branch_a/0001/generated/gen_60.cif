@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       InTlInTlNi2
+_chemical_formula_sum              "In2 Tl2 Ni2"
+_cell_length_a       4.393808428941415
+_cell_length_b       4.491775373725644
+_cell_length_c       6.308231830596924
+_cell_angle_alpha    89.62784598238605
+_cell_angle_beta     89.4393532637055
+_cell_angle_gamma    89.20814450576853
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.2991613745689392  0.1325502693653107  0.21364399790763858  1.0000
+  Tl  Tl1       1.0  0.7995114922523499  0.6331459283828735  0.2126680761575699  1.0000
+  In  In2       1.0  0.3004250228404999  0.1329956352710724  0.711993932723999  1.0000
+  Tl  Tl2       1.0  0.7989399433135986  0.6333765387535095  0.7147247791290283  1.0000
+  Ni  Ni1       1.0  0.8003137707710266  0.13306616246700287  0.9635812044143678  1.0000
+  Ni  Ni2       1.0  0.299315869808197  0.6354247331619263  0.4641080796718598  1.0000

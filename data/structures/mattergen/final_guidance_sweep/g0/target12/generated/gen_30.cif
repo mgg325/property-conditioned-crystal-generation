@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NbTlO2CsTlO2
+_chemical_formula_sum              "Nb1 Tl2 O4 Cs1"
+_cell_length_a       6.385394711472515
+_cell_length_b       6.383475836549301
+_cell_length_c       6.577639102935791
+_cell_angle_alpha    119.0024558837799
+_cell_angle_beta     119.0477784461537
+_cell_angle_gamma    90.06851699308261
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.25905275344848633  0.45079606771469116  0.24210508167743683  1.0000
+  Tl  Tl1       1.0  0.5092896223068237  0.20085750520229342  0.7425044178962708  1.0000
+  O   O1        1.0  0.9760709404945372  0.16780687868595123  0.017600495368242194  1.0000
+  O   O2        1.0  0.5411702394485474  0.39048933982849127  0.4657959043979645  1.0000
+  Cs  Cs1       1.0  0.7596784234046936  0.9512029886245729  0.2430265098810196  1.0000
+  Tl  Tl2       1.0  0.009100569412112227  0.700567901134491  0.7423228621482849  1.0000
+  O   O3        1.0  0.19939303398132327  0.7332569360733033  0.46656277775764465  1.0000
+  O   O4        1.0  0.3193805515766144  0.5110135078430176  0.019450165331363678  1.0000

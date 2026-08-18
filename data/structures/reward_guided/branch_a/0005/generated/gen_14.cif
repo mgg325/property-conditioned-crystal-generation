@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ZnDy2Cu4Zn
+_chemical_formula_sum              "Zn2 Dy2 Cu4"
+_cell_length_a       3.585621114276469
+_cell_length_b       4.089273081436818
+_cell_length_c       9.402975082397461
+_cell_angle_alpha    89.98698416424703
+_cell_angle_beta     101.98598706511508
+_cell_angle_gamma    89.39338604425262
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.3141725957393646  0.41770607233047485  0.9402081966400146  1.0000
+  Dy  Dy1       1.0  0.15200680494308472  0.9187067747116089  0.6174857020378113  1.0000
+  Dy  Dy2       1.0  0.9570154547691345  0.41872948408126837  0.22690877318382263  1.0000
+  Cu  Cu1       1.0  0.3885972201824188  0.9162987470626831  0.09401566535234451  1.0000
+  Cu  Cu2       1.0  0.5203182101249695  0.917522668838501  0.35419031977653503  1.0000
+  Cu  Cu3       1.0  0.7207684516906738  0.4158177673816681  0.7493183016777039  1.0000
+  Cu  Cu4       1.0  0.587424635887146  0.418874591588974  0.4888419806957245  1.0000
+  Zn  Zn2       1.0  0.7937614321708679  0.9167686104774475  0.90205979347229  1.0000

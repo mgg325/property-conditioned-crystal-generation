@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ce3(Sn2Rh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73189402
+_cell_length_b   6.12511178
+_cell_length_c   8.77586027
+_cell_angle_alpha   104.86386213
+_cell_angle_beta   89.96517826
+_cell_angle_gamma   112.73304987
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3(Sn2Rh)2
+_chemical_formula_sum   'Ce3 Sn4 Rh2'
+_cell_volume   225.35564869
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.94057477  0.28100118  0.34046170  1
+  Ce  Ce1  1  0.30697208  0.01643912  0.65808243  1
+  Ce  Ce2  1  0.57173673  0.54602310  0.02346796  1
+  Sn  Sn3  1  0.85561344  0.11550642  0.94848662  1
+  Sn  Sn4  1  0.23224427  0.86531584  0.26367873  1
+  Sn  Sn5  1  0.64799101  0.69632350  0.41779411  1
+  Sn  Sn6  1  0.02245378  0.44688428  0.73214330  1
+  Rh  Rh7  1  0.24610457  0.89702843  0.95638461  1
+  Rh  Rh8  1  0.63163712  0.66557157  0.72515329  1

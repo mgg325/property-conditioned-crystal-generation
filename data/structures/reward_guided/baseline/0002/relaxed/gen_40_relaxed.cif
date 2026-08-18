@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LiInCo2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05564144
+_cell_length_b   4.29430441
+_cell_length_c   6.88490753
+_cell_angle_alpha   89.98979631
+_cell_angle_beta   90.00181035
+_cell_angle_gamma   90.00090749
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiInCo2
+_chemical_formula_sum   'Li2 In2 Co4'
+_cell_volume   119.90864184
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.45211665  0.49643536  0.12565884  1
+  Li  Li1  1  0.45205688  0.99647386  0.81922905  1
+  In  In2  1  0.95196272  0.03349562  0.14113252  1
+  In  In3  1  0.95202890  0.53326022  0.80411164  1
+  Co  Co4  1  0.95206863  0.55620455  0.39308273  1
+  Co  Co5  1  0.95208286  0.05578794  0.55234772  1
+  Co  Co6  1  0.45207375  0.91263021  0.39897044  1
+  Co  Co7  1  0.45207801  0.41228789  0.54563335  1

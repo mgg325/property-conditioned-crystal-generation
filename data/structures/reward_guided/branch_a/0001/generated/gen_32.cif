@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaTl2CaDyTl
+_chemical_formula_sum              "Ca2 Tl3 Dy1"
+_cell_length_a       3.849435706187364
+_cell_length_b       3.8082094251539154
+_cell_length_c       11.456988334655762
+_cell_angle_alpha    90.26898901609505
+_cell_angle_beta     89.87803582310788
+_cell_angle_gamma    91.63945963978334
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.35920688509941107  0.5277608633041382  0.44020769000053406  1.0000
+  Tl  Tl1       1.0  0.859918236732483  0.028396274894475933  0.9515832662582397  1.0000
+  Tl  Tl2       1.0  0.8590611815452577  0.028225952759385105  0.2672065198421478  1.0000
+  Ca  Ca2       1.0  0.35901877284049993  0.5280205607414246  0.7773995399475098  1.0000
+  Dy  Dy1       1.0  0.35972669720649725  0.5299847722053527  0.10757721215486524  1.0000
+  Tl  Tl3       1.0  0.8583747744560243  0.028606386855244633  0.6086790561676025  1.0000

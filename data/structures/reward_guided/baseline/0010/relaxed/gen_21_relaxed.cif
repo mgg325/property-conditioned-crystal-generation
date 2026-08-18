@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K2TaV(NiSe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.68836056
+_cell_length_b   8.54647260
+_cell_length_c   9.81861023
+_cell_angle_alpha   115.85527177
+_cell_angle_beta   89.99880377
+_cell_angle_gamma   89.99275962
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2TaV(NiSe3)2
+_chemical_formula_sum   'K2 Ta1 V1 Ni2 Se6'
+_cell_volume   278.52476396
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.06575103  0.42006848  0.66158365  1
+  K  K1  1  0.56604026  0.44574504  0.20598313  1
+  Ta  Ta2  1  0.06587996  0.96464660  0.76799518  1
+  V  V3  1  0.56595671  0.90221317  0.11549087  1
+  Ni  Ni4  1  0.06582417  0.91354538  0.33071473  1
+  Ni  Ni5  1  0.56610641  0.95619724  0.54994024  1
+  Se  Se6  1  0.56576965  0.10398278  0.38766237  1
+  Se  Se7  1  0.06605626  0.68736943  0.08628870  1
+  Se  Se8  1  0.06616514  0.75660608  0.48838105  1
+  Se  Se9  1  0.06589109  0.09411480  0.07000611  1
+  Se  Se10  1  0.56573903  0.19257757  0.79521205  1
+  Se  Se11  1  0.56591317  0.76823208  0.81313234  1

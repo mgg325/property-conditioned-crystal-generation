@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       H2ClH2Cl3
+_chemical_formula_sum              "H4 Cl4"
+_cell_length_a       5.103773878532478
+_cell_length_b       5.399048015388117
+_cell_length_c       7.0208001136779785
+_cell_angle_alpha    90.60553974626332
+_cell_angle_beta     90.25571113270567
+_cell_angle_gamma    89.59025945750624
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.4100984036922455  0.2639473080635071  0.5600717067718506  1.0000
+  H   H2        1.0  0.4138893187046051  0.11776261031627654  0.06016637384891509  1.0000
+  Cl  Cl1       1.0  0.5840598344802856  0.9301681518554686  0.05691107735037803  1.0000
+  H   H3        1.0  0.30452582240104675  0.6170644760131836  0.05922873318195342  1.0000
+  H   H4        1.0  0.2949817478656769  0.7639530301094055  0.5600425601005554  1.0000
+  Cl  Cl2       1.0  0.57743239402771  0.4515236020088195  0.5621365308761597  1.0000
+  Cl  Cl3       1.0  0.13564272224903107  0.43207287788391113  0.05892441421747207  1.0000
+  Cl  Cl4       1.0  0.12738202512264252  0.9515737891197205  0.5621062517166138  1.0000

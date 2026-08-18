@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AgLuTe2
+_chemical_formula_sum              "Ag1 Lu1 Te2"
+_cell_length_a       4.259428085998139
+_cell_length_b       4.258110781135085
+_cell_length_c       7.692118167877197
+_cell_angle_alpha    73.93024215522748
+_cell_angle_beta     73.88614353194303
+_cell_angle_gamma    59.99145258315289
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.6845122575759888  0.9279229044914246  0.8215724229812622  1.0000
+  Lu  Lu1       1.0  0.5196092128753663  0.7635197043418883  0.3148995339870453  1.0000
+  Te  Te1       1.0  0.9323708415031434  0.17605142295360565  0.07662760466337204  1.0000
+  Te  Te2       1.0  0.10449059307575227  0.3480426073074341  0.5613943934440613  1.0000

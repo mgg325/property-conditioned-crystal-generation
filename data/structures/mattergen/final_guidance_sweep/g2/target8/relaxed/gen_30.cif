@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Te2SmO
+_chemical_formula_sum              "Te2 Sm1 O1"
+_cell_length_a       3.9780157826423777
+_cell_length_b       3.966065096373221
+_cell_length_c       7.912935477943206
+_cell_angle_alpha    103.22258340150415
+_cell_angle_beta     97.23575212998868
+_cell_angle_gamma    57.9307789285347
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.09582363939758652  0.5411074901660934  0.20502422572315349  1.0000
+  Te  Te2       1.0  0.030502874430938288  0.2368088902060323  0.49475293916330904  1.0000
+  Sm  Sm1       1.0  0.6519002681244803  0.01526016906407146  0.8421791531718624  1.0000
+  O   O1        1.0  0.3229851221672545  0.6934727813556952  0.8507354021405664  1.0000

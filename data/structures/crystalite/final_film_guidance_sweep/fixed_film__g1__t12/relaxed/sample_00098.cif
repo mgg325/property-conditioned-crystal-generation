@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Si4AgGePdS11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.27560242
+_cell_length_b   7.48111094
+_cell_length_c   10.18591100
+_cell_angle_alpha   104.17935006
+_cell_angle_beta   88.43120767
+_cell_angle_gamma   117.00081048
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si4AgGePdS11
+_chemical_formula_sum   'Si4 Ag1 Ge1 Pd1 S11'
+_cell_volume   411.15658100
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  1.09889971  0.83981971  0.71049387  1
+  Si  Si1  1  0.51645299  0.70422698  0.81456002  1
+  Si  Si2  1  0.29119107  0.82029068  0.14338939  1
+  Si  Si3  1  0.82585396  0.92564185  0.26483883  1
+  Ag  Ag4  1  0.66864325  0.35788308  -0.01795769  1
+  Ge  Ge5  1  0.43268854  0.19830705  0.54361660  1
+  Pd  Pd6  1  0.19128444  0.40041557  0.36042498  1
+  S  S7  1  -0.07846058  0.16696420  0.17669639  1
+  S  S8  1  0.26426717  0.58101858  0.96442596  1
+  S  S9  1  1.03716183  0.52795794  0.58881023  1
+  S  S10  1  0.89535273  0.89758797  0.87386937  1
+  S  S11  1  0.45890576  0.77129226  0.30784376  1
+  S  S12  1  0.90890942  0.67323627  0.18727523  1
+  S  S13  1  0.44118373  0.97435110  0.82701104  1
+  S  S14  1  0.40608234  0.62365311  0.59405554  1
+  S  S15  1  0.43316641  0.22741414  0.32902322  1
+  S  S16  1  0.57154730  0.41808962  0.75919390  1
+  S  S17  1  0.04895128  0.96774603  0.55477014  1

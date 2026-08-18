@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Zr6GaSb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.78383437
+_cell_length_b   7.79542262
+_cell_length_c   7.79495014
+_cell_angle_alpha   120.00315776
+_cell_angle_beta   90.00000436
+_cell_angle_gamma   89.99998392
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr6GaSb2
+_chemical_formula_sum   'Zr6 Ga1 Sb2'
+_cell_volume   199.11406364
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.10080108  0.61275448  0.77953453  1
+  Zr  Zr1  1  0.10079239  0.21781676  0.98971256  1
+  Zr  Zr2  1  0.10079492  0.00766388  0.38465811  1
+  Zr  Zr3  1  0.60079535  0.61272420  0.12836875  1
+  Zr  Zr4  1  0.60079146  0.86909930  0.64098639  1
+  Zr  Zr5  1  0.60079459  0.35647073  0.38460282  1
+  Ga  Ga6  1  0.10079358  0.61283108  0.38471968  1
+  Sb  Sb7  1  0.60078908  0.94605316  0.05133173  1
+  Sb  Sb8  1  0.60078643  0.27945448  0.71796173  1

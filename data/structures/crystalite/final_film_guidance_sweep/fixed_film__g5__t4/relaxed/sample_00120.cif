@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KCaMgP3Se3ClO10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.74880191
+_cell_length_b   4.54226899
+_cell_length_c   4.85618077
+_cell_angle_alpha   78.44220876
+_cell_angle_beta   56.44665372
+_cell_angle_gamma   57.75483012
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCaMgP3Se3ClO10
+_chemical_formula_sum   'K1 Ca1 Mg1 P3 Se3 Cl1 O10'
+_cell_volume   119.38573969
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.35354188  0.54810938  0.70757081  1
+  Ca  Ca1  1  0.09946378  0.20803229  0.59700089  1
+  Mg  Mg2  1  0.58370069  0.08251024  0.84672501  1
+  P  P3  1  0.43103944  0.29022526  0.59595441  1
+  P  P4  1  0.93122356  0.67887395  0.22054200  1
+  P  P5  1  0.29920284  0.09274392  0.27157307  1
+  Se  Se6  1  0.52865842  0.71393935  0.21493897  1
+  Se  Se7  1  0.69741251  0.76737522  0.20690890  1
+  Se  Se8  1  0.49756955  0.79764087  0.23797466  1
+  Cl  Cl9  1  0.56934845  0.71013134  0.17436023  1
+  O  O10  1  0.32125568  1.01573033  0.26153259  1
+  O  O11  1  0.27759022  0.00881659  0.28982816  1
+  O  O12  1  0.92682707  0.78406337  0.21101090  1
+  O  O13  1  0.24767355  0.65480553  0.92702619  1
+  O  O14  1  0.27281223  0.15819543  0.88180453  1
+  O  O15  1  0.01285633  0.10455956  0.46853174  1
+  O  O16  1  0.37143625  0.38893230  0.56581197  1
+  O  O17  1  0.49412635  0.23920645  0.61710152  1
+  O  O18  1  0.26393796  0.13911039  0.00004835  1
+  O  O19  1  0.20409035  0.79609100  0.21872258  1

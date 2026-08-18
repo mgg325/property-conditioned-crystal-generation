@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LiCo2Ge(NO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.61257673
+_cell_length_b   6.56192319
+_cell_length_c   7.98342964
+_cell_angle_alpha   91.25913446
+_cell_angle_beta   90.78845115
+_cell_angle_gamma   89.41805110
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCo2Ge(NO6)2
+_chemical_formula_sum   'Li1 Co2 Ge1 N2 O12'
+_cell_volume   189.17799654
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.30776605  1.01425236  0.55595819  1
+  Co  Co1  1  0.54923958  0.74826139  1.03594936  1
+  Co  Co2  1  0.25748997  0.42893906  0.46487178  1
+  Ge  Ge3  1  0.64588921  0.23748549  0.86195989  1
+  N  N4  1  0.76225428  0.70430457  0.68841177  1
+  N  N5  1  0.69817294  0.15249697  0.29613237  1
+  O  O6  1  0.57575641  0.76665313  0.56925066  1
+  O  O7  1  0.96378270  0.07623902  0.72704440  1
+  O  O8  1  0.50590879  0.50505685  0.90890403  1
+  O  O9  1  1.01479632  0.57881076  0.68206563  1
+  O  O10  1  0.42988689  -0.00930518  0.91436245  1
+  O  O11  1  1.04696250  0.23759577  0.00837749  1
+  O  O12  1  0.54393110  0.32138709  0.25553666  1
+  O  O13  1  0.02572646  0.73974079  0.08233265  1
+  O  O14  1  0.48315951  0.28808035  0.62788176  1
+  O  O15  1  0.98140387  0.16265677  0.39592469  1
+  O  O16  1  0.06223424  0.60308762  0.35579578  1
+  O  O17  1  0.57156510  0.98240699  0.26363531  1

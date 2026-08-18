@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TeSbAg2Te2
+_chemical_formula_sum              "Te3 Sb1 Ag2"
+_cell_length_a       4.25939103923547
+_cell_length_b       6.106198186039582
+_cell_length_c       7.396809192772245
+_cell_angle_alpha    114.3720092881301
+_cell_angle_beta     106.73736999340812
+_cell_angle_gamma    89.99281262722974
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.43056783692029144  0.37066775840616506  0.5437890324265229  1.0000
+  Sb  Sb1       1.0  0.43053366733704634  0.8707460327781437  0.5435987380319381  1.0000
+  Ag  Ag1       1.0  0.7693839689012384  0.20901213863347212  0.22091893441638633  1.0000
+  Ag  Ag2       1.0  0.09198996626565953  0.5316331200407934  0.8663536409694834  1.0000
+  Te  Te2       1.0  0.10641427451670053  0.04589990043866919  0.8939388455802735  1.0000
+  Te  Te3       1.0  0.7560491938462985  0.6959071300431529  0.19325033009910256  1.0000

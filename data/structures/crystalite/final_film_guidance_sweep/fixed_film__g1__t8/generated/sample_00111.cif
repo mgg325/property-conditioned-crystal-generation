@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_ZnSb5As2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36925650
+_cell_length_b   6.34300804
+_cell_length_c   6.77441311
+_cell_angle_alpha   117.27043152
+_cell_angle_beta   89.99762726
+_cell_angle_gamma   89.91104126
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnSb5As2
+_chemical_formula_sum   'Zn1 Sb5 As2'
+_cell_volume   205.07406885
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.23132834  0.47247556  0.48215765  1
+  Sb  Sb1  1  0.72476351  0.62647557  0.32229215  1
+  Sb  Sb2  1  0.23311859  0.97921103  0.49321422  1
+  Sb  Sb3  1  0.22308749  0.46904317  0.99167472  1
+  As  As4  1  0.72115374  0.11345175  0.82573235  1
+  As  As5  1  0.22780666  0.97271132  0.99367213  1
+  Sb  Sb6  1  0.73498452  0.11932072  0.29398316  1
+  Sb  Sb7  1  0.72653848  0.60750932  0.81055927  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaTbUBiSbP6Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.70290041
+_cell_length_b   7.81066799
+_cell_length_c   6.28791189
+_cell_angle_alpha   102.17918396
+_cell_angle_beta   97.19769287
+_cell_angle_gamma   82.12469482
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTbUBiSbP6Br
+_chemical_formula_sum   'Na1 Tb1 U1 Bi1 Sb1 P6 Br1'
+_cell_volume   127.89696122
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.10274294  0.80221993  0.66547191  1
+  P  P1  1  0.06483915  0.70613265  0.04534867  1
+  Tb  Tb2  1  0.25641793  0.57428473  0.53833079  1
+  Bi  Bi3  1  0.05228013  0.30988020  0.77773446  1
+  P  P4  1  0.45331159  0.99294353  0.37565506  1
+  P  P5  1  0.40190783  0.50268060  0.19925672  1
+  P  P6  1  0.55642909  0.03760925  0.04024059  1
+  P  P7  1  0.82461500  0.18010852  0.47770080  1
+  U  U8  1  0.43424183  0.08130673  0.75448930  1
+  Na  Na9  1  0.66859329  0.55859554  0.84762037  1
+  P  P10  1  0.77532905  0.71385252  0.33734244  1
+  Sb  Sb11  1  0.98557198  0.19324264  0.14110547  1

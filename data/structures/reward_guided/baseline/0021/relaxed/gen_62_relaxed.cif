@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na2Li3Ge3Pd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.51167307
+_cell_length_b   4.44224655
+_cell_length_c   8.38884033
+_cell_angle_alpha   90.03451393
+_cell_angle_beta   105.60273963
+_cell_angle_gamma   89.87946604
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Li3Ge3Pd2
+_chemical_formula_sum   'Na2 Li3 Ge3 Pd2'
+_cell_volume   161.93288172
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.30475138  0.94363865  0.80174837  1
+  Na  Na1  1  0.60435225  0.44321137  0.40081761  1
+  Li  Li2  1  0.91330107  0.94364418  0.01769502  1
+  Li  Li3  1  0.50999180  0.94337195  0.21144697  1
+  Li  Li4  1  0.19720651  0.44404903  0.58641560  1
+  Ge  Ge5  1  0.41635795  0.44362903  0.02459719  1
+  Ge  Ge6  1  0.80291491  0.44319636  0.79826528  1
+  Ge  Ge7  1  0.10260062  0.94315227  0.39781325  1
+  Pd  Pd8  1  1.00185802  0.44332351  0.19576706  1
+  Pd  Pd9  1  0.70506864  0.94349178  0.60318483  1

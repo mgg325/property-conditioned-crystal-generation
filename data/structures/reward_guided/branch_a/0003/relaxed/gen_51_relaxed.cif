@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NaCaCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05616425
+_cell_length_b   7.12064938
+_cell_length_c   11.03519249
+_cell_angle_alpha   67.60200112
+_cell_angle_beta   90.06840169
+_cell_angle_gamma   90.10668361
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCaCl3
+_chemical_formula_sum   'Na2 Ca2 Cl6'
+_cell_volume   294.67889094
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.19467444  0.87157498  0.30264952  1
+  Na  Na1  1  0.69244277  0.38607278  0.10371970  1
+  Ca  Ca2  1  0.19406700  0.29338410  0.52759050  1
+  Ca  Ca3  1  0.69378214  0.96409977  0.87870980  1
+  Cl  Cl4  1  0.19291554  0.67510515  0.94903661  1
+  Cl  Cl5  1  0.19303233  0.27030020  0.28921573  1
+  Cl  Cl6  1  0.69475587  0.58235869  0.45739441  1
+  Cl  Cl7  1  0.69334562  0.01015752  0.61452299  1
+  Cl  Cl8  1  0.69416557  0.98696246  0.11714016  1
+  Cl  Cl9  1  0.19457569  0.24730990  0.79176654  1

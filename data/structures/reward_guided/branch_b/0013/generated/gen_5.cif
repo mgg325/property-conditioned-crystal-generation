@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TiSeHfSe3
+_chemical_formula_sum              "Ti1 Se4 Hf1"
+_cell_length_a       3.659184843283919
+_cell_length_b       6.241229857587873
+_cell_length_c       7.467281818389893
+_cell_angle_alpha    112.68510870038291
+_cell_angle_beta     102.25173667378726
+_cell_angle_gamma    91.4653241224599
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.7248039841651917  0.49770560860633856  0.19777631759643557  1.0000
+  Se  Se1       1.0  0.8451099395751953  0.9450556039810182  0.43282160162925726  1.0000
+  Hf  Hf1       1.0  0.22421936690807343  0.9999646544456482  0.1962643712759018  1.0000
+  Se  Se2       1.0  0.3402668237686157  0.45815941691398626  0.42691683769226074  1.0000
+  Se  Se3       1.0  0.6077924966812134  0.05327628925442696  0.9574843049049377  1.0000
+  Se  Se4       1.0  0.11360172182321551  0.539348602294922  0.9613774418830872  1.0000

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_InSi2SbO16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82223796
+_cell_length_b   6.79026837
+_cell_length_c   7.15806922
+_cell_angle_alpha   110.35571292
+_cell_angle_beta   111.52189319
+_cell_angle_gamma   94.45520637
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InSi2SbO16
+_chemical_formula_sum   'In1 Si2 Sb1 O16'
+_cell_volume   239.88545453
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.18486486  0.57334344  0.04793635  1
+  Si  Si1  1  0.89466407  0.06830982  0.91489469  1
+  Si  Si2  1  0.65579698  0.94289248  0.35084879  1
+  Sb  Sb3  1  0.53713396  0.65358908  0.53596100  1
+  O  O4  1  0.82137635  0.79719578  0.85066973  1
+  O  O5  1  0.91377780  0.14143657  0.19354779  1
+  O  O6  1  0.70745383  0.96770930  0.60741974  1
+  O  O7  1  0.36426673  -0.05950199  0.19228894  1
+  O  O8  1  0.45133375  -0.02648544  -0.04152454  1
+  O  O9  1  0.19348537  0.65074890  0.36468759  1
+  O  O10  1  0.16149710  0.51329096  0.70365755  1
+  O  O11  1  0.60274694  0.66443060  0.27385690  1
+  O  O12  1  0.65246855  0.38054668  0.39803940  1
+  O  O13  1  0.66201481  0.25942766  0.91358139  1
+  O  O14  1  0.73683731  0.42460012  0.88241592  1
+  O  O15  1  0.32339911  0.42665590  0.63323175  1
+  O  O16  1  0.13489737  0.23113480  0.94997591  1
+  O  O17  1  0.73567371  0.27269110  0.52213324  1
+  O  O18  1  0.28937415  0.86445026  0.76371824  1
+  O  O19  1  0.89872983  0.98370926  0.27794821  1

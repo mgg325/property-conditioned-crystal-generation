@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HfHgHfNb
+_chemical_formula_sum              "Hf2 Hg1 Nb1"
+_cell_length_a       3.8680761012950335
+_cell_length_b       4.477276188773514
+_cell_length_c       4.4790263175964355
+_cell_angle_alpha    90.45931910638971
+_cell_angle_beta     90.34847190138932
+_cell_angle_gamma    90.48586118059559
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.9095502495765686  0.7227824926376342  0.7007943987846375  1.0000
+  Hg  Hg1       1.0  0.41256529092788696  0.7258939743041992  0.20182858407497406  1.0000
+  Hf  Hf2       1.0  0.9116048812866211  0.22688886523246762  0.20529705286026  1.0000
+  Nb  Nb1       1.0  0.41177108883857727  0.2227446436882019  0.6989995241165161  1.0000

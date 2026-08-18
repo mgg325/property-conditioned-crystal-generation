@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Al3GaO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00705210
+_cell_length_b   5.16086403
+_cell_length_c   5.15367766
+_cell_angle_alpha   102.73008746
+_cell_angle_beta   94.77325716
+_cell_angle_gamma   104.56211657
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al3GaO7
+_chemical_formula_sum   'Al3 Ga1 O7'
+_cell_volume   124.36552689
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.18006453  0.67843027  0.33165153  1
+  Al  Al1  1  0.12858911  0.42894003  0.78482979  1
+  Al  Al2  1  0.55037857  0.33864332  0.33977379  1
+  Ga  Ga3  1  0.74061193  0.82332188  0.87113170  1
+  O  O4  1  0.31955476  0.04700088  0.44413220  1
+  O  O5  1  0.42616853  0.59161283  0.62366850  1
+  O  O6  1  0.95283108  0.63092886  1.01302764  1
+  O  O7  1  0.36183496  0.47195963  0.11263976  1
+  O  O8  1  0.91367499  0.48499160  0.48757179  1
+  O  O9  1  -0.02382811  0.06357758  0.71322932  1
+  O  O10  1  0.58966969  0.02890778  0.12510233  1

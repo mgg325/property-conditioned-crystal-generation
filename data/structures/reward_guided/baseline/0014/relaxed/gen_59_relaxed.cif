@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiErCu3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.19777448
+_cell_length_b   5.19624156
+_cell_length_c   7.57513051
+_cell_angle_alpha   90.00218802
+_cell_angle_beta   89.94537462
+_cell_angle_gamma   124.14755993
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiErCu3
+_chemical_formula_sum   'Li2 Er2 Cu6'
+_cell_volume   169.32235382
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.72931156  0.46273826  0.03146303  1
+  Li  Li1  1  0.90947191  0.28246551  0.53242808  1
+  Er  Er2  1  0.21969320  0.97092850  0.72269945  1
+  Er  Er3  1  0.41793442  0.77265891  0.22391289  1
+  Cu  Cu4  1  0.09033712  0.10025771  0.11879904  1
+  Cu  Cu5  1  0.91758850  0.76790364  0.38078869  1
+  Cu  Cu6  1  0.21590234  0.47128767  0.88074740  1
+  Cu  Cu7  1  0.54740631  0.64403921  0.61870058  1
+  Cu  Cu8  1  0.42223550  0.27297887  0.38066912  1
+  Cu  Cu9  1  0.72026407  0.97657876  0.88080984  1

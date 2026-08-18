@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ZnNiRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.78817742
+_cell_length_b   3.61051364
+_cell_length_c   6.02781421
+_cell_angle_alpha   89.99983839
+_cell_angle_beta   108.30743858
+_cell_angle_gamma   89.99545941
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnNiRh
+_chemical_formula_sum   'Zn2 Ni2 Rh2'
+_cell_volume   78.27109097
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.19267120  0.05540887  0.47813663  1
+  Zn  Zn1  1  0.52097611  0.05536292  0.13418551  1
+  Ni  Ni2  1  0.69540272  0.55533351  0.48328395  1
+  Ni  Ni3  1  0.85116766  0.05513065  0.79522621  1
+  Rh  Rh4  1  0.35344468  0.55524689  0.80027646  1
+  Rh  Rh5  1  0.02464835  0.55502068  0.14248924  1

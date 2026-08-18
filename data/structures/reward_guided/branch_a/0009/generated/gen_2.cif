@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TbTmMgAuMgAu3
+_chemical_formula_sum              "Tb1 Tm1 Mg2 Au4"
+_cell_length_a       4.795143980402855
+_cell_length_b       4.885972054581887
+_cell_length_c       6.972331523895264
+_cell_angle_alpha    88.91799122516603
+_cell_angle_beta     90.04267069841055
+_cell_angle_gamma    88.19815746286856
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.22462737560272217  0.5353080630302429  0.17748233675956726  1.0000
+  Tm  Tm1       1.0  0.7251326441764832  0.03694876283407211  0.678839921951294  1.0000
+  Mg  Mg1       1.0  0.7260550856590271  0.03810783103108406  0.1787593960762024  1.0000
+  Au  Au1       1.0  0.22800081968307495  0.037768859416246414  0.4332003593444824  1.0000
+  Mg  Mg2       1.0  0.224289670586586  0.536750853061676  0.6777268648147583  1.0000
+  Au  Au2       1.0  0.7246167063713074  0.5365018844604492  0.9219198226928711  1.0000
+  Au  Au3       1.0  0.2242126762866974  0.03660488501191139  0.9226577281951904  1.0000
+  Au  Au4       1.0  0.7243196368217468  0.5370213985443115  0.43391430377960205  1.0000

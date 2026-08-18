@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AlHO2
+_chemical_formula_sum              "Al1 H1 O2"
+_cell_length_a       2.88323226899862
+_cell_length_b       2.882586335752502
+_cell_length_c       4.653409430199702
+_cell_angle_alpha    71.95016686768523
+_cell_angle_beta     71.90398879677021
+_cell_angle_gamma    59.971377863626024
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.5132245426452191  0.1453137772604903  0.6501198790166095  1.0000
+  H   H1        1.0  0.013185585251564559  0.6454531707888499  0.1495422212872034  1.0000
+  O   O1        1.0  0.10522516455301895  0.7375838722497388  0.8726776829456512  1.0000
+  O   O2        1.0  0.9210278174027802  0.5522068266395161  0.42815677807931785  1.0000

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LiPr(SbS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07663539
+_cell_length_b   7.04412921
+_cell_length_c   6.95661761
+_cell_angle_alpha   109.68203042
+_cell_angle_beta   89.99336550
+_cell_angle_gamma   90.00396640
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPr(SbS2)2
+_chemical_formula_sum   'Li1 Pr1 Sb2 S4'
+_cell_volume   188.09740085
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.83624937  0.95872456  0.82537037  1
+  Pr  Pr1  1  0.33476590  0.45864191  0.82488625  1
+  Sb  Sb2  1  0.33448550  0.95834075  0.32547572  1
+  Sb  Sb3  1  0.83701529  0.45843322  0.32479464  1
+  S  S4  1  0.83459928  0.18287320  0.60138227  1
+  S  S5  1  0.33184677  0.71444404  0.57648610  1
+  S  S6  1  0.33201912  0.20316702  0.07378171  1
+  S  S7  1  0.83464298  0.73389286  0.04876532  1

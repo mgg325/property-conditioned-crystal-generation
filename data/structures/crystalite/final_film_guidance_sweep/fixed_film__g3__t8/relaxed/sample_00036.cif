@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ca3Hg5SeO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.28100770
+_cell_length_b   6.68245948
+_cell_length_c   7.62170881
+_cell_angle_alpha   90.22812545
+_cell_angle_beta   89.60510803
+_cell_angle_gamma   122.28676262
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3Hg5SeO9
+_chemical_formula_sum   'Ca3 Hg5 Se1 O9'
+_cell_volume   313.49058921
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.92199803  0.75240239  0.20734156  1
+  Ca  Ca1  1  0.35607230  0.21184405  -0.11455838  1
+  Ca  Ca2  1  0.37754372  0.64843452  0.56761818  1
+  Hg  Hg3  1  0.32063250  0.10165156  0.48042413  1
+  Hg  Hg4  1  0.87905208  0.21162537  0.50783777  1
+  Hg  Hg5  1  0.23802927  0.55199683  0.12909586  1
+  Hg  Hg6  1  0.79575995  0.03334355  0.83385855  1
+  Hg  Hg7  1  0.86404416  0.63940661  0.71396652  1
+  Se  Se8  1  0.68944333  0.06383587  0.15882516  1
+  O  O9  1  0.09824343  0.70971228  0.45416494  1
+  O  O10  1  1.05020603  0.19562605  0.19074817  1
+  O  O11  1  0.41146278  0.92476736  0.09642713  1
+  O  O12  1  1.04410999  0.86340474  0.92363586  1
+  O  O13  1  0.18170302  0.26657344  0.63960396  1
+  O  O14  1  0.71337535  0.33048067  0.21486847  1
+  O  O15  1  0.54959053  0.64089614  0.81722632  1
+  O  O16  1  0.64141193  0.83324514  0.33043335  1
+  O  O17  1  0.60647570  0.23881371  0.66901800  1

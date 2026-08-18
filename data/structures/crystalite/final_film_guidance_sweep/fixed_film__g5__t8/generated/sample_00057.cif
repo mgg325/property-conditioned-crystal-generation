@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_MnZnSbPbXe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31084061
+_cell_length_b   6.46529293
+_cell_length_c   7.03749323
+_cell_angle_alpha   90.18642426
+_cell_angle_beta   88.20381165
+_cell_angle_gamma   122.39124298
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZnSbPbXe
+_chemical_formula_sum   'Mn1 Zn1 Sb1 Pb1 Xe1'
+_cell_volume   242.31336138
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Xe  Xe0  1  0.20182821  0.67096025  0.65300035  1
+  Mn  Mn1  1  0.16212878  0.48709136  0.90225089  1
+  Pb  Pb2  1  0.37621027  0.36799681  0.44054008  1
+  Sb  Sb3  1  0.74170458  0.89089656  0.15269181  1
+  Zn  Zn4  1  0.73656636  0.85005111  0.44106397  1

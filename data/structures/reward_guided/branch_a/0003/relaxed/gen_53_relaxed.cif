@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Pr5(SmHo)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16833212
+_cell_length_b   8.17999480
+_cell_length_c   8.18310572
+_cell_angle_alpha   84.25904146
+_cell_angle_beta   71.55998410
+_cell_angle_gamma   71.55967577
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr5(SmHo)2
+_chemical_formula_sum   'Pr5 Sm2 Ho2'
+_cell_volume   311.34200960
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.71140362  0.96922489  0.73222161  1
+  Pr  Pr1  1  0.71467420  0.29275368  0.40032753  1
+  Pr  Pr2  1  0.04556003  0.63182128  0.39950663  1
+  Pr  Pr3  1  0.38032517  0.63062389  0.73126663  1
+  Pr  Pr4  1  0.71175364  0.63017557  0.06563088  1
+  Sm  Sm5  1  0.38134232  0.29572588  0.06358177  1
+  Sm  Sm6  1  0.04417202  0.96742316  0.06693151  1
+  Ho  Ho7  1  0.04716374  0.29562094  0.73101594  1
+  Ho  Ho8  1  0.37979278  0.96647048  0.39811815  1

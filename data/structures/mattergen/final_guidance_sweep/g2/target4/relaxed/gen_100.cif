@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       InGaN2Ga2ON
+_chemical_formula_sum              "In1 Ga3 N3 O1"
+_cell_length_a       3.300875805815971
+_cell_length_b       3.3010149911421816
+_cell_length_c       11.15668418788049
+_cell_angle_alpha    89.99640957466038
+_cell_angle_beta     90.01039892082844
+_cell_angle_gamma    119.99778804876118
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.1482718441205185  0.35384578750464263  0.7763104850600542  1.0000
+  Ga  Ga1       1.0  0.814171664374873  0.6878078060479877  0.4948022319633937  1.0000
+  N   N1        1.0  0.4804032736451616  0.02079215744056606  0.20679002568925914  1.0000
+  N   N2        1.0  0.48167355223373953  0.020394658806147308  0.8716694647038604  1.0000
+  Ga  Ga2       1.0  0.14708214469743264  0.35420736259543234  0.2648179117164212  1.0000
+  Ga  Ga3       1.0  0.4807653720821987  0.020017456699224934  0.03449173845280108  1.0000
+  O   O1        1.0  0.814518010154016  0.6873380897182821  0.6630063918152516  1.0000
+  N   N3        1.0  0.14743136286795522  0.3544429225702642  0.4387974141276584  1.0000

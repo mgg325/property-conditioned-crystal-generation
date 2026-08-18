@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Sm2PtCu
+_chemical_formula_sum              "Sm2 Pt1 Cu1"
+_cell_length_a       3.545050323132175
+_cell_length_b       4.9911217326074135
+_cell_length_c       4.985239505767822
+_cell_angle_alpha    89.46463859943053
+_cell_angle_beta     89.55834201883651
+_cell_angle_gamma    89.2378353476509
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.31085410714149475  0.040506128221750266  0.27477675676345825  1.0000
+  Sm  Sm2       1.0  0.31118062138557434  0.5401394367218018  0.7731562256813049  1.0000
+  Pt  Pt1       1.0  0.810785949230194  0.5404371619224548  0.27354440093040466  1.0000
+  Cu  Cu1       1.0  0.8108358979225158  0.038821898400783546  0.7745699882507324  1.0000

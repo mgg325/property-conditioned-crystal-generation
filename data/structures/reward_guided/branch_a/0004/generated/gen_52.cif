@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgHgMgHg3
+_chemical_formula_sum              "Mg2 Hg4"
+_cell_length_a       3.5640735727153414
+_cell_length_b       5.126177426300846
+_cell_length_c       7.623181343078613
+_cell_angle_alpha    89.987844768122
+_cell_angle_beta     104.00653468860814
+_cell_angle_gamma    90.43898555317608
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9787995815277101  0.7875484824180602  0.3611912429332733  1.0000
+  Hg  Hg1       1.0  0.5267710089683533  0.2911505103111267  0.46092018485069275  1.0000
+  Mg  Mg2       1.0  0.18990144133567813  0.28748947381973267  0.7858951091766357  1.0000
+  Hg  Hg2       1.0  0.8513379693031312  0.2886980175971985  0.1150052845478058  1.0000
+  Hg  Hg3       1.0  0.640636682510376  0.7903733253479004  0.6868423819541931  1.0000
+  Hg  Hg4       1.0  0.31467875838279724  0.7891198992729187  0.03221138566732408  1.0000

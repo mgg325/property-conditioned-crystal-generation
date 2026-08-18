@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       AuMnAu
+_chemical_formula_sum              "Au2 Mn1"
+_cell_length_a       3.413061877452533
+_cell_length_b       3.4197379677391577
+_cell_length_c       4.892921447753906
+_cell_angle_alpha    110.14988589863572
+_cell_angle_beta     110.21484213782443
+_cell_angle_gamma    89.95891185042383
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.24083401262760162  0.34571760892868036  0.7617393136024475  1.0000
+  Mn  Mn1       1.0  0.9015687108039856  0.006261707749217749  0.08284507691860199  1.0000
+  Au  Au2       1.0  0.5627862215042114  0.6669996976852417  0.4045783281326294  1.0000

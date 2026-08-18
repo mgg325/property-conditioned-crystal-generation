@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_KBa3Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.32180925
+_cell_length_b   6.32091386
+_cell_length_c   6.31982178
+_cell_angle_alpha   89.99414928
+_cell_angle_beta   90.00073198
+_cell_angle_gamma   89.99927961
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBa3Ir
+_chemical_formula_sum   'K1 Ba3 Ir1'
+_cell_volume   252.53762332
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.75671630  0.18522193  0.77753678  1
+  Ba  Ba1  1  0.25672934  0.18455294  0.27764347  1
+  Ba  Ba2  1  0.75650072  0.68525273  0.27761759  1
+  Ba  Ba3  1  0.25655012  0.68499908  0.77778471  1
+  Ir  Ir4  1  0.25643556  0.68540853  0.27761499  1

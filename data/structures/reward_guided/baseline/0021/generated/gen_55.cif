@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Zn4PdZn2Au
+_chemical_formula_sum              "Zn6 Pd1 Au1"
+_cell_length_a       4.404542608007522
+_cell_length_b       5.521930286088163
+_cell_length_c       5.533782005310059
+_cell_angle_alpha    119.87073642081047
+_cell_angle_beta     91.13657321740718
+_cell_angle_gamma    90.77044097157993
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.5237116813659668  0.638194739818573  0.23435384035110474  1.0000
+  Zn  Zn2       1.0  0.023932879790663716  0.9701287150382994  0.8980783820152283  1.0000
+  Zn  Zn3       1.0  0.5233567357063293  0.6371181011199951  0.7398644685745239  1.0000
+  Zn  Zn4       1.0  0.5233994126319885  0.1436503827571869  0.7403637170791626  1.0000
+  Pd  Pd1       1.0  0.024198401719331738  0.47282621264457697  0.9058592319488525  1.0000
+  Zn  Zn5       1.0  0.02361583523452282  0.47869953513145447  0.40881380438804626  1.0000
+  Zn  Zn6       1.0  0.02354629710316658  0.9682059288024902  0.40736690163612366  1.0000
+  Au  Au1       1.0  0.5226026773452759  0.13963274657726288  0.23779402673244476  1.0000

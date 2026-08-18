@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsLiCa2BeP(NF2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84334612
+_cell_length_b   5.88106251
+_cell_length_c   6.15939283
+_cell_angle_alpha   59.14821243
+_cell_angle_beta   59.68374634
+_cell_angle_gamma   58.69083405
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsLiCa2BeP(NF2)2
+_chemical_formula_sum   'Cs1 Li1 Ca2 Be1 P1 N2 F4'
+_cell_volume   146.83298738
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.98052239  0.50390267  0.76998317  1
+  Ca  Ca1  1  0.71439695  0.17188579  0.23148030  1
+  F  F2  1  0.91548252  0.78736043  0.93018103  1
+  F  F3  1  0.37988985  0.36572683  0.40236226  1
+  Li  Li4  1  0.14541632  0.63071489  0.63240391  1
+  Be  Be5  1  0.55372196  0.08007523  0.01854995  1
+  N  N6  1  0.66051924  0.14673066  0.95384693  1
+  Ca  Ca7  1  0.37385195  0.85294062  0.88530624  1
+  N  N8  1  0.39824411  0.79339600  0.36244228  1
+  F  F9  1  0.38444233  0.42045867  0.95035362  1
+  F  F10  1  0.89124680  0.94076931  0.36609930  1
+  Cs  Cs11  1  0.92958444  0.40753210  0.38954425  1

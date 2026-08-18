@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Sr3Al2Zn4Si3HgGeS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.27149608
+_cell_length_b   7.31645029
+_cell_length_c   8.53321663
+_cell_angle_alpha   93.18980136
+_cell_angle_beta   89.76201144
+_cell_angle_gamma   120.02409354
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Al2Zn4Si3HgGeS2
+_chemical_formula_sum   'Sr3 Al2 Zn4 Si3 Hg1 Ge1 S2'
+_cell_volume   392.30660453
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.27846945  0.68440677  0.03964825  1
+  Sr  Sr1  1  0.90040558  0.80155013  0.41334705  1
+  Sr  Sr2  1  0.04439763  0.08604049  0.84238914  1
+  Al  Al3  1  1.05975736  0.44573399  0.47307943  1
+  Al  Al4  1  0.49635111  0.33142450  0.13731380  1
+  Zn  Zn5  1  0.43358441  0.59070922  0.64497874  1
+  Zn  Zn6  1  0.06773249  0.24246784  0.22270839  1
+  Zn  Zn7  1  0.52017429  0.11777905  0.79412422  1
+  Zn  Zn8  1  0.85021921  0.47888076  0.74491401  1
+  Si  Si9  1  0.77761523  0.14307719  0.60018883  1
+  Si  Si10  1  0.40625958  0.51814522  0.35059593  1
+  Si  Si11  1  0.54115303  0.46861496  0.86619827  1
+  Hg  Hg12  1  0.49745030  0.91725126  0.39535114  1
+  Ge  Ge13  1  0.19989536  0.77155609  0.68315734  1
+  S  S14  1  0.14910779  0.98517871  0.13438399  1
+  S  S15  1  0.85640158  0.43738469  0.21012267  1

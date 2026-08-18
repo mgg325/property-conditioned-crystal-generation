@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LiCaMg2BeH3O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.57025647
+_cell_length_b   3.71094179
+_cell_length_c   5.93084002
+_cell_angle_alpha   92.23997498
+_cell_angle_beta   90.64237213
+_cell_angle_gamma   94.72103119
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCaMg2BeH3O10
+_chemical_formula_sum   'Li1 Ca1 Mg2 Be1 H3 O10'
+_cell_volume   78.24313506
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.56168944  0.89779353  0.83346432  1
+  O  O1  1  0.00894994  0.56778514  0.22495222  1
+  Mg  Mg2  1  0.47371471  0.25878900  0.42514169  1
+  O  O3  1  0.14573818  0.71546245  0.66257095  1
+  O  O4  1  0.34532347  0.10923013  0.55037290  1
+  O  O5  1  0.96304464  0.04958591  0.00311917  1
+  O  O6  1  0.85162145  0.87512350  0.27960137  1
+  Mg  Mg7  1  0.05848113  0.44934723  0.53045458  1
+  O  O8  1  0.52724910  0.47037068  0.39140823  1
+  Ca  Ca9  1  0.47156602  0.38076019  0.29411104  1
+  H  H10  1  0.40374359  0.86236596  0.74955344  1
+  Be  Be11  1  0.41488194  0.12577254  0.56073761  1
+  O  O12  1  0.87128729  0.04158589  0.44180855  1
+  O  O13  1  0.47486135  0.47486025  0.72370285  1
+  H  H14  1  0.42575085  0.28440344  0.80278057  1
+  O  O15  1  0.56450778  0.15016249  0.09454885  1
+  O  O16  1  0.47524199  0.85474277  0.77131724  1
+  Li  Li17  1  0.06480682  0.02974239  0.72136235  1

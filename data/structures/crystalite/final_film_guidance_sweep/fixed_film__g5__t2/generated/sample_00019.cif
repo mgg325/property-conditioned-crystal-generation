@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BePBrN5F2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78505468
+_cell_length_b   6.03570032
+_cell_length_c   6.83283281
+_cell_angle_alpha   62.51630020
+_cell_angle_beta   62.85366440
+_cell_angle_gamma   59.55133820
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BePBrN5F2
+_chemical_formula_sum   'Be1 P1 Br1 N5 F2'
+_cell_volume   174.57966226
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  N  N0  1  0.11135578  0.30491918  0.30250299  1
+  Br  Br1  1  0.57143736  0.02497935  0.27860969  1
+  N  N2  1  0.55426121  0.28374857  0.33939227  1
+  Be  Be3  1  0.93503493  0.72308177  0.08523256  1
+  F  F4  1  0.09638983  0.35465482  0.71807814  1
+  N  N5  1  0.64525121  0.19502303  0.88500208  1
+  N  N6  1  0.18373081  0.89570272  0.89478683  1
+  F  F7  1  0.70993376  0.81504256  0.34690896  1
+  N  N8  1  0.19168982  0.85608721  0.31277919  1
+  P  P9  1  0.62979597  0.84107089  0.85703540  1

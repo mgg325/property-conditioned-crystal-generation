@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_ThZrZn3Cd2InGa2(TcSe4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.72225620
+_cell_length_b   2.86947777
+_cell_length_c   9.40457440
+_cell_angle_alpha   90.07753103
+_cell_angle_beta   88.18700187
+_cell_angle_gamma   87.93926597
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThZrZn3Cd2InGa2(TcSe4)2
+_chemical_formula_sum   'Th1 Zr1 Zn3 Cd2 In1 Ga2 Tc2 Se8'
+_cell_volume   100.33408700
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.63684513  0.59470689  0.09292282  1
+  Zr  Zr1  1  0.18095190  0.72068431  0.78127530  1
+  Zn  Zn2  1  0.19212826  0.29075315  0.60669088  1
+  Zn  Zn3  1  0.59421917  0.15750274  0.28586021  1
+  Zn  Zn4  1  0.11354982  0.76986499  0.14713209  1
+  Cd  Cd5  1  0.57662160  0.62033494  0.94128893  1
+  Cd  Cd6  1  0.12662867  0.14985778  0.99859147  1
+  In  In7  1  0.61873472  0.52553235  0.69462235  1
+  Ga  Ga8  1  0.63913809  0.78310718  0.49377425  1
+  Ga  Ga9  1  0.19594426  0.82239240  0.44323477  1
+  Tc  Tc10  1  0.67128090  0.75376588  0.28284338  1
+  Tc  Tc11  1  0.64479522  0.39242603  0.68391482  1
+  Se  Se12  1  0.94892925  0.90394944  0.61882102  1
+  Se  Se13  1  0.26089988  0.36256712  0.63412421  1
+  Se  Se14  1  0.96484806  0.35435538  0.39452172  1
+  Se  Se15  1  0.53589027  0.12516580  0.32483972  1
+  Se  Se16  1  0.88220417  0.37865891  0.84380074  1
+  Se  Se17  1  0.47817098  1.09288054  0.84366330  1
+  Se  Se18  1  1.03781570  0.88119451  0.14523121  1
+  Se  Se19  1  0.23571524  0.42651493  0.22102046  1

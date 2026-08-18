@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Gd2ZnHg
+_chemical_formula_sum              "Gd2 Zn1 Hg1"
+_cell_length_a       5.152519059127913
+_cell_length_b       5.219574853147239
+_cell_length_c       5.175052642822266
+_cell_angle_alpha    60.13556843665617
+_cell_angle_beta     59.664564728943326
+_cell_angle_gamma    60.16998511648569
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.8329956531524658  0.41785988211631775  0.707069456577301  1.0000
+  Gd  Gd2       1.0  0.3341734707355499  0.9176037311553955  0.20786024630069733  1.0000
+  Zn  Zn1       1.0  0.08459771424531935  0.6663831472396851  0.9585237503051758  1.0000
+  Hg  Hg1       1.0  0.5845386385917664  0.16657955944538116  0.4571695029735565  1.0000

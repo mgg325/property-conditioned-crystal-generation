@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CdAgSiAgS4
+_chemical_formula_sum              "Cd1 Ag2 Si1 S4"
+_cell_length_a       5.645148208234896
+_cell_length_b       5.645079624764977
+_cell_length_c       7.015985531385254
+_cell_angle_alpha    113.72675531621296
+_cell_angle_beta     113.73607412995136
+_cell_angle_gamma    90.04920281258141
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.7545136857839347  0.9619581748216933  0.7465851155979154  1.0000
+  Ag  Ag1       1.0  0.004733689147735933  0.7115843685338655  0.24654887668995493  1.0000
+  Si  Si1       1.0  0.25492240673100347  0.46229503116082127  0.7470343188266643  1.0000
+  Ag  Ag2       1.0  0.5046628650562103  0.21241961211576962  0.2465956366008635  1.0000
+  S   S1        1.0  0.9270087136705872  0.568865298603457  0.5256653242167203  1.0000
+  S   S2        1.0  0.1481075916265657  0.35560182539313845  0.9684135648672938  1.0000
+  S   S3        1.0  0.36124038835104244  0.1343369465823714  0.5255340304736563  1.0000
+  S   S4        1.0  0.5830145301560119  0.7903887140612629  0.9687330707564952  1.0000

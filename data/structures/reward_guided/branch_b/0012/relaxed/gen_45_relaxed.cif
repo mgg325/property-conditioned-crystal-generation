@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tb5Dy3(HoMg)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.07174626
+_cell_length_b   6.96669086
+_cell_length_c   9.46019067
+_cell_angle_alpha   111.51163066
+_cell_angle_beta   102.47801858
+_cell_angle_gamma   90.14893918
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb5Dy3(HoMg)2
+_chemical_formula_sum   'Tb5 Dy3 Ho2 Mg2'
+_cell_volume   362.01978146
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.55746577  0.32859421  0.42391043  1
+  Tb  Tb1  1  0.05634503  0.07983128  0.42352201  1
+  Tb  Tb2  1  0.34400064  0.99657206  0.76034154  1
+  Tb  Tb3  1  0.76957846  0.65776302  0.08799037  1
+  Tb  Tb4  1  0.55656819  0.82774715  0.42394622  1
+  Dy  Dy5  1  0.05705383  0.57537281  0.42488950  1
+  Dy  Dy6  1  0.83802822  0.24780193  0.75981933  1
+  Dy  Dy7  1  0.27627693  0.91057006  0.08773688  1
+  Ho  Ho8  1  0.83694970  0.74444463  0.76010375  1
+  Ho  Ho9  1  0.27532876  0.40758356  0.08828649  1
+  Mg  Mg10  1  0.33492255  0.49473076  0.75775899  1
+  Mg  Mg11  1  0.77925630  0.16056344  0.09017074  1

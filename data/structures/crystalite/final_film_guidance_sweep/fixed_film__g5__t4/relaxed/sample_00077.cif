@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_BaCdSe2NO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.17769472
+_cell_length_b   3.89133586
+_cell_length_c   4.55263605
+_cell_angle_alpha   61.98216039
+_cell_angle_beta   63.39498557
+_cell_angle_gamma   61.67918886
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCdSe2NO4
+_chemical_formula_sum   'Ba1 Cd1 Se2 N1 O4'
+_cell_volume   41.87567263
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.39335210  0.15552173  0.84244179  1
+  Cd  Cd1  1  0.46931432  0.47151694  0.47846526  1
+  Se  Se2  1  0.39551681  0.31797229  0.87092199  1
+  Se  Se3  1  0.89242945  0.85430211  0.22815611  1
+  N  N4  1  0.81047650  0.52478808  0.21559231  1
+  O  O5  1  0.15123313  0.35998085  0.66609654  1
+  O  O6  1  0.15779354  0.79921414  0.86142772  1
+  O  O7  1  0.24128239  0.80900818  0.85090462  1
+  O  O8  1  0.75698854  0.47846843  0.92182722  1

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       PrLiPd2CePd3
+_chemical_formula_sum              "Pr1 Li1 Pd5 Ce1"
+_cell_length_a       5.8241010162784335
+_cell_length_b       5.935707665811902
+_cell_length_c       7.937014579772949
+_cell_angle_alpha    90.44604118283056
+_cell_angle_beta     131.63756510028287
+_cell_angle_gamma    119.94469528634336
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.3317136466503142  0.5241500139236449  0.03303086757659909  1.0000
+  Li  Li1       1.0  0.3328478336334228  0.022123359143733975  0.033216249197721454  1.0000
+  Pd  Pd1       1.0  0.8307280540466309  0.5238616466522217  0.03415378928184509  1.0000
+  Pd  Pd2       1.0  0.8336775302886963  0.024374190717935562  0.03239402920007711  1.0000
+  Ce  Ce1       1.0  0.3312774896621704  0.5245093703269958  0.5325546264648438  1.0000
+  Pd  Pd3       1.0  0.8331454992294312  0.5234817862510681  0.5323894023895264  1.0000
+  Pd  Pd4       1.0  0.3318851888179779  0.024018295109272003  0.5324622392654419  1.0000
+  Pd  Pd5       1.0  0.8317430019378662  0.023183267563581467  0.5341175198554993  1.0000

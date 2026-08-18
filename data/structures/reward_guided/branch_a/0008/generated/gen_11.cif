@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       RbSrInSr2Rb2SrInSr
+_chemical_formula_sum              "Rb3 Sr5 In2"
+_cell_length_a       5.912065792501175
+_cell_length_b       7.642027975293595
+_cell_length_c       12.423996925354004
+_cell_angle_alpha    89.90032272320967
+_cell_angle_beta     102.2411642987792
+_cell_angle_gamma    91.36911387237316
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.3485437333583832  0.3749577105045319  0.023512843996286392  1.0000
+  Sr  Sr1       1.0  0.7410678267478943  0.6295892596244813  0.8115221858024597  1.0000
+  In  In1       1.0  0.6188520789146423  0.37312704324722296  0.5694892406463623  1.0000
+  Sr  Sr2       1.0  0.7417958974838257  0.11750507354736328  0.8113399744033813  1.0000
+  Sr  Sr3       1.0  0.5640115737915039  0.8726117610931398  0.4477326571941376  1.0000
+  Rb  Rb2       1.0  0.0028051137924194358  0.3721991181373597  0.3351956903934479  1.0000
+  Rb  Rb3       1.0  0.8970405459403991  0.8711947798728944  0.11698665469884872  1.0000
+  Sr  Sr4       1.0  0.1472381055355072  0.6189053058624268  0.6288930177688599  1.0000
+  In  In2       1.0  0.2661937177181244  0.8740800619125367  0.8648502230644226  1.0000
+  Sr  Sr5       1.0  0.15063545107841492  0.13133190572261813  0.6263571381568909  1.0000

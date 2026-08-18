@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       TbFeRh
+_chemical_formula_sum              "Tb1 Fe1 Rh1"
+_cell_length_a       4.0726296668130955
+_cell_length_b       4.037257520210534
+_cell_length_c       3.983238935470581
+_cell_angle_alpha    89.80371655336884
+_cell_angle_beta     90.371414570653
+_cell_angle_gamma    119.86229503466633
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.464921772480011  0.8554238677024841  0.9034582376480104  1.0000
+  Fe  Fe1       1.0  0.13113057613372803  0.18857526779174805  0.40332737565040594  1.0000
+  Rh  Rh1       1.0  0.7971086502075195  0.5225673913955688  0.40249302983284  1.0000

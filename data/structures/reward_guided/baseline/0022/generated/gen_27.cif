@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       La2AlLaGeCrAlGeAl
+_chemical_formula_sum              "La3 Al3 Ge2 Cr1"
+_cell_length_a       4.405987236689911
+_cell_length_b       7.176237143087173
+_cell_length_c       7.109963893890381
+_cell_angle_alpha    120.8714252049565
+_cell_angle_beta     90.6480030511274
+_cell_angle_gamma    90.79785063229544
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.3813316822052002  0.9848873019218445  0.956230878829956  1.0000
+  La  La2       1.0  0.38060104846954346  0.1747041046619415  0.5514925718307495  1.0000
+  Al  Al1       1.0  0.8814566135406494  0.8107053041458129  0.550006628036499  1.0000
+  La  La3       1.0  0.3814885914325714  0.5805636644363403  0.14566151797771448  1.0000
+  Ge  Ge1       1.0  0.8809210062026978  0.9137436151504517  0.2173248827457428  1.0000
+  Cr  Cr1       1.0  0.38136550784111023  0.580196738243103  0.5496896505355836  1.0000
+  Al  Al2       1.0  0.8803320527076721  0.5782925486564636  0.7802663445472717  1.0000
+  Ge  Ge2       1.0  0.8810133337974548  0.24670973420143127  0.8845261335372925  1.0000
+  Al  Al3       1.0  0.8822364211082458  0.3489449322223663  0.32212311029434204  1.0000

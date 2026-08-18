@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgCaGa2Zn
+_chemical_formula_sum              "Mg1 Ca1 Ga2 Zn1"
+_cell_length_a       4.189709186227776
+_cell_length_b       4.267625281665479
+_cell_length_c       6.447466850280762
+_cell_angle_alpha    109.08861852405904
+_cell_angle_beta     107.3353836893297
+_cell_angle_gamma    91.55120747038599
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.2636300325393676  0.662071704864502  0.8254677653312683  1.0000
+  Ca  Ca1       1.0  0.010672414675354944  0.9147482514381408  0.3280024230480194  1.0000
+  Ga  Ga1       1.0  0.4079329669475555  0.3088826537132263  0.10725628584623337  1.0000
+  Ga  Ga2       1.0  0.6177132129669188  0.5249752402305602  0.5388979911804199  1.0000
+  Zn  Zn1       1.0  0.7630692124366759  0.16410715878009793  0.8259370923042297  1.0000

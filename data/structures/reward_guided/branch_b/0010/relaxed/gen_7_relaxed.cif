@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_La8CoPt2Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.67866148
+_cell_length_b   7.01222852
+_cell_length_c   8.50965622
+_cell_angle_alpha   89.99665224
+_cell_angle_beta   90.01360072
+_cell_angle_gamma   90.30423900
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La8CoPt2Rh
+_chemical_formula_sum   'La8 Co1 Pt2 Rh1'
+_cell_volume   398.52114722
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.09417574  0.22254829  0.88938857  1
+  La  La1  1  0.60604878  0.86914061  0.38918273  1
+  La  La2  1  0.12101757  0.70423784  0.64827972  1
+  La  La3  1  0.57659216  0.37839890  0.64892010  1
+  La  La4  1  0.60230019  0.85988817  0.88953334  1
+  La  La5  1  0.12114833  0.70411619  0.13015849  1
+  La  La6  1  0.57700326  0.37837828  0.13004208  1
+  La  La7  1  0.09183423  0.21331830  0.38953759  1
+  Co  Co8  1  0.34851866  0.54170368  0.88945100  1
+  Pt  Pt9  1  0.84923267  0.04097805  0.64226593  1
+  Pt  Pt10  1  0.84870626  0.04157081  0.13584857  1
+  Rh  Rh11  1  0.34963537  0.54056611  0.38909424  1

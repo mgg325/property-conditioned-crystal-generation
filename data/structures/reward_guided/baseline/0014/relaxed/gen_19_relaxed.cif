@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ErCoSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.39451114
+_cell_length_b   4.39518199
+_cell_length_c   6.60114434
+_cell_angle_alpha   89.93160124
+_cell_angle_beta   90.00419498
+_cell_angle_gamma   89.99529270
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErCoSn
+_chemical_formula_sum   'Er2 Co2 Sn2'
+_cell_volume   127.49887401
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.56403703  0.05985823  0.27446979  1
+  Er  Er1  1  0.06421123  0.55914973  0.84648146  1
+  Co  Co2  1  0.56414087  0.55967981  0.56057287  1
+  Co  Co3  1  0.06411158  0.05934844  0.56039021  1
+  Sn  Sn4  1  0.06372032  0.55969680  0.34267462  1
+  Sn  Sn5  1  0.56436239  0.05955648  0.77820700  1

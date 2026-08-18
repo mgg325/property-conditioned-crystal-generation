@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ce3MnPb
+_chemical_formula_sum              "Ce3 Mn1 Pb1"
+_cell_length_a       5.055218190829135
+_cell_length_b       4.926898177361965
+_cell_length_c       4.9866943359375
+_cell_angle_alpha    92.79680100061478
+_cell_angle_beta     92.19883155225334
+_cell_angle_gamma    91.75426143926171
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.5916274785995483  0.6503445506095886  0.5143947601318359  1.0000
+  Ce  Ce2       1.0  0.08895731717348099  0.15403333306312564  0.517535924911499  1.0000
+  Ce  Ce3       1.0  0.09050121903419495  0.65128892660141  0.016000214964151382  1.0000
+  Mn  Mn1       1.0  0.0898529440164566  0.6510708332061769  0.5161435604095459  1.0000
+  Pb  Pb1       1.0  0.5911694765090942  0.1536342054605484  0.017357196658849713  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Au2SnInSnInSnAuPbAu
+_chemical_formula_sum              "Au4 Sn3 In2 Pb1"
+_cell_length_a       5.407235450472704
+_cell_length_b       6.8507458679133615
+_cell_length_c       7.129012584686279
+_cell_angle_alpha    105.34869302399852
+_cell_angle_beta     102.8174672496155
+_cell_angle_gamma    100.41147882328332
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.32370725274086  0.5275107026100159  0.9245705604553223  1.0000
+  Au  Au2       1.0  0.8321771025657654  0.50679749250412  0.19090627133846283  1.0000
+  Sn  Sn1       1.0  0.31681928038597107  0.1477837711572647  0.013200494460761547  1.0000
+  In  In1       1.0  0.23570965230464935  0.3394971489906311  0.49578604102134705  1.0000
+  Sn  Sn2       1.0  0.7932696342468262  0.26859486103057867  0.8000678420066833  1.0000
+  In  In2       1.0  0.34661975502967834  0.7690932154655458  0.32261765003204346  1.0000
+  Sn  Sn3       1.0  0.8193696141242981  0.8973129987716675  0.12581622600555414  1.0000
+  Au  Au3       1.0  0.47427505254745483  0.8528854846954347  0.7440768480300903  1.0000
+  Pb  Pb1       1.0  0.894739031791687  0.6967187523841859  0.6249810457229614  1.0000
+  Au  Au4       1.0  0.6592637896537781  0.19751927256584167  0.3888293206691742  1.0000

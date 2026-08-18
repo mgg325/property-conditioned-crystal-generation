@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Sn(TeO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.75877810
+_cell_length_b   2.87789655
+_cell_length_c   3.89150190
+_cell_angle_alpha   90.15727997
+_cell_angle_beta   99.98845673
+_cell_angle_gamma   64.39992523
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sn(TeO2)2
+_chemical_formula_sum   'Sn1 Te2 O4'
+_cell_volume   27.35029074
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.20074219  0.42429423  0.68491381  1
+  O  O1  1  0.84780121  0.74701536  0.80741155  1
+  O  O2  1  0.65352541  0.83554196  0.53612220  1
+  O  O3  1  0.14529511  0.58735204  0.45197192  1
+  O  O4  1  0.50164384  0.73284733  0.50915545  1
+  Te  Te5  1  0.21290091  0.32619452  0.71247500  1
+  Te  Te6  1  0.67054802  0.02010092  0.58479881  1

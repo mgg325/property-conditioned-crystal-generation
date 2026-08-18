@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       ZnPSn
+_chemical_formula_sum              "Zn1 P1 Sn1"
+_cell_length_a       3.9268003205103432
+_cell_length_b       3.9304804823363786
+_cell_length_c       5.927914142608643
+_cell_angle_alpha    70.59370464470118
+_cell_angle_beta     70.60486600443456
+_cell_angle_gamma    59.95286805546794
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.6296508312225342  0.6572681069374084  0.8327071666717529  1.0000
+  P   P1        1.0  0.7711594104766847  0.7978737354278563  0.4117155969142914  1.0000
+  Sn  Sn1       1.0  0.1848905086517334  0.21148303151130673  0.16773346066474915  1.0000

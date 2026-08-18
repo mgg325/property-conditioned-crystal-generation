@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       OHFeO
+_chemical_formula_sum              "O2 H1 Fe1"
+_cell_length_a       3.077985391730024
+_cell_length_b       3.0777278867676334
+_cell_length_c       4.941396394294323
+_cell_angle_alpha    89.9949776305133
+_cell_angle_beta     108.08132018889857
+_cell_angle_gamma    119.99728150145066
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.4736093429517723  0.4867481261168447  0.24838476157239206  1.0000
+  H   H1        1.0  0.3236919864152484  0.41186433208001744  0.02380732377720592  1.0000
+  Fe  Fe1       1.0  0.3000901700649586  0.9000150434168913  0.48878018432574327  1.0000
+  O   O2        1.0  0.10266602194269535  0.30123477432643275  0.6937509414721668  1.0000

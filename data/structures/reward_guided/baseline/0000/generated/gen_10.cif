@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnPtZn2
+_chemical_formula_sum              "Mn1 Pt1 Zn2"
+_cell_length_a       3.7928043388725894
+_cell_length_b       3.9223612854655667
+_cell_length_c       3.9127488136291504
+_cell_angle_alpha    89.83210962826375
+_cell_angle_beta     89.79142219576343
+_cell_angle_gamma    90.08138420550945
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.601322591304779  0.775841474533081  0.22234100103378296  1.0000
+  Pt  Pt1       1.0  0.6011916995048523  0.27566012740135193  0.7223791480064392  1.0000
+  Zn  Zn1       1.0  0.10119151324033737  0.7755810618400574  0.7225238084793091  1.0000
+  Zn  Zn2       1.0  0.10116029530763626  0.2758780419826508  0.22238147258758545  1.0000

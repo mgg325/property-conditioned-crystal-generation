@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaLi4Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.40291259
+_cell_length_b   8.16413337
+_cell_length_c   7.76480973
+_cell_angle_alpha   89.99989078
+_cell_angle_beta   90.00019916
+_cell_angle_gamma   90.00043648
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLi4Pt
+_chemical_formula_sum   'Ba2 Li8 Pt2'
+_cell_volume   279.11358356
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.23757405  0.39767797  0.43259984  1
+  Ba  Ba1  1  0.23752232  0.89774750  0.63867123  1
+  Li  Li2  1  0.73760859  0.22870345  0.76940424  1
+  Li  Li3  1  0.23753248  0.64770705  0.03574452  1
+  Li  Li4  1  0.23751512  0.14762573  0.03558533  1
+  Li  Li5  1  0.73758256  0.39780499  0.05709911  1
+  Li  Li6  1  0.73742536  0.06676953  0.30178698  1
+  Li  Li7  1  0.73743375  0.72872231  0.30234222  1
+  Li  Li8  1  0.73744357  0.89739978  0.01420507  1
+  Li  Li9  1  0.73761467  0.56669622  0.76911064  1
+  Pt  Pt10  1  0.23755329  0.89769866  0.23053623  1
+  Pt  Pt11  1  0.23757143  0.39758768  0.84070485  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tb3Pr3SiSn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35776834
+_cell_length_b   8.37023911
+_cell_length_c   8.37028355
+_cell_angle_alpha   119.99963002
+_cell_angle_beta   89.99851002
+_cell_angle_gamma   89.99980696
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Pr3SiSn2
+_chemical_formula_sum   'Tb3 Pr3 Si1 Sn2'
+_cell_volume   264.40789878
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.01322926  0.56403914  0.34261246  1
+  Tb  Tb1  1  0.01306654  0.80653826  0.82759701  1
+  Tb  Tb2  1  0.01316280  0.32153944  0.58510210  1
+  Pr  Pr3  1  0.51316849  0.96493904  0.58509065  1
+  Pr  Pr4  1  0.51321672  0.56403260  0.98603855  1
+  Pr  Pr5  1  0.51311533  0.16314094  0.18420363  1
+  Si  Si6  1  0.51314779  0.56406476  0.58511845  1
+  Sn  Sn7  1  0.01314602  0.89738117  0.25180663  1
+  Sn  Sn8  1  0.01320563  0.23070113  0.91839330  1

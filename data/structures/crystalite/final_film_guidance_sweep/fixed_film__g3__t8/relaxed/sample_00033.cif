@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KLu3SeO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.35195750
+_cell_length_b   7.40965883
+_cell_length_c   8.20061206
+_cell_angle_alpha   95.99640267
+_cell_angle_beta   91.37790798
+_cell_angle_gamma   105.14483115
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLu3SeO7
+_chemical_formula_sum   'K1 Lu3 Se1 O7'
+_cell_volume   195.24790930
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.39801562  0.91256802  0.14729002  1
+  Lu  Lu1  1  0.61526302  0.29311326  0.43395395  1
+  Lu  Lu2  1  0.68081814  0.51063073  0.82528484  1
+  Lu  Lu3  1  0.28129937  0.73738162  0.51227594  1
+  Se  Se4  1  1.07470442  0.06519142  0.79957091  1
+  O  O5  1  0.84563495  0.87793984  0.39988753  1
+  O  O6  1  0.03675664  0.18711986  0.30092990  1
+  O  O7  1  0.85208815  0.81430534  0.76222931  1
+  O  O8  1  0.13135654  0.46069175  0.62983308  1
+  O  O9  1  0.69255151  0.58084394  0.39677402  1
+  O  O10  1  0.16477069  0.46977269  0.96353562  1
+  O  O11  1  0.40191642  0.09318128  0.63921100  1

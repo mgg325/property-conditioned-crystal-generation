@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Ce3TiTl3S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.04510448
+_cell_length_b   8.04513541
+_cell_length_c   8.94751706
+_cell_angle_alpha   63.27761900
+_cell_angle_beta   63.28590756
+_cell_angle_gamma   60.00073063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3TiTl3S8
+_chemical_formula_sum   'Ce3 Ti1 Tl3 S8'
+_cell_volume   428.65089221
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.86003446  0.93787770  0.85286342  1
+  Ce  Ce1  1  0.35988891  0.43774304  0.85294231  1
+  Ce  Ce2  1  0.85983725  0.43789863  0.85302482  1
+  Ti  Ti3  1  0.35997364  0.93782752  0.85292480  1
+  Tl  Tl4  1  0.35993342  0.93793037  0.35302848  1
+  Tl  Tl5  1  0.35992739  0.43812871  0.35274213  1
+  Tl  Tl6  1  0.85997203  0.93752113  0.35290116  1
+  S  S7  1  0.57198028  0.14971590  0.66841791  1
+  S  S8  1  0.62466999  0.20255632  0.05873980  1
+  S  S9  1  0.59952121  0.72575134  0.03763014  1
+  S  S10  1  0.14794735  0.17708362  0.03751671  1
+  S  S11  1  0.09513827  0.67311019  0.64713115  1
+  S  S12  1  0.14793651  0.72569343  0.03746320  1
+  S  S13  1  0.57188731  0.69829643  0.66842885  1
+  S  S14  1  0.12049448  0.15001758  0.66833497  1

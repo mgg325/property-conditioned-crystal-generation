@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SiPSiPtPPt
+_chemical_formula_sum              "Si2 P2 Pt2"
+_cell_length_a       3.4303490102881677
+_cell_length_b       4.799490519981027
+_cell_length_c       5.923113822937012
+_cell_angle_alpha    90.22864309071501
+_cell_angle_beta     90.02681099646595
+_cell_angle_gamma    90.01131329834243
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.26495781540870667  0.3449290990829468  0.5696781873703003  1.0000
+  P   P1        1.0  0.2650929093360901  0.9862956404685974  0.8126624822616578  1.0000
+  Si  Si2       1.0  0.7648393511772156  0.8470383286476134  0.3219783306121826  1.0000
+  Pt  Pt1       1.0  0.7651452422142029  0.6648743748664856  0.6992422938346863  1.0000
+  P   P2        1.0  0.7646533250808716  0.4878165423870086  0.07782396674156189  1.0000
+  Pt  Pt2       1.0  0.26478520035743713  0.16588287055492398  0.19253037869930267  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       MnNa2SLiS2ZrS
+_chemical_formula_sum              "Mn1 Na2 S4 Li1 Zr1"
+_cell_length_a       3.76076982336541
+_cell_length_b       7.168673571734195
+_cell_length_c       6.966436386108398
+_cell_angle_alpha    103.96732225121507
+_cell_angle_beta     90.15525953943062
+_cell_angle_gamma    104.72402645084043
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.9503844380378723  0.11240340024232864  0.7360631823539733  1.0000
+  Na  Na1       1.0  0.8625577688217163  0.933623731136322  0.25879716873168945  1.0000
+  Na  Na2       1.0  0.11907129734754562  0.4428136944770813  0.3545456528663635  1.0000
+  S   S1        1.0  0.7644515633583069  0.7349385023117065  0.6204516887664795  1.0000
+  Li  Li1       1.0  0.313272476196289  0.8327588438987731  0.813122808933258  1.0000
+  S   S2        1.0  0.48871833086013794  0.19065502285957334  0.5163878798484802  1.0000
+  S   S3        1.0  0.21855799853801727  0.6441579461097717  0.05721988156437873  1.0000
+  Zr  Zr1       1.0  0.6328562498092651  0.4716574251651764  0.8309539556503295  1.0000
+  S   S4        1.0  0.48492884635925293  0.17471270263195038  0.990126073360443  1.0000

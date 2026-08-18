@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_RbBa2AcNdAl2SnBP(SeN)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.53651660
+_cell_length_b   8.20283246
+_cell_length_c   14.01310561
+_cell_angle_alpha   100.62665764
+_cell_angle_beta   90.64011218
+_cell_angle_gamma   90.91661170
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbBa2AcNdAl2SnBP(SeN)3
+_chemical_formula_sum   'Rb1 Ba2 Ac1 Nd1 Al2 Sn1 B1 P1 Se3 N3'
+_cell_volume   399.44832479
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.15196059  0.33532964  0.15355277  1
+  Ba  Ba1  1  0.15760517  0.25979683  0.78211712  1
+  Ba  Ba2  1  0.14671831  0.91052158  0.12666561  1
+  Ac  Ac3  1  0.92330816  0.78249829  0.81129722  1
+  Nd  Nd4  1  0.69453156  0.83916377  0.56673781  1
+  Al  Al5  1  0.19862928  0.43630648  0.52691351  1
+  Al  Al6  1  0.66737286  0.65470832  0.27202821  1
+  Sn  Sn7  1  0.68943214  0.17746031  0.39838915  1
+  B  B8  1  0.66760285  0.45516793  0.36823482  1
+  P  P9  1  0.70562189  0.49930604  0.63633724  1
+  Se  Se10  1  0.52107796  0.07340322  0.95408286  1
+  Se  Se11  1  0.67039411  0.60602814  0.02457645  1
+  Se  Se12  1  0.14526535  0.84912001  0.35316932  1
+  N  N13  1  0.67036093  0.48740660  0.75018353  1
+  N  N14  1  0.40459129  0.53127800  0.42832604  1
+  N  N15  1  0.21038569  0.91114373  0.67427563  1

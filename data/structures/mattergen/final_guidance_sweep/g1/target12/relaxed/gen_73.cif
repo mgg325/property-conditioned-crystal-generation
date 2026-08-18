@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       S2Hg2
+_chemical_formula_sum              "S2 Hg2"
+_cell_length_a       4.246524756525522
+_cell_length_b       4.247454606101723
+_cell_length_c       6.92610290939498
+_cell_angle_alpha    89.94786009530378
+_cell_angle_beta     89.99766656648492
+_cell_angle_gamma    120.04326919632346
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7932156345066111  0.07049019359568086  0.4001671508268093  1.0000
+  S   S2        1.0  0.12740593951229176  0.737682700987368  0.9004368255591638  1.0000
+  Hg  Hg1       1.0  0.7944121297730441  0.07017641122478166  0.02537710376198527  1.0000
+  Hg  Hg2       1.0  0.1254257022748012  0.7363184423521706  0.5255006566683736  1.0000

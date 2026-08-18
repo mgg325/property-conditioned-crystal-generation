@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_ThMgSiBiSbTe2Pb2AuBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.54769131
+_cell_length_b   6.16402342
+_cell_length_c   8.50806116
+_cell_angle_alpha   81.32001324
+_cell_angle_beta   93.30004885
+_cell_angle_gamma   96.28443997
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThMgSiBiSbTe2Pb2AuBr
+_chemical_formula_sum   'Th1 Mg1 Si1 Bi1 Sb1 Te2 Pb2 Au1 Br1'
+_cell_volume   337.11910090
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.18900754  0.95034096  0.38873447  1
+  Mg  Mg1  1  0.50289747  0.82190743  0.03116627  1
+  Si  Si2  1  0.12198014  0.43638360  0.42749440  1
+  Bi  Bi3  1  0.78580437  0.56731192  0.85544450  1
+  Sb  Sb4  1  0.85410073  0.59599899  0.20643746  1
+  Te  Te5  1  0.69197712  -0.02937903  0.41486926  1
+  Te  Te6  1  0.24901580  0.16511086  0.03019015  1
+  Pb  Pb7  1  0.88088272  0.09276753  0.79193956  1
+  Pb  Pb8  1  0.52286627  0.38536478  0.58582643  1
+  Au  Au9  1  0.42285374  0.43427429  0.25441460  1
+  Br  Br10  1  0.27779443  0.80466753  0.73613205  1

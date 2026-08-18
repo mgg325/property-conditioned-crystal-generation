@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ca5ZnGaSiS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35672188
+_cell_length_b   7.31164932
+_cell_length_c   8.04671001
+_cell_angle_alpha   116.15069580
+_cell_angle_beta   115.99918365
+_cell_angle_gamma   89.89792633
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca5ZnGaSiS6
+_chemical_formula_sum   'Ca5 Zn1 Ga1 Si1 S6'
+_cell_volume   339.23574839
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.71479297  0.73326039  0.54964232  1
+  S  S1  1  0.73888826  0.36900041  0.09403077  1
+  Si  Si2  1  0.08310214  0.92508972  0.14551973  1
+  Zn  Zn3  1  0.28806654  0.69252563  0.09358028  1
+  Ca  Ca4  1  0.74029255  0.16489810  0.55186629  1
+  Ca  Ca5  1  0.96318847  0.20890692  0.00163731  1
+  S  S6  1  0.43273824  0.03135693  0.01950896  1
+  S  S7  1  0.94455725  0.09743097  0.08789062  1
+  S  S8  1  0.51416796  0.52432084  0.17544246  1
+  S  S9  1  0.95885515  0.46252826  0.68665308  1
+  Ca  Ca10  1  0.27464920  0.21541303  0.67539763  1
+  S  S11  1  0.41343331  0.93354446  0.48779392  1
+  Ca  Ca12  1  0.16753075  0.70596421  0.58473498  1
+  Ga  Ga13  1  0.71620703  0.75800681  0.10977921  1

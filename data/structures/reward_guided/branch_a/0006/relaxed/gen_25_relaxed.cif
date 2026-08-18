@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NaTl6In2Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53800338
+_cell_length_b   6.46434194
+_cell_length_c   9.55139689
+_cell_angle_alpha   103.59396032
+_cell_angle_beta   90.02696859
+_cell_angle_gamma   115.28891918
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTl6In2Hg
+_chemical_formula_sum   'Na1 Tl6 In2 Hg1'
+_cell_volume   298.51911710
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.33742778  0.92438473  0.21676656  1
+  Tl  Tl1  1  0.54905060  0.34640682  0.61146563  1
+  Tl  Tl2  1  0.23787341  0.72422058  0.52284128  1
+  Tl  Tl3  1  0.44553872  0.13729174  0.91702106  1
+  Tl  Tl4  1  0.93663680  0.12205341  0.42683031  1
+  Tl  Tl5  1  0.13480008  0.51675860  0.83720585  1
+  Tl  Tl6  1  0.64269432  0.53301593  0.29347944  1
+  In  In7  1  0.02929848  0.30508109  0.12811596  1
+  In  In8  1  0.74608974  0.74078125  1.00240724  1
+  Hg  Hg9  1  0.84027491  0.92821833  0.72171441  1

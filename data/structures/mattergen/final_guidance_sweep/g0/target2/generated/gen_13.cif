@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MgS2Mg
+_chemical_formula_sum              "Mg2 S2"
+_cell_length_a       4.326388377516071
+_cell_length_b       4.327699663244491
+_cell_length_c       5.431909084320068
+_cell_angle_alpha    90.00173737260076
+_cell_angle_beta     89.9947091080224
+_cell_angle_gamma    120.00318635668297
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.4429296553134918  0.1800779104232788  0.979346752166748  1.0000
+  S   S1        1.0  0.7756134867668152  0.8464127779006958  0.9785014390945435  1.0000
+  S   S2        1.0  0.4423775672912598  0.1807043552398682  0.4789249897003174  1.0000
+  Mg  Mg2       1.0  0.774979293346405  0.8473779559135437  0.4789333641529083  1.0000

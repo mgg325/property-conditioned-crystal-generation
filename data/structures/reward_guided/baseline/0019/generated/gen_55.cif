@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       BeCuTeBeTeCuZn2Te2
+_chemical_formula_sum              "Be2 Cu2 Te4 Zn2"
+_cell_length_a       4.142386170969594
+_cell_length_b       6.9981265544854425
+_cell_length_c       7.342456340789795
+_cell_angle_alpha    89.82165262079916
+_cell_angle_beta     90.81897636683955
+_cell_angle_gamma    90.09645842976784
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.5837804079055786  0.5050207376480103  0.627774715423584  1.0000
+  Cu  Cu1       1.0  0.08536583185195923  0.319846659898758  0.5723930597305298  1.0000
+  Te  Te1       1.0  0.5832661390304565  0.16847877204418182  0.727194607257843  1.0000
+  Be  Be2       1.0  0.08498213440179825  0.6482155919075012  0.41279172897338867  1.0000
+  Te  Te2       1.0  0.08229788392782211  0.3409530818462372  0.22473224997520447  1.0000
+  Cu  Cu2       1.0  0.08514956384897232  0.9814718961715698  0.29770427942276  1.0000
+  Zn  Zn1       1.0  0.5839731693267822  0.85557621717453  0.5336536765098572  1.0000
+  Zn  Zn2       1.0  0.5823056697845459  0.1581529974937439  0.09205979853868484  1.0000
+  Te  Te3       1.0  0.08239544928073883  0.6739861965179444  0.7417652010917664  1.0000
+  Te  Te4       1.0  0.5852130055427551  0.7788593769073486  0.19040356576442719  1.0000

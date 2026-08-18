@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_RbUSbAsXe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.32829496
+_cell_length_b   7.74205236
+_cell_length_c   5.88425059
+_cell_angle_alpha   94.31360471
+_cell_angle_beta   89.25183620
+_cell_angle_gamma   89.24234308
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbUSbAsXe
+_chemical_formula_sum   'Rb1 U1 Sb1 As1 Xe1'
+_cell_volume   196.58529832
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.99442535  -0.04703939  0.44782831  1
+  U  U1  1  0.45553464  0.46217499  0.64375387  1
+  Sb  Sb2  1  0.94410863  0.64908327  0.94448533  1
+  As  As3  1  0.95893750  0.52155846  0.37128000  1
+  Xe  Xe4  1  0.46916630  0.15238448  -0.02388167  1

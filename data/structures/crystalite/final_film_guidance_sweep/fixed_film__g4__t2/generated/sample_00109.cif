@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_SrPN(ClF4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43852901
+_cell_length_b   7.09206200
+_cell_length_c   7.90430355
+_cell_angle_alpha   64.85359192
+_cell_angle_beta   65.91213226
+_cell_angle_gamma   61.68697357
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrPN(ClF4)3
+_chemical_formula_sum   'Sr1 P1 N1 Cl3 F12'
+_cell_volume   234.65626307
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.47836506  0.88187432  0.22329578  1
+  F  F1  1  0.64136958  0.21063557  0.91692990  1
+  Cl  Cl2  1  0.37821999  0.57028580  0.98891115  1
+  Cl  Cl3  1  0.41592303  0.47932523  0.78694284  1
+  F  F4  1  0.74623656  0.80616033  0.86850238  1
+  F  F5  1  0.43073896  0.74836898  0.91815639  1
+  F  F6  1  0.82534218  0.36722136  0.29996866  1
+  P  P7  1  0.53033590  0.84716249  0.84735459  1
+  F  F8  1  0.25752294  0.14199394  0.92259276  1
+  F  F9  1  0.37409833  0.59885812  0.43992105  1
+  F  F10  1  0.50080901  0.20377114  0.94820499  1
+  F  F11  1  0.54262888  0.30858779  0.43187657  1
+  F  F12  1  0.39077395  0.25137535  0.36665678  1
+  F  F13  1  0.24634448  0.36307907  0.30480772  1
+  F  F14  1  0.22251731  0.46790284  0.16225800  1
+  Sr  Sr15  1  0.98998535  0.76848662  0.72228914  1
+  F  F16  1  0.23832753  0.73753268  0.52095765  1
+  N  N17  1  0.42319280  0.94653833  0.36969513  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_ZrCuBiPbSeS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77141047
+_cell_length_b   5.79858685
+_cell_length_c   7.54476070
+_cell_angle_alpha   114.06823730
+_cell_angle_beta   113.40026855
+_cell_angle_gamma   90.32080841
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCuBiPbSeS3
+_chemical_formula_sum   'Zr1 Cu1 Bi1 Pb1 Se1 S3'
+_cell_volume   207.30661120
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.81453037  0.51553404  0.54708743  1
+  Bi  Bi1  1  0.35545367  0.57903421  0.58953571  1
+  Zr  Zr2  1  0.10240814  0.81839573  0.06043050  1
+  Se  Se3  1  0.61936033  0.79386830  0.06284580  1
+  S  S4  1  0.33243400  0.02092659  0.54108250  1
+  Pb  Pb5  1  0.85655355  0.11775845  0.62207496  1
+  S  S6  1  0.10123968  0.28607112  0.08110598  1
+  Cu  Cu7  1  0.56367326  0.23997355  0.08692750  1

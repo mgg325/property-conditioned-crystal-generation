@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba3BH2(SeO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04560208
+_cell_length_b   7.10340347
+_cell_length_c   7.71284634
+_cell_angle_alpha   104.11900343
+_cell_angle_beta   90.83622967
+_cell_angle_gamma   113.36203388
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3BH2(SeO5)2
+_chemical_formula_sum   'Ba3 B1 H2 Se2 O10'
+_cell_volume   292.56865458
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.35889133  0.30834074  0.68482788  1
+  Ba  Ba1  1  0.77542726  0.06816069  0.25554132  1
+  Ba  Ba2  1  0.11727865  0.69768127  0.96706566  1
+  B  B3  1  0.58274927  0.51626342  0.15464490  1
+  H  H4  1  0.55355547  0.55095764  0.40330211  1
+  H  H5  1  0.19796096  0.44158058  0.16953122  1
+  Se  Se6  1  0.09839729  0.75466589  0.44270303  1
+  Se  Se7  1  0.69050093  0.00243698  0.77886627  1
+  O  O8  1  0.79738071  0.69090319  0.17360575  1
+  O  O9  1  0.08106954  0.44632013  0.25906348  1
+  O  O10  1  0.40160260  0.45576797  0.02408203  1
+  O  O11  1  0.99395632  -0.04579093  0.52513738  1
+  O  O12  1  0.54725113  0.42473399  0.31149669  1
+  O  O13  1  0.38053262  0.92555941  0.40877810  1
+  O  O14  1  0.15994027  0.66957992  0.61987595  1
+  O  O15  1  0.51998300  0.05663463  0.95040180  1
+  O  O16  1  0.79393852  0.84566724  0.86436594  1
+  O  O17  1  0.91413628  0.25837363  0.80571113  1

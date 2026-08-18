@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_BaEu2Cd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08617332
+_cell_length_b   4.08631632
+_cell_length_c   10.15108341
+_cell_angle_alpha   89.99890764
+_cell_angle_beta   90.00424454
+_cell_angle_gamma   90.00143026
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaEu2Cd
+_chemical_formula_sum   'Ba1 Eu2 Cd1'
+_cell_volume   169.49666642
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.32561083  0.92876912  0.72351514  1
+  Eu  Eu1  1  0.82437435  0.42919445  0.03935214  1
+  Eu  Eu2  1  0.82521134  0.42893028  0.40728823  1
+  Cd  Cd3  1  0.32486679  0.92931634  0.22372563  1

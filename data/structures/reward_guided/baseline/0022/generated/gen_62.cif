@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tb2MgTb2Dy2Tb
+_chemical_formula_sum              "Tb5 Mg1 Dy2"
+_cell_length_a       6.905295500326595
+_cell_length_b       6.972276445585957
+_cell_length_c       6.967563629150391
+_cell_angle_alpha    118.91300536977712
+_cell_angle_beta     119.07616672613942
+_cell_angle_gamma    90.81558172153102
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.9086326956748962  0.8916999101638795  0.343878835439682  1.0000
+  Tb  Tb2       1.0  0.4092930853366852  0.891152024269104  0.8408761024475098  1.0000
+  Mg  Mg1       1.0  0.908668577671051  0.892002820968628  0.8448928594589233  1.0000
+  Tb  Tb3       1.0  0.9099501371383667  0.39071872830390936  0.3438521921634674  1.0000
+  Tb  Tb4       1.0  0.40871810913085943  0.8895449042320253  0.3435141146183014  1.0000
+  Dy  Dy1       1.0  0.9097077250480652  0.3911862671375275  0.8430359363555908  1.0000
+  Dy  Dy2       1.0  0.4098122715950012  0.3901145458221436  0.8424393534660339  1.0000
+  Tb  Tb5       1.0  0.4086844027042389  0.39016884565353394  0.3442763388156891  1.0000

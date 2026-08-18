@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Tb3(ScCo)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.54479024
+_cell_length_b   8.43248939
+_cell_length_c   8.71249049
+_cell_angle_alpha   118.94304173
+_cell_angle_beta   101.76508703
+_cell_angle_gamma   90.00205474
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3(ScCo)4
+_chemical_formula_sum   'Tb3 Sc4 Co4'
+_cell_volume   221.62764699
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.74003920  0.55764350  0.94294808  1
+  Tb  Tb1  1  0.63231217  0.94910788  0.72481855  1
+  Tb  Tb2  1  0.52414146  0.33927236  0.50863815  1
+  Sc  Sc3  1  0.96469015  0.96707198  0.38980578  1
+  Sc  Sc4  1  0.29816960  0.30303727  0.06016204  1
+  Sc  Sc5  1  0.96495225  0.59451620  0.39198923  1
+  Sc  Sc6  1  0.29897913  0.92919890  0.05875293  1
+  Co  Co7  1  0.39125637  0.70752853  0.24500442  1
+  Co  Co8  1  0.87266715  0.18910020  0.20678262  1
+  Co  Co9  1  0.13205196  0.23724535  0.72577958  1
+  Co  Co10  1  0.13250971  0.65952242  0.72559694  1

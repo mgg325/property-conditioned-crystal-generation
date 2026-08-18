@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbPr(Ag2Te3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35440894
+_cell_length_b   8.58882842
+_cell_length_c   9.73635243
+_cell_angle_alpha   103.17026694
+_cell_angle_beta   102.93546178
+_cell_angle_gamma   89.99413619
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbPr(Ag2Te3)2
+_chemical_formula_sum   'Tb1 Pr1 Ag4 Te6'
+_cell_volume   345.05976523
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.65723639  0.89939064  0.08956533  1
+  Pr  Pr1  1  0.97464947  0.54786202  0.72321546  1
+  Ag  Ag2  1  -0.01295394  0.05818722  0.74693720  1
+  Ag  Ag3  1  0.31254865  0.72400298  0.40038504  1
+  Ag  Ag4  1  0.31646254  0.22165466  0.40842399  1
+  Ag  Ag5  1  0.64923984  0.38882355  1.07452012  1
+  Te  Te6  1  0.48372018  0.29069639  0.74132459  1
+  Te  Te7  1  0.48654688  0.82382834  0.74667031  1
+  Te  Te8  1  0.14930008  0.63586127  0.07373272  1
+  Te  Te9  1  0.15316946  0.14778417  0.08131220  1
+  Te  Te10  1  0.81539634  0.97056581  0.41358138  1
+  Te  Te11  1  0.81391366  0.47513520  0.39279794  1

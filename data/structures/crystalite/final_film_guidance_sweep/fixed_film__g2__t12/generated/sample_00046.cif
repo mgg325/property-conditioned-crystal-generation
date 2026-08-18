@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Hf2ZrGaGe3SbAsSBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.23879337
+_cell_length_b   6.97100735
+_cell_length_c   7.90287876
+_cell_angle_alpha   89.37801361
+_cell_angle_beta   90.14465332
+_cell_angle_gamma   90.22010803
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2ZrGaGe3SbAsSBr
+_chemical_formula_sum   'Hf2 Zr1 Ga1 Ge3 Sb1 As1 S1 Br1'
+_cell_volume   288.59047650
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  0.94620162  0.67953879  0.30598336  1
+  Hf  Hf1  1  0.26892549  0.49209586  0.56245428  1
+  Br  Br2  1  0.46717048  0.13591033  0.69173825  1
+  Ge  Ge3  1  0.49649635  0.54089767  0.20530924  1
+  Ga  Ga4  1  0.74252725  0.89021748  0.62765843  1
+  Ge  Ge5  1  0.14647442  0.24086481  0.39521202  1
+  Zr  Zr6  1  0.32043204  0.00770861  0.10091203  1
+  Hf  Hf7  1  0.85589463  0.41126156  0.07968470  1
+  Sb  Sb8  1  0.72084051  0.89215875  0.95244968  1
+  S  S9  1  0.08064529  0.66839492  0.75422382  1
+  Ge  Ge10  1  0.45196766  0.42035514  0.83432168  1

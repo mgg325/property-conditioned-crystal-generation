@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CsBeAlSiSF11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.79148693
+_cell_length_b   7.20409978
+_cell_length_c   7.58995944
+_cell_angle_alpha   63.31902131
+_cell_angle_beta   63.26865043
+_cell_angle_gamma   61.97671396
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsBeAlSiSF11
+_chemical_formula_sum   'Cs1 Be1 Al1 Si1 S1 F11'
+_cell_volume   279.15536089
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.57118256  0.02119163  0.96085434  1
+  Be  Be1  1  -0.02939274  0.90166966  0.50955364  1
+  Al  Al2  1  0.03236913  0.41104563  0.94184065  1
+  Si  Si3  1  0.52241251  0.48453143  0.42706162  1
+  S  S4  1  0.88268603  0.53472909  0.42005289  1
+  F  F5  1  0.29616122  0.44195279  0.77005907  1
+  F  F6  1  0.65005326  0.48887013  0.17889024  1
+  F  F7  1  0.79328342  0.22333219  0.48978265  1
+  F  F8  1  0.96159144  0.88591462  0.53696278  1
+  F  F9  1  0.96764376  0.82360902  0.31153624  1
+  F  F10  1  0.37852189  0.75331423  0.37976807  1
+  F  F11  1  0.15054178  0.37332013  0.12372607  1
+  F  F12  1  0.61712746  0.53374657  0.61970200  1
+  F  F13  1  0.33888789  0.38088174  0.46276151  1
+  F  F14  1  0.86845480  0.66850466  0.82528921  1
+  F  F15  1  0.02693985  0.21434402  0.88020487  1

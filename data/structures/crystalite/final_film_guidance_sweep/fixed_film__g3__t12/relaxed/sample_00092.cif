@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Tc3BiXe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.34913006
+_cell_length_b   4.39585522
+_cell_length_c   8.42401484
+_cell_angle_alpha   88.05518467
+_cell_angle_beta   88.41600393
+_cell_angle_gamma   119.89808165
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tc3BiXe
+_chemical_formula_sum   'Tc3 Bi1 Xe1'
+_cell_volume   139.35267253
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tc  Tc0  1  0.39490322  0.14360097  0.23899915  1
+  Tc  Tc1  1  0.73054858  0.81121827  0.20828095  1
+  Tc  Tc2  1  0.05699550  0.46579184  0.33441200  1
+  Bi  Bi3  1  0.02318623  0.46046758  1.00550903  1
+  Xe  Xe4  1  0.45866969  0.22944147  0.59078653  1

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       FHF3ClF2
+_chemical_formula_sum              "F6 H1 Cl1"
+_cell_length_a       5.140808492855234
+_cell_length_b       4.8924362783869215
+_cell_length_c       6.053237438201904
+_cell_angle_alpha    59.800574833228445
+_cell_angle_beta     56.80004268573876
+_cell_angle_gamma    73.59150504563178
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.7430119514465332  0.22882123291492462  0.02001616545021534  1.0000
+  H   H1        1.0  0.25838789343833923  0.7641268968582153  0.978614330291748  1.0000
+  F   F2        1.0  0.08159017562866211  0.9626403450965881  0.5393458008766174  1.0000
+  F   F3        1.0  0.7707960605621338  0.636508584022522  0.5624760389328003  1.0000
+  F   F4        1.0  0.3988114893436432  0.8799535632133484  0.9666391611099243  1.0000
+  Cl  Cl1       1.0  0.9090723991394043  0.5964850187301636  0.7709810137748718  1.0000
+  F   F5        1.0  0.05098632723093033  0.5459920167922974  0.020245637744665146  1.0000
+  F   F6        1.0  0.22755329310894012  0.4357433021068573  0.5980113744735718  1.0000

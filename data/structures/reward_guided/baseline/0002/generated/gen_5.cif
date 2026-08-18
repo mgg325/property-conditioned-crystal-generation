@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Nd3ClNdClPCl
+_chemical_formula_sum              "Nd4 Cl3 P1"
+_cell_length_a       4.215532307060375
+_cell_length_b       7.077833604255412
+_cell_length_c       7.0619330406188965
+_cell_angle_alpha    110.21549739353054
+_cell_angle_beta     89.99744118344576
+_cell_angle_gamma    90.03462473255955
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.8993474841117859  0.315322995185852  0.5774786472320557  1.0000
+  Nd  Nd2       1.0  0.3990304172039032  0.7833580970764159  0.5692253708839414  1.0000
+  Nd  Nd3       1.0  0.8989840745925903  0.7946893572807311  0.1040266752243041  1.0000
+  Cl  Cl1       1.0  0.3991556167602539  0.5551396012306213  0.8412603139877317  1.0000
+  Nd  Nd4       1.0  0.399644672870636  0.3264532387256622  0.11291822046041484  1.0000
+  Cl  Cl2       1.0  0.3991541862487793  0.05526307597756385  0.3411929905414581  1.0000
+  P   P1        1.0  0.899427056312561  0.555026352405548  0.3410960435867309  1.0000
+  Cl  Cl3       1.0  0.8991518616676331  0.055447857826948166  0.8408870100975036  1.0000

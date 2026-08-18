@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrCaSi3TcSbP3RuS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.04174423
+_cell_length_b   3.95291638
+_cell_length_c   7.46387959
+_cell_angle_alpha   82.35534668
+_cell_angle_beta   108.78305817
+_cell_angle_gamma   92.95870209
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCaSi3TcSbP3RuS
+_chemical_formula_sum   'Sr1 Ca1 Si3 Tc1 Sb1 P3 Ru1 S1'
+_cell_volume   111.88906809
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.89250255  0.84697807  0.28171891  1
+  Ca  Ca1  1  0.31522179  0.84946394  0.81271189  1
+  Si  Si2  1  0.57108670  0.89774382  0.36010638  1
+  Ru  Ru3  1  0.66631252  0.83942556  0.36443490  1
+  Sb  Sb4  1  0.23578051  0.84235907  0.32527936  1
+  Si  Si5  1  0.34772578  0.26934695  0.41742224  1
+  Tc  Tc6  1  0.73765767  0.29812929  0.32806209  1
+  P  P7  1  0.70305800  0.78988564  0.49716619  1
+  P  P8  1  0.37359929  0.21841258  0.38877439  1
+  S  S9  1  0.83173090  0.84935796  0.29703349  1
+  P  P10  1  0.31908074  0.24774709  0.41510129  1
+  Sr  Sr11  1  0.02977046  0.31798950  0.91662931  1

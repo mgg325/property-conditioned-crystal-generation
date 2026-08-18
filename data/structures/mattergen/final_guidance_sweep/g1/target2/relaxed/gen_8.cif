@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ClCd2Cl2
+_chemical_formula_sum              "Cl3 Cd2"
+_cell_length_a       4.059925721285847
+_cell_length_b       4.060290138224289
+_cell_length_c       9.764831082984562
+_cell_angle_alpha    89.99423166519344
+_cell_angle_beta     89.97962952675887
+_cell_angle_gamma    119.98930107146691
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.8466184197201944  0.785056676739327  0.7236372201410504  1.0000
+  Cd  Cd1       1.0  0.17956804399366177  0.4517099563758425  0.915303025680866  1.0000
+  Cd  Cd2       1.0  0.5130990582118561  0.11790583495303515  0.5315167085187543  1.0000
+  Cl  Cl2       1.0  0.5127070058732751  0.11780675868531332  0.04644693970976922  1.0000
+  Cl  Cl3       1.0  0.1798821059904402  0.4510530538767417  0.4005185901127981  1.0000

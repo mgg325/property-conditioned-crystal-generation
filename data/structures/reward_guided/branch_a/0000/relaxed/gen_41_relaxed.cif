@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_ZrAlGa2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91227018
+_cell_length_b   4.65749772
+_cell_length_c   3.92579300
+_cell_angle_alpha   90.00044172
+_cell_angle_beta   89.99708417
+_cell_angle_gamma   89.99988726
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrAlGa2
+_chemical_formula_sum   'Zr1 Al1 Ga2'
+_cell_volume   71.53340316
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.99452970  0.96299467  0.29511216  1
+  Al  Al1  1  0.99443530  0.46307495  0.79504459  1
+  Ga  Ga2  1  0.49446303  0.46314542  0.29511229  1
+  Ga  Ga3  1  0.49447605  0.96307488  0.79510490  1

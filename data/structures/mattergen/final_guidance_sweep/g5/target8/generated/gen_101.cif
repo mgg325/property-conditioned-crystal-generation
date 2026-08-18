@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Nb4SeNb2Se
+_chemical_formula_sum              "Nb6 Se2"
+_cell_length_a       5.152736664594874
+_cell_length_b       5.155097047494109
+_cell_length_c       5.156203746795654
+_cell_angle_alpha    89.99288544755825
+_cell_angle_beta     89.99900529686336
+_cell_angle_gamma    90.02721397730252
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.6363914608955383  0.7213040590286255  0.8720923662185669  1.0000
+  Nb  Nb2       1.0  0.8873772621154785  0.4707840085029602  0.3724159002304077  1.0000
+  Nb  Nb3       1.0  0.38736096024513245  0.47193378210067743  0.3723488450050354  1.0000
+  Nb  Nb4       1.0  0.1358351856470108  0.971590220928192  0.6218331456184387  1.0000
+  Se  Se1       1.0  0.6367393136024475  0.9712467789649962  0.37271299958229065  1.0000
+  Nb  Nb5       1.0  0.1368858367204666  0.971257746219635  0.12180982530117035  1.0000
+  Nb  Nb6       1.0  0.6366221904754639  0.220859095454216  0.8729124069213867  1.0000
+  Se  Se2       1.0  0.13637135922908783  0.47116547822952265  0.871745228767395  1.0000

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs2TlHgI6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19134958
+_cell_length_b   10.08877952
+_cell_length_c   11.77454764
+_cell_angle_alpha   105.52101995
+_cell_angle_beta   121.25833206
+_cell_angle_gamma   90.46612649
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2TlHgI6
+_chemical_formula_sum   'Cs2 Tl1 Hg1 I6'
+_cell_volume   596.05940519
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.86733421  0.43204332  0.16852089  1
+  Cs  Cs1  1  0.89915037  0.86812869  0.73037576  1
+  Tl  Tl2  1  0.18570847  0.95270830  0.25144170  1
+  Hg  Hg3  1  0.55363358  0.32038137  0.62083852  1
+  I  I4  1  0.24925862  0.06368415  0.56336032  1
+  I  I5  1  0.50779018  0.70027345  0.30279086  1
+  I  I6  1  0.33028505  0.55992133  0.63394099  1
+  I  I7  1  0.54432087  0.26458868  0.36383111  1
+  I  I8  1  0.03029857  0.33168554  0.86026698  1
+  I  I9  1  0.66256021  1.00502606  -0.00053763  1

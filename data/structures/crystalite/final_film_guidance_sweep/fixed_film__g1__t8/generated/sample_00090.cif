@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MnAlZnSi2S9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.14336252
+_cell_length_b   6.96222782
+_cell_length_c   7.76868439
+_cell_angle_alpha   89.52892303
+_cell_angle_beta   76.94242859
+_cell_angle_gamma   74.77506256
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnAlZnSi2S9
+_chemical_formula_sum   'Mn1 Al1 Zn1 Si2 S9'
+_cell_volume   311.86395093
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.56563777  0.71503812  0.24818674  1
+  Al  Al1  1  0.68080950  0.53745848  0.79048103  1
+  Zn  Zn2  1  0.22889328  0.18135542  0.01262316  1
+  S  S3  1  0.58755654  0.26136607  0.89865661  1
+  S  S4  1  0.08868402  0.29861856  0.77939713  1
+  Si  Si5  1  0.13219762  0.22505096  0.54389209  1
+  S  S6  1  0.56990641  0.80243963  0.79232156  1
+  S  S7  1  0.84786367  0.47900456  0.52446121  1
+  Mn  Mn8  1  0.24106053  0.65543795  0.46354192  1
+  S  S9  1  0.06526947  0.95432675  0.49859715  1
+  S  S10  1  0.34067994  0.29947948  0.36389798  1
+  Si  Si11  1  0.73384571  0.81954479  0.10618150  1
+  S  S12  1  0.82389188  0.04400110  0.18560824  1
+  S  S13  1  0.06549773  0.69195777  0.96880853  1

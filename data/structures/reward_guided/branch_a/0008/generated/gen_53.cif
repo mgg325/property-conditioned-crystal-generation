@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cd2ZnGaHgGaHgGaHg2
+_chemical_formula_sum              "Cd2 Zn1 Ga3 Hg4"
+_cell_length_a       5.827690484348458
+_cell_length_b       6.204185712134361
+_cell_length_c       6.861209869384766
+_cell_angle_alpha    89.31293333621254
+_cell_angle_beta     114.7007586209132
+_cell_angle_gamma    101.83324465942846
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.3875918090343476  0.505162239074707  0.5244203805923462  1.0000
+  Cd  Cd2       1.0  0.08783150464296341  0.07323506474494933  0.6749348044395447  1.0000
+  Zn  Zn1       1.0  0.5594380497932434  0.33572140336036677  0.004697525408118963  1.0000
+  Ga  Ga1       1.0  0.832326650619507  0.6897456049919128  0.905256450176239  1.0000
+  Hg  Hg1       1.0  0.5913057923316956  0.06172962486743927  0.6888096928596497  1.0000
+  Ga  Ga2       1.0  0.15134264528751373  0.8825393915176392  0.29052403569221497  1.0000
+  Hg  Hg2       1.0  0.6316158771514893  0.9468642473220825  0.24291925132274633  1.0000
+  Ga  Ga3       1.0  0.289590984582901  0.671331524848938  0.8791512846946716  1.0000
+  Hg  Hg3       1.0  0.10030778497457503  0.2931897044181823  0.08854030072689056  1.0000
+  Hg  Hg4       1.0  0.8389043211936952  0.4983168840408325  0.4416804909706116  1.0000

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na7Tl4Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.71540947
+_cell_length_b   9.51895823
+_cell_length_c   9.06736732
+_cell_angle_alpha   121.66088845
+_cell_angle_beta   105.07177066
+_cell_angle_gamma   89.99928757
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na7Tl4Au
+_chemical_formula_sum   'Na7 Tl4 Au1'
+_cell_volume   329.86211757
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.73644346  0.00826588  0.61917251  1
+  Na  Na1  1  0.89076563  0.42201553  0.92787478  1
+  Na  Na2  1  0.22472640  0.75611509  0.59578043  1
+  Na  Na3  1  0.55685152  0.08760635  0.25988103  1
+  Na  Na4  1  0.04528717  0.83565664  0.23682636  1
+  Na  Na5  1  0.04546421  0.31719281  0.23715290  1
+  Na  Na6  1  0.73602220  0.52645591  0.61832543  1
+  Tl  Tl7  1  0.39099753  0.14740043  0.92823235  1
+  Tl  Tl8  1  0.55022170  0.58155813  0.24669759  1
+  Tl  Tl9  1  0.23134076  0.26229856  0.60902111  1
+  Tl  Tl10  1  0.39059825  0.69633974  0.92745637  1
+  Au  Au11  1  0.89084172  0.92183598  0.92788855  1

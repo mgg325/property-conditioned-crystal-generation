@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_MnTl3Cd2F9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.26967253
+_cell_length_b   6.26722913
+_cell_length_c   7.68501441
+_cell_angle_alpha   89.97860691
+_cell_angle_beta   90.00486958
+_cell_angle_gamma   120.02052799
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnTl3Cd2F9
+_chemical_formula_sum   'Mn1 Tl3 Cd2 F9'
+_cell_volume   261.46035233
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.75239964  0.64220649  0.42350012  1
+  Tl  Tl1  1  0.41885578  0.97499420  0.58970732  1
+  Tl  Tl2  1  0.08623684  0.30737515  0.25223040  1
+  Tl  Tl3  1  0.75079958  0.64044660  0.92347140  1
+  Cd  Cd4  1  0.08557069  0.30843989  0.74771248  1
+  Cd  Cd5  1  0.41914063  0.97546616  0.09663740  1
+  F  F6  1  0.75245037  0.14154684  0.92210702  1
+  F  F7  1  0.59028495  0.80361121  0.26259749  1
+  F  F8  1  0.25234596  0.14204709  0.92264624  1
+  F  F9  1  0.59024624  0.31733346  0.26356970  1
+  F  F10  1  0.07713756  0.80356343  0.26375727  1
+  F  F11  1  0.91385003  0.47912563  0.58290885  1
+  F  F12  1  0.91590111  0.96546897  0.58294049  1
+  F  F13  1  0.25262380  0.64127027  0.92293864  1
+  F  F14  1  0.42736058  0.47851389  0.58186008  1

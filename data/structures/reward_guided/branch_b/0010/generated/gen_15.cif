@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sm2Sb2AgSbAgSb
+_chemical_formula_sum              "Sm2 Sb4 Ag2"
+_cell_length_a       4.375640432993037
+_cell_length_b       4.499686778455874
+_cell_length_c       10.41700553894043
+_cell_angle_alpha    89.88464062215732
+_cell_angle_beta     91.08460230778773
+_cell_angle_gamma    89.82391340205118
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.811812162399292  0.9120083451271057  0.6775962710380554  1.0000
+  Sm  Sm2       1.0  0.3119916617870331  0.4090351462364196  0.1556810736656189  1.0000
+  Sb  Sb1       1.0  0.8123387098312378  0.9112082123756409  0.2373717725276947  1.0000
+  Sb  Sb2       1.0  0.31113487482070923  0.40911126136779785  0.5960907340049744  1.0000
+  Ag  Ag1       1.0  0.8120213747024536  0.40894386172294617  0.4173206388950348  1.0000
+  Sb  Sb3       1.0  0.31251341104507446  0.9074281454086303  0.915436863899231  1.0000
+  Ag  Ag2       1.0  0.3129887580871582  0.9104813337326049  0.4168957471847534  1.0000
+  Sb  Sb4       1.0  0.8109209537506104  0.4111730456352234  0.9162541627883911  1.0000

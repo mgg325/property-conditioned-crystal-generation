@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ca4GaSnGeBiP3Se4S4Xe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.87325594
+_cell_length_b   6.85648589
+_cell_length_c   9.64706897
+_cell_angle_alpha   85.58127060
+_cell_angle_beta   93.14586645
+_cell_angle_gamma   108.34473135
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca4GaSnGeBiP3Se4S4Xe
+_chemical_formula_sum   'Ca4 Ga1 Sn1 Ge1 Bi1 P3 Se4 S4 Xe1'
+_cell_volume   367.45494782
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.45906152  0.94615401  0.27807380  1
+  Ca  Ca1  1  0.45212804  0.49610860  0.76415118  1
+  Ca  Ca2  1  0.60900203  0.39903383  0.38506783  1
+  Ca  Ca3  1  0.55920749  0.87524325  0.90421535  1
+  Ga  Ga4  1  0.68862635  0.24075096  0.65327043  1
+  Sn  Sn5  1  0.83939587  0.89050544  0.69808408  1
+  Ge  Ge6  1  0.84194228  0.89261108  0.66218764  1
+  Bi  Bi7  1  0.28824100  0.96035091  0.68451324  1
+  P  P8  1  0.95822815  0.56709027  0.59889396  1
+  P  P9  1  0.92653084  0.96493566  0.26398594  1
+  P  P10  1  0.35089288  0.68844249  0.53427577  1
+  Se  Se11  1  1.03564587  0.69168500  0.33416492  1
+  Se  Se12  1  0.02374348  0.59032361  0.08655242  1
+  Se  Se13  1  0.07401131  -0.00224497  -0.03105071  1
+  Se  Se14  1  0.41562156  0.40556810  0.05010857  1
+  S  S15  1  -0.04059992  0.27686238  0.05076131  1
+  S  S16  1  0.65051891  0.68515561  0.14093107  1
+  S  S17  1  0.05669974  0.16745071  0.40816778  1
+  S  S18  1  0.07859999  0.24787584  0.66765750  1
+  Xe  Xe19  1  0.91200299  0.30375858  0.95465781  1

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CaHAsBe
+_chemical_formula_sum              "Ca1 H1 As1 Be1"
+_cell_length_a       3.8851287652139037
+_cell_length_b       3.8863173176964954
+_cell_length_c       4.484291805638638
+_cell_angle_alpha    90.00521648516657
+_cell_angle_beta     89.95556795333808
+_cell_angle_gamma    120.00346009617299
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.2982201058097874  0.4617757343344983  0.07906756020590003  1.0000
+  H   H1        1.0  0.631457362219181  0.12840569954395153  0.9737469524010147  1.0000
+  As  As1       1.0  0.9651475230468047  0.7947269041114281  0.5466355749469887  1.0000
+  Be  Be1       1.0  0.6314469159609732  0.12817653298085677  0.6391460358852632  1.0000

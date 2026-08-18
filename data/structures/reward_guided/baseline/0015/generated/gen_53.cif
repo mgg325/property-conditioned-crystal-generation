@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pr2InTbTmIn3
+_chemical_formula_sum              "Pr2 In4 Tb1 Tm1"
+_cell_length_a       5.374850732982454
+_cell_length_b       5.37588573166389
+_cell_length_c       9.317422866821289
+_cell_angle_alpha    73.34116380207274
+_cell_angle_beta     74.11786559182097
+_cell_angle_gamma    59.68458465142141
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.19642290472984314  0.858462929725647  0.32650116086006165  1.0000
+  Pr  Pr2       1.0  0.6988500356674194  0.36110934615135193  0.8229509592056274  1.0000
+  In  In1       1.0  0.5718385577201843  0.2349066138267517  0.20130054652690887  1.0000
+  Tb  Tb1       1.0  0.9477882981300353  0.6110501289367676  0.07432635873556137  1.0000
+  Tm  Tm1       1.0  0.4461685419082641  0.11060439795255661  0.5737057328224182  1.0000
+  In  In2       1.0  0.8217909336090088  0.4852256178855896  0.45108699798583984  1.0000
+  In  In3       1.0  0.07320913672447209  0.7355356216430664  0.698372483253479  1.0000
+  In  In4       1.0  0.3225807845592499  0.9850340485572815  0.9483369588851929  1.0000

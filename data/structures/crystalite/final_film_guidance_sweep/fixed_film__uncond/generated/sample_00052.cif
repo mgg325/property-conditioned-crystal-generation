@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_MgAl4HgO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.38934708
+_cell_length_b   3.47338700
+_cell_length_c   11.28196716
+_cell_angle_alpha   90.01226807
+_cell_angle_beta   89.97801208
+_cell_angle_gamma   89.96752930
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgAl4HgO5
+_chemical_formula_sum   'Mg1 Al4 Hg1 O5'
+_cell_volume   132.81708316
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.95728171  0.86656189  0.64054066  1
+  Al  Al1  1  0.45453367  0.36885726  0.26949498  1
+  Mg  Mg2  1  0.45690045  0.86832142  0.58936429  1
+  Hg  Hg3  1  0.95851785  0.87085295  0.96163464  1
+  Al  Al4  1  0.45800328  0.36604214  0.92919332  1
+  Al  Al5  1  0.96070337  0.86722338  0.34332865  1
+  O  O6  1  0.95559800  0.36841470  0.43374762  1
+  O  O7  1  0.45567343  0.37413394  0.74374050  1
+  O  O8  1  0.96185666  0.87863219  0.21659979  1
+  Al  Al9  1  0.95966601  0.37460876  0.62379718  1
+  O  O10  1  0.45643532  0.37389719  0.11505020  1

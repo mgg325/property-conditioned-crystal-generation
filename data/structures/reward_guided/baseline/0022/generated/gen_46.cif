@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Hf2MoPt
+_chemical_formula_sum              "Hf2 Mo1 Pt1"
+_cell_length_a       3.3125216880297415
+_cell_length_b       3.3337152532883274
+_cell_length_c       6.419186115264893
+_cell_angle_alpha    90.29251219660271
+_cell_angle_beta     89.38746432832261
+_cell_angle_gamma    90.14014433758973
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.64095139503479  0.8302738070487976  0.09769545495510101  1.0000
+  Hf  Hf2       1.0  0.64171302318573  0.8319949507713318  0.6065590977668762  1.0000
+  Mo  Mo1       1.0  0.14255385100841522  0.33050277829170227  0.851525604724884  1.0000
+  Pt  Pt1       1.0  0.14088255167007446  0.3326999545097351  0.3529927432537079  1.0000

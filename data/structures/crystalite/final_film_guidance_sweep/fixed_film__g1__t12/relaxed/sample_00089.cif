@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Sn5Ge(Au3Se2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.71507195
+_cell_length_b   6.87634450
+_cell_length_c   9.01725521
+_cell_angle_alpha   88.32815452
+_cell_angle_beta   92.43981007
+_cell_angle_gamma   88.95179219
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sn5Ge(Au3Se2)2
+_chemical_formula_sum   'Sn5 Ge1 Au6 Se4'
+_cell_volume   415.73900082
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.89321439  0.62487578  0.84935127  1
+  Sn  Sn1  1  0.44257174  0.47950578  0.10271243  1
+  Sn  Sn2  1  0.67079879  0.00997314  0.63809437  1
+  Sn  Sn3  1  0.01354711  0.22571082  0.47670749  1
+  Sn  Sn4  1  0.35142219  -0.00445029  0.92319093  1
+  Ge  Ge5  1  0.78507545  0.77508124  0.16016645  1
+  Au  Au6  1  0.19310497  0.80203681  0.14707015  1
+  Au  Au7  1  0.59297944  0.31790131  0.82432490  1
+  Au  Au8  1  0.05919274  0.95181709  0.71456360  1
+  Au  Au9  1  0.10651937  0.32184635  -0.01064032  1
+  Au  Au10  1  0.64515190  0.27889750  0.34392808  1
+  Au  Au11  1  0.67157686  0.68206134  0.42197772  1
+  Se  Se12  1  0.05059286  0.62803081  0.36955587  1
+  Se  Se13  1  0.77169885  0.17175376  0.06430937  1
+  Se  Se14  1  0.50895024  0.62874000  0.67235433  1
+  Se  Se15  1  0.33106825  0.07776473  0.35082179  1

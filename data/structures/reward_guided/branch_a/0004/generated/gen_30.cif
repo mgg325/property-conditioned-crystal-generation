@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Nd2SrBi2NdSrBi2Nd
+_chemical_formula_sum              "Nd4 Sr2 Bi4"
+_cell_length_a       4.362721762180406
+_cell_length_b       8.788700987268621
+_cell_length_c       8.753480911254883
+_cell_angle_alpha    89.52034564669772
+_cell_angle_beta     89.90849163689859
+_cell_angle_gamma    89.25606512840957
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.48107704520225525  0.5942853689193726  0.7782877683639526  1.0000
+  Nd  Nd2       1.0  0.47970545291900635  0.8962742090225221  0.07953467220067978  1.0000
+  Sr  Sr1       1.0  0.9808217287063599  0.24626415967941284  0.9268797636032104  1.0000
+  Bi  Bi1       1.0  0.9810113906860352  0.5984099507331849  0.07734039425849915  1.0000
+  Bi  Bi2       1.0  0.980967104434967  0.09839655458927156  0.2812108099460602  1.0000
+  Nd  Nd3       1.0  0.48059603571891785  0.3960113525390625  0.2770802676677704  1.0000
+  Sr  Sr2       1.0  0.9799404144287109  0.7436670660972596  0.4280805289745331  1.0000
+  Bi  Bi3       1.0  0.9807350039482117  0.3920361697673798  0.5754623413085938  1.0000
+  Bi  Bi4       1.0  0.9815368056297302  0.8937443494796753  0.7811446785926819  1.0000
+  Nd  Nd4       1.0  0.4813483655452728  0.09044225513935089  0.5812631845474243  1.0000

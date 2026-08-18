@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaHo3(AgTe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29187143
+_cell_length_b   8.65782851
+_cell_length_c   9.85611480
+_cell_angle_alpha   103.38179854
+_cell_angle_beta   89.99986900
+_cell_angle_gamma   90.00394918
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaHo3(AgTe3)2
+_chemical_formula_sum   'Ca1 Ho3 Ag2 Te6'
+_cell_volume   356.29282221
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.07932607  0.93506028  0.46492567  1
+  Ho  Ho1  1  0.57936508  0.56975730  0.95318771  1
+  Ho  Ho2  1  0.07936045  0.42125209  0.38457113  1
+  Ho  Ho3  1  0.57925874  0.07975539  0.03576989  1
+  Ag  Ag4  1  0.07950582  0.83039933  0.79761972  1
+  Ag  Ag5  1  0.57947469  0.66031200  0.62885952  1
+  Te  Te6  1  0.57945196  0.65567518  0.33872780  1
+  Te  Te7  1  0.07949596  0.34130197  0.05444412  1
+  Te  Te8  1  0.57943805  0.01531600  0.72178112  1
+  Te  Te9  1  0.57925029  0.16604432  0.35985921  1
+  Te  Te10  1  0.07926887  0.83311643  0.08050724  1
+  Te  Te11  1  0.07943227  0.47127727  0.70889311  1

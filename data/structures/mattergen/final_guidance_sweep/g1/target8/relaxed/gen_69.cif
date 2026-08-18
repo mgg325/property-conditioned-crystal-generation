@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sm2PdSPdS3
+_chemical_formula_sum              "Sm2 Pd2 S4"
+_cell_length_a       4.85716490801208
+_cell_length_b       4.857055905521257
+_cell_length_c       7.275797893547172
+_cell_angle_alpha    89.91892082637342
+_cell_angle_beta     89.86535120670622
+_cell_angle_gamma    89.98309742775812
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.5984212819191949  0.3585319259912853  0.9174543144535179  1.0000
+  Sm  Sm2       1.0  0.10042242339822137  0.8597398331070819  0.547823039666934  1.0000
+  Pd  Pd1       1.0  0.6012071163457412  0.8580567602139919  0.2326373765462127  1.0000
+  S   S1        1.0  0.5996952700686528  0.8589712202906971  0.7326364730943506  1.0000
+  Pd  Pd2       1.0  0.09763356160182948  0.3601996306072759  0.23263411393689296  1.0000
+  S   S2        1.0  0.5974380618341059  0.3579365804770895  0.30693380842522255  1.0000
+  S   S3        1.0  0.09914930020181258  0.3593019845034014  0.7326415680569383  1.0000
+  S   S4        1.0  0.10140212575051756  0.8603184212289301  0.15834682104384007  1.0000

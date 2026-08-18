@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CdFHgF
+_chemical_formula_sum              "Cd1 F2 Hg1"
+_cell_length_a       3.5614120598057513
+_cell_length_b       3.570764246116847
+_cell_length_c       8.088029861450195
+_cell_angle_alpha    78.51659747688535
+_cell_angle_beta     78.33038620090899
+_cell_angle_gamma    61.212834794419095
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.8013496994972229  0.4286634027957916  0.6174057126045227  1.0000
+  F   F1        1.0  0.4293321967124939  0.05235430225729942  0.7429302930831909  1.0000
+  Hg  Hg1       1.0  0.9701855182647705  0.5917865037918091  0.12030776590108871  1.0000
+  F   F2        1.0  0.1767100840806961  0.8051919937133789  0.4936004877090454  1.0000

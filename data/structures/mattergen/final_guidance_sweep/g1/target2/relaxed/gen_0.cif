@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       BeBAs2
+_chemical_formula_sum              "Be1 B1 As2"
+_cell_length_a       3.430914369326442
+_cell_length_b       3.428331294833022
+_cell_length_c       5.222996513627294
+_cell_angle_alpha    89.98901200210969
+_cell_angle_beta     89.99663395326323
+_cell_angle_gamma    90.00215358729403
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.4556798607522825  0.601447595398092  0.5629637339712797  1.0000
+  B   B1        1.0  0.9556139623201095  0.10165436889871275  0.06328010817665121  1.0000
+  As  As1       1.0  0.9556818769553154  0.6016283725380677  0.2919230470641929  1.0000
+  As  As2       1.0  0.4556181076335931  0.10141585159916287  0.8351029540190241  1.0000

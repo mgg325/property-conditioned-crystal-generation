@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_SbRh2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55274961
+_cell_length_b   4.55787024
+_cell_length_c   4.55823125
+_cell_angle_alpha   59.93307722
+_cell_angle_beta   60.04200690
+_cell_angle_gamma   60.07615206
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SbRh2Au
+_chemical_formula_sum   'Sb1 Rh2 Au1'
+_cell_volume   66.90887378
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.01211648  0.32505784  0.32715528  1
+  Rh  Rh1  1  0.26252861  0.57522360  0.57632248  1
+  Rh  Rh2  1  0.76295188  0.07416730  0.07651578  1
+  Au  Au3  1  0.51195259  0.82428358  0.82637882  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CaXeO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.54991421
+_cell_length_b   5.03169282
+_cell_length_c   5.73220984
+_cell_angle_alpha   64.57818839
+_cell_angle_beta   65.26380030
+_cell_angle_gamma   63.40298298
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaXeO7
+_chemical_formula_sum   'Ca1 Xe1 O7'
+_cell_volume   101.73845622
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.19566484  0.63386246  0.59698982  1
+  Xe  Xe1  1  0.30938143  0.78178100  0.38254356  1
+  O  O2  1  0.00950541  0.59221395  0.07768046  1
+  O  O3  1  0.51803829  0.98005969  0.41283117  1
+  O  O4  1  0.27806473  0.71866424  0.37484921  1
+  O  O5  1  0.13874142  0.30709473  0.56682126  1
+  O  O6  1  0.00336311  0.06409030  0.02016358  1
+  O  O7  1  0.08115633  0.19280352  0.41407206  1
+  O  O8  1  0.32661387  0.74870483  0.81770436  1

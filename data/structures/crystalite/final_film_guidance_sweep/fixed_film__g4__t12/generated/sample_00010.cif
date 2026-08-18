@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_AcTc10Xe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   17.97678566
+_cell_length_b   12.88025761
+_cell_length_c   5.74999762
+_cell_angle_alpha   137.60598755
+_cell_angle_beta   82.34473419
+_cell_angle_gamma   92.59354401
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcTc10Xe
+_chemical_formula_sum   'Ac1 Tc10 Xe1'
+_cell_volume   886.83758603
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Xe  Xe0  1  0.17959771  0.49271947  0.45861483  1
+  Tc  Tc1  1  0.33443990  0.04235327  0.96763873  1
+  Ac  Ac2  1  0.89791512  0.63517880  0.21456930  1
+  Tc  Tc3  1  0.61876464  0.53443336  0.46483985  1
+  Tc  Tc4  1  0.70096380  0.24042898  0.94190377  1
+  Tc  Tc5  1  0.78447247  0.08161101  0.20845166  1
+  Tc  Tc6  1  0.66128349  0.70730668  0.87070143  1
+  Tc  Tc7  1  0.28412247  0.60239959  0.09386262  1
+  Tc  Tc8  1  0.35313264  0.02427116  0.35584173  1
+  Tc  Tc9  1  0.85507864  0.09275946  0.59085101  1
+  Tc  Tc10  1  0.20456335  0.96199834  0.62404865  1
+  Tc  Tc11  1  0.06844199  0.56058496  0.78671741  1

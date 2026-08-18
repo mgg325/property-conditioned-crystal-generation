@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Cu3Ni(SeO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35776949
+_cell_length_b   5.39873266
+_cell_length_c   8.68175030
+_cell_angle_alpha   90.52828217
+_cell_angle_beta   97.50054169
+_cell_angle_gamma   89.68811798
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu3Ni(SeO6)2
+_chemical_formula_sum   'Cu3 Ni1 Se2 O12'
+_cell_volume   202.49250842
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.50745028  0.92758632  0.53480673  1
+  O  O1  1  0.99455535  0.06668654  0.66553932  1
+  Cu  Cu2  1  0.17540747  0.20265859  0.88584328  1
+  Cu  Cu3  1  0.68071592  0.73275459  0.79240048  1
+  O  O4  1  0.95929730  0.56096524  0.60774058  1
+  O  O5  1  0.92305076  0.54271436  0.96068650  1
+  Se  Se6  1  0.73980653  0.16247812  0.14199060  1
+  O  O7  1  0.45352477  0.91901779  0.87254703  1
+  O  O8  1  0.94663072  0.04369625  0.99322093  1
+  Ni  Ni9  1  0.71226591  0.69375807  0.42161414  1
+  O  O10  1  0.44588581  0.39176399  0.06552926  1
+  Se  Se11  1  0.23500839  0.25758326  0.56530285  1
+  O  O12  1  0.99112511  0.99355763  0.31393179  1
+  O  O13  1  0.43722394  0.42244619  0.42990637  1
+  O  O14  1  0.94240767  0.51602346  0.29261684  1
+  Cu  Cu15  1  0.18555039  0.67297626  0.12279516  1
+  O  O16  1  0.44179991  0.41951138  0.72519469  1
+  O  O17  1  0.50470412  0.89985222  0.19364095  1

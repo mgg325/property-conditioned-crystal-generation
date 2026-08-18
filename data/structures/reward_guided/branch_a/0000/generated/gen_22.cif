@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Au3PrAu2
+_chemical_formula_sum              "Au5 Pr1"
+_cell_length_a       4.963979408228076
+_cell_length_b       4.897831364845282
+_cell_length_c       5.591562271118164
+_cell_angle_alpha    89.16076344218935
+_cell_angle_beta     115.7789987835699
+_cell_angle_gamma    89.99167649441252
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.6055463552474976  0.04094430431723595  0.9954535961151122  1.0000
+  Au  Au2       1.0  0.461025595664978  0.5401278734207153  0.704192578792572  1.0000
+  Au  Au3       1.0  0.9482042789459229  0.03773222491145134  0.6801075339317322  1.0000
+  Pr  Pr1       1.0  0.27705657482147217  0.03785545378923416  0.3399201035499573  1.0000
+  Au  Au4       1.0  0.09372974932193756  0.5388191342353821  0.9730524420738219  1.0000
+  Au  Au5       1.0  0.7764672636985779  0.5394384860992432  0.33950796723365784  1.0000

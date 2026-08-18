@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Zn2Cd3Bi3SbAs(SeS)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31923246
+_cell_length_b   4.12753487
+_cell_length_c   5.88195276
+_cell_angle_alpha   88.33517456
+_cell_angle_beta   108.71827698
+_cell_angle_gamma   93.47957611
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2Cd3Bi3SbAs(SeS)3
+_chemical_formula_sum   'Zn2 Cd3 Bi3 Sb1 As1 Se3 S3'
+_cell_volume   99.12762601
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.77535725  0.61465549  0.85475731  1
+  S  S1  1  0.20435578  0.87600136  0.55587029  1
+  Sb  Sb2  1  0.42036673  0.75627303  0.82105160  1
+  Se  Se3  1  0.24064374  0.42988449  0.05149019  1
+  Zn  Zn4  1  0.76285422  0.68405443  0.09647536  1
+  Bi  Bi5  1  0.96864951  0.75541627  0.38801992  1
+  S  S6  1  0.84067792  0.74396336  0.30864823  1
+  Cd  Cd7  1  0.32949042  0.21753865  0.17386419  1
+  As  As8  1  0.99243832  0.22872970  0.64380038  1
+  Se  Se9  1  0.43864086  0.04317662  0.03424811  1
+  Bi  Bi10  1  0.42222992  0.20520645  0.48289311  1
+  Se  Se11  1  0.55960345  0.01839107  0.86601353  1
+  Bi  Bi12  1  0.97374177  0.23747656  0.23437834  1
+  Zn  Zn13  1  0.34347886  0.70492494  0.32750201  1
+  S  S14  1  0.69099480  0.29987031  0.60479176  1
+  Cd  Cd15  1  0.91346765  0.67826104  0.58344805  1

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AgCaHgTl
+_chemical_formula_sum              "Ag1 Ca1 Hg1 Tl1"
+_cell_length_a       4.56267281484995
+_cell_length_b       4.656645880013525
+_cell_length_c       4.57899284362793
+_cell_angle_alpha    90.96191166388532
+_cell_angle_beta     90.23636122061173
+_cell_angle_gamma    90.00920276969516
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.4376906156539917  0.4278627038002014  0.19230106472969055  1.0000
+  Ca  Ca1       1.0  0.4384739398956299  0.9279767274856567  0.693098783493042  1.0000
+  Hg  Hg1       1.0  0.9380382895469666  0.9268749356269836  0.19188323616981506  1.0000
+  Tl  Tl1       1.0  0.9386704564094543  0.4268520772457123  0.6927789449691772  1.0000

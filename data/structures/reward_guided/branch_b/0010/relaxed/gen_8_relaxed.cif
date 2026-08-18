@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiHo2MgPb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23015316
+_cell_length_b   6.23241708
+_cell_length_c   8.62125899
+_cell_angle_alpha   111.16622947
+_cell_angle_beta   89.99037248
+_cell_angle_gamma   90.01051871
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiHo2MgPb2
+_chemical_formula_sum   'Li2 Ho4 Mg2 Pb4'
+_cell_volume   312.17051828
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.28375850  0.56894613  0.69537899  1
+  Li  Li1  1  0.28316904  0.06856097  0.69464448  1
+  Ho  Ho2  1  0.02534920  0.14650715  0.34985386  1
+  Ho  Ho3  1  0.02542999  0.49017100  0.04066005  1
+  Ho  Ho4  1  0.54189010  0.64591942  0.34950193  1
+  Ho  Ho5  1  0.54155728  0.99131633  0.04115759  1
+  Mg  Mg6  1  0.78386823  0.56801757  0.69513587  1
+  Mg  Mg7  1  0.78327879  0.06808987  0.69525831  1
+  Pb  Pb8  1  0.04276444  0.94889986  0.95728101  1
+  Pb  Pb9  1  0.52411681  0.44878549  0.95775625  1
+  Pb  Pb10  1  0.04319022  0.68784108  0.43320953  1
+  Pb  Pb11  1  0.52438423  0.18814592  0.43329827  1

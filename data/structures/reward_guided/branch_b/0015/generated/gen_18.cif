@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       In3Pd2Au2In
+_chemical_formula_sum              "In4 Pd2 Au2"
+_cell_length_a       3.5710329464589896
+_cell_length_b       5.254811838700232
+_cell_length_c       9.087957382202148
+_cell_angle_alpha    89.54849971688583
+_cell_angle_beta     91.83187300131242
+_cell_angle_gamma    109.1582931247192
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.8238248229026794  0.7985106110572815  0.7869533896446228  1.0000
+  In  In2       1.0  0.7494948506355286  0.657662034034729  0.2821567952632904  1.0000
+  In  In3       1.0  0.45253458619117737  0.06224076449871063  0.07550173997879028  1.0000
+  Pd  Pd1       1.0  0.03264417126774789  0.22169388830661776  0.29151779413223267  1.0000
+  Pd  Pd2       1.0  0.5393230319023132  0.23743727803230286  0.7917135953903198  1.0000
+  Au  Au1       1.0  0.1758597493171692  0.5120896100997925  0.0021076444536447525  1.0000
+  Au  Au2       1.0  0.3943847119808197  0.9419696927070618  0.5026368498802185  1.0000
+  In  In4       1.0  0.11706625670194626  0.3952901065349579  0.5781469345092773  1.0000

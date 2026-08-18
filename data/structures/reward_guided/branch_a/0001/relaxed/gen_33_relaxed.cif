@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Pr2(ZnAg)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67024605
+_cell_length_b   7.33797239
+_cell_length_c   8.33908266
+_cell_angle_alpha   90.39880914
+_cell_angle_beta   89.19042906
+_cell_angle_gamma   85.51157893
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2(ZnAg)3
+_chemical_formula_sum   'Pr4 Zn6 Ag6'
+_cell_volume   345.86349770
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.14117183  0.64343074  0.11774627  1
+  Pr  Pr1  1  0.64384793  0.14064038  0.71457156  1
+  Pr  Pr2  1  0.88150025  0.62218454  0.61730170  1
+  Pr  Pr3  1  0.39087768  0.12120810  0.21331983  1
+  Zn  Zn4  1  0.18701772  0.92731520  0.81837816  1
+  Zn  Zn5  1  0.13277264  0.30204321  0.88266876  1
+  Zn  Zn6  1  0.62142677  0.80362271  0.95812188  1
+  Zn  Zn7  1  0.39700539  0.46108323  0.44813199  1
+  Zn  Zn8  1  0.89506043  0.95590782  0.37672572  1
+  Zn  Zn9  1  0.63929076  0.69345797  0.26722652  1
+  Ag  Ag10  1  0.89910836  0.06060169  0.05940481  1
+  Ag  Ag11  1  0.38160979  0.57096160  0.76562005  1
+  Ag  Ag12  1  0.34885163  0.83324835  0.50182393  1
+  Ag  Ag13  1  0.85123826  0.33759214  0.32329983  1
+  Ag  Ag14  1  0.67849737  0.43013113  0.00995344  1
+  Ag  Ag15  1  0.14212139  0.19451398  0.56909843  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CaSmSO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21911436
+_cell_length_b   6.36863863
+_cell_length_c   7.80403906
+_cell_angle_alpha   109.63180664
+_cell_angle_beta   90.00378977
+_cell_angle_gamma   90.00272434
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaSmSO2
+_chemical_formula_sum   'Ca2 Sm2 S2 O4'
+_cell_volume   197.50532172
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.39113098  0.28158720  0.21871795  1
+  Ca  Ca1  1  0.89110368  0.62037430  0.05904367  1
+  Sm  Sm2  1  0.39115939  0.27172107  0.71333457  1
+  Sm  Sm3  1  0.89110213  0.62930090  0.56459454  1
+  S  S4  1  0.89063630  0.00044492  0.41721700  1
+  S  S5  1  0.39169836  0.90064330  0.86093735  1
+  O  O6  1  0.39102735  0.46327044  0.01166776  1
+  O  O7  1  0.89118420  0.41925560  0.75356731  1
+  O  O8  1  0.89120283  0.43865678  0.26607778  1
+  O  O9  1  0.39110555  0.48158400  0.52428108  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Li4CaTiCu3B2CO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.50014489
+_cell_length_b   5.68591886
+_cell_length_c   10.50636271
+_cell_angle_alpha   90.68863404
+_cell_angle_beta   97.89353010
+_cell_angle_gamma   95.80417708
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4CaTiCu3B2CO6
+_chemical_formula_sum   'Li4 Ca1 Ti1 Cu3 B2 C1 O6'
+_cell_volume   205.97862884
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.76791620  0.85058160  0.98210972  1
+  Li  Li1  1  0.24455766  0.48256674  0.98275167  1
+  Li  Li2  1  0.27187676  0.45652257  0.71187338  1
+  Li  Li3  1  0.94311285  0.29593398  0.49175854  1
+  Ca  Ca4  1  0.49522997  0.15751702  0.19879241  1
+  Ti  Ti5  1  0.56433698  -0.11565341  0.63642578  1
+  Cu  Cu6  1  0.22433974  0.04240861  0.80683055  1
+  Cu  Cu7  1  0.62466431  0.65428365  0.41608012  1
+  Cu  Cu8  1  1.14398002  0.91061941  0.37256956  1
+  B  B9  1  0.74629123  0.21353218  0.88877807  1
+  B  B10  1  0.17559454  0.63870029  0.23593317  1
+  C  C11  1  0.76794563  0.20440888  0.75215626  1
+  O  O12  1  0.40408584  0.11586946  0.51106102  1
+  O  O13  1  0.81956705  0.19995277  0.01738604  1
+  O  O14  1  0.19183683  0.73049931  0.11332314  1
+  O  O15  1  -0.04395540  0.69393777  0.59481125  1
+  O  O16  1  1.05721667  0.40133708  0.25091074  1
+  O  O17  1  0.50387379  0.74126479  0.80823604  1

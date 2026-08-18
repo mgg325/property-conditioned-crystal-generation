@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ba2FeZnO4
+_chemical_formula_sum              "Ba2 Fe1 Zn1 O4"
+_cell_length_a       4.048779523931339
+_cell_length_b       4.052333538492433
+_cell_length_c       7.951467990875244
+_cell_angle_alpha    90.06449998189062
+_cell_angle_beta     89.99232537237799
+_cell_angle_gamma    89.97626759698441
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.789840817451477  0.31996563076972967  0.28014129400253296  1.0000
+  Ba  Ba2       1.0  0.28917786478996277  0.8191213011741638  0.923466444015503  1.0000
+  Fe  Fe1       1.0  0.789385199546814  0.31828629970550537  0.6833925247192383  1.0000
+  Zn  Zn1       1.0  0.28970205783843994  0.8201742172241211  0.5132747292518616  1.0000
+  O   O1        1.0  0.7895564436912537  0.8190552592277527  0.6019060611724854  1.0000
+  O   O2        1.0  0.2893149256706238  0.8188121914863586  0.25723159313201904  1.0000
+  O   O3        1.0  0.7895174026489258  0.31893056631088257  0.9455312490463258  1.0000
+  O   O4        1.0  0.2897385060787201  0.3192272186279297  0.6011927723884583  1.0000

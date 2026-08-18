@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_La5Nd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.26541701
+_cell_length_b   6.45163698
+_cell_length_c   7.44873831
+_cell_angle_alpha   106.72748326
+_cell_angle_beta   89.98157498
+_cell_angle_gamma   114.06678197
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La5Nd
+_chemical_formula_sum   'La5 Nd1'
+_cell_volume   219.27346999
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.90707313  0.95360330  0.68998058  1
+  La  La1  1  0.57205140  0.28591011  0.52070545  1
+  La  La2  1  0.24091660  0.62126130  0.85854866  1
+  La  La3  1  0.24044836  0.62118318  0.35661658  1
+  La  La4  1  0.57421926  0.28694011  0.02412797  1
+  Nd  Nd5  1  0.90641980  0.95400877  0.18960038  1

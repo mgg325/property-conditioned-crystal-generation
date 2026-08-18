@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Na4Ho3TiTe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.70026108
+_cell_length_b   8.70071825
+_cell_length_c   9.03849653
+_cell_angle_alpha   61.29080079
+_cell_angle_beta   61.28167562
+_cell_angle_gamma   60.00252314
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4Ho3TiTe8
+_chemical_formula_sum   'Na4 Ho3 Ti1 Te8'
+_cell_volume   493.00622724
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.24894319  0.54730966  0.70324851  1
+  Na  Na1  1  0.24888594  0.04834996  0.70324474  1
+  Na  Na2  1  0.74879980  0.04753360  0.70306112  1
+  Na  Na3  1  0.74815234  0.54706947  0.70317127  1
+  Ho  Ho4  1  0.24850919  0.04749032  0.20374477  1
+  Ho  Ho5  1  0.74878848  0.04738359  0.20329220  1
+  Ho  Ho6  1  0.74892131  0.54724700  0.20353944  1
+  Ti  Ti7  1  0.24896285  0.54800019  0.20319310  1
+  Te  Te8  1  0.01453605  0.79187650  0.42734498  1
+  Te  Te9  1  0.00439609  0.78161176  0.97869219  1
+  Te  Te10  1  0.01482689  0.31352211  0.42779772  1
+  Te  Te11  1  0.48256516  0.78131767  0.97964467  1
+  Te  Te12  1  0.49349568  0.31341665  0.42739264  1
+  Te  Te13  1  0.99391391  0.29247193  0.96758222  1
+  Te  Te14  1  0.50315635  0.80218481  0.44015164  1
+  Te  Te15  1  0.48288043  0.30311421  0.97893219  1

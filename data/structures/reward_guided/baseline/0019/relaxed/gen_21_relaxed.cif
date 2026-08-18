@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrLi2ZrF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.26017307
+_cell_length_b   5.25682274
+_cell_length_c   6.66475130
+_cell_angle_alpha   113.21339284
+_cell_angle_beta   113.22187256
+_cell_angle_gamma   90.08212806
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLi2ZrF8
+_chemical_formula_sum   'Sr1 Li2 Zr1 F8'
+_cell_volume   152.94334374
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.46162412  0.56247503  0.80993429  1
+  Li  Li1  1  0.96161374  0.06156280  0.80921062  1
+  Li  Li2  1  0.71114559  0.31319393  0.31046270  1
+  Zr  Zr3  1  0.21132790  0.81190997  0.30952714  1
+  F  F4  1  0.58377174  0.10377601  0.62843874  1
+  F  F5  1  0.83158116  0.53507427  0.17985679  1
+  F  F6  1  0.48910377  0.56333893  0.43891281  1
+  F  F7  1  0.06386361  0.19117473  0.43840765  1
+  F  F8  1  0.92106660  0.86623857  0.99136112  1
+  F  F9  1  0.46166323  0.96018252  0.18106408  1
+  F  F10  1  0.15594528  0.83742758  0.62672516  1
+  F  F11  1  0.18447613  0.43881012  0.99181840  1

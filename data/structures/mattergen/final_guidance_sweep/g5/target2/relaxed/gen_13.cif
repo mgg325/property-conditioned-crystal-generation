@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       RbClF6
+_chemical_formula_sum              "Rb1 Cl1 F6"
+_cell_length_a       6.356590591870708
+_cell_length_b       6.353022630315101
+_cell_length_c       6.379836478649964
+_cell_angle_alpha    60.19435010059208
+_cell_angle_beta     60.221850292179994
+_cell_angle_gamma    60.066654823203024
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.39468485827540245  0.4086888258719539  0.2038799119066505  1.0000
+  Cl  Cl1       1.0  0.8953246360513848  0.9083052180944188  0.7039615383409632  1.0000
+  F   F1        1.0  0.09401257901266447  0.7101875328022158  0.9012985243502765  1.0000
+  F   F2        1.0  0.6977945887516316  0.10702300653377239  0.9011356354326107  1.0000
+  F   F3        1.0  0.6968314059661234  0.10657423275343249  0.5063811914399514  1.0000
+  F   F4        1.0  0.6973948652583546  0.7101525136620983  0.9012344890082751  1.0000
+  F   F5        1.0  0.09323436791970974  0.10616653103669992  0.5070205347817056  1.0000
+  F   F6        1.0  0.09318148286887258  0.709361389922284  0.5069728671637441  1.0000

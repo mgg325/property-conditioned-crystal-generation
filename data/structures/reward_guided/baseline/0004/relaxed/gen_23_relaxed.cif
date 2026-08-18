@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CaDyZnGa
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11445958
+_cell_length_b   5.11701109
+_cell_length_c   5.11471881
+_cell_angle_alpha   60.00353622
+_cell_angle_beta   60.00996068
+_cell_angle_gamma   60.02299029
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaDyZnGa
+_chemical_formula_sum   'Ca1 Dy1 Zn1 Ga1'
+_cell_volume   94.67658395
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.92558575  0.06768763  0.63281016  1
+  Dy  Dy1  1  0.42559703  0.56771727  0.13258692  1
+  Zn  Zn2  1  0.17581757  0.31795939  0.88245659  1
+  Ga  Ga3  1  0.67565935  0.81755432  0.38258278  1

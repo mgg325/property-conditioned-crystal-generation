@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ErTlLu2
+_chemical_formula_sum              "Er1 Tl1 Lu2"
+_cell_length_a       3.5169938292533742
+_cell_length_b       3.5169442097450783
+_cell_length_c       9.048151016235352
+_cell_angle_alpha    90.0227880160742
+_cell_angle_beta     90.08248386845405
+_cell_angle_gamma    90.13434549627715
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.2874102294445038  0.9568423628807067  0.23146307468414307  1.0000
+  Tl  Tl1       1.0  0.2871895730495453  0.9564735889434813  0.7314357757568359  1.0000
+  Lu  Lu1       1.0  0.7877712249755859  0.4567210674285888  0.4981463551521301  1.0000
+  Lu  Lu2       1.0  0.7878462076187134  0.45688652992248535  0.9645717740058899  1.0000

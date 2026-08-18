@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_KLiNO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96974733
+_cell_length_b   4.61191741
+_cell_length_c   4.39757802
+_cell_angle_alpha   105.51008515
+_cell_angle_beta   90.15479953
+_cell_angle_gamma   89.41986403
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLiNO2
+_chemical_formula_sum   'K1 Li1 N1 O2'
+_cell_volume   77.57557204
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00140587  0.31012814  0.35121157  1
+  Li  Li1  1  0.51121050  0.91024112  0.72772266  1
+  N  N2  1  0.58682928  0.62383522  -0.00096833  1
+  O  O3  1  0.45641168  0.72125403  0.29561892  1
+  O  O4  1  0.48811368  0.33542499  0.85993234  1

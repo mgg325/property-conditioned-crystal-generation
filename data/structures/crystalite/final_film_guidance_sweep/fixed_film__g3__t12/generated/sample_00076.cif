@@ -1,0 +1,28 @@
+# generated using pymatgen
+data_SmU
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.77071643
+_cell_length_b   2.85288095
+_cell_length_c   10.11238098
+_cell_angle_alpha   89.23186493
+_cell_angle_beta   91.42774963
+_cell_angle_gamma   122.58473206
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmU
+_chemical_formula_sum   'Sm1 U1'
+_cell_volume   67.33078237
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.96750653  0.25651717  0.94160521  1
+  U  U1  1  0.32580662  0.86927247  0.44207370  1

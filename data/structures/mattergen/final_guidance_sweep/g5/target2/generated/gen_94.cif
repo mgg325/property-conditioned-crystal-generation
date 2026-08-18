@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       KF4LiGeF2
+_chemical_formula_sum              "K1 F6 Li1 Ge1"
+_cell_length_a       5.227960609001008
+_cell_length_b       5.227909042714021
+_cell_length_c       5.690896987915039
+_cell_angle_alpha    90.26796449015474
+_cell_angle_beta     90.27799120263619
+_cell_angle_gamma    120.21852692545463
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.0006325819995254167  0.15291561186313626  0.5049989223480225  1.0000
+  F   F1        1.0  0.6396870017051697  0.18574973940849304  0.18934126198291776  1.0000
+  F   F2        1.0  0.3930331468582152  0.5132108330726622  0.18902288377285004  1.0000
+  F   F3        1.0  0.9681705832481384  0.5139127373695374  0.820954442024231  1.0000
+  F   F4        1.0  0.6404104828834534  0.7602102756500244  0.8198881149291992  1.0000
+  Li  Li1       1.0  0.33363786339759827  0.8194655776023865  0.004919557832181453  1.0000
+  Ge  Ge1       1.0  0.6667108535766602  0.4858379065990448  0.004900853615254164  1.0000
+  F   F5        1.0  0.3934284746646881  0.1862465143203735  0.8197358846664429  1.0000
+  F   F6        1.0  0.9672271609306335  0.7604731917381287  0.19030362367630005  1.0000

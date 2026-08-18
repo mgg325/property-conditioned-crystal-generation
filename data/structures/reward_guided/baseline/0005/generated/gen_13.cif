@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AsTb3AsNaAs2
+_chemical_formula_sum              "As4 Tb3 Na1"
+_cell_length_a       5.853425252412496
+_cell_length_b       5.849070421774801
+_cell_length_c       7.20367956161499
+_cell_angle_alpha    114.03366745733348
+_cell_angle_beta     114.03629162726706
+_cell_angle_gamma    89.9594519530091
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.4151164293289184  0.762406051158905  0.047794058918952886  1.0000
+  Tb  Tb1       1.0  0.4154368638992309  0.2624290883541107  0.04794868454337117  1.0000
+  Tb  Tb2       1.0  0.16576041281223297  0.5125142335891724  0.5478746891021729  1.0000
+  Tb  Tb3       1.0  0.665141761302948  0.012095388025045395  0.547619104385376  1.0000
+  As  As2       1.0  0.17120380699634552  0.018005091696977615  0.5589790344238281  1.0000
+  Na  Na1       1.0  0.9155754446983336  0.7621057629585266  0.047653026878833715  1.0000
+  As  As3       1.0  0.9156464338302611  0.262227863073349  0.047922428697347585  1.0000
+  As  As4       1.0  0.6594743728637695  0.5066248774528503  0.5366719365119934  1.0000

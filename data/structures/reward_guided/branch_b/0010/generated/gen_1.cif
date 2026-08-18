@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Sr2CaPClCaP
+_chemical_formula_sum              "Sr2 Ca2 P2 Cl1"
+_cell_length_a       4.321880316553551
+_cell_length_b       7.189952254588826
+_cell_length_c       7.447622776031494
+_cell_angle_alpha    96.84225386236068
+_cell_angle_beta     90.86460884951028
+_cell_angle_gamma    104.27337036174741
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.6001935005187988  0.29493317008018494  0.864672064781189  1.0000
+  Sr  Sr2       1.0  0.10314340889453891  0.3023647069931031  0.3634115159511566  1.0000
+  Ca  Ca1       1.0  0.38278317451477056  0.8613514304161073  0.13018421828746796  1.0000
+  P   P1        1.0  0.9771126508712769  0.05139724537730217  0.9877150058746338  1.0000
+  Cl  Cl1       1.0  0.7407493591308594  0.5807835459709169  0.24400663375854492  1.0000
+  Ca  Ca2       1.0  0.8839964866638184  0.8702519536018372  0.6223547458648682  1.0000
+  P   P2        1.0  0.4810670018196106  0.06278382241725922  0.491978257894516  1.0000

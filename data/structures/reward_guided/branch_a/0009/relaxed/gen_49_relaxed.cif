@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sr2ZnNiGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.20068317
+_cell_length_b   6.19481722
+_cell_length_c   8.44814991
+_cell_angle_alpha   111.54139728
+_cell_angle_beta   111.56035563
+_cell_angle_gamma   89.99715445
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2ZnNiGe2
+_chemical_formula_sum   'Sr4 Zn2 Ni2 Ge4'
+_cell_volume   277.29184798
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.79324187  0.74275187  0.53693343  1
+  Sr  Sr1  1  0.97352343  0.42293201  0.89744756  1
+  Sr  Sr2  1  0.47263762  0.91074395  0.89665814  1
+  Sr  Sr3  1  0.29372734  0.23141715  0.53625638  1
+  Zn  Zn4  1  0.38357786  0.82728979  0.21682728  1
+  Zn  Zn5  1  0.88266512  0.82695713  0.21733058  1
+  Ni  Ni6  1  0.38536084  0.32583339  0.21652202  1
+  Ni  Ni7  1  0.88114300  0.32599755  0.21664766  1
+  Ge  Ge8  1  0.72698144  0.18898759  0.40341130  1
+  Ge  Ge9  1  0.54044503  0.46511879  0.03101083  1
+  Ge  Ge10  1  0.22548764  0.64938249  0.40095090  1
+  Ge  Ge11  1  0.04022850  0.00358730  0.03198825  1

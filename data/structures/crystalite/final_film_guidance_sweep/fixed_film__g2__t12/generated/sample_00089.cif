@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_SnHgGe3BiSb2Pb2Au5Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.64327288
+_cell_length_b   6.48008108
+_cell_length_c   8.19252586
+_cell_angle_alpha   90.32243347
+_cell_angle_beta   90.07549286
+_cell_angle_gamma   90.17210388
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnHgGe3BiSb2Pb2Au5Se
+_chemical_formula_sum   'Sn1 Hg1 Ge3 Bi1 Sb2 Pb2 Au5 Se1'
+_cell_volume   352.67212119
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Au  Au0  1  0.09208596  0.84149384  0.77450973  1
+  Sb  Sb1  1  0.34811252  0.65294421  0.20396158  1
+  Au  Au2  1  0.61402076  0.33882225  0.65996915  1
+  Ge  Ge3  1  0.82375276  0.09177551  0.02525082  1
+  Sb  Sb4  1  0.90071535  0.58874989  0.96522570  1
+  Au  Au5  1  0.09539765  0.83948493  0.35355574  1
+  Se  Se6  1  0.79011714  0.66249162  0.43103009  1
+  Au  Au7  1  0.10949945  0.36918294  0.09996611  1
+  Hg  Hg8  1  0.10172275  0.35693869  0.61477917  1
+  Ge  Ge9  1  0.52799863  0.91267157  0.63840175  1
+  Sn  Sn10  1  0.25681710  0.18100879  0.31299275  1
+  Ge  Ge11  1  0.36007488  0.60221440  0.79673028  1
+  Pb  Pb12  1  0.88352418  0.09764770  0.51821285  1
+  Bi  Bi13  1  0.61188269  0.33352226  0.25574392  1
+  Pb  Pb14  1  0.32576650  0.11058438  0.92732394  1
+  Au  Au15  1  0.60391319  0.81634611  0.08115023  1

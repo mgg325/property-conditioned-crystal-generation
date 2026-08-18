@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CoRu5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.69588598
+_cell_length_b   5.05046461
+_cell_length_c   6.31433250
+_cell_angle_alpha   103.48307427
+_cell_angle_beta   90.00076116
+_cell_angle_gamma   105.47987070
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoRu5
+_chemical_formula_sum   'Co1 Ru5'
+_cell_volume   80.39247645
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.83377194  0.77904649  0.86641524  1
+  Ru  Ru1  1  0.16442791  0.44047406  0.53141650  1
+  Ru  Ru2  1  0.11262880  0.33681800  0.91768225  1
+  Ru  Ru3  1  0.77618721  0.66393857  0.25060663  1
+  Ru  Ru4  1  0.49690721  0.10540761  0.19322820  1
+  Ru  Ru5  1  0.44027067  0.99211240  0.59120783  1

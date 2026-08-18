@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_SrGa3GeSbTeSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.13755390
+_cell_length_b   2.94952754
+_cell_length_c   18.44033557
+_cell_angle_alpha   89.65352623
+_cell_angle_beta   90.74454896
+_cell_angle_gamma   125.04987422
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrGa3GeSbTeSe
+_chemical_formula_sum   'Sr1 Ga3 Ge1 Sb1 Te1 Se1'
+_cell_volume   139.69302403
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.34713814  0.53423480  0.51106815  1
+  Ga  Ga1  1  0.63427034  0.39742623  0.05524155  1
+  Ga  Ga2  1  0.69793450  0.26019663  0.66904905  1
+  Ga  Ga3  1  0.63289297  0.36878121  0.84905971  1
+  Ge  Ge4  1  0.99242689  0.06521617  0.92142118  1
+  Sb  Sb5  1  0.00766641  0.98847851  0.14312950  1
+  Te  Te6  1  0.67686643  0.23873894  0.27567687  1
+  Se  Se7  1  0.03910523  -0.01179996  0.93185312  1

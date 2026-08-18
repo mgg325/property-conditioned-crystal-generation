@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TaAgSe2
+_chemical_formula_sum              "Ta1 Ag1 Se2"
+_cell_length_a       3.4671633831138604
+_cell_length_b       3.469073727596569
+_cell_length_c       8.051534652709961
+_cell_angle_alpha    90.1198108528276
+_cell_angle_beta     90.0105483169753
+_cell_angle_gamma    120.04966010472744
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.09669430553913116  0.13166454434394836  0.8889816403388977  1.0000
+  Ag  Ag1       1.0  0.4262535870075226  0.7933520078659058  0.3605347275733948  1.0000
+  Se  Se1       1.0  0.7645204663276672  0.46272265911102295  0.10371395945549011  1.0000
+  Se  Se2       1.0  0.4291274845600128  0.7951059937477112  0.6866008043289185  1.0000

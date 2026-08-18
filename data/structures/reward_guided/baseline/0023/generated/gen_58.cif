@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Tb2AlTbAlTbAg4
+_chemical_formula_sum              "Tb4 Al2 Ag4"
+_cell_length_a       3.93366172404757
+_cell_length_b       7.736324120771279
+_cell_length_c       7.692230224609375
+_cell_angle_alpha    89.38896691718435
+_cell_angle_beta     87.54460400545369
+_cell_angle_gamma    89.23319078152667
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.4371654093265534  0.02151832915842533  0.35932019352912903  1.0000
+  Tb  Tb2       1.0  0.4362075626850129  0.6725902557373047  0.7081872820854187  1.0000
+  Al  Al1       1.0  0.9382421374320985  0.3463096618652344  0.5343630313873291  1.0000
+  Tb  Tb3       1.0  0.43624100089073187  0.5211890935897827  0.20661453902721405  1.0000
+  Al  Al2       1.0  0.9363102912902833  0.8490215539932251  0.03287716209888458  1.0000
+  Tb  Tb4       1.0  0.4373192489147187  0.17313438653945923  0.8588875532150267  1.0000
+  Ag  Ag1       1.0  0.936237931251526  0.718834400177002  0.4058060944080353  1.0000
+  Ag  Ag2       1.0  0.9368807077407838  0.2189755886793137  0.16151851415634155  1.0000
+  Ag  Ag3       1.0  0.937399983406067  0.47562637925148016  0.9058527350425719  1.0000
+  Ag  Ag4       1.0  0.9365797638893129  0.9758886694908143  0.661755383014679  1.0000

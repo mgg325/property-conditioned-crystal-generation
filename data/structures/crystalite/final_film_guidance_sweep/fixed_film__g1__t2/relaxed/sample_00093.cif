@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Rb2Br4O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.63189316
+_cell_length_b   7.33595612
+_cell_length_c   8.47730149
+_cell_angle_alpha   99.38070751
+_cell_angle_beta   94.95864829
+_cell_angle_gamma   103.50381516
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Br4O
+_chemical_formula_sum   'Rb2 Br4 O1'
+_cell_volume   274.00746770
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.69104482  0.66839361  0.84851315  1
+  Rb  Rb1  1  0.50761923  0.42539848  0.27024027  1
+  Br  Br2  1  0.97184276  0.25409261  0.60278138  1
+  Br  Br3  1  0.32063955  0.96243882  0.07641752  1
+  Br  Br4  1  -0.07401527  0.18315446  0.88851469  1
+  Br  Br5  1  0.14764227  0.64678482  0.54380512  1
+  O  O6  1  0.89649761  0.39319091  0.01111358  1

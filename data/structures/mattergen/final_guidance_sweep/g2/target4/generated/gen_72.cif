@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       TiAlN
+_chemical_formula_sum              "Ti1 Al1 N1"
+_cell_length_a       2.9425476878441033
+_cell_length_b       2.9283684339731413
+_cell_length_c       4.184045314788818
+_cell_angle_alpha    90.01526797820415
+_cell_angle_beta     90.15734274482757
+_cell_angle_gamma    90.01347846841502
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.5705925822257996  0.32531511783599854  0.6240561604499817  1.0000
+  Al  Al1       1.0  0.07084136456251144  0.8256460428237915  0.12956419587135315  1.0000
+  N   N1        1.0  0.07096011936664581  0.8262513279914856  0.640119731426239  1.0000

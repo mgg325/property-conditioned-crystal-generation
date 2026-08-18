@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Mg(AgHg)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31498902
+_cell_length_b   6.86851844
+_cell_length_c   6.87271007
+_cell_angle_alpha   84.31802028
+_cell_angle_beta   71.71009556
+_cell_angle_gamma   71.68280119
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(AgHg)4
+_chemical_formula_sum   'Mg1 Ag4 Hg4'
+_cell_volume   183.60084561
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.57355978  0.30715850  0.08248756  1
+  Ag  Ag1  1  0.23607519  0.30715609  0.75746833  1
+  Ag  Ag2  1  0.23664591  0.98108906  0.08228752  1
+  Ag  Ag3  1  0.91073317  0.30684244  0.40743967  1
+  Ag  Ag4  1  0.91075986  0.63295970  0.08209780  1
+  Hg  Hg5  1  0.89502709  0.98632199  0.76107492  1
+  Hg  Hg6  1  0.57349705  0.62821688  0.76128840  1
+  Hg  Hg7  1  0.25305536  0.62777061  0.40343749  1
+  Hg  Hg8  1  0.57418739  0.98595844  0.40338326  1

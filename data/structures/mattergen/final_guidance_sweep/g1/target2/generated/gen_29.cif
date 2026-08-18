@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PbO2ZrO
+_chemical_formula_sum              "Pb1 O3 Zr1"
+_cell_length_a       4.249617714372133
+_cell_length_b       4.263114318247022
+_cell_length_c       4.264145374298096
+_cell_angle_alpha    90.30385032544531
+_cell_angle_beta     90.25647611002834
+_cell_angle_gamma    88.86474990187374
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.4216788709163666  0.7196795344352722  0.1953233778476715  1.0000
+  O   O1        1.0  0.8396596312522888  0.6539691090583801  0.7947241067886353  1.0000
+  O   O2        1.0  0.36119475960731506  0.13098153471946716  0.7942332029342651  1.0000
+  Zr  Zr1       1.0  0.8735443949699402  0.16946153342723846  0.7491956949234009  1.0000
+  O   O3        1.0  0.8378788232803345  0.12838171422481537  0.26719510555267334  1.0000

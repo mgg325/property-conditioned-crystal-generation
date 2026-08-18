@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Li2Be3ZnGaNi2GeAsSe7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31401850
+_cell_length_b   7.36444468
+_cell_length_c   9.78792746
+_cell_angle_alpha   92.55482232
+_cell_angle_beta   88.57896527
+_cell_angle_gamma   88.45839207
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Be3ZnGaNi2GeAsSe7
+_chemical_formula_sum   'Li2 Be3 Zn1 Ga1 Ni2 Ge1 As1 Se7'
+_cell_volume   382.39963953
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.54582314  0.23329148  0.47988277  1
+  Li  Li1  1  0.74540615  0.07179592  0.11281237  1
+  Be  Be2  1  0.71327650  0.57525382  0.88987431  1
+  Be  Be3  1  0.17070197  1.00227084  0.37636159  1
+  Be  Be4  1  0.12885229  0.48965109  0.81673206  1
+  Zn  Zn5  1  0.60376713  0.62890300  0.31919267  1
+  Ga  Ga6  1  0.48615167  0.81006773  0.73239746  1
+  Ni  Ni7  1  0.84688588  0.27880428  0.74234803  1
+  Ni  Ni8  1  0.04573966  0.71086477  1.00106085  1
+  Ge  Ge9  1  0.00515185  0.75975478  0.23317495  1
+  As  As10  1  0.18775158  0.48222904  0.34792216  1
+  Se  Se11  1  0.47796259  0.78849113  1.00274338  1
+  Se  Se12  1  -0.01947596  0.76585974  0.76668380  1
+  Se  Se13  1  0.92260607  0.34377991  -0.03102682  1
+  Se  Se14  1  0.48184669  0.45693504  0.70770292  1
+  Se  Se15  1  0.32372841  0.19096796  0.22666030  1
+  Se  Se16  1  0.49005235  0.88413538  0.48453647  1
+  Se  Se17  1  0.98683281  0.19900066  0.52804900  1

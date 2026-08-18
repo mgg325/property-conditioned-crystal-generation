@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Na3Ag2Pb3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.83774700
+_cell_length_b   6.81606722
+_cell_length_c   6.94161628
+_cell_angle_alpha   119.79462208
+_cell_angle_beta   120.07429425
+_cell_angle_gamma   88.86760515
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Ag2Pb3O8
+_chemical_formula_sum   'Na3 Ag2 Pb3 O8'
+_cell_volume   231.36553922
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.46567248  0.48101238  0.18305817  1
+  Na  Na1  1  0.46589578  0.98114391  0.68333428  1
+  Na  Na2  1  0.96571861  0.48101874  0.18305573  1
+  Ag  Ag3  1  0.96573423  0.98099731  0.18316401  1
+  Ag  Ag4  1  0.96573081  0.98103310  0.68303383  1
+  Pb  Pb5  1  0.96567116  0.48101921  0.68303177  1
+  Pb  Pb6  1  0.46568683  0.48101785  0.68304898  1
+  Pb  Pb7  1  0.46567498  0.98099893  0.18306631  1
+  O  O8  1  0.71098391  0.22950278  0.66738113  1
+  O  O9  1  0.72203307  0.23455636  0.22438724  1
+  O  O10  1  0.25498645  0.24580881  0.23230604  1
+  O  O11  1  0.70177507  0.69003397  0.66653695  1
+  O  O12  1  0.20929802  0.72740603  0.14165321  1
+  O  O13  1  0.67635812  0.71617545  0.13378862  1
+  O  O14  1  0.22960551  0.27201615  0.69958636  1
+  O  O15  1  0.22040521  0.73252923  0.69873208  1

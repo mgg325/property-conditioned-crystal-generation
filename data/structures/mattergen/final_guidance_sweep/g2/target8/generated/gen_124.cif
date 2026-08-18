@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ZnTeCuZnTeCuTe2
+_chemical_formula_sum              "Zn2 Te4 Cu2"
+_cell_length_a       5.985102896845968
+_cell_length_b       5.981843904307373
+_cell_length_c       7.414884090423584
+_cell_angle_alpha    113.8288655775428
+_cell_angle_beta     113.82023175597254
+_cell_angle_gamma    89.99281689143092
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.37146082520484924  0.27979063987731934  0.12790483236312866  1.0000
+  Te  Te1       1.0  0.9904359579086305  0.8984735608100892  0.8662201166152955  1.0000
+  Cu  Cu1       1.0  0.6207778453826904  0.028809675946831703  0.6270032525062561  1.0000
+  Zn  Zn2       1.0  0.8711037039756775  0.7796611189842225  0.12692211568355566  1.0000
+  Te  Te2       1.0  0.4908426105976105  0.3985278308391571  0.8665269017219543  1.0000
+  Cu  Cu2       1.0  0.1210862919688225  0.5287206768989564  0.627790629863739  1.0000
+  Te  Te3       1.0  0.7519694566726685  0.15884755551815036  0.3881989121437073  1.0000
+  Te  Te4       1.0  0.25149655342102056  0.6592100858688356  0.38825532793998724  1.0000

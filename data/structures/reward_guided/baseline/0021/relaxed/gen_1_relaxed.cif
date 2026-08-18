@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_NbAl9Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.83710812
+_cell_length_b   6.48299526
+_cell_length_c   7.61056967
+_cell_angle_alpha   103.36922827
+_cell_angle_beta   104.60562899
+_cell_angle_gamma   89.99713914
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbAl9Pd
+_chemical_formula_sum   'Nb1 Al9 Pd1'
+_cell_volume   177.89587539
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.28906295  0.15984496  0.39440731  1
+  Al  Al1  1  0.65282524  0.97875782  0.12212009  1
+  Al  Al2  1  0.93028884  0.34275713  0.67658328  1
+  Al  Al3  1  0.38203012  0.60310210  0.58015370  1
+  Al  Al4  1  0.01545664  0.78866011  0.84697117  1
+  Al  Al5  1  0.84126217  0.88908627  0.49868256  1
+  Al  Al6  1  0.74532103  0.43921766  0.30721833  1
+  Al  Al7  1  0.47516522  0.08064600  0.76639346  1
+  Al  Al8  1  0.10800326  0.25773342  0.03256390  1
+  Al  Al9  1  0.20143476  0.71596577  0.21919383  1
+  Pd  Pd10  1  0.57714128  0.55080779  0.97063535  1

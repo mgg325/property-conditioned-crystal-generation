@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CsSrZnCdInSe3I2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.94502810
+_cell_length_b   8.39643718
+_cell_length_c   8.42651324
+_cell_angle_alpha   114.44594689
+_cell_angle_beta   117.05485878
+_cell_angle_gamma   89.40995785
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsSrZnCdInSe3I2
+_chemical_formula_sum   'Cs1 Sr1 Zn1 Cd1 In1 Se3 I2'
+_cell_volume   332.70195045
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.30223078  0.22724557  0.33389389  1
+  Sr  Sr1  1  0.76224761  0.91810421  0.17384001  1
+  Zn  Zn2  1  0.66925099  0.65242906  0.74827072  1
+  Cd  Cd3  1  0.87759176  0.99441581  0.81743647  1
+  In  In4  1  0.42166801  0.89085640  0.44254651  1
+  Se  Se5  1  0.35599425  0.51623467  0.84021608  1
+  Se  Se6  1  0.50053207  0.63891786  0.19044293  1
+  Se  Se7  1  -0.16237221  0.36502932  0.41721856  1
+  I  I8  1  0.32736772  0.93631878  0.77194712  1
+  I  I9  1  0.85066512  0.37233626  0.44631114  1

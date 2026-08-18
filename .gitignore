@@ -1,0 +1,33 @@
+/__pycache__/
+/.ipynb_checkpoints/
+/.pytest_cache/
+/.cache/
+/wandb/
+/venv/
+/.venv/
+/env/
+*.py[cod]
+*.log
+*.out
+*.err
+.DS_Store
+
+# External assets obtained separately
+external/*
+!external/README.md
+
+# Data, model, and generated-artifact exclusions
+/checkpoints/
+*.ckpt
+*.pt
+*.pth
+*.npy
+*.npz
+/raw/
+/cache/
+/generated/
+/relaxed/
+/relaxation_outputs/
+/outputs/
+/tensorboard/
+/slurm*/

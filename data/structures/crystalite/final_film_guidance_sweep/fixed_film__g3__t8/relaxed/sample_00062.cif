@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_MnZn2GaSn2Sb(TeSe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33563203
+_cell_length_b   6.43386577
+_cell_length_c   7.43731170
+_cell_angle_alpha   92.57887248
+_cell_angle_beta   93.45798909
+_cell_angle_gamma   93.23187932
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZn2GaSn2Sb(TeSe)2
+_chemical_formula_sum   'Mn1 Zn2 Ga1 Sn2 Sb1 Te2 Se2'
+_cell_volume   301.77450155
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.76633656  0.88343714  0.19590468  1
+  Zn  Zn1  1  0.22517086  0.50525422  0.13428577  1
+  Zn  Zn2  1  0.64844941  0.54152210  0.67459058  1
+  Ga  Ga3  1  0.14692322  0.96365158  0.74137653  1
+  Sn  Sn4  1  0.52599288  0.22595181  0.34816862  1
+  Sn  Sn5  1  0.01790305  0.57077076  0.50423028  1
+  Sb  Sb6  1  0.34234378  0.89677925  0.07701179  1
+  Te  Te7  1  0.29422409  0.38047363  0.79650755  1
+  Te  Te8  1  0.74449518  0.92609180  0.82393280  1
+  Se  Se9  1  0.83218820  0.49851360  0.15277026  1
+  Se  Se10  1  0.08811904  1.01459841  0.40112502  1

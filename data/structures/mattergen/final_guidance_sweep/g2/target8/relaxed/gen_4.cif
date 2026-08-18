@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Te2CuTeGaInTeIn
+_chemical_formula_sum              "Te4 Cu1 Ga1 In2"
+_cell_length_a       6.35047231588242
+_cell_length_b       6.349410394269461
+_cell_length_c       8.134636364425871
+_cell_angle_alpha    112.87507606564186
+_cell_angle_beta     112.86355374213834
+_cell_angle_gamma    90.03920401658574
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.9170587037261806  0.40727339934977874  0.6431426739942783  1.0000
+  Te  Te2       1.0  0.7065260385288962  0.7130839435417238  0.22101376935991252  1.0000
+  Cu  Cu1       1.0  0.5696564282094119  0.06013199081882086  0.43190551985732334  1.0000
+  Te  Te3       1.0  0.2225110730798485  0.19695758249006687  0.22124158940099078  1.0000
+  Ga  Ga1       1.0  0.06952149251159596  0.5602486460241288  0.4318875657601236  1.0000
+  In  In1       1.0  0.32031139094350836  0.3110686202738622  0.9322307063229759  1.0000
+  Te  Te4       1.0  0.4328252538303079  0.9236199491295676  0.6431422623084815  1.0000
+  In  In2       1.0  0.8204997191485841  0.8108285951533478  0.9317032250194608  1.0000

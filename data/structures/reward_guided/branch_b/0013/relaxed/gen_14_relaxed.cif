@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ba2In
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77254488
+_cell_length_b   8.30019574
+_cell_length_c   11.32252816
+_cell_angle_alpha   89.98883653
+_cell_angle_beta   90.00861958
+_cell_angle_gamma   89.99993773
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2In
+_chemical_formula_sum   'Ba8 In4'
+_cell_volume   542.49913425
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.56247133  0.00370702  0.00934069  1
+  Ba  Ba1  1  0.06259503  0.80806186  0.25461880  1
+  Ba  Ba2  1  0.56176101  0.36972606  0.75452713  1
+  Ba  Ba3  1  0.56271785  0.50387404  0.37451439  1
+  Ba  Ba4  1  0.56216299  0.87003398  0.62896234  1
+  Ba  Ba5  1  0.06226973  0.17418523  0.50914716  1
+  Ba  Ba6  1  0.06283618  0.30804590  0.12938698  1
+  Ba  Ba7  1  0.06227626  0.67407118  0.87444578  1
+  In  In8  1  0.06194600  0.11494326  0.82527874  1
+  In  In9  1  0.56265613  0.56273400  0.05836758  1
+  In  In10  1  0.06223621  0.61493767  0.55847237  1
+  In  In11  1  0.56234375  0.06306644  0.32524800  1

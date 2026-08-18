@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Cs4NaLiAgBr9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.90365200
+_cell_length_b   11.36342121
+_cell_length_c   12.15453672
+_cell_angle_alpha   89.93152076
+_cell_angle_beta   89.99670764
+_cell_angle_gamma   90.00421175
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs4NaLiAgBr9
+_chemical_formula_sum   'Cs4 Na1 Li1 Ag1 Br9'
+_cell_volume   677.27780587
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.14784859  0.70645744  0.44858385  1
+  Cs  Cs1  1  0.14754184  0.20821609  0.90925934  1
+  Cs  Cs2  1  0.14767859  0.70787763  0.90914912  1
+  Cs  Cs3  1  0.14751586  0.20684240  0.44954800  1
+  Na  Na4  1  0.64742051  0.95743158  0.17905246  1
+  Li  Li5  1  0.64755005  0.45775069  0.67948296  1
+  Ag  Ag6  1  0.64762463  0.45731614  0.17917445  1
+  Br  Br7  1  0.64761561  0.69950136  0.67905170  1
+  Br  Br8  1  0.64776460  0.45682954  0.39322544  1
+  Br  Br9  1  0.64778986  0.95795846  0.95159355  1
+  Br  Br10  1  0.64772703  0.45775286  0.96510027  1
+  Br  Br11  1  0.14755851  0.45817951  0.67917359  1
+  Br  Br12  1  0.64729786  0.22208766  0.17913335  1
+  Br  Br13  1  0.64742234  0.21631890  0.67932369  1
+  Br  Br14  1  0.64758005  0.69255944  0.17919167  1
+  Br  Br15  1  0.64817894  0.95674610  0.40652475  1

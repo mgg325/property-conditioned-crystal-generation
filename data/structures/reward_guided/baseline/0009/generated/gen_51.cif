@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       La4NiSnLaNiSn2
+_chemical_formula_sum              "La5 Ni2 Sn3"
+_cell_length_a       4.32777602940901
+_cell_length_b       8.264975844565193
+_cell_length_c       8.459671974182129
+_cell_angle_alpha    89.70061482842382
+_cell_angle_beta     104.2711622919085
+_cell_angle_gamma    89.82754025194507
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.11437048017978668  0.8961104154586792  0.03349500522017479  1.0000
+  La  La2       1.0  0.751244306564331  0.1907622367143631  0.30879127979278564  1.0000
+  La  La3       1.0  0.38771167397499084  0.8960846662521362  0.5848458409309387  1.0000
+  La  La4       1.0  0.11401369422674179  0.4797377586364746  0.031846094876527786  1.0000
+  Ni  Ni1       1.0  0.5371545553207397  0.6883012056350708  0.8821919560432434  1.0000
+  Sn  Sn1       1.0  0.5606068968772888  0.18763573467731476  0.9281982183456421  1.0000
+  La  La5       1.0  0.38839221000671387  0.47943517565727234  0.5839371681213379  1.0000
+  Ni  Ni2       1.0  0.9639523029327393  0.6878107786178589  0.7341108322143555  1.0000
+  Sn  Sn2       1.0  0.9424097537994385  0.1876710653305054  0.68907630443573  1.0000
+  Sn  Sn3       1.0  0.7512325644493103  0.687799334526062  0.30860066413879395  1.0000

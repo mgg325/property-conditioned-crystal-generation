@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cl2CoClCoCl3
+_chemical_formula_sum              "Cl6 Co2"
+_cell_length_a       5.735794927821359
+_cell_length_b       5.736875909749772
+_cell_length_c       7.165765285491943
+_cell_angle_alpha    66.5561698900381
+_cell_angle_beta     66.508085654568
+_cell_angle_gamma    60.0724775596597
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.213514506816864  0.11708742380142213  0.6675084829330444  1.0000
+  Cl  Cl2       1.0  0.70810204744339  0.8902586698532104  0.26603543758392334  1.0000
+  Co  Co1       1.0  0.6132248044013977  0.156756192445755  0.46706080436706543  1.0000
+  Cl  Cl3       1.0  0.851917028427124  0.756973147392273  0.6673063635826111  1.0000
+  Co  Co2       1.0  0.9468886256217957  0.4902438819408417  0.4660834074020385  1.0000
+  Cl  Cl4       1.0  0.3465791940689087  0.5300734043121338  0.26597198843955994  1.0000
+  Cl  Cl5       1.0  0.9868739247322083  0.2510590255260468  0.26578596234321594  1.0000
+  Cl  Cl6       1.0  0.5730060935020447  0.3960782885551453  0.6671993136405945  1.0000

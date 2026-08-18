@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_SrCaCd2TePb3S
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73551523
+_cell_length_b   4.82644020
+_cell_length_c   14.63952834
+_cell_angle_alpha   90.25827854
+_cell_angle_beta   90.21763973
+_cell_angle_gamma   119.45733302
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCaCd2TePb3S
+_chemical_formula_sum   'Sr1 Ca1 Cd2 Te1 Pb3 S1'
+_cell_volume   291.33057746
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.81369994  0.97040933  0.10890301  1
+  Ca  Ca1  1  0.47145689  0.30225635  0.64272069  1
+  Cd  Cd2  1  0.14631335  0.64447829  0.44718378  1
+  Cd  Cd3  1  0.14506254  0.64126914  0.89612987  1
+  Te  Te4  1  0.14353883  0.63282194  0.23139388  1
+  Pb  Pb5  1  0.81365137  0.97919030  0.81906892  1
+  Pb  Pb6  1  0.47340327  0.29857683  0.35699548  1
+  Pb  Pb7  1  0.47658984  0.30321112  0.96329314  1
+  S  S8  1  0.14192134  0.64296069  0.61984050  1

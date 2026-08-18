@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaCCaBCB
+_chemical_formula_sum              "Ca2 C2 B2"
+_cell_length_a       4.404958766153307
+_cell_length_b       4.401184464959927
+_cell_length_c       5.794527530670166
+_cell_angle_alpha    90.03581318477725
+_cell_angle_beta     90.06577039488127
+_cell_angle_gamma    120.07546136545108
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.773140013217926  0.7234174609184265  0.03541690111160278  1.0000
+  C   C1        1.0  0.10702721774578094  0.3908054232597351  0.036091335117816925  1.0000
+  Ca  Ca2       1.0  0.44021329283714294  0.05623210221529007  0.5363346338272095  1.0000
+  B   B1        1.0  0.1064857691526413  0.3899575471878052  0.7845033407211304  1.0000
+  C   C2        1.0  0.10589265823364258  0.3894200026988983  0.5363795757293701  1.0000
+  B   B2        1.0  0.10634845495223999  0.3902982771396637  0.285135954618454  1.0000

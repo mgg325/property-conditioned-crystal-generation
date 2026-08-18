@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Pr(TmCd)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.59134978
+_cell_length_b   4.55843670
+_cell_length_c   7.78583096
+_cell_angle_alpha   107.12789803
+_cell_angle_beta   107.23669113
+_cell_angle_gamma   89.98534601
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr(TmCd)2
+_chemical_formula_sum   'Pr1 Tm2 Cd2'
+_cell_volume   148.05438977
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.38939635  0.11146404  0.98363529  1
+  Tm  Tm1  1  0.13963329  0.36221747  0.48372395  1
+  Tm  Tm2  1  0.63883620  0.86164206  0.48235915  1
+  Cd  Cd3  1  0.79030478  0.51295688  0.78423962  1
+  Cd  Cd4  1  0.98811779  0.71073592  0.18186050  1

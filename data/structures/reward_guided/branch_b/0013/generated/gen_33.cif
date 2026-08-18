@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       La3Y2LaYHo
+_chemical_formula_sum              "La4 Y3 Ho1"
+_cell_length_a       5.122825703907969
+_cell_length_b       5.122989672173941
+_cell_length_c       10.83818531036377
+_cell_angle_alpha    101.8372047087987
+_cell_angle_beta     102.60194725761971
+_cell_angle_gamma    90.42622001558189
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.4239860773086548  0.4780408143997193  0.9381637573242186  1.0000
+  La  La2       1.0  0.05016179755330086  0.6022040247917175  0.18863517045974731  1.0000
+  La  La3       1.0  0.1759108603000641  0.22901156544685364  0.44093543291091913  1.0000
+  Y   Y1        1.0  0.5474422574043274  0.10339266061782838  0.1890152245759964  1.0000
+  Y   Y2        1.0  0.6758300065994264  0.7270892262458802  0.4391100406646728  1.0000
+  La  La4       1.0  0.2987344264984131  0.8514739871025087  0.6875643134117126  1.0000
+  Y   Y3        1.0  0.799845814704895  0.3543830811977387  0.6904520988464355  1.0000
+  Ho  Ho1       1.0  0.9248874187469482  0.9794569611549377  0.9382781982421874  1.0000

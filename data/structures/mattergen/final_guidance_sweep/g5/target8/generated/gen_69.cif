@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GaBaGaBaPt2
+_chemical_formula_sum              "Ga2 Ba2 Pt2"
+_cell_length_a       4.458224725473593
+_cell_length_b       4.449196974309446
+_cell_length_c       8.3861083984375
+_cell_angle_alpha    105.2841276515547
+_cell_angle_beta     105.4991766858443
+_cell_angle_gamma    89.98742793018931
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.680393636226654  0.6843177080154419  0.19594094157218933  1.0000
+  Ba  Ba1       1.0  0.013609103858470917  0.5173776149749756  0.8616799116134644  1.0000
+  Ga  Ga2       1.0  0.18066205084323883  0.18401899933815002  0.19608956575393677  1.0000
+  Ba  Ba2       1.0  0.3471889793872833  0.8503724932670593  0.5301591753959656  1.0000
+  Pt  Pt1       1.0  0.5876984000205994  0.09152437746524811  0.01095598191022873  1.0000
+  Pt  Pt2       1.0  0.7729822993278503  0.27609655261039734  0.38168400526046753  1.0000

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BaSi2F11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98850679
+_cell_length_b   5.65924406
+_cell_length_c   8.42487717
+_cell_angle_alpha   93.14990997
+_cell_angle_beta   107.74927521
+_cell_angle_gamma   112.91963959
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSi2F11
+_chemical_formula_sum   'Ba1 Si2 F11'
+_cell_volume   204.50940962
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.17904150  0.64731437  0.34166470  1
+  F  F1  1  0.07592282  0.26623574  0.44754916  1
+  F  F2  1  0.12973857  0.98137891  0.94005334  1
+  F  F3  1  0.21520868  0.02649018  0.34260944  1
+  Si  Si4  1  0.82699442  0.36757725  0.19490579  1
+  Ba  Ba5  1  0.31161028  0.71830648  0.90667713  1
+  F  F6  1  0.58143657  0.41435105  0.52619272  1
+  Si  Si7  1  0.33234879  0.09769776  0.44101211  1
+  F  F8  1  0.69758505  0.56122655  0.21688882  1
+  F  F9  1  0.64401078  0.04816374  0.52981043  1
+  F  F10  1  0.29068339  0.06101212  0.65207303  1
+  F  F11  1  0.79709351  0.38522315  0.00989577  1
+  F  F12  1  0.28783384  0.24097481  0.03595412  1
+  F  F13  1  0.64020014  0.12638631  0.15301067  1

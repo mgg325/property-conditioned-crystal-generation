@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Er2GeI2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18110999
+_cell_length_b   4.18052006
+_cell_length_c   11.34521420
+_cell_angle_alpha   79.49898303
+_cell_angle_beta   79.51210848
+_cell_angle_gamma   59.99521006
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2GeI2
+_chemical_formula_sum   'Er2 Ge1 I2'
+_cell_volume   167.88838548
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.95252328  0.34747022  0.51350232  1
+  Er  Er1  1  0.19349542  0.58870931  0.79199826  1
+  Ge  Ge2  1  0.57290363  0.96813042  0.65288078  1
+  I  I3  1  0.80065475  0.19516484  0.97537207  1
+  I  I4  1  0.34571826  0.74099882  0.33012754  1

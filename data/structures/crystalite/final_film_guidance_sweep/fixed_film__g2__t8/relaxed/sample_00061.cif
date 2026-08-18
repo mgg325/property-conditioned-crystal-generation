@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Li2TiMn2SbS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.54344894
+_cell_length_b   7.34146988
+_cell_length_c   7.43499953
+_cell_angle_alpha   103.97560641
+_cell_angle_beta   104.17638868
+_cell_angle_gamma   120.01671757
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2TiMn2SbS8
+_chemical_formula_sum   'Li2 Ti1 Mn2 Sb1 S8'
+_cell_volume   311.48131362
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.08736490  0.61873543  0.24500161  1
+  Li  Li1  1  0.84059205  0.18633750  0.23415415  1
+  Ti  Ti2  1  0.56854035  0.12014146  0.78829486  1
+  Mn  Mn3  1  0.50727091  0.53068694  0.24292651  1
+  Mn  Mn4  1  0.51820005  0.55293015  0.73955010  1
+  Sb  Sb5  1  0.02558167  0.97023438  0.65136134  1
+  S  S6  1  0.30258587  1.02476934  0.48140893  1
+  S  S7  1  0.79710082  0.51235689  0.90920309  1
+  S  S8  1  0.76219031  -0.03565962  0.87789468  1
+  S  S9  1  0.28416475  0.46468786  0.41247808  1
+  S  S10  1  0.38412202  0.05929564  0.98205361  1
+  S  S11  1  0.81260854  0.54164075  0.42083116  1
+  S  S12  1  0.71436337  0.93099889  0.39186129  1
+  S  S13  1  0.29227654  0.44990317  0.91719139  1

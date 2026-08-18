@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_XeO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.37147352
+_cell_length_b   4.79469043
+_cell_length_c   5.34560297
+_cell_angle_alpha   58.33410864
+_cell_angle_beta   61.34498238
+_cell_angle_gamma   60.02083411
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   XeO7
+_chemical_formula_sum   'Xe1 O7'
+_cell_volume   115.05159664
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Xe  Xe0  1  0.45395809  0.64525780  0.42499901  1
+  O  O1  1  0.44960532  0.61120682  0.93753767  1
+  O  O2  1  0.40669943  0.65533665  0.47527378  1
+  O  O3  1  0.47101862  0.30972152  0.34180213  1
+  O  O4  1  0.45056504  0.60178913  0.45684065  1
+  O  O5  1  0.29178090  0.59458212  0.77554245  1
+  O  O6  1  0.62446367  0.08591897  0.27388573  1
+  O  O7  1  0.65163217  0.58032834  0.67235931  1

@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       LiBr
+_chemical_formula_sum              "Li1 Br1"
+_cell_length_a       4.166350264220048
+_cell_length_b       4.1666648006802545
+_cell_length_c       4.168798920333733
+_cell_angle_alpha    59.95123467808996
+_cell_angle_beta     59.902012764407814
+_cell_angle_gamma    59.8999201890481
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.045084683528516384  0.2834788083209402  0.3637413676017441  1.0000
+  Br  Br1       1.0  0.29421372941153157  0.5335087364768183  0.6141411975557548  1.0000

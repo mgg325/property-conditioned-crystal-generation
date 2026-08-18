@@ -1,0 +1,28 @@
+# generated using pymatgen
+data_SmTc
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.69701982
+_cell_length_b   5.00749397
+_cell_length_c   6.74883270
+_cell_angle_alpha   70.52233124
+_cell_angle_beta   70.72589111
+_cell_angle_gamma   62.21310425
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmTc
+_chemical_formula_sum   'Sm1 Tc1'
+_cell_volume   74.33510507
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.45662817  0.17483819  0.96291494  1
+  Tc  Tc1  1  0.96933556  0.68212432  0.42260408  1

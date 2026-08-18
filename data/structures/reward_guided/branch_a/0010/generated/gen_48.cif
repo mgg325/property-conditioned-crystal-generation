@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ErHErHCl2
+_chemical_formula_sum              "Er2 H2 Cl2"
+_cell_length_a       3.695882965534671
+_cell_length_b       3.6836904076364965
+_cell_length_c       9.661239624023438
+_cell_angle_alpha    79.58170963179394
+_cell_angle_beta     79.38533528370468
+_cell_angle_gamma    59.83430072213068
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.05986449122428892  0.5936951041221619  0.007058003451675177  1.0000
+  H   H1        1.0  0.9881737232208253  0.5168270468711853  0.2307348996400833  1.0000
+  Er  Er2       1.0  0.6360944509506226  0.16492779552936554  0.2843492031097412  1.0000
+  H   H2        1.0  0.7096735239028931  0.2407716810703278  0.06291089206933975  1.0000
+  Cl  Cl1       1.0  0.24796323478221888  0.7722277641296387  0.45507341623306274  1.0000
+  Cl  Cl2       1.0  0.4537380337715148  0.9856639504432678  0.8357122540473938  1.0000

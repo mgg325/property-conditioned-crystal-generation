@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Mn2CdGaSeO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.70703959
+_cell_length_b   5.64029408
+_cell_length_c   5.62360001
+_cell_angle_alpha   97.63462067
+_cell_angle_beta   110.26757812
+_cell_angle_gamma   115.97790527
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2CdGaSeO5
+_chemical_formula_sum   'Mn2 Cd1 Ga1 Se1 O5'
+_cell_volume   93.34098600
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.85886449  0.13124180  0.12359422  1
+  Ga  Ga1  1  0.66012293  0.38099289  0.91830200  1
+  O  O2  1  0.55709946  0.47905475  0.21278858  1
+  Se  Se3  1  0.05183631  0.67828113  0.14388102  1
+  O  O4  1  0.68288964  0.52769744  0.75824583  1
+  Mn  Mn5  1  0.72808963  0.89189315  0.32396048  1
+  Mn  Mn6  1  0.27617732  0.16192091  0.06327647  1
+  O  O7  1  0.85656434  0.17514339  0.61360753  1
+  O  O8  1  0.34369707  0.07813230  0.71133363  1
+  Cd  Cd9  1  0.08755556  0.62145078  0.59486580  1

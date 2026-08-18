@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ti3NRh
+_chemical_formula_sum              "Ti3 N1 Rh1"
+_cell_length_a       4.071293043885206
+_cell_length_b       4.071359306505871
+_cell_length_c       4.071279126801998
+_cell_angle_alpha    90.00430668915375
+_cell_angle_beta     90.00361835542033
+_cell_angle_gamma    89.99780270590904
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.5212173894628145  0.24284687686928422  0.33899504980749  1.0000
+  Ti  Ti2       1.0  0.021127727337022183  0.7428377731152163  0.3390057441246614  1.0000
+  Ti  Ti3       1.0  0.5212313720995045  0.7427606546639052  0.8390211283163502  1.0000
+  N   N1        1.0  0.5211612107413706  0.7428507391309863  0.3390150834436587  1.0000
+  Rh  Rh1       1.0  0.02128859845745093  0.24279493192307416  0.8390167489372684  1.0000

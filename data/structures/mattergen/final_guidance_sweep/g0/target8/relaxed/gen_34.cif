@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CdTlO2
+_chemical_formula_sum              "Cd1 Tl1 O2"
+_cell_length_a       3.508287389017431
+_cell_length_b       3.508449972503164
+_cell_length_c       6.9296466506803815
+_cell_angle_alpha    75.31853012880008
+_cell_angle_beta     75.31695639350865
+_cell_angle_gamma    59.994426480162176
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.869166467858667  0.662632895712836  0.07583480135726804  1.0000
+  Tl  Tl1       1.0  0.36898268131014983  0.16289815841369218  0.5758594420630181  1.0000
+  O   O1        1.0  0.47530329821425144  0.26889241898138266  0.2569621704543414  1.0000
+  O   O2        1.0  0.2629295414881602  0.05641255840994301  0.8947500310329858  1.0000

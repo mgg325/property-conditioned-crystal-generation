@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ZnCd2Ga3Hg4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.05012996
+_cell_length_b   6.49011688
+_cell_length_c   6.76026043
+_cell_angle_alpha   82.56755007
+_cell_angle_beta   117.99952662
+_cell_angle_gamma   100.80394973
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCd2Ga3Hg4
+_chemical_formula_sum   'Zn1 Cd2 Ga3 Hg4'
+_cell_volume   229.96194269
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.56037516  0.34907740  -0.00393750  1
+  Cd  Cd1  1  0.40124648  0.50795513  0.52697420  1
+  Cd  Cd2  1  0.08548337  0.07753291  0.67922348  1
+  Ga  Ga3  1  0.85560546  0.69011687  0.92279686  1
+  Ga  Ga4  1  0.14266539  0.87942974  0.30346257  1
+  Ga  Ga5  1  0.27870821  0.66520511  0.86771205  1
+  Hg  Hg6  1  0.58363933  0.05189633  0.68716531  1
+  Hg  Hg7  1  0.61667500  0.94897578  0.22611102  1
+  Hg  Hg8  1  0.10192687  0.28821917  0.08947168  1
+  Hg  Hg9  1  0.84393015  0.49942725  0.44195455  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_La6SiAs2SI2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.64474006
+_cell_length_b   7.64822559
+_cell_length_c   7.70686470
+_cell_angle_alpha   99.51038012
+_cell_angle_beta   99.46488070
+_cell_angle_gamma   119.75843735
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La6SiAs2SI2
+_chemical_formula_sum   'La6 Si1 As2 S1 I2'
+_cell_volume   369.48107159
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.70696745  0.93528528  0.64623075  1
+  La  La1  1  0.90789754  0.75973293  0.10433285  1
+  La  La2  1  0.52006475  0.06354643  0.10526572  1
+  La  La3  1  0.39057822  0.24217775  0.64798725  1
+  La  La4  1  0.08646536  0.62943714  0.64650096  1
+  La  La5  1  0.21519828  0.44403265  0.10582406  1
+  Si  Si6  1  0.30500391  0.84555006  0.37609138  1
+  As  As7  1  0.80442482  0.34522304  0.87615849  1
+  As  As8  1  0.47824814  0.67219473  0.87590892  1
+  S  S9  1  0.13279111  0.01674119  0.87579480  1
+  I  I10  1  0.96935720  0.18096270  0.37570981  1
+  I  I11  1  0.63925476  0.51052458  0.37592658  1

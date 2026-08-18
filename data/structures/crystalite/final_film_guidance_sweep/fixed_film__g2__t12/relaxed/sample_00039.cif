@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NdZr2U4Sn4Te2SeSBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.45216351
+_cell_length_b   5.27238870
+_cell_length_c   23.81916180
+_cell_angle_alpha   89.82212288
+_cell_angle_beta   90.23112986
+_cell_angle_gamma   90.05085677
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdZr2U4Sn4Te2SeSBr
+_chemical_formula_sum   'Nd1 Zr2 U4 Sn4 Te2 Se1 S1 Br1'
+_cell_volume   433.53030344
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  -0.02641339  0.14671691  0.22696529  1
+  Zr  Zr1  1  0.13002590  0.63227784  0.50418073  1
+  Zr  Zr2  1  0.83718316  0.14562142  1.00379362  1
+  U  U3  1  0.87040250  0.64644201  0.12460610  1
+  U  U4  1  0.29145437  0.68504829  0.72439479  1
+  U  U5  1  0.84988917  0.64297576  0.38827835  1
+  U  U6  1  1.08210825  0.18487318  0.62641302  1
+  Sn  Sn7  1  0.38713859  0.64117100  0.92496900  1
+  Sn  Sn8  1  0.50236927  0.64628364  0.25098900  1
+  Sn  Sn9  1  0.62577052  0.14643692  0.48721298  1
+  Sn  Sn10  1  0.36367227  0.14645077  0.10692521  1
+  Te  Te11  1  0.75859889  0.18520167  0.75483730  1
+  Te  Te12  1  0.57789873  0.68465751  0.60496286  1
+  Se  Se13  1  0.31627695  0.14447691  0.91466559  1
+  S  S14  1  0.84749377  0.64544661  0.01510475  1
+  Br  Br15  1  0.96409616  0.14278055  0.35023492  1

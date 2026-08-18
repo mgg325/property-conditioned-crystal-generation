@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_KSc(CuO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.35159305
+_cell_length_b   5.38463277
+_cell_length_c   6.63506024
+_cell_angle_alpha   106.47718900
+_cell_angle_beta   90.06075791
+_cell_angle_gamma   90.06625063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSc(CuO2)2
+_chemical_formula_sum   'K1 Sc1 Cu2 O4'
+_cell_volume   114.82584234
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.36738615  0.93302416  0.60381210  1
+  Sc  Sc1  1  0.86533262  0.68457653  0.05077339  1
+  Cu  Cu2  1  0.86682353  0.35409112  0.51702583  1
+  Cu  Cu3  1  0.36605432  0.21015971  0.12388317  1
+  O  O4  1  0.86418676  0.39258496  0.79066907  1
+  O  O5  1  0.36620937  0.56728371  0.22515663  1
+  O  O6  1  0.36550357  0.86999066  0.96324175  1
+  O  O7  1  0.86684033  0.13565001  0.25259721  1

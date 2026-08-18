@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_La4CoIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.05484060
+_cell_length_b   7.08544430
+_cell_length_c   7.08811538
+_cell_angle_alpha   90.07444749
+_cell_angle_beta   88.32197138
+_cell_angle_gamma   90.02791456
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La4CoIr
+_chemical_formula_sum   'La8 Co2 Ir2'
+_cell_volume   354.15907911
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.28387541  0.65922839  0.22806532  1
+  La  La1  1  0.44136762  0.65488028  0.72043066  1
+  La  La2  1  0.42188298  0.15846921  0.56384688  1
+  La  La3  1  0.94116546  0.82284487  0.72145052  1
+  La  La4  1  0.92132443  0.31864898  0.56557143  1
+  La  La5  1  0.78356981  0.81920761  0.22853596  1
+  La  La6  1  0.76181894  0.32261936  0.07236385  1
+  La  La7  1  0.26173347  0.15569785  0.07042731  1
+  Co  Co8  1  0.10221030  0.98907292  0.39647299  1
+  Co  Co9  1  0.60211596  0.48909276  0.39717958  1
+  Ir  Ir10  1  0.60168405  0.98883555  0.89649001  1
+  Ir  Ir11  1  0.10128873  0.48911622  0.89693093  1

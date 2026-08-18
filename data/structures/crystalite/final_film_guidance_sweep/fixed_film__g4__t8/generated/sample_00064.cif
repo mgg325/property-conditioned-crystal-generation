@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_KCaMg2SeICl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73522902
+_cell_length_b   5.80385256
+_cell_length_c   8.12236786
+_cell_angle_alpha   89.70427704
+_cell_angle_beta   90.30490112
+_cell_angle_gamma   119.16501617
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCaMg2SeICl
+_chemical_formula_sum   'K1 Ca1 Mg2 Se1 I1 Cl1'
+_cell_volume   194.91962074
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.86191601  0.30048221  0.28841200  1
+  Se  Se1  1  0.84299695  0.31735390  0.84112906  1
+  Ca  Ca2  1  0.48189357  0.67944878  0.11299133  1
+  Mg  Mg3  1  0.17101598  0.98441267  0.36846554  1
+  Mg  Mg4  1  0.90545523  0.16474062  0.63185364  1
+  Cl  Cl5  1  0.23429036  0.73605639  0.90600812  1
+  K  K6  1  0.47552174  0.65203434  0.65331566  1

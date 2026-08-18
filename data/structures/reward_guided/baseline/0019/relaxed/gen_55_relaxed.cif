@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BeZnCuTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96125303
+_cell_length_b   7.81522488
+_cell_length_c   7.57435727
+_cell_angle_alpha   77.37494241
+_cell_angle_beta   90.21205421
+_cell_angle_gamma   89.70359838
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeZnCuTe2
+_chemical_formula_sum   'Be2 Zn2 Cu2 Te4'
+_cell_volume   228.81210347
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.57752133  0.51601151  0.61763722  1
+  Be  Be1  1  0.08749626  0.66034440  0.42091594  1
+  Zn  Zn2  1  0.58993366  0.93129951  0.51892924  1
+  Zn  Zn3  1  0.58410769  0.13206434  0.09421453  1
+  Cu  Cu4  1  0.08288146  0.37602599  0.55992144  1
+  Cu  Cu5  1  0.08751556  0.95141371  0.29988485  1
+  Te  Te6  1  0.58525477  0.18259421  0.72742423  1
+  Te  Te7  1  0.08328092  0.28988597  0.22273800  1
+  Te  Te8  1  0.07460551  0.64373309  0.74994773  1
+  Te  Te9  1  0.58613208  0.74718880  0.20885973  1

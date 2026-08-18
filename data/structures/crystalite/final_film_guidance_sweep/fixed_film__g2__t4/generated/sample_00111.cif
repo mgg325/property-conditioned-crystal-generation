@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_ZrTi(HO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.79879379
+_cell_length_b   4.33785820
+_cell_length_c   6.84755468
+_cell_angle_alpha   106.31000519
+_cell_angle_beta   90.37499237
+_cell_angle_gamma   89.68292236
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTi(HO2)2
+_chemical_formula_sum   'Zr1 Ti1 H2 O4'
+_cell_volume   79.78664376
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.73136008  0.73544645  0.15709856  1
+  O  O1  1  0.19089678  0.56259382  0.21798795  1
+  O  O2  1  0.25523013  0.07848316  0.70285159  1
+  H  H3  1  0.15492398  0.92058051  0.28840581  1
+  Ti  Ti4  1  0.71424890  0.13535294  0.93914568  1
+  O  O5  1  0.73586547  0.58758670  0.86597019  1
+  O  O6  1  0.75446135  0.09675691  0.30392706  1
+  Zr  Zr7  1  0.23096442  0.47978008  0.58473963  1

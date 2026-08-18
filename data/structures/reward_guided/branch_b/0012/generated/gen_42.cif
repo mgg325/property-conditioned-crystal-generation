@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CoLaC2
+_chemical_formula_sum              "Co1 La1 C2"
+_cell_length_a       3.7657448798698248
+_cell_length_b       3.8494527182611993
+_cell_length_c       3.835437536239624
+_cell_angle_alpha    106.85200577429866
+_cell_angle_beta     89.605279037802
+_cell_angle_gamma    90.92955707023424
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.10711283981800081  0.3638703227043152  0.44940897822380066  1.0000
+  La  La1       1.0  0.6079940199851991  0.743013322353363  0.06909827142953873  1.0000
+  C   C1        1.0  0.10713884979486467  0.2081582397222519  0.9008564949035645  1.0000
+  C   C2        1.0  0.10425162315368654  0.9087953567504883  0.6078435778617859  1.0000

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Dy2HoIn4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.46737674
+_cell_length_b   8.41224872
+_cell_length_c   8.41872714
+_cell_angle_alpha   113.72724309
+_cell_angle_beta   104.89130633
+_cell_angle_gamma   104.77008208
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2HoIn4
+_chemical_formula_sum   'Dy4 Ho2 In8'
+_cell_volume   370.49617021
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.58432699  0.56369458  0.60803578  1
+  Dy  Dy1  1  0.99990864  0.26195145  0.16181925  1
+  Dy  Dy2  1  0.31922539  0.39911441  0.88186662  1
+  Dy  Dy3  1  0.72000115  0.11895601  0.46465962  1
+  Ho  Ho4  1  0.89815567  0.69930841  0.32627676  1
+  Ho  Ho5  1  0.18168476  0.84489845  0.02614239  1
+  In  In6  1  0.07815785  0.54031017  0.59985152  1
+  In  In7  1  0.95199480  0.98076554  0.74439018  1
+  In  In8  1  0.38154099  0.68518681  0.30296269  1
+  In  In9  1  0.68016049  0.83628245  0.04261200  1
+  In  In10  1  0.45142004  0.98056078  0.74297100  1
+  In  In11  1  0.51799674  0.27795095  0.18701195  1
+  In  In12  1  0.22016102  0.12535384  0.44704432  1
+  In  In13  1  0.82684836  0.42536906  0.89125166  1

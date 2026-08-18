@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuMgCuPrCu2
+_chemical_formula_sum              "Cu4 Mg1 Pr1"
+_cell_length_a       5.1850414546267345
+_cell_length_b       5.185169855363533
+_cell_length_c       5.184916973114014
+_cell_angle_alpha    60.075880779712186
+_cell_angle_beta     60.04868688715469
+_cell_angle_gamma    60.05170533147494
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.4162349700927735  0.6845626831054688  0.4271425604820251  1.0000
+  Mg  Mg1       1.0  0.04363397881388666  0.31190174818038935  0.5453740954399109  1.0000
+  Cu  Cu2       1.0  0.9253559112548828  0.6845197081565857  0.9177350997924804  1.0000
+  Pr  Pr1       1.0  0.7933975458145143  0.06163369491696357  0.2949177622795104  1.0000
+  Cu  Cu3       1.0  0.41642177104949957  0.19319559633731842  0.9178866147994994  1.0000
+  Cu  Cu4       1.0  0.4163302481174469  0.6844515800476073  0.9177933931350707  1.0000

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Bi2PNO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.58147642
+_cell_length_b   6.47302671
+_cell_length_c   6.72984340
+_cell_angle_alpha   67.77879128
+_cell_angle_beta   90.92649772
+_cell_angle_gamma   62.85393957
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi2PNO6
+_chemical_formula_sum   'Bi2 P1 N1 O6'
+_cell_volume   160.03334549
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.80655866  0.46080075  0.40620149  1
+  Bi  Bi1  1  0.23114395  0.76105599  0.88027009  1
+  P  P2  1  0.55999442  0.13848235  0.17805819  1
+  N  N3  1  0.20432835  0.10818817  0.15766870  1
+  O  O4  1  0.47279631  0.30429117  0.31145551  1
+  O  O5  1  0.24290812  1.05686583  0.63232446  1
+  O  O6  1  0.82669322  0.85631325  0.31994638  1
+  O  O7  1  0.57534700  0.29253766  0.94269145  1
+  O  O8  1  0.28169360  0.90182735  0.31226966  1
+  O  O9  1  0.71766027  0.64468217  0.05649950  1

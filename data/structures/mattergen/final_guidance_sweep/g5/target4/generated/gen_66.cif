@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PtRb2O2
+_chemical_formula_sum              "Pt1 Rb2 O2"
+_cell_length_a       4.291436944425379
+_cell_length_b       4.302654642531604
+_cell_length_c       7.499602317810059
+_cell_angle_alpha    106.77599149656342
+_cell_angle_beta     106.56759610949716
+_cell_angle_gamma    90.01588933156917
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.9568762183189392  0.7797822952270509  0.6155260801315308  1.0000
+  Rb  Rb1       1.0  0.6050677299499512  0.4273228645324707  0.9105440378189086  1.0000
+  Rb  Rb2       1.0  0.30709517002105713  0.13182547688484192  0.3179466426372528  1.0000
+  O   O1        1.0  0.09670263528823853  0.9186063408851624  0.8934606909751891  1.0000
+  O   O2        1.0  0.8166196942329407  0.6410562992095947  0.3375625014305115  1.0000

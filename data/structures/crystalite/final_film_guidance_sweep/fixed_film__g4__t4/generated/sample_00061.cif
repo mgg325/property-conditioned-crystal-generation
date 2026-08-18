@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ca3MgNO7F2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.68895531
+_cell_length_b   5.26629019
+_cell_length_c   11.13614941
+_cell_angle_alpha   89.92145538
+_cell_angle_beta   90.23519135
+_cell_angle_gamma   125.14498901
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3MgNO7F2
+_chemical_formula_sum   'Ca3 Mg1 N1 O7 F2'
+_cell_volume   272.81063524
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.10714403  0.64332730  0.44124237  1
+  N  N1  1  0.04518783  0.65558606  0.47321483  1
+  O  O2  1  0.00910950  0.48184681  0.45242369  1
+  F  F3  1  0.86895323  0.73298723  0.92140746  1
+  Ca  Ca4  1  0.32032526  0.29344979  0.72128761  1
+  O  O5  1  0.58429402  0.28709364  0.87181836  1
+  Ca  Ca6  1  0.08503067  0.53762388  0.95838654  1
+  O  O7  1  0.52134919  0.85474896  0.17047322  1
+  F  F8  1  0.12203473  0.50072306  0.75230372  1
+  Mg  Mg9  1  0.31643313  0.23977444  0.95279586  1
+  O  O10  1  0.96843272  0.81348705  0.46486709  1
+  O  O11  1  0.00557190  0.60472703  0.13359126  1
+  O  O12  1  0.54905641  0.08751735  0.12570933  1
+  Ca  Ca13  1  0.68997246  0.88630128  0.19264418  1

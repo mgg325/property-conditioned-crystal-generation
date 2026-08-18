@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KRb(Hg3Au)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.00455543
+_cell_length_b   8.99692287
+_cell_length_c   9.00362633
+_cell_angle_alpha   115.71760487
+_cell_angle_beta   106.46379253
+_cell_angle_gamma   106.56983323
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRb(Hg3Au)4
+_chemical_formula_sum   'K1 Rb1 Hg12 Au4'
+_cell_volume   555.45886091
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.80835725  0.55622516  0.99019189  1
+  Rb  Rb1  1  0.80921786  0.05646541  0.49073745  1
+  Hg  Hg2  1  0.60293412  0.20349158  0.13567857  1
+  Hg  Hg3  1  0.09844287  0.72354931  0.44887964  1
+  Hg  Hg4  1  0.30574448  0.90591118  0.13854357  1
+  Hg  Hg5  1  0.51802248  0.38718168  0.53091657  1
+  Hg  Hg6  1  0.10445203  0.52686627  0.66440309  1
+  Hg  Hg7  1  0.51198895  0.58752424  0.31752449  1
+  Hg  Hg8  1  0.01298960  0.90818801  0.84437566  1
+  Hg  Hg9  1  0.09794480  0.38854073  0.11272283  1
+  Hg  Hg10  1  0.51798890  0.72355499  0.86816683  1
+  Hg  Hg11  1  0.10554734  0.18168437  0.31926358  1
+  Hg  Hg12  1  0.51245348  0.93015532  0.66095392  1
+  Hg  Hg13  1  0.31043685  0.20521120  0.84313686  1
+  Au  Au14  1  0.30834435  0.05524760  0.49096955  1
+  Au  Au15  1  0.80756824  0.55621032  0.48928880  1
+  Au  Au16  1  0.30801827  0.55576314  0.99043382  1
+  Au  Au17  1  0.80861526  0.05696070  0.99076483  1

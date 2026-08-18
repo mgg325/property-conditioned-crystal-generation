@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CsTe3CsTeHfAg
+_chemical_formula_sum              "Cs2 Te4 Hf1 Ag1"
+_cell_length_a       4.324061229537021
+_cell_length_b       8.837002388390655
+_cell_length_c       8.561301231384277
+_cell_angle_alpha    107.90795197215219
+_cell_angle_beta     104.56626131416608
+_cell_angle_gamma    90.00427827872934
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.1807129681110382  0.9349515438079834  0.5098690986633301  1.0000
+  Te  Te1       1.0  0.8345845341682434  0.3012583255767822  0.8177011013031006  1.0000
+  Te  Te2       1.0  0.14025218784809113  0.336445689201355  0.4275522530078888  1.0000
+  Te  Te3       1.0  0.5020288825035095  0.6697009205818176  0.1496221125125885  1.0000
+  Cs  Cs2       1.0  0.4571743905544281  0.08453784137964249  0.06143227592110634  1.0000
+  Te  Te4       1.0  0.8098236322402954  0.728793442249298  0.7659844756126404  1.0000
+  Hf  Hf1       1.0  0.3220152258872986  0.5113587975502014  0.7913594245910645  1.0000
+  Ag  Ag1       1.0  0.632712423801422  0.5336819887161254  0.4130043387413025  1.0000

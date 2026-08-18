@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Pt2MgNb
+_chemical_formula_sum              "Pt2 Mg1 Nb1"
+_cell_length_a       2.9285556791736505
+_cell_length_b       2.9284699367413083
+_cell_length_c       7.658105726291108
+_cell_angle_alpha    89.99695298643103
+_cell_angle_beta     89.99570387769728
+_cell_angle_gamma    90.00007951414219
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.08279248932407629  0.4431362669892249  0.18804162894850032  1.0000
+  Pt  Pt2       1.0  0.0831727226017689  0.44343076638684614  0.6793739416284278  1.0000
+  Mg  Mg1       1.0  0.5826132566512905  0.9426847148125843  0.4340215143578635  1.0000
+  Nb  Nb1       1.0  0.5825746273540441  0.943409164504111  0.9336096725852525  1.0000

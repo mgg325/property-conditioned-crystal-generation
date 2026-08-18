@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrAu3Se8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34470883
+_cell_length_b   6.69081159
+_cell_length_c   9.17931569
+_cell_angle_alpha   90.99391388
+_cell_angle_beta   95.77872546
+_cell_angle_gamma   90.93401316
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrAu3Se8
+_chemical_formula_sum   'Sr1 Au3 Se8'
+_cell_volume   326.48534003
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  -0.01968225  0.44682296  0.33433240  1
+  Au  Au1  1  0.65831515  0.94803507  1.04673166  1
+  Au  Au2  1  0.61943464  0.90667639  0.60947122  1
+  Au  Au3  1  0.06412353  0.34317950  0.84616282  1
+  Se  Se4  1  0.47162873  0.55567637  0.55833646  1
+  Se  Se5  1  0.45634985  0.62458195  0.19839767  1
+  Se  Se6  1  0.26858889  -0.00650048  0.82792198  1
+  Se  Se7  1  0.76462764  0.26538374  0.62382654  1
+  Se  Se8  1  0.41203979  0.12318058  0.22963942  1
+  Se  Se9  1  0.47062903  0.43205970  -0.01889071  1
+  Se  Se10  1  1.02774184  0.95012264  0.26993003  1
+  Se  Se11  1  0.89672446  0.78436001  0.84912754  1

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Lu3SeLuSe
+_chemical_formula_sum              "Lu4 Se2"
+_cell_length_a       3.699427407781416
+_cell_length_b       6.365372175133765
+_cell_length_c       6.944605350494385
+_cell_angle_alpha    98.84532986663469
+_cell_angle_beta     105.49171091184283
+_cell_angle_gamma    90.04595612188707
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.8022656440734864  0.05786177515983581  0.5976288318634033  1.0000
+  Lu  Lu2       1.0  0.30203160643577576  0.5583182573318481  0.5973462462425232  1.0000
+  Lu  Lu3       1.0  0.5954726934432983  0.6549493074417114  0.18322601914405823  1.0000
+  Se  Se1       1.0  0.4484748840332032  0.2721008062362671  0.8893764019012451  1.0000
+  Lu  Lu4       1.0  0.09524764865636826  0.15597090125083923  0.1825847029685974  1.0000
+  Se  Se2       1.0  0.9486877918243409  0.7711718082427979  0.8898305892944336  1.0000

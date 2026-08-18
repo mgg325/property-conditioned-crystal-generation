@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_BaYN2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.63798428
+_cell_length_b   3.85673022
+_cell_length_c   8.11867905
+_cell_angle_alpha   89.86872101
+_cell_angle_beta   90.42948914
+_cell_angle_gamma   114.01983643
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaYN2O5
+_chemical_formula_sum   'Ba1 Y1 N2 O5'
+_cell_volume   104.04381964
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  N  N0  1  0.13808915  0.27851397  0.54531950  1
+  Y  Y1  1  0.47009936  0.92907524  0.32441434  1
+  Ba  Ba2  1  0.46363813  0.91245854  0.79621065  1
+  O  O3  1  0.17473659  0.27304649  0.68182594  1
+  O  O4  1  0.84171343  0.62160522  0.86727357  1
+  O  O5  1  0.14379331  0.27020979  0.39326018  1
+  N  N6  1  0.83346272  0.57829994  0.05269554  1
+  O  O7  1  0.85528636  0.64746648  0.21439502  1
+  O  O8  1  0.59650981  0.12755173  0.06133923  1

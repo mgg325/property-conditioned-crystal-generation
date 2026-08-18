@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li3TlLi2ZnLi
+_chemical_formula_sum              "Li6 Tl1 Zn1"
+_cell_length_a       4.710414188131142
+_cell_length_b       5.805135920027372
+_cell_length_c       5.800262451171875
+_cell_angle_alpha    120.44232833671032
+_cell_angle_beta     89.04487559073712
+_cell_angle_gamma    90.4020274190291
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.2884783148765564  0.7655448913574219  0.8107317090034485  1.0000
+  Li  Li2       1.0  0.7893149256706238  0.9384198188781738  0.15099436044692993  1.0000
+  Li  Li3       1.0  0.787682056427002  0.4434613287448883  0.14859980344772333  1.0000
+  Tl  Tl1       1.0  0.289158433675766  0.7737832069396973  0.3163156211376189  1.0000
+  Li  Li4       1.0  0.2891305387020111  0.27575722336769104  0.32531994581222534  1.0000
+  Li  Li5       1.0  0.7890117764472961  0.9389770030975343  0.6419339776039124  1.0000
+  Zn  Zn1       1.0  0.7877320647239685  0.43996095657348633  0.6485329270362854  1.0000
+  Li  Li6       1.0  0.28763872385025024  0.27685296535491943  0.8117232322692871  1.0000

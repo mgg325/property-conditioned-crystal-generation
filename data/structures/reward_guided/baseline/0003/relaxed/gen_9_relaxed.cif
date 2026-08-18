@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrAg2HgF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20988228
+_cell_length_b   5.42850087
+_cell_length_c   7.59828814
+_cell_angle_alpha   90.05686569
+_cell_angle_beta   89.99002714
+_cell_angle_gamma   93.48799805
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrAg2HgF8
+_chemical_formula_sum   'Zr1 Ag2 Hg1 F8'
+_cell_volume   214.49546539
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.91324566  0.18518125  0.49451067  1
+  Ag  Ag1  1  0.41326933  0.68521724  0.74395775  1
+  Ag  Ag2  1  0.41265881  0.68497751  0.24478319  1
+  Hg  Hg3  1  0.91315930  0.18511297  0.99484629  1
+  F  F4  1  0.72899599  0.36307936  0.29651633  1
+  F  F5  1  0.19953346  0.45943587  0.49457462  1
+  F  F6  1  0.62843377  0.90444109  0.99459327  1
+  F  F7  1  0.09785607  0.00733292  0.29630944  1
+  F  F8  1  0.62686600  0.91108544  0.49400391  1
+  F  F9  1  0.72846436  0.36363657  0.69229838  1
+  F  F10  1  0.19890018  0.46478486  0.99466310  1
+  F  F11  1  0.09778852  0.00731902  0.69236725  1

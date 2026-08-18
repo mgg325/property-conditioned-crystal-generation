@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HgMgInCd
+_chemical_formula_sum              "Hg1 Mg1 In1 Cd1"
+_cell_length_a       3.3604838991850747
+_cell_length_b       4.375719067302322
+_cell_length_c       6.412297248840332
+_cell_angle_alpha    89.95372114426318
+_cell_angle_beta     89.96902076469148
+_cell_angle_gamma    89.97997639109052
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.23360781371593475  0.17054933309555054  0.6215177178382874  1.0000
+  Mg  Mg1       1.0  0.73271244764328  0.6706224679946898  0.8479118943214417  1.0000
+  In  In1       1.0  0.23363935947418213  0.1700010746717453  0.11018133163452148  1.0000
+  Cd  Cd1       1.0  0.7335811257362366  0.6702688336372375  0.3612237870693207  1.0000

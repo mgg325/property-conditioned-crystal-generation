@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ta2HfMo
+_chemical_formula_sum              "Ta2 Hf1 Mo1"
+_cell_length_a       3.331210502520018
+_cell_length_b       4.677981443989372
+_cell_length_c       4.676591396331787
+_cell_angle_alpha    90.0097218637193
+_cell_angle_beta     89.94458234858018
+_cell_angle_gamma    90.02103948760835
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.8217517137527466  0.6336964964866639  0.8784939050674438  1.0000
+  Ta  Ta2       1.0  0.821670651435852  0.13351994752883914  0.37856242060661316  1.0000
+  Hf  Hf1       1.0  0.3216964602470398  0.6334167122840881  0.3784128725528717  1.0000
+  Mo  Mo1       1.0  0.3216381072998047  0.13336776196956635  0.8783022165298462  1.0000

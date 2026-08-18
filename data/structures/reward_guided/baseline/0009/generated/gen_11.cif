@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       BaCdEu2
+_chemical_formula_sum              "Ba1 Cd1 Eu2"
+_cell_length_a       4.064419997304844
+_cell_length_b       4.062125470388048
+_cell_length_c       10.197134017944336
+_cell_angle_alpha    89.9653871054498
+_cell_angle_beta     90.09822745667704
+_cell_angle_gamma    89.96453333144677
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.3256484568119049  0.9287564158439636  0.7235358953475952  1.0000
+  Cd  Cd1       1.0  0.3248830735683441  0.9293621182441711  0.22379006445407867  1.0000
+  Eu  Eu1       1.0  0.8243268132209778  0.4291839301586151  0.03966517746448517  1.0000
+  Eu  Eu2       1.0  0.8252049684524536  0.42890772223472595  0.40689000487327576  1.0000

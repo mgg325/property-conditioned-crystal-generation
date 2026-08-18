@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TlBaTl2BaSb3
+_chemical_formula_sum              "Tl3 Ba2 Sb3"
+_cell_length_a       5.026418753585547
+_cell_length_b       7.562707486833082
+_cell_length_c       7.526843070983887
+_cell_angle_alpha    100.84485400200715
+_cell_angle_beta     89.87994144543906
+_cell_angle_gamma    89.93991732956256
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.9668799042701722  0.1266603022813797  0.704881727695465  1.0000
+  Ba  Ba1       1.0  0.9665133357048036  0.6433948874473573  0.6677035689353943  1.0000
+  Tl  Tl2       1.0  0.9667259454727174  0.6086435317993164  0.1836571544408798  1.0000
+  Tl  Tl3       1.0  0.46652612090110784  0.366071492433548  0.9444862008094786  1.0000
+  Ba  Ba2       1.0  0.9668785929679872  0.12026563286781312  0.19176188111305234  1.0000
+  Sb  Sb1       1.0  0.4664217829704285  0.803012490272522  0.009711183607578307  1.0000
+  Sb  Sb2       1.0  0.46651467680931097  0.3020219802856446  0.5086438059806824  1.0000
+  Sb  Sb3       1.0  0.4668456315994263  0.8852186799049377  0.4271241128444671  1.0000

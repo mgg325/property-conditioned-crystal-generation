@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cd7In2Cu3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97592260
+_cell_length_b   7.34451848
+_cell_length_c   8.63779356
+_cell_angle_alpha   89.97085120
+_cell_angle_beta   89.99952021
+_cell_angle_gamma   90.00438065
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd7In2Cu3
+_chemical_formula_sum   'Cd7 In2 Cu3'
+_cell_volume   252.23422344
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.04726730  0.06033448  0.74422839  1
+  Cd  Cd1  1  0.04743411  0.67647022  0.24266765  1
+  Cd  Cd2  1  0.54737389  0.34961713  0.81491353  1
+  Cd  Cd3  1  0.04730621  0.06013128  0.33503030  1
+  Cd  Cd4  1  0.54734777  0.34944365  0.26368401  1
+  Cd  Cd5  1  0.04743573  0.67643390  0.83567866  1
+  Cd  Cd6  1  0.04735044  0.43349310  0.53921868  1
+  In  In7  1  0.54716953  -0.01375979  0.03959018  1
+  In  In8  1  0.54731572  0.78463953  0.53933146  1
+  Cu  Cu9  1  0.54743601  0.60091026  0.03923050  1
+  Cu  Cu10  1  0.04736409  0.36603501  0.03929074  1
+  Cu  Cu11  1  0.54729713  0.16380151  0.53948152  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LuMgSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.39107110
+_cell_length_b   7.65762852
+_cell_length_c   7.65766148
+_cell_angle_alpha   120.01260234
+_cell_angle_beta   90.00442597
+_cell_angle_gamma   89.99815151
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuMgSn
+_chemical_formula_sum   'Lu3 Mg3 Sn3'
+_cell_volume   222.96484463
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.72707804  0.27385346  0.84800834  1
+  Lu  Lu1  1  0.72694862  0.86180955  0.25949567  1
+  Lu  Lu2  1  0.72699734  0.45054067  0.43653298  1
+  Mg  Mg3  1  0.22703344  0.86276340  0.59502367  1
+  Mg  Mg4  1  0.22722282  0.60888816  0.84845007  1
+  Mg  Mg5  1  0.22710277  0.11487171  0.10088695  1
+  Sn  Sn6  1  0.22706465  0.19565150  0.51458243  1
+  Sn  Sn7  1  0.72711675  0.86187380  0.84773762  1
+  Sn  Sn8  1  0.22695627  0.52857540  0.18154741  1

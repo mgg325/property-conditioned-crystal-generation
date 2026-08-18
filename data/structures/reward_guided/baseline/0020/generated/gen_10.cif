@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ca2GeSi
+_chemical_formula_sum              "Ca2 Ge1 Si1"
+_cell_length_a       4.005475275386418
+_cell_length_b       4.51382407131191
+_cell_length_c       5.848952770233154
+_cell_angle_alpha    112.68166054915186
+_cell_angle_beta     88.92064120394288
+_cell_angle_gamma    89.07745565470084
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.32550501823425293  0.2167801409959793  0.5537874102592468  1.0000
+  Ca  Ca2       1.0  0.8273413777351379  0.9402196407318115  0.000959634780883751  1.0000
+  Ge  Ge1       1.0  0.3272407352924347  0.5062469840049744  0.1323215812444687  1.0000
+  Si  Si1       1.0  0.8274619579315186  0.650199294090271  0.4235350489616394  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       IrMgNiZn
+_chemical_formula_sum              "Ir1 Mg1 Ni1 Zn1"
+_cell_length_a       3.125713018917281
+_cell_length_b       4.110401521007937
+_cell_length_c       4.275217056274414
+_cell_angle_alpha    88.35749902370287
+_cell_angle_beta     90.50021140168342
+_cell_angle_gamma    90.14601145841827
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.3258768916130066  0.10442768782377243  0.417550265789032  1.0000
+  Mg  Mg1       1.0  0.3256767690181732  0.6048060059547424  0.918602705001831  1.0000
+  Ni  Ni1       1.0  0.8292495012283325  0.10601021349430084  0.9171475172042847  1.0000
+  Zn  Zn1       1.0  0.8252813816070557  0.6067986488342285  0.4182198941707611  1.0000

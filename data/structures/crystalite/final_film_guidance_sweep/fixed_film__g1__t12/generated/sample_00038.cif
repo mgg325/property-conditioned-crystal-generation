@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbSmAlSiPbC2SO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.63092351
+_cell_length_b   7.41463280
+_cell_length_c   7.89790821
+_cell_angle_alpha   82.62638092
+_cell_angle_beta   76.06174469
+_cell_angle_gamma   75.19492340
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbSmAlSiPbC2SO4
+_chemical_formula_sum   'Tb1 Sm1 Al1 Si1 Pb1 C2 S1 O4'
+_cell_volume   199.00933921
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pb  Pb0  1  0.26336962  0.76441753  0.29745919  1
+  Al  Al1  1  0.49221212  0.73258185  0.75199854  1
+  O  O2  1  0.13440520  0.57247245  0.72802281  1
+  O  O3  1  0.47021914  0.11165377  0.43900928  1
+  O  O4  1  0.84779155  0.38463992  0.31628454  1
+  Sm  Sm5  1  0.79393369  0.24947068  0.61809164  1
+  C  C6  1  0.52044696  0.39579505  0.05135858  1
+  Si  Si7  1  0.52628100  0.19294450  0.24999833  1
+  Tb  Tb8  1  0.05761072  0.42300051  0.99322319  1
+  S  S9  1  0.79927170  0.92059219  0.89120257  1
+  C  C10  1  0.62334728  0.72117120  0.58454514  1
+  O  O11  1  0.09515357  0.08646536  0.15488642  1

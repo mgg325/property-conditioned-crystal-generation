@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Rb3Sm2MnTe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.87554208
+_cell_length_b   7.87516948
+_cell_length_c   8.82488169
+_cell_angle_alpha   98.61618019
+_cell_angle_beta   98.62487931
+_cell_angle_gamma   119.83976606
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb3Sm2MnTe6
+_chemical_formula_sum   'Rb3 Sm2 Mn1 Te6'
+_cell_volume   453.03791920
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.81080640  0.87027298  0.01507265  1
+  Rb  Rb1  1  0.46594840  0.21611235  0.01522300  1
+  Rb  Rb2  1  0.13837724  0.54321196  0.01525139  1
+  Sm  Sm3  1  0.30332987  0.37831238  0.51530408  1
+  Sm  Sm4  1  0.97348043  0.70827452  0.51510672  1
+  Mn  Mn5  1  0.63857173  0.04327818  0.51497799  1
+  Te  Te6  1  0.02141342  0.10767373  0.70998726  1
+  Te  Te7  1  0.38220574  0.78689526  0.71917420  1
+  Te  Te8  1  0.57388541  0.66033373  0.32054587  1
+  Te  Te9  1  0.25546730  0.97877342  0.32033334  1
+  Te  Te10  1  0.89455852  0.29927026  0.31124989  1
+  Te  Te11  1  0.70289523  0.42599639  0.70983980  1

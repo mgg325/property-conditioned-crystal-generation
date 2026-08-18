@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs3K3AgHg3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04412399
+_cell_length_b   7.56532971
+_cell_length_c   15.72995459
+_cell_angle_alpha   91.15967636
+_cell_angle_beta   89.89265591
+_cell_angle_gamma   90.00491159
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3K3AgHg3
+_chemical_formula_sum   'Cs3 K3 Ag1 Hg3'
+_cell_volume   600.13831642
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.18643926  0.19891712  0.96064224  1
+  Cs  Cs1  1  0.18606178  0.71664361  0.78379215  1
+  Cs  Cs2  1  0.68514988  0.49528016  0.18566881  1
+  K  K3  1  0.68288323  0.71304664  0.48786596  1
+  K  K4  1  0.18206708  0.21976126  0.57438036  1
+  K  K5  1  0.18420664  0.99328549  0.28097051  1
+  Ag  Ag6  1  0.68655833  0.80945193  0.95985248  1
+  Hg  Hg7  1  0.68322757  0.22904701  0.41119240  1
+  Hg  Hg8  1  0.18614217  0.73638897  0.03729282  1
+  Hg  Hg9  1  0.18355114  0.45390021  0.38025594  1

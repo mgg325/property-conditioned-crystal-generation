@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       CuSnGa
+_chemical_formula_sum              "Cu1 Sn1 Ga1"
+_cell_length_a       4.338619791222672
+_cell_length_b       4.34201426126686
+_cell_length_c       4.33933162689209
+_cell_angle_alpha    59.94574351096489
+_cell_angle_beta     59.9401690816706
+_cell_angle_gamma    59.914419314223416
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.12883901596069336  0.6105499863624573  0.06259065121412283  1.0000
+  Sn  Sn1       1.0  0.8786990642547607  0.3598465919494629  0.8127466440200806  1.0000
+  Ga  Ga1       1.0  0.3790626525878906  0.8604921698570251  0.3131542205810547  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       PrCaPrRh
+_chemical_formula_sum              "Pr2 Ca1 Rh1"
+_cell_length_a       4.1244186954331505
+_cell_length_b       4.123312631753844
+_cell_length_c       9.912872314453125
+_cell_angle_alpha    78.02290426148015
+_cell_angle_beta     78.01383943883282
+_cell_angle_gamma    60.02032372255321
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.7431343793869019  0.2957654893398285  0.197551891207695  1.0000
+  Ca  Ca1       1.0  0.5211108922958374  0.07269085198640823  0.8648108243942261  1.0000
+  Pr  Pr2       1.0  0.9684510827064513  0.5205215215682983  0.5243398547172546  1.0000
+  Rh  Rh1       1.0  0.3556707501411438  0.9085414409637451  0.35977667570114136  1.0000

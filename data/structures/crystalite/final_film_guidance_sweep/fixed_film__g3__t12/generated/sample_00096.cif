@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_RbGa2SiTcP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.64839029
+_cell_length_b   5.08961010
+_cell_length_c   5.36322403
+_cell_angle_alpha   118.39273071
+_cell_angle_beta   118.33499146
+_cell_angle_gamma   90.53050995
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbGa2SiTcP
+_chemical_formula_sum   'Rb1 Ga2 Tc1 Si1 P1'
+_cell_volume   93.61670449
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.21628597  0.75430650  0.07126302  1
+  Tc  Tc1  1  0.58491421  0.06666958  0.09495464  1
+  Ga  Ga2  1  0.15286681  0.27599108  0.02895212  1
+  Rb  Rb3  1  0.99765348  0.91212618  0.46517929  1
+  Si  Si4  1  0.53827018  0.56753594  0.52503699  1
+  Ga  Ga5  1  0.94179094  0.83298832  0.76874447  1

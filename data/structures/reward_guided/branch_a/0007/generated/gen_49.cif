@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SnHgNaSn
+_chemical_formula_sum              "Sn2 Hg1 Na1"
+_cell_length_a       5.305796783306753
+_cell_length_b       5.2261497748385795
+_cell_length_c       5.207678318023682
+_cell_angle_alpha    60.22863703977792
+_cell_angle_beta     59.838065166761304
+_cell_angle_gamma    59.67359043788782
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.7522919178009033  0.6339413523674011  0.49612197279930104  1.0000
+  Hg  Hg1       1.0  0.25050413608551025  0.1314987987279892  0.9948731660842896  1.0000
+  Na  Na1       1.0  0.5035651922225952  0.3857673406600952  0.24802322685718536  1.0000
+  Sn  Sn2       1.0  0.0032679820433258815  0.8832619786262512  0.7437554597854614  1.0000

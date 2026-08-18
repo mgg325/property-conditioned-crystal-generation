@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_HfScAl2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.19729291
+_cell_length_b   5.19864320
+_cell_length_c   5.43217438
+_cell_angle_alpha   118.57713961
+_cell_angle_beta   89.99630373
+_cell_angle_gamma   119.99806620
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfScAl2O6
+_chemical_formula_sum   'Hf1 Sc1 Al2 O6'
+_cell_volume   105.96531261
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.79024965  0.12052782  0.05825788  1
+  Sc  Sc1  1  0.28805538  0.11643571  0.55207248  1
+  Al  Al2  1  0.50625790  0.55252395  0.20586324  1
+  Al  Al3  1  0.00566386  0.55164106  0.70494443  1
+  O  O4  1  0.72803804  0.63235155  0.90634982  1
+  O  O5  1  0.22272169  0.39995552  0.40122344  1
+  O  O6  1  0.12624612  0.39467139  0.90630428  1
+  O  O7  1  0.36404755  0.03004605  0.90585900  1
+  O  O8  1  0.63739792  0.03133332  0.40153960  1
+  O  O9  1  0.85368688  0.61634578  0.40136419  1

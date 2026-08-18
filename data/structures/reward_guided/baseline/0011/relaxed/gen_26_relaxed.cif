@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_LiScAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.43833200
+_cell_length_b   3.43847064
+_cell_length_c   5.25270824
+_cell_angle_alpha   109.10599253
+_cell_angle_beta   109.10837275
+_cell_angle_gamma   89.99997247
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiScAu
+_chemical_formula_sum   'Li1 Sc1 Au1'
+_cell_volume   55.04594297
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.08241545  0.21985669  0.72616391  1
+  Sc  Sc1  1  0.77866450  0.91607666  0.11864432  1
+  Au  Au2  1  0.44479463  0.58219958  0.45085246  1

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TaSbTaAlSb2
+_chemical_formula_sum              "Ta2 Sb3 Al1"
+_cell_length_a       3.820759057999852
+_cell_length_b       3.843785079660332
+_cell_length_c       8.329809188842773
+_cell_angle_alpha    90.02149710977676
+_cell_angle_beta     89.9999546931543
+_cell_angle_gamma    89.96010736959137
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.4260227382183075  0.9877698421478271  0.7638492584228516  1.0000
+  Sb  Sb1       1.0  0.9262002110481262  0.9882105588912964  0.01987648382782936  1.0000
+  Ta  Ta2       1.0  0.9263811111450195  0.48867693543434143  0.2753785252571106  1.0000
+  Al  Al1       1.0  0.425844669342041  0.487944096326828  0.019374249503016472  1.0000
+  Sb  Sb2       1.0  0.4262264668941498  0.9889174103736877  0.4072490930557251  1.0000
+  Sb  Sb3       1.0  0.9263175129890442  0.4872869849205017  0.6325967311859131  1.0000

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaAgBiS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.04769684
+_cell_length_b   8.27368284
+_cell_length_c   8.71212757
+_cell_angle_alpha   101.82619816
+_cell_angle_beta   90.00611634
+_cell_angle_gamma   90.00275430
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaAgBiS3
+_chemical_formula_sum   'Ca2 Ag2 Bi2 S6'
+_cell_volume   285.57053563
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.10486349  0.58243122  0.41163247  1
+  Ca  Ca1  1  0.60437079  0.22014839  0.96020142  1
+  Ag  Ag2  1  0.60469689  0.30469744  0.60394012  1
+  Ag  Ag3  1  0.10485645  0.49921016  0.76857990  1
+  Bi  Bi4  1  0.60455913  0.73187038  0.02281987  1
+  Bi  Bi5  1  0.10468610  0.07109426  0.34958957  1
+  S  S6  1  0.60490827  0.64471523  0.67135475  1
+  S  S7  1  0.60481349  0.81962451  0.34392843  1
+  S  S8  1  0.60465974  0.30254669  0.30703138  1
+  S  S9  1  0.10462907  0.15828467  0.70015977  1
+  S  S10  1  0.10434466  0.49974841  0.06491017  1
+  S  S11  1  0.10453598  0.98299855  0.02807754  1

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AsMo2OAsOAsO
+_chemical_formula_sum              "As3 Mo2 O3"
+_cell_length_a       3.3586068948085894
+_cell_length_b       3.2131228091165216
+_cell_length_c       13.773604393005371
+_cell_angle_alpha    90.20211463639083
+_cell_angle_beta     88.64892960923572
+_cell_angle_gamma    118.72772993362976
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.054737962782382965  0.057979829609394073  0.5622520446777344  1.0000
+  Mo  Mo1       1.0  0.3851151764392853  0.7235896587371826  0.13991747796535492  1.0000
+  Mo  Mo2       1.0  0.38769510388374323  0.7244809269905089  0.6893109083175659  1.0000
+  O   O1        1.0  0.05433331057429314  0.05728193372488022  0.1785896122455597  1.0000
+  As  As2       1.0  0.7212601900100708  0.3903290927410126  0.40777188539505005  1.0000
+  O   O2        1.0  0.38594889640808105  0.7223305106163025  0.016334738582372665  1.0000
+  As  As3       1.0  0.055791594088077545  0.05768882483243942  0.8065066337585449  1.0000
+  O   O3        1.0  0.38814058899879456  0.7234795689582825  0.3394365608692169  1.0000

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ti3PbC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25734154
+_cell_length_b   4.25735990
+_cell_length_c   4.25733358
+_cell_angle_alpha   90.00089382
+_cell_angle_beta   89.99883268
+_cell_angle_gamma   90.00155015
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3PbC
+_chemical_formula_sum   'Ti3 Pb1 C1'
+_cell_volume   77.16432059
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.34633526  0.05530596  0.45176980  1
+  Ti  Ti1  1  0.34639839  0.55503870  0.95298449  1
+  Ti  Ti2  1  0.84610922  0.05500742  0.95160395  1
+  Pb  Pb3  1  0.84627506  0.55515159  0.45225266  1
+  C  C4  1  0.34585341  0.05499726  0.95184230  1

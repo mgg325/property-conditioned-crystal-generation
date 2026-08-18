@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Mn2Al3(VGe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.11052448
+_cell_length_b   5.02801710
+_cell_length_c   6.82472210
+_cell_angle_alpha   92.84269577
+_cell_angle_beta   107.51009132
+_cell_angle_gamma   90.01991357
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2Al3(VGe)2
+_chemical_formula_sum   'Mn2 Al3 V2 Ge2'
+_cell_volume   134.33332870
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.32355133  0.56388048  0.09264745  1
+  Mn  Mn1  1  0.40615251  0.01375868  0.25836770  1
+  Al  Al2  1  0.22326338  0.09993329  0.89158229  1
+  Al  Al3  1  0.50647072  0.47772197  0.45944435  1
+  Al  Al4  1  0.86484940  0.28884740  0.17551012  1
+  V  V5  1  0.76910225  0.77231739  0.98382350  1
+  V  V6  1  0.96063004  0.80530490  0.36718324  1
+  Ge  Ge7  1  0.13603582  0.55906564  0.71839125  1
+  Ge  Ge8  1  0.59370137  0.01859946  0.63259782  1

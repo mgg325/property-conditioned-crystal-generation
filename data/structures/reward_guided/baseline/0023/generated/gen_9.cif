@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       DyF3ZnF3
+_chemical_formula_sum              "Dy1 F6 Zn1"
+_cell_length_a       5.729964327364358
+_cell_length_b       5.7956750921910665
+_cell_length_c       5.765389919281006
+_cell_angle_alpha    61.04136178780223
+_cell_angle_beta     60.01995370548597
+_cell_angle_gamma    60.48430671813021
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.4355331361293793  0.3860694468021392  0.9421897530555725  1.0000
+  F   F1        1.0  0.17300963401794434  0.12351508438587189  0.2050076276063919  1.0000
+  F   F2        1.0  0.17351381480693825  0.6490924358367919  0.6788368225097656  1.0000
+  F   F3        1.0  0.6977596879005432  0.12147587537765503  0.2050209790468216  1.0000
+  Zn  Zn1       1.0  0.9355688095092775  0.8863635063171386  0.4415782690048218  1.0000
+  F   F4        1.0  0.697873055934906  0.1250069439411163  0.6781111359596252  1.0000
+  F   F5        1.0  0.17337054014205933  0.6490312814712524  0.20445956289768225  1.0000
+  F   F6        1.0  0.6978966593742371  0.64837908744812  0.6781195402145386  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AlZr2Rh2
+_chemical_formula_sum              "Al1 Zr2 Rh2"
+_cell_length_a       4.152557670439316
+_cell_length_b       5.22939422753257
+_cell_length_c       5.2255682945251465
+_cell_angle_alpha    64.17500696641983
+_cell_angle_beta     66.70120101971001
+_cell_angle_gamma    66.68606360817796
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.18786074221134186  0.06761728227138519  0.7021299600601196  1.0000
+  Zr  Zr1       1.0  0.9881836771965026  0.7677376866340637  0.402197003364563  1.0000
+  Zr  Zr2       1.0  0.3886863589286804  0.36693027615547186  0.0018359422683715822  1.0000
+  Rh  Rh1       1.0  0.6882944703102111  0.8068082928657533  0.9628440141677858  1.0000
+  Rh  Rh2       1.0  0.6885508894920349  0.32804277539253235  0.44146317243576055  1.0000

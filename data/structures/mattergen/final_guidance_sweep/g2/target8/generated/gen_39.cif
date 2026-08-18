@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       RbTe2RbMnTe2
+_chemical_formula_sum              "Rb2 Te4 Mn1"
+_cell_length_a       4.003193999006449
+_cell_length_b       9.183290570531508
+_cell_length_c       9.254538536071777
+_cell_angle_alpha    100.88052782975143
+_cell_angle_beta     90.05081228585246
+_cell_angle_gamma    89.95080465140707
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.01214553415775299  0.2479400634765625  0.9331701993942261  1.0000
+  Te  Te1       1.0  0.5127436518669128  0.9337795376777649  0.7450836896896362  1.0000
+  Te  Te2       1.0  0.013341040350496769  0.5903707146644592  0.7737163305282593  1.0000
+  Rb  Rb2       1.0  0.01329760067164898  0.7445019483566284  0.43239885568618774  1.0000
+  Mn  Mn1       1.0  0.5122622847557068  0.748041033744812  0.933508038520813  1.0000
+  Te  Te3       1.0  0.012950478121638298  0.9077661037445068  0.09187229722738266  1.0000
+  Te  Te4       1.0  0.5123496651649475  0.5607776045799255  0.1194206029176712  1.0000

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaTlBiPb2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55359497
+_cell_length_b   7.04213984
+_cell_length_c   6.71295411
+_cell_angle_alpha   106.16882522
+_cell_angle_beta   85.78313693
+_cell_angle_gamma   115.23568327
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaTlBiPb2O7
+_chemical_formula_sum   'Ta1 Tl1 Bi1 Pb2 O7'
+_cell_volume   227.77971051
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.81269120  0.92244918  0.55546224  1
+  Tl  Tl1  1  0.77407610  0.10459562  0.07934917  1
+  Bi  Bi2  1  0.02937930  0.69129798  0.97001685  1
+  Pb  Pb3  1  0.18225955  0.59862884  0.43852073  1
+  Pb  Pb4  1  0.44592639  0.25748318  0.63631715  1
+  O  O5  1  0.75974922  0.37049956  0.93135846  1
+  O  O6  1  0.06860159  0.07015871  0.79992533  1
+  O  O7  1  0.02700545  0.19933157  0.48798666  1
+  O  O8  1  0.51313464  0.81125697  0.73397201  1
+  O  O9  1  0.88768124  0.74299151  0.30560738  1
+  O  O10  1  0.87842039  0.64935354  0.66307580  1
+  O  O11  1  0.50794210  0.94487921  0.42342769  1

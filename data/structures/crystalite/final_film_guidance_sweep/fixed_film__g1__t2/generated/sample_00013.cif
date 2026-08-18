@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ca3MnF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58445835
+_cell_length_b   5.50599146
+_cell_length_c   6.55019808
+_cell_angle_alpha   114.25334930
+_cell_angle_beta   114.95068359
+_cell_angle_gamma   90.23853302
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3MnF8
+_chemical_formula_sum   'Ca3 Mn1 F8'
+_cell_volume   162.61020365
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33124065  0.43013555  0.44644815  1
+  Ca  Ca1  1  0.72551095  0.29940629  0.70982778  1
+  F  F2  1  0.60159725  0.66003120  0.95399511  1
+  F  F3  1  0.82111114  0.42594874  0.46393713  1
+  F  F4  1  0.85591936  0.92365569  0.45298731  1
+  F  F5  1  0.11137614  0.18455982  0.93810087  1
+  F  F6  1  0.07889801  0.69638354  0.95395231  1
+  F  F7  1  0.59851646  0.14826471  0.95704472  1
+  F  F8  1  0.35028517  0.92709279  0.46182615  1
+  Mn  Mn9  1  0.97501808  0.04421109  0.21062210  1
+  Ca  Ca10  1  0.22059852  0.79789078  0.70348990  1
+  Ca  Ca11  1  0.48083663  0.55724794  0.20454144  1

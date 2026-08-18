@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LaHfCu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.34637465
+_cell_length_b   3.34527273
+_cell_length_c   7.09810791
+_cell_angle_alpha   89.90824028
+_cell_angle_beta   89.97762411
+_cell_angle_gamma   89.99028905
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaHfCu2
+_chemical_formula_sum   'La1 Hf1 Cu2'
+_cell_volume   79.45991423
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.03355078  0.67752288  0.63058182  1
+  Hf  Hf1  1  0.03341322  0.67799939  0.13046166  1
+  Cu  Cu2  1  0.53373647  0.17837550  0.93055085  1
+  Cu  Cu3  1  0.53361700  0.17758846  0.33059274  1

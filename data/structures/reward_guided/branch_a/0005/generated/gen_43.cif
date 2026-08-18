@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Y3Al3Ge2Au
+_chemical_formula_sum              "Y3 Al3 Ge2 Au1"
+_cell_length_a       4.203673292335881
+_cell_length_b       7.013328676873223
+_cell_length_c       7.0137715339660645
+_cell_angle_alpha    120.03622996066271
+_cell_angle_beta     90.84285466568333
+_cell_angle_gamma    90.53105658373384
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.824369490146637  0.29689815640449524  0.6312185525894165  1.0000
+  Y   Y2        1.0  0.8256637454032898  0.7103277444839478  0.45823910832405096  1.0000
+  Y   Y3        1.0  0.8231546878814697  0.8824642300605774  0.0454640686511994  1.0000
+  Al  Al1       1.0  0.3219602704048157  0.2985793650150299  0.28385162353515625  1.0000
+  Al  Al2       1.0  0.3232751786708832  0.5359081625938416  0.044533286243677174  1.0000
+  Al  Al3       1.0  0.32294172048568726  0.05924466624855995  0.8075500726699829  1.0000
+  Ge  Ge1       1.0  0.3242681324481964  0.6296024322509766  0.7106117010116577  1.0000
+  Ge  Ge2       1.0  0.32266372442245483  0.9632630944252013  0.37760859727859497  1.0000
+  Au  Au1       1.0  0.823427677154541  0.2966434359550476  0.04540764540433884  1.0000

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SnHg4Ge(BiSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.71290669
+_cell_length_b   5.55410159
+_cell_length_c   16.57983652
+_cell_angle_alpha   90.39284318
+_cell_angle_beta   90.02570756
+_cell_angle_gamma   113.59024895
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnHg4Ge(BiSe2)2
+_chemical_formula_sum   'Sn1 Hg4 Ge1 Bi2 Se4'
+_cell_volume   397.71297700
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.84329527  -0.00016155  1.07538661  1
+  Hg  Hg1  1  0.57805102  0.39488062  -0.07807688  1
+  Hg  Hg2  1  0.91357170  0.05163229  0.28007105  1
+  Hg  Hg3  1  0.50822583  0.36785095  0.35983127  1
+  Hg  Hg4  1  0.90392263  0.10728369  0.77532080  1
+  Ge  Ge5  1  0.18990109  0.68198295  0.31844591  1
+  Bi  Bi6  1  0.58899693  0.48498453  0.75131726  1
+  Bi  Bi7  1  0.32545641  0.81876092  0.60879821  1
+  Se  Se8  1  0.94732236  0.04693762  0.54654680  1
+  Se  Se9  1  0.94682351  0.63080805  0.18533498  1
+  Se  Se10  1  0.68263312  0.50308733  0.56811519  1
+  Se  Se11  1  0.32372503  0.90031865  0.99014828  1

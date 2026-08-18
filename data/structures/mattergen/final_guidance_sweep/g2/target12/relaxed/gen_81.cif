@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       Te2Co
+_chemical_formula_sum              "Te2 Co1"
+_cell_length_a       3.7548634707760526
+_cell_length_b       3.754950217965823
+_cell_length_c       6.082829347995708
+_cell_angle_alpha    90.01307031205188
+_cell_angle_beta     90.01004745237202
+_cell_angle_gamma    120.0002168747191
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.9117117121392788  0.9886059374764493  0.2605039005230661  1.0000
+  Te  Te2       1.0  0.578112575677554  0.32158352059132916  0.8217964831574598  1.0000
+  Co  Co1       1.0  0.2448956427207129  0.6551176538782348  0.0411587999413295  1.0000

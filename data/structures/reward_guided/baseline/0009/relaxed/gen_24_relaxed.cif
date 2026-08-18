@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CaTbZnAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11398917
+_cell_length_b   5.11451717
+_cell_length_c   5.11530641
+_cell_angle_alpha   59.98068039
+_cell_angle_beta   60.07040007
+_cell_angle_gamma   60.02230693
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaTbZnAu
+_chemical_formula_sum   'Ca1 Tb1 Zn1 Au1'
+_cell_volume   94.65887392
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.86454291  0.42180723  0.34640766  1
+  Tb  Tb1  1  0.36426048  0.92178169  0.84640043  1
+  Zn  Zn2  1  0.61425042  0.17131369  0.09617716  1
+  Au  Au3  1  0.11440202  0.67187837  0.59634543  1

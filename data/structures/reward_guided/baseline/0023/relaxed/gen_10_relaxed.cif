@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrGa3Ag2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74919626
+_cell_length_b   6.88560227
+_cell_length_c   6.88436038
+_cell_angle_alpha   102.16383547
+_cell_angle_beta   89.97006069
+_cell_angle_gamma   90.04011652
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrGa3Ag2
+_chemical_formula_sum   'Sr2 Ga6 Ag4'
+_cell_volume   266.41035404
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.49129146  0.56728114  0.03819372  1
+  Sr  Sr1  1  0.99139922  0.92289449  0.39365536  1
+  Ga  Ga2  1  0.99105487  0.31744673  0.78813158  1
+  Ga  Ga3  1  0.99084096  0.33879063  0.17084799  1
+  Ga  Ga4  1  0.49065618  0.79028981  0.62139779  1
+  Ga  Ga5  1  0.49206775  0.15108620  0.26090376  1
+  Ga  Ga6  1  0.49160418  0.17294066  0.64382108  1
+  Ga  Ga7  1  0.99181528  0.70042144  0.80975121  1
+  Ag  Ag8  1  0.74128559  0.46157572  0.50017572  1
+  Ag  Ag9  1  0.74142274  0.02874969  0.93151857  1
+  Ag  Ag10  1  0.24163348  0.02966815  0.93199663  1
+  Ag  Ag11  1  0.24115251  0.46079319  0.49958719  1

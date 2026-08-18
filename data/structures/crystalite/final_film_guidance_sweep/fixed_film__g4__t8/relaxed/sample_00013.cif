@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MgMnZnGaAsSe3NO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38595688
+_cell_length_b   5.83081644
+_cell_length_c   6.09624946
+_cell_angle_alpha   118.90531664
+_cell_angle_beta   119.21672733
+_cell_angle_gamma   90.67804571
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgMnZnGaAsSe3NO3
+_chemical_formula_sum   'Mg1 Mn1 Zn1 Ga1 As1 Se3 N1 O3'
+_cell_volume   138.37197314
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.10213208  0.38934718  0.03977421  1
+  Mn  Mn1  1  0.40179688  0.07831710  0.48381730  1
+  Zn  Zn2  1  0.80371708  0.74026740  0.94784453  1
+  Ga  Ga3  1  0.76073598  0.86826773  0.31802447  1
+  As  As4  1  0.57879701  0.13603456  0.13573827  1
+  Se  Se5  1  0.54585692  0.95382254  0.74017298  1
+  Se  Se6  1  0.14512806  0.71362047  0.76551078  1
+  Se  Se7  1  0.35190402  0.79055949  0.84809633  1
+  N  N8  1  0.77180348  0.61479024  0.42012628  1
+  O  O9  1  0.64517057  0.39281855  0.61507456  1
+  O  O10  1  0.53892087  0.05235164  0.07305835  1
+  O  O11  1  -0.06759890  0.25267103  0.47311259  1

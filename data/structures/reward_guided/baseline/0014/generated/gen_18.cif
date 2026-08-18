@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MgErMg2ErMg3
+_chemical_formula_sum              "Mg6 Er2"
+_cell_length_a       5.237140941628149
+_cell_length_b       6.568293703287085
+_cell_length_c       6.679253101348877
+_cell_angle_alpha    119.77329592315267
+_cell_angle_beta     89.61996392717438
+_cell_angle_gamma    89.77585616968753
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.8495823740959167  0.6213585138320923  0.4588078558444977  1.0000
+  Er  Er1       1.0  0.849507212638855  0.11532784998416899  0.4549579322338104  1.0000
+  Mg  Mg2       1.0  0.8494012355804443  0.11609007418155669  0.9549095630645752  1.0000
+  Mg  Mg3       1.0  0.34922143816947937  0.9608468413352966  0.6270246505737305  1.0000
+  Er  Er2       1.0  0.349332720041275  0.4672509431838989  0.6302995085716248  1.0000
+  Mg  Mg4       1.0  0.8492931127548218  0.6203849911689757  0.9553053379058838  1.0000
+  Mg  Mg5       1.0  0.34923359751701355  0.46554461121559143  0.1300937831401825  1.0000
+  Mg  Mg6       1.0  0.3496457636356354  0.9614970684051513  0.12850062549114227  1.0000

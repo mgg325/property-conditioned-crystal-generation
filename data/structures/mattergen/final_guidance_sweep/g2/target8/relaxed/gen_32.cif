@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       VLiSi2P4Si
+_chemical_formula_sum              "V1 Li1 Si3 P4"
+_cell_length_a       5.30267530668106
+_cell_length_b       5.3023941136749375
+_cell_length_c       6.858319128266818
+_cell_angle_alpha    113.09823247990786
+_cell_angle_beta     113.11033599895346
+_cell_angle_gamma    88.85219935862473
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.10874542854896296  0.6237327929110543  0.31167725831176313  1.0000
+  Li  Li1       1.0  0.33699819241092593  0.8521472417830463  0.7703971279599727  1.0000
+  Si  Si1       1.0  0.8360784466935016  0.850807280736755  0.7681515667685234  1.0000
+  Si  Si2       1.0  0.5728904898440732  0.08793227770694038  0.2409124578856536  1.0000
+  P   P1        1.0  0.9379067945587714  0.4530632638244322  0.5186873862852089  1.0000
+  P   P2        1.0  0.19669598151659679  0.24168536674492802  0.02062863121858893  1.0000
+  P   P3        1.0  0.48556852113321475  0.0007098498847286638  0.5194495581474418  1.0000
+  P   P4        1.0  0.7266772554859158  0.7118105501937649  0.020689673691647464  1.0000
+  Si  Si3       1.0  0.3357819726764853  0.3512282184540004  0.7681600309054342  1.0000

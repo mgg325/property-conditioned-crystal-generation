@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_EuGeAsO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98519132
+_cell_length_b   4.98521769
+_cell_length_c   5.14357346
+_cell_angle_alpha   90.00185428
+_cell_angle_beta   90.00038539
+_cell_angle_gamma   119.99943595
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuGeAsO6
+_chemical_formula_sum   'Eu1 Ge1 As1 O6'
+_cell_volume   110.70417600
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00096105  0.13055297  0.21898001  1
+  Ge  Ge1  1  0.66791520  0.46399137  0.71885765  1
+  As  As2  1  0.33451958  0.79729846  0.71845959  1
+  O  O3  1  0.37126595  0.12242667  0.92362527  1
+  O  O4  1  0.62215654  0.12281807  0.51317061  1
+  O  O5  1  0.37240367  0.50985231  0.51298613  1
+  O  O6  1  0.00926229  0.50929377  0.92403355  1
+  O  O7  1  0.62265917  0.76022987  0.92392257  1
+  O  O8  1  0.00892409  0.75938174  0.51349225  1

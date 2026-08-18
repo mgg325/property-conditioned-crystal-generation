@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeFe(BiO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.07805729
+_cell_length_b   6.03661037
+_cell_length_c   6.03454861
+_cell_angle_alpha   111.52062950
+_cell_angle_beta   87.87947902
+_cell_angle_gamma   92.13530213
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeFe(BiO4)2
+_chemical_formula_sum   'Ce1 Fe1 Bi2 O8'
+_cell_volume   171.91481187
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.60288695  0.10254061  0.87232604  1
+  Fe  Fe1  1  0.60251968  0.60280880  0.37208241  1
+  Bi  Bi2  1  0.10286023  0.60241148  0.87187412  1
+  Bi  Bi3  1  0.10318805  0.10248133  0.37203262  1
+  O  O4  1  0.78891962  0.47209156  0.05132151  1
+  O  O5  1  0.78816175  0.92385344  0.50257312  1
+  O  O6  1  0.41580169  0.73383846  0.69254926  1
+  O  O7  1  0.26888383  0.24478109  0.73071240  1
+  O  O8  1  0.41694038  0.28196829  0.24131879  1
+  O  O9  1  0.88996321  0.44214074  0.53259188  1
+  O  O10  1  0.31641871  0.76283724  0.21120951  1
+  O  O11  1  0.93851621  0.96077183  0.01323197  1

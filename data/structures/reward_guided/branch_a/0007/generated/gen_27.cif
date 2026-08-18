@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mg2InAlInMg3Al
+_chemical_formula_sum              "Mg5 In2 Al2"
+_cell_length_a       4.94244845490066
+_cell_length_b       4.9208911748774815
+_cell_length_c       9.132942199707031
+_cell_angle_alpha    90.86857041483871
+_cell_angle_beta     91.06652288456759
+_cell_angle_gamma    122.38125626167196
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.8387429714202881  0.6788724064826965  0.9112848043441772  1.0000
+  Mg  Mg2       1.0  0.8377674221992493  0.6783016920089722  0.5784105658531189  1.0000
+  In  In1       1.0  0.5020037889480591  0.011014453135430813  0.7398658394813538  1.0000
+  Al  Al1       1.0  0.16885629296302795  0.34569501876831055  0.7509291768074036  1.0000
+  In  In2       1.0  0.5040560364723206  0.010970719158649445  0.09764260053634644  1.0000
+  Mg  Mg3       1.0  0.169144406914711  0.34459802508354187  0.426818311214447  1.0000
+  Mg  Mg4       1.0  0.8363834023475647  0.6786183118820192  0.25113674998283386  1.0000
+  Mg  Mg5       1.0  0.17221610248088837  0.3443407118320465  0.06733882427215576  1.0000
+  Al  Al2       1.0  0.5014268755912781  0.011013997718691828  0.4134455919265747  1.0000

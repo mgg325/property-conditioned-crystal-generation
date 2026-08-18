@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       BaSn2BaSnRh2SnRhZn
+_chemical_formula_sum              "Ba2 Sn4 Rh3 Zn1"
+_cell_length_a       4.722137473149997
+_cell_length_b       4.765431957025007
+_cell_length_c       10.688267707824707
+_cell_angle_alpha    89.74093343227983
+_cell_angle_beta     90.89309753881665
+_cell_angle_gamma    89.77010515707573
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.1410413235425949  0.9222940802574158  0.7409411668777466  1.0000
+  Sn  Sn1       1.0  0.13931065797805786  0.4237512052059174  0.9966077804565429  1.0000
+  Sn  Sn2       1.0  0.6389634609222412  0.4227416217327118  0.6228907704353333  1.0000
+  Ba  Ba2       1.0  0.6408300995826721  0.4233126044273377  0.25157469511032104  1.0000
+  Sn  Sn3       1.0  0.6396368145942688  0.9230506420135499  0.9955736398696898  1.0000
+  Rh  Rh1       1.0  0.13918665051460266  0.9223212003707886  0.11913765966892241  1.0000
+  Rh  Rh2       1.0  0.6389856934547424  0.42199450731277466  0.8731924295425414  1.0000
+  Sn  Sn4       1.0  0.1392873376607895  0.9227932095527649  0.36938831210136414  1.0000
+  Rh  Rh3       1.0  0.13932877779006958  0.42088747024536133  0.4955317378044128  1.0000
+  Zn  Zn1       1.0  0.6399344205856323  0.9225142598152162  0.4966427385807037  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LaMgLaTb5
+_chemical_formula_sum              "La2 Mg1 Tb5"
+_cell_length_a       6.990879253566893
+_cell_length_b       7.0395595850617
+_cell_length_c       7.055243968963623
+_cell_angle_alpha    119.34227132458494
+_cell_angle_beta     118.85518331635542
+_cell_angle_gamma    90.2802119240675
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.6192173957824707  0.23719802498817444  0.4398755133152008  1.0000
+  Mg  Mg1       1.0  0.1182590276002884  0.2373521476984024  0.44155240058898926  1.0000
+  La  La2       1.0  0.11898873746395115  0.7383207678794862  0.4419107735157013  1.0000
+  Tb  Tb1       1.0  0.6179918050765991  0.23740190267562866  0.9414849877357483  1.0000
+  Tb  Tb2       1.0  0.11916022747755048  0.7370744943618773  0.9409971237182616  1.0000
+  Tb  Tb3       1.0  0.6185376048088074  0.736730396747589  0.9406039118766784  1.0000
+  Tb  Tb4       1.0  0.6193451285362244  0.7370425462722778  0.4397849738597869  1.0000
+  Tb  Tb5       1.0  0.12013647705316545  0.2373456060886383  0.9406669735908508  1.0000

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Mg2Zn2Se5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.27540255
+_cell_length_b   6.20011950
+_cell_length_c   7.43333101
+_cell_angle_alpha   114.07414246
+_cell_angle_beta   114.65604401
+_cell_angle_gamma   90.22573853
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2Zn2Se5
+_chemical_formula_sum   'Mg2 Zn2 Se5'
+_cell_volume   234.64381802
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.03469789  0.95992208  0.97289473  1
+  Se  Se1  1  0.22766602  0.88405424  0.34930187  1
+  Se  Se2  1  0.82900095  0.23015955  0.65209717  1
+  Mg  Mg3  1  0.99696773  0.77167612  0.49065694  1
+  Se  Se4  1  0.43529919  0.63758534  0.73202652  1
+  Mg  Mg5  1  0.23661321  0.55311948  0.96379602  1
+  Zn  Zn6  1  0.47818127  0.28682089  0.42549965  1
+  Zn  Zn7  1  0.69441462  0.05423725  0.93444461  1
+  Se  Se8  1  0.61752850  0.39169145  0.19490916  1

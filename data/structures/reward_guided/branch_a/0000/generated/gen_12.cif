@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       IrCrIrCrIr2
+_chemical_formula_sum              "Ir4 Cr2"
+_cell_length_a       2.7457676803627042
+_cell_length_b       4.9973632782127115
+_cell_length_c       6.411632537841797
+_cell_angle_alpha    104.05079577583163
+_cell_angle_beta     88.48884361453982
+_cell_angle_gamma    103.30223966216859
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.5824478268623352  0.7909160256385803  0.09788352996110918  1.0000
+  Cr  Cr1       1.0  0.3052420616149902  0.23833870887756345  0.054537329822778695  1.0000
+  Ir  Ir2       1.0  0.25568896532058716  0.14208164811134338  0.44944277405738825  1.0000
+  Cr  Cr2       1.0  0.9236317873001099  0.47322478890419006  0.7741917967796325  1.0000
+  Ir  Ir3       1.0  0.6463631391525267  0.9189828038215636  0.7302295565605162  1.0000
+  Ir  Ir4       1.0  0.9724602103233337  0.5709893107414246  0.3785963356494903  1.0000

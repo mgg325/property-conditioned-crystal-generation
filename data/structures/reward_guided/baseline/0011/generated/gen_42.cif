@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       RbEuPRbEuP
+_chemical_formula_sum              "Rb2 Eu2 P2"
+_cell_length_a       5.124453400850485
+_cell_length_b       5.133689535845611
+_cell_length_c       7.879141330718994
+_cell_angle_alpha    90.45082913903278
+_cell_angle_beta     90.42287317455754
+_cell_angle_gamma    90.64704681308164
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.6628125309944153  0.7178976535797119  0.08316495269536972  1.0000
+  Eu  Eu1       1.0  0.16430427134037018  0.7190443873405457  0.46598416566848755  1.0000
+  P   P1        1.0  0.6641258001327515  0.7185782790184021  0.652483344078064  1.0000
+  Rb  Rb2       1.0  0.16374684870243073  0.21875052154064178  0.847821831703186  1.0000
+  Eu  Eu2       1.0  0.6639637351036072  0.21902318298816684  0.4662821590900421  1.0000
+  P   P2        1.0  0.16404461860656738  0.21891689300537112  0.2798005938529968  1.0000

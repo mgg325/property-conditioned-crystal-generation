@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Au2SiAlAu2
+_chemical_formula_sum              "Au4 Si1 Al1"
+_cell_length_a       4.480914701758591
+_cell_length_b       4.503522247773182
+_cell_length_c       5.71124267578125
+_cell_angle_alpha    89.66577405648627
+_cell_angle_beta     91.06562114092526
+_cell_angle_gamma    120.80679959596675
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.790830135345459  0.1887635588645935  0.8369881510734556  1.0000
+  Au  Au2       1.0  0.12477958202362063  0.8539929389953613  0.5846801400184631  1.0000
+  Si  Si1       1.0  0.454880952835083  0.5226784348487854  0.8330071568489074  1.0000
+  Al  Al1       1.0  0.7912953495979309  0.1862245798110962  0.3368857800960541  1.0000
+  Au  Au3       1.0  0.45966699719429027  0.5198932886123658  0.33618006110191345  1.0000
+  Au  Au4       1.0  0.12563391029834745  0.8552584052085876  0.09049952775239944  1.0000

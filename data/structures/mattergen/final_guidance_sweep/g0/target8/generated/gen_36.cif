@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BeNaOBeNaO
+_chemical_formula_sum              "Be2 Na2 O2"
+_cell_length_a       2.9794200772711137
+_cell_length_b       3.182852055038204
+_cell_length_c       8.408172607421875
+_cell_angle_alpha    90.14894160641005
+_cell_angle_beta     89.95111884319776
+_cell_angle_gamma    90.03126428078752
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.9640016555786133  0.27289992570877075  0.31081920862197876  1.0000
+  Na  Na1       1.0  0.46429067850112915  0.7707116007804871  0.009182235226035118  1.0000
+  O   O1        1.0  0.9636626839637756  0.7722101807594298  0.24646912515163422  1.0000
+  Be  Be2       1.0  0.46346813440322876  0.773228347301483  0.35214728116989136  1.0000
+  Na  Na2       1.0  0.9642397165298462  0.2765561044216156  0.6501998901367188  1.0000
+  O   O2        1.0  0.4638959467411041  0.274229496717453  0.41566455364227295  1.0000

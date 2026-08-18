@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_K3MnCo3S4O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45893845
+_cell_length_b   7.04166696
+_cell_length_c   7.48251613
+_cell_angle_alpha   107.71735720
+_cell_angle_beta   109.05678701
+_cell_angle_gamma   111.14659847
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3MnCo3S4O5
+_chemical_formula_sum   'K3 Mn1 Co3 S4 O5'
+_cell_volume   304.15459738
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  -0.06261646  0.08114436  0.29662065  1
+  K  K1  1  0.12084078  0.74348602  0.33684936  1
+  K  K2  1  1.01947564  0.00391315  0.79154784  1
+  Mn  Mn3  1  0.50362282  0.52354008  0.82152664  1
+  Co  Co4  1  0.54708617  0.12348339  0.77714570  1
+  Co  Co5  1  -0.04788028  0.52760957  0.86378044  1
+  Co  Co6  1  0.42460348  0.44021461  0.26059720  1
+  S  S7  1  0.77075674  0.38326319  0.45829335  1
+  S  S8  1  0.34040977  0.60411652  0.05916052  1
+  S  S9  1  0.49761407  0.65395412  0.56405350  1
+  S  S10  1  0.65065633  0.38396422  0.17095687  1
+  O  O11  1  0.32025360  0.16939261  0.65947406  1
+  O  O12  1  0.83507439  0.69547643  0.96330444  1
+  O  O13  1  0.24188757  0.16720649  0.19532401  1
+  O  O14  1  0.83511848  0.24048766  0.85666850  1
+  O  O15  1  0.40850927  0.78112770  0.70678488  1

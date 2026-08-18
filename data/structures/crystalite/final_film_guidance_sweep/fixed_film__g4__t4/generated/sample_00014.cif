@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsKLiBePClO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98925805
+_cell_length_b   4.78517437
+_cell_length_c   8.21332169
+_cell_angle_alpha   97.15504456
+_cell_angle_beta   102.39943695
+_cell_angle_gamma   119.96960449
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsKLiBePClO6
+_chemical_formula_sum   'Cs1 K1 Li1 Be1 P1 Cl1 O6'
+_cell_volume   127.57816126
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.18664384  0.56547236  0.44096902  1
+  O  O1  1  0.67378950  0.27884972  0.84151846  1
+  K  K2  1  0.94484746  0.10540977  0.83932424  1
+  O  O3  1  0.15812442  0.13994780  0.46749696  1
+  Li  Li4  1  0.55638039  0.27513444  0.41142720  1
+  P  P5  1  0.72024918  0.07410982  0.45465297  1
+  Be  Be6  1  0.68147278  0.74360788  0.28879625  1
+  O  O7  1  0.38449410  0.19098008  0.08794770  1
+  O  O8  1  0.74488139  0.89644909  0.74637699  1
+  O  O9  1  0.93477571  0.42682421  0.13648602  1
+  O  O10  1  0.58913785  0.83345050  0.33556449  1
+  Cl  Cl11  1  0.67395955  0.50438803  0.03484279  1

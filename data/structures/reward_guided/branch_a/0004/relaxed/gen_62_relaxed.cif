@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LaPr4SmAl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.69841614
+_cell_length_b   9.52025605
+_cell_length_c   9.52488229
+_cell_angle_alpha   119.96327105
+_cell_angle_beta   89.99936231
+_cell_angle_gamma   90.00303955
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaPr4SmAl3
+_chemical_formula_sum   'La2 Pr8 Sm2 Al6'
+_cell_volume   526.22517098
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.44627915  0.23684510  0.92291380  1
+  La  La1  1  0.94584606  0.23700739  0.92249724  1
+  Pr  Pr2  1  0.69552561  0.57410688  0.25910350  1
+  Pr  Pr3  1  0.44606277  0.57054675  0.58977166  1
+  Pr  Pr4  1  0.19650829  0.90135377  0.58618055  1
+  Pr  Pr5  1  0.19669128  0.57429404  0.92406778  1
+  Pr  Pr6  1  0.69711455  0.90084035  0.92376966  1
+  Pr  Pr7  1  0.94634199  0.57000905  0.58940042  1
+  Pr  Pr8  1  0.69566794  0.23568499  0.58530011  1
+  Pr  Pr9  1  0.19598546  0.23577368  0.25847014  1
+  Sm  Sm10  1  0.44638524  0.90408673  0.25603940  1
+  Sm  Sm11  1  0.94629057  0.90361990  0.25638151  1
+  Al  Al12  1  0.19561216  0.57212021  0.25641359  1
+  Al  Al13  1  0.19591932  0.23571290  0.58810501  1
+  Al  Al14  1  0.69611218  0.23530258  0.25590407  1
+  Al  Al15  1  0.69637187  0.90369060  0.58828989  1
+  Al  Al16  1  0.69645896  0.57116789  0.92405540  1
+  Al  Al17  1  0.19682625  0.90409962  0.92439551  1

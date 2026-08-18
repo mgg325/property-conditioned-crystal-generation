@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_HoTmSnHg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27602768
+_cell_length_b   5.27377756
+_cell_length_c   5.27549188
+_cell_angle_alpha   60.03097365
+_cell_angle_beta   59.92956050
+_cell_angle_gamma   60.03560347
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoTmSnHg
+_chemical_formula_sum   'Ho1 Tm1 Sn1 Hg1'
+_cell_volume   103.79183891
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.23143080  0.54525929  0.36032265  1
+  Tm  Tm1  1  0.73236885  0.04526636  0.85964227  1
+  Sn  Sn2  1  0.98251409  0.29513977  0.10989767  1
+  Hg  Hg3  1  0.48216007  0.79411552  0.60996256  1

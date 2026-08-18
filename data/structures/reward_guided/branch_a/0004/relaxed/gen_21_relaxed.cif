@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ta2OF7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.92219566
+_cell_length_b   5.90684327
+_cell_length_c   5.76514633
+_cell_angle_alpha   106.21303878
+_cell_angle_beta   115.50331321
+_cell_angle_gamma   107.99986315
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2OF7
+_chemical_formula_sum   'Ta2 O1 F7'
+_cell_volume   151.84132200
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.63754634  0.30183531  0.21063865  1
+  Ta  Ta1  1  0.86913763  0.83673109  0.97683561  1
+  O  O2  1  0.85333117  0.10304711  0.22799066  1
+  F  F3  1  0.47240636  0.59615843  0.74281813  1
+  F  F4  1  0.41707240  0.10858353  0.79738547  1
+  F  F5  1  0.87821471  0.00209167  0.74530978  1
+  F  F6  1  0.91110404  0.60376750  0.19322683  1
+  F  F7  1  0.43745665  0.50188755  0.20629227  1
+  F  F8  1  0.31856438  0.01282092  0.19444966  1
+  F  F9  1  0.86545300  0.52237728  0.65876839  1

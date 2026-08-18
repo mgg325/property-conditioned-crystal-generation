@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CdLi2CdCu
+_chemical_formula_sum              "Cd2 Li2 Cu1"
+_cell_length_a       3.1806341430105185
+_cell_length_b       3.218255306871768
+_cell_length_c       8.563933372497559
+_cell_angle_alpha    100.38866541437685
+_cell_angle_beta     100.84229239256142
+_cell_angle_gamma    89.07106929947759
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.49661189317703247  0.7693440318107606  0.7498831748962402  1.0000
+  Li  Li1       1.0  0.8976469039916992  0.1696368008852005  0.5515034198760986  1.0000
+  Li  Li2       1.0  0.2929220497608185  0.5645086169242859  0.3409018814563751  1.0000
+  Cd  Cd2       1.0  0.6939472556114197  0.9650208950042726  0.14319927990436554  1.0000
+  Cu  Cu1       1.0  0.09656305611133575  0.3673399090766907  0.9460915327072144  1.0000

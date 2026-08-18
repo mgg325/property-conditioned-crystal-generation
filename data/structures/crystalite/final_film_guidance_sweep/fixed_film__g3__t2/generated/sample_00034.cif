@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Mg(SiO3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58822680
+_cell_length_b   5.97205210
+_cell_length_c   5.72045183
+_cell_angle_alpha   90.38383484
+_cell_angle_beta   89.62922668
+_cell_angle_gamma   121.46643829
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(SiO3)3
+_chemical_formula_sum   'Mg1 Si3 O9'
+_cell_volume   162.83101677
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.05398244  0.74608421  0.09582657  1
+  O  O1  1  0.83050621  0.51713121  0.06078675  1
+  O  O2  1  0.54458261  0.79389638  0.65315175  1
+  O  O3  1  0.89149666  0.96503854  0.75863463  1
+  O  O4  1  0.85216242  0.89321053  0.02670488  1
+  Si  Si5  1  0.75855803  0.15810212  0.51297361  1
+  O  O6  1  0.35142502  0.96601772  0.07422855  1
+  O  O7  1  0.96757555  0.55314237  0.01720187  1
+  O  O8  1  0.99583799  0.53355169  0.68881178  1
+  O  O9  1  0.56706250  0.43027180  0.54305500  1
+  Si  Si10  1  0.73542053  0.27437919  0.96719128  1
+  Mg  Mg11  1  0.56263578  0.63819849  0.50932276  1
+  O  O12  1  0.78380370  0.21506718  0.33805299  1

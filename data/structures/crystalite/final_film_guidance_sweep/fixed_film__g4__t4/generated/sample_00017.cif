@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_MgNiClO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.67780137
+_cell_length_b   3.48984051
+_cell_length_c   9.10272503
+_cell_angle_alpha   93.33998871
+_cell_angle_beta   90.86732483
+_cell_angle_gamma   129.42105103
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgNiClO5
+_chemical_formula_sum   'Mg1 Ni1 Cl1 O5'
+_cell_volume   89.89405813
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.99201816  0.56908417  0.88458681  1
+  O  O1  1  0.40516263  0.33318359  0.32607585  1
+  O  O2  1  0.17312148  0.87628907  0.00906470  1
+  Cl  Cl3  1  0.67607427  0.57670712  0.43479210  1
+  O  O4  1  0.55404466  0.77036273  0.22164851  1
+  Mg  Mg5  1  0.35385078  0.00606754  0.00010413  1
+  O  O6  1  0.51466227  0.34247383  0.78564024  1
+  O  O7  1  0.13286102  0.67809868  0.52658892  1

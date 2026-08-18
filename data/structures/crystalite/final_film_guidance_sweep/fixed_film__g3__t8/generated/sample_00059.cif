@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_KNa2Zn3Sn2TeSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.71782541
+_cell_length_b   6.83237553
+_cell_length_c   8.15941048
+_cell_angle_alpha   114.09754944
+_cell_angle_beta   114.03357697
+_cell_angle_gamma   90.76957703
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNa2Zn3Sn2TeSe2
+_chemical_formula_sum   'K1 Na2 Zn3 Sn2 Te1 Se2'
+_cell_volume   304.89062116
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.85281336  0.49952021  0.64597708  1
+  Zn  Zn1  1  0.48475382  0.10531220  0.38195705  1
+  Zn  Zn2  1  0.00111639  0.55776501  0.32257903  1
+  Te  Te3  1  0.10958779  0.29315627  0.13219911  1
+  Na  Na4  1  0.37221986  0.63260019  0.65482533  1
+  Se  Se5  1  0.32704598  0.95327097  0.58274364  1
+  Na  Na6  1  0.89261222  0.97654438  0.68409717  1
+  K  K7  1  0.50751984  0.36635202  0.96412003  1
+  Se  Se8  1  0.08504042  0.79126632  0.14260364  1
+  Zn  Zn9  1  0.94819629  0.19111925  0.33819216  1
+  Sn  Sn10  1  0.58803594  0.72908938  0.14676434  1

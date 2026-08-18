@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ho3As2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08495521
+_cell_length_b   4.08496799
+_cell_length_c   9.68411785
+_cell_angle_alpha   77.83085643
+_cell_angle_beta   77.82966712
+_cell_angle_gamma   60.00084311
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3As2
+_chemical_formula_sum   'Ho3 As2'
+_cell_volume   135.73957939
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.14209007  0.45772119  0.50054264  1
+  Ho  Ho1  1  0.92300848  0.23866696  0.15773022  1
+  Ho  Ho2  1  0.70394178  0.01953601  0.81484295  1
+  As  As3  1  0.31610734  0.63168428  0.97826262  1
+  As  As4  1  0.52989980  0.84555931  0.33716377  1

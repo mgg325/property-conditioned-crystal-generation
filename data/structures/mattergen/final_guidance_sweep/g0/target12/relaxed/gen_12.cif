@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LiPdNa2LiPdLi2
+_chemical_formula_sum              "Li4 Pd2 Na2"
+_cell_length_a       3.1600972006389805
+_cell_length_b       3.17782885472853
+_cell_length_c       16.93427302211239
+_cell_angle_alpha    90.12879364082289
+_cell_angle_beta     115.85385215815538
+_cell_angle_gamma    89.98697387850461
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.12375299711352761  0.26085028666475785  0.03197983165748935  1.0000
+  Pd  Pd1       1.0  0.03747385745973076  0.2693805583618243  0.4026524298566734  1.0000
+  Na  Na1       1.0  0.6165667519475873  0.26906775886885625  0.6594166990950946  1.0000
+  Na  Na2       1.0  0.26618332600432654  0.762298491674321  0.8661819839923933  1.0000
+  Li  Li2       1.0  0.7550270015408175  0.7707981124808585  0.4935724718327297  1.0000
+  Pd  Pd2       1.0  0.8410767102812515  0.7622786638026334  0.12290036222859149  1.0000
+  Li  Li3       1.0  0.5528587591941297  0.26413779241944224  0.20956989416972815  1.0000
+  Li  Li4       1.0  0.32551956042300023  0.7675443477082501  0.3159658259672912  1.0000

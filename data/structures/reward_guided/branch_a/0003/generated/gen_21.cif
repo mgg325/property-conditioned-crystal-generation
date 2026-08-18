@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na2CdGaCdGa
+_chemical_formula_sum              "Na2 Cd2 Ga2"
+_cell_length_a       4.939829694388923
+_cell_length_b       4.914152641592575
+_cell_length_c       6.3338518142700195
+_cell_angle_alpha    91.0193808513394
+_cell_angle_beta     89.83544959202122
+_cell_angle_gamma    118.87605527921431
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.2629171907901764  0.15783335268497467  0.8799978494644165  1.0000
+  Na  Na2       1.0  0.2628161609172821  0.15801341831684113  0.37887418270111084  1.0000
+  Cd  Cd1       1.0  0.5964365005493164  0.8231597542762756  0.6339729428291321  1.0000
+  Ga  Ga1       1.0  0.9310073256492615  0.4894363284111023  0.6281794309616089  1.0000
+  Cd  Cd2       1.0  0.5976594686508179  0.8249449133872986  0.13115571439266205  1.0000
+  Ga  Ga2       1.0  0.932000994682312  0.488508552312851  0.1325540542602539  1.0000

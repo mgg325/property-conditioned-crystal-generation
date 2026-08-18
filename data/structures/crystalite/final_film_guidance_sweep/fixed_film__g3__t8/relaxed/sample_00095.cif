@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ba2SrCa(CN5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.75376133
+_cell_length_b   3.99181007
+_cell_length_c   13.95979940
+_cell_angle_alpha   97.96569619
+_cell_angle_beta   90.50544738
+_cell_angle_gamma   93.40829081
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2SrCa(CN5)2
+_chemical_formula_sum   'Ba2 Sr1 Ca1 C2 N10'
+_cell_volume   151.68095762
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.24741426  0.41807977  0.97523512  1
+  Ba  Ba1  1  0.21997597  0.92530357  0.62484224  1
+  Sr  Sr2  1  0.67913802  0.93846529  0.12938445  1
+  Ca  Ca3  1  0.73727342  0.51737169  0.42298857  1
+  C  C4  1  0.71697273  0.93948158  0.84601813  1
+  C  C5  1  0.25997541  0.89707898  0.38605578  1
+  N  N6  1  0.74055741  0.39841531  0.74359268  1
+  N  N7  1  0.71378488  0.85189887  0.75963170  1
+  N  N8  1  0.19812016  0.44407122  0.16107318  1
+  N  N9  1  0.16826328  0.48985980  0.24580032  1
+  N  N10  1  0.74077581  0.40325316  0.72883662  1
+  N  N11  1  0.24543459  0.93836390  0.34995925  1
+  N  N12  1  0.71723320  0.94080244  0.86718595  1
+  N  N13  1  0.74499346  0.33076807  0.83194238  1
+  N  N14  1  0.20040878  0.31072693  0.35923455  1
+  N  N15  1  0.27155050  0.86699536  0.41379879  1

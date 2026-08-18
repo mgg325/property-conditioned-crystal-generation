@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CaAs3
+_chemical_formula_sum              "Ca1 As3"
+_cell_length_a       3.943481448100387
+_cell_length_b       4.390079719263911
+_cell_length_c       6.281818389892578
+_cell_angle_alpha    105.46606307237592
+_cell_angle_beta     108.14886571069768
+_cell_angle_gamma    89.9749362435163
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.9667432904243468  0.33738452196121216  0.44692695140838623  1.0000
+  As  As1       1.0  0.23491440713405606  0.6635463237762451  0.9823872447013855  1.0000
+  As  As2       1.0  0.6986822485923767  0.9905276894569397  0.9126766324043274  1.0000
+  As  As3       1.0  0.46915853023529047  0.8412269949913025  0.45133042335510254  1.0000

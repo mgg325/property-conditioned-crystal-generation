@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_TlCuGeSb2PdAuSe2SXeI2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.23683643
+_cell_length_b   10.33798027
+_cell_length_c   10.84820175
+_cell_angle_alpha   102.45421600
+_cell_angle_beta   97.49494934
+_cell_angle_gamma   122.00412750
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlCuGeSb2PdAuSe2SXeI2
+_chemical_formula_sum   'Tl1 Cu1 Ge1 Sb2 Pd1 Au1 Se2 S1 Xe1 I2'
+_cell_volume   996.89294691
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.74150938  0.16703737  0.35191375  1
+  Se  Se1  1  0.71116704  0.66612417  0.03245431  1
+  Sb  Sb2  1  0.85844117  0.21091673  0.11653078  1
+  Tl  Tl3  1  0.06297359  0.59452045  0.49875996  1
+  Xe  Xe4  1  0.05755731  0.72943503  0.16552368  1
+  S  S5  1  0.11127916  0.94455338  0.11554492  1
+  I  I6  1  0.64007747  0.81300873  0.52086294  1
+  Ge  Ge7  1  0.14213935  0.69016528  0.43871641  1
+  Pd  Pd8  1  0.34462878  0.30844605  0.70494652  1
+  I  I9  1  0.77881467  0.14239696  0.02970317  1
+  Se  Se10  1  0.71745789  0.08863416  0.52973640  1
+  Au  Au11  1  0.69448996  0.93404245  0.49616972  1
+  Cu  Cu12  1  0.49014142  0.40993804  0.43446797  1

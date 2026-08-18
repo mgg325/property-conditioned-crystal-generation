@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_BaTl2HgRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.07843858
+_cell_length_b   5.08030993
+_cell_length_c   6.70910536
+_cell_angle_alpha   112.21822423
+_cell_angle_beta   112.23900780
+_cell_angle_gamma   90.01074418
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaTl2HgRh
+_chemical_formula_sum   'Ba1 Tl2 Hg1 Rh1'
+_cell_volume   146.23416903
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.57188512  0.39918137  0.09013032  1
+  Tl  Tl1  1  0.82754254  0.15404673  0.60128068  1
+  Tl  Tl2  1  0.32702040  0.65412369  0.60111862  1
+  Hg  Hg3  1  0.14775643  0.97391415  0.24166007  1
+  Rh  Rh4  1  0.91292283  0.73956025  0.77244832  1

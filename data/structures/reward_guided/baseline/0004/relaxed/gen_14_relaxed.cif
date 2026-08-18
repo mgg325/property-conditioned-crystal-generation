@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Na(CdHg4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71904510
+_cell_length_b   7.47901642
+_cell_length_c   7.47978285
+_cell_angle_alpha   92.37352735
+_cell_angle_beta   104.56433321
+_cell_angle_gamma   104.55045876
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na(CdHg4)2
+_chemical_formula_sum   'Na1 Cd2 Hg8'
+_cell_volume   297.84551738
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00716664  0.17936775  0.52901308  1
+  Cd  Cd1  1  0.51157832  0.42296859  0.28221893  1
+  Cd  Cd2  1  0.51152776  0.93254822  0.77262439  1
+  Hg  Hg3  1  0.17572455  0.07718887  0.95197634  1
+  Hg  Hg4  1  0.23600621  0.54640126  0.89608314  1
+  Hg  Hg5  1  0.78190851  0.81217578  0.16182860  1
+  Hg  Hg6  1  0.41826672  1.00491725  0.35460946  1
+  Hg  Hg7  1  0.17573353  0.60230775  0.42685973  1
+  Hg  Hg8  1  0.59632496  0.35352743  0.70314134  1
+  Hg  Hg9  1  0.84587622  0.27649955  0.10281112  1
+  Hg  Hg10  1  0.84583067  0.75317687  0.62607320  1

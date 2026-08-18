@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SbK2OSbO3
+_chemical_formula_sum              "Sb2 K2 O4"
+_cell_length_a       5.223531761068249
+_cell_length_b       5.636619925790446
+_cell_length_c       5.794069290161133
+_cell_angle_alpha    89.5713876896977
+_cell_angle_beta     89.88759807658435
+_cell_angle_gamma    89.82469204802449
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.14779511094093323  0.652030348777771  0.6132502555847168  1.0000
+  K   K1        1.0  0.16259872913360596  0.1761430501937866  0.07832591980695724  1.0000
+  K   K2        1.0  0.6615840792655945  0.6796099543571472  0.09442632645368576  1.0000
+  O   O1        1.0  0.7736616730690002  0.5484613180160522  0.5871187448501587  1.0000
+  Sb  Sb2       1.0  0.6492336988449097  0.2036154717206955  0.5592301487922668  1.0000
+  O   O2        1.0  0.2744008004665375  0.30705115199089045  0.5858914852142334  1.0000
+  O   O3        1.0  0.6612066626548767  0.17161224782466886  0.23161374032497406  1.0000
+  O   O4        1.0  0.1602892428636551  0.6863687038421631  0.9409328699111938  1.0000

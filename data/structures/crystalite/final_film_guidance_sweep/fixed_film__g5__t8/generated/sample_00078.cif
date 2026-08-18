@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_ThGeSe4SBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.93084812
+_cell_length_b   4.94001722
+_cell_length_c   5.45716572
+_cell_angle_alpha   98.36825562
+_cell_angle_beta   103.17801666
+_cell_angle_gamma   136.16485596
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThGeSe4SBr
+_chemical_formula_sum   'Th1 Ge1 Se4 S1 Br1'
+_cell_volume   79.60781869
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.44111058  0.71223962  0.45312229  1
+  S  S1  1  0.18760234  0.27693194  0.15459248  1
+  Th  Th2  1  0.98840654  0.11453924  0.98858404  1
+  Se  Se3  1  0.37749475  0.63707483  0.99276865  1
+  Ge  Ge4  1  0.72715282  0.78823042  0.61725795  1
+  Br  Br5  1  0.34729624  0.13448647  0.60513705  1
+  Se  Se6  1  0.69330651  0.89584166  0.14245188  1
+  Se  Se7  1  0.54748309  0.04316539  0.21449310  1

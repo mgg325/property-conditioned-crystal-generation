@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NdGe2Ir2
+_chemical_formula_sum              "Nd1 Ge2 Ir2"
+_cell_length_a       4.200784684195275
+_cell_length_b       4.19783308729018
+_cell_length_c       6.058934688568115
+_cell_angle_alpha    110.24852099434308
+_cell_angle_beta     110.28570387611387
+_cell_angle_gamma    89.97083749010191
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.06484608352184296  0.5898921489715576  0.6344895958900452  1.0000
+  Ge  Ge1       1.0  0.4416587054729461  0.9666365385055542  0.3882785737514496  1.0000
+  Ge  Ge2       1.0  0.6878926753997803  0.21247844398021698  0.8806948661804199  1.0000
+  Ir  Ir1       1.0  0.31479504704475403  0.3393966555595398  0.13438098132610318  1.0000
+  Ir  Ir2       1.0  0.8149133324623107  0.8398245573043823  0.1344113498926162  1.0000

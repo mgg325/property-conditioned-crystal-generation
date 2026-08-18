@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LiClF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13763098
+_cell_length_b   5.27217072
+_cell_length_c   5.54519731
+_cell_angle_alpha   61.97929037
+_cell_angle_beta   62.63408774
+_cell_angle_gamma   59.65516345
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiClF6
+_chemical_formula_sum   'Li1 Cl1 F6'
+_cell_volume   109.44663784
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  -0.00520461  0.56674098  0.98331459  1
+  Cl  Cl1  1  0.49564007  0.06398189  0.48129830  1
+  F  F2  1  0.25518255  0.20061111  0.25483888  1
+  F  F3  1  0.73268816  0.92967992  0.70369308  1
+  F  F4  1  0.79947499  0.80872624  0.27856427  1
+  F  F5  1  0.18122584  0.32779461  0.69149585  1
+  F  F6  1  0.33502968  0.76429379  0.73007215  1
+  F  F7  1  0.65468575  0.37331193  0.22875376  1

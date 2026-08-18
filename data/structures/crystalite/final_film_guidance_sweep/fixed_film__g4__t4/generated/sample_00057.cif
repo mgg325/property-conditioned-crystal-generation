@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_BaPdO2F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28985786
+_cell_length_b   4.31209707
+_cell_length_c   4.32613325
+_cell_angle_alpha   90.25955200
+_cell_angle_beta   89.76274109
+_cell_angle_gamma   90.33963776
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaPdO2F
+_chemical_formula_sum   'Ba1 Pd1 O2 F1'
+_cell_volume   80.02313513
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.22109777  0.28203547  0.51524842  1
+  Ba  Ba1  1  0.25378722  0.80583721  0.01266825  1
+  O  O2  1  0.71031392  0.32279187  0.99243879  1
+  O  O3  1  0.72761047  0.79162478  0.50853157  1
+  Pd  Pd4  1  0.75405312  0.26854229  0.52052337  1

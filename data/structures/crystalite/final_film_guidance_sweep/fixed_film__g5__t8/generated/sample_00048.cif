@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_TlZn3CdTeAsS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.89524460
+_cell_length_b   6.45103168
+_cell_length_c   7.12516499
+_cell_angle_alpha   115.82874298
+_cell_angle_beta   115.77377319
+_cell_angle_gamma   90.38587952
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlZn3CdTeAsS
+_chemical_formula_sum   'Tl1 Zn3 Cd1 Te1 As1 S1'
+_cell_volume   213.10880562
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.73042578  0.92319310  0.62466264  1
+  As  As1  1  0.91762900  0.60293329  0.05426091  1
+  Zn  Zn2  1  0.85185862  0.17340398  0.44995499  1
+  Cd  Cd3  1  0.17546070  0.73455554  0.46799263  1
+  S  S4  1  0.20417833  0.34771389  0.56922019  1
+  Tl  Tl5  1  0.57301998  0.46450701  0.35349154  1
+  Zn  Zn6  1  0.49173510  0.39811110  0.97183120  1
+  Zn  Zn7  1  0.05384040  0.71601772  0.01842186  1

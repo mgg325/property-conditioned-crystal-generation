@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sr2InGaHg6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.35961554
+_cell_length_b   6.35077864
+_cell_length_c   7.60920928
+_cell_angle_alpha   99.76647479
+_cell_angle_beta   114.76917865
+_cell_angle_gamma   90.00554643
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2InGaHg6
+_chemical_formula_sum   'Sr2 In1 Ga1 Hg6'
+_cell_volume   274.13638355
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.03204096  0.79896425  0.93988901  1
+  Sr  Sr1  1  0.83462445  0.22302877  0.54560202  1
+  In  In2  1  0.43334673  0.51055253  0.74305032  1
+  Ga  Ga3  1  0.43373869  0.01103415  0.74375028  1
+  Hg  Hg4  1  0.24668437  0.14241800  0.37063133  1
+  Hg  Hg5  1  0.02439374  0.69738678  0.44003897  1
+  Hg  Hg6  1  0.53884766  0.69836564  0.43994812  1
+  Hg  Hg7  1  0.32909554  0.32348153  0.04720085  1
+  Hg  Hg8  1  0.62024647  0.87785295  0.11568093  1
+  Hg  Hg9  1  0.84306500  0.32405053  0.04577191  1

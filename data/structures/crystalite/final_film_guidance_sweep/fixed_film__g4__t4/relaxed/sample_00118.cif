@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_MgSiP2SeCl2O13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.01876987
+_cell_length_b   3.65598127
+_cell_length_c   8.78704841
+_cell_angle_alpha   90.05546076
+_cell_angle_beta   92.93145854
+_cell_angle_gamma   114.85008210
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgSiP2SeCl2O13
+_chemical_formula_sum   'Mg1 Si1 P2 Se1 Cl2 O13'
+_cell_volume   58.75373647
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.49100702  0.95770880  0.32826129  1
+  Si  Si1  1  0.19913178  0.18863096  0.74248405  1
+  P  P2  1  0.95610763  0.84640898  0.22840639  1
+  P  P3  1  0.45099915  0.46233863  0.28444854  1
+  Se  Se4  1  0.06424923  0.95262286  0.20465015  1
+  Cl  Cl5  1  0.74481327  -0.01986755  0.63759559  1
+  Cl  Cl6  1  0.75245748  0.79661288  0.65921813  1
+  O  O7  1  0.21092725  0.45826201  0.60381735  1
+  O  O8  1  0.29972476  0.95210287  0.83090196  1
+  O  O9  1  0.40529052  0.84444715  0.89119676  1
+  O  O10  1  0.56225693  0.25130890  0.59212678  1
+  O  O11  1  0.04694081  0.47697123  0.16994192  1
+  O  O12  1  0.66580238  0.37829274  0.42479745  1
+  O  O13  1  0.81556101  0.86349021  0.58096487  1
+  O  O14  1  0.57148962  0.07965135  0.34149771  1
+  O  O15  1  0.94063545  0.38172908  0.19926248  1
+  O  O16  1  0.18272058  0.94459392  0.85038453  1
+  O  O17  1  0.67064372  0.66147344  0.52863879  1
+  O  O18  1  0.89685969  0.43204040  0.76607628  1
+  O  O19  1  0.47502830  0.42206237  0.23949521  1

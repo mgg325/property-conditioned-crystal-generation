@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       PtLiNd3PtNdPtMgPt
+_chemical_formula_sum              "Pt4 Li1 Nd4 Mg1"
+_cell_length_a       5.861621776340392
+_cell_length_b       5.857535025030771
+_cell_length_c       7.661684989929199
+_cell_angle_alpha    77.22397063951159
+_cell_angle_beta     100.1763896709549
+_cell_angle_gamma    95.0491240015379
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.7391573786735535  0.6497194170951843  0.47368115186691284  1.0000
+  Li  Li1       1.0  0.6432565450668335  0.7413517832756041  0.1087414622306824  1.0000
+  Nd  Nd1       1.0  0.06909267604351044  0.8113589286804199  0.819337785243988  1.0000
+  Nd  Nd2       1.0  0.2149007171392441  0.6672831773757935  0.3936624825000763  1.0000
+  Nd  Nd3       1.0  0.5712507367134094  0.31134554743766785  0.8190686106681824  1.0000
+  Pt  Pt2       1.0  0.051331646740436554  0.32932978868484497  0.7367753386497498  1.0000
+  Nd  Nd4       1.0  0.7142102718353271  0.16802924871444702  0.3948308527469635  1.0000
+  Pt  Pt3       1.0  0.2332320809364319  0.14788728952407837  0.4747103452682495  1.0000
+  Mg  Mg1       1.0  0.1414179801940918  0.24047550559043882  0.10560862720012665  1.0000
+  Pt  Pt4       1.0  0.5492836833000183  0.829199731349945  0.7381560802459717  1.0000

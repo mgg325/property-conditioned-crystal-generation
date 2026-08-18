@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BeGeAsN4ClF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50278330
+_cell_length_b   12.59867573
+_cell_length_c   16.86927032
+_cell_angle_alpha   89.19015503
+_cell_angle_beta   92.41269684
+_cell_angle_gamma   90.99532318
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeGeAsN4ClF4
+_chemical_formula_sum   'Be1 Ge1 As1 N4 Cl1 F4'
+_cell_volume   1168.19090391
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.29176754  0.40766326  0.23120400  1
+  N  N1  1  0.57796526  0.42811191  0.15926003  1
+  As  As2  1  0.36188447  0.33725107  0.91255856  1
+  F  F3  1  0.36206406  0.46783894  0.38967398  1
+  Be  Be4  1  0.56275308  0.40428054  0.23751983  1
+  Cl  Cl5  1  0.57531178  0.39866289  0.26223433  1
+  F  F6  1  0.61027485  0.40218672  0.19927931  1
+  F  F7  1  0.76784742  0.37173647  0.13688144  1
+  N  N8  1  0.62357509  0.81469166  0.89101034  1
+  N  N9  1  0.56003326  0.40834355  0.22266674  1
+  N  N10  1  0.57586914  0.74937516  0.26880378  1
+  F  F11  1  0.92309630  0.02948308  0.46968731  1

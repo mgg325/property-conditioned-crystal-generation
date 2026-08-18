@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       GePrON
+_chemical_formula_sum              "Ge1 Pr1 O1 N1"
+_cell_length_a       3.832640732939803
+_cell_length_b       3.962100586708505
+_cell_length_c       5.830971717834473
+_cell_angle_alpha    108.92707145386741
+_cell_angle_beta     90.33959268894442
+_cell_angle_gamma    118.91619166639133
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.889064073562622  0.09241025894880295  0.49734210968017584  1.0000
+  Pr  Pr1       1.0  0.27794554829597473  0.8708140254020691  0.9957970380783082  1.0000
+  O   O1        1.0  0.6649980545043945  0.6424687504768373  0.2125996500253678  1.0000
+  N   N1        1.0  0.8751092553138732  0.06382342427968979  0.8005871176719667  1.0000

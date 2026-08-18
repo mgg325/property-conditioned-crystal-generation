@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_La6CdBi5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66592507
+_cell_length_b   8.98633666
+_cell_length_c   8.02557667
+_cell_angle_alpha   90.01298967
+_cell_angle_beta   90.01772396
+_cell_angle_gamma   108.37112345
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La6CdBi5
+_chemical_formula_sum   'La6 Cd1 Bi5'
+_cell_volume   387.80368509
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.58011536  0.01693574  0.95752427  1
+  La  La1  1  0.91725711  0.69162274  0.45811728  1
+  La  La2  1  0.24895695  0.35434671  0.46507939  1
+  La  La3  1  0.24895661  0.35457250  0.95091959  1
+  La  La4  1  0.57991509  0.01658947  0.45778292  1
+  La  La5  1  0.91742515  0.69206426  0.95791373  1
+  Cd  Cd6  1  0.74888255  0.35423495  0.20764404  1
+  Bi  Bi7  1  0.40738717  0.67191853  0.20821669  1
+  Bi  Bi8  1  0.08098303  0.01891818  0.70758800  1
+  Bi  Bi9  1  0.41632809  0.68976888  0.70815125  1
+  Bi  Bi10  1  0.74892778  0.35419089  0.70793196  1
+  Bi  Bi11  1  0.09007825  0.03698119  0.20780673  1

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       OTiFeF4
+_chemical_formula_sum              "O1 Ti1 Fe1 F4"
+_cell_length_a       3.6651799971415326
+_cell_length_b       5.479088275939648
+_cell_length_c       5.467971324920654
+_cell_angle_alpha    73.77481316813649
+_cell_angle_beta     70.38660114305051
+_cell_angle_gamma    70.39217435222855
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.3723039031028747  0.9489179849624635  0.4405360817909241  1.0000
+  Ti  Ti1       1.0  0.8693864941596985  0.9495402574539186  0.4401620328426361  1.0000
+  Fe  Fe1       1.0  0.3714842200279236  0.4483797252178192  0.940066933631897  1.0000
+  F   F1        1.0  0.6215178370475769  0.19826877117156982  0.6893574595451355  1.0000
+  F   F2        1.0  0.12263146042823792  0.6996437311172485  0.1900038868188858  1.0000
+  F   F3        1.0  0.8704074025154114  0.6435695290565491  0.7449616193771362  1.0000
+  F   F4        1.0  0.8719324469566345  0.25507515668869024  0.1343909502029419  1.0000

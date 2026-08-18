@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CsSiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.48336983
+_cell_length_b   6.32910919
+_cell_length_c   6.62565470
+_cell_angle_alpha   119.74013519
+_cell_angle_beta   121.75076294
+_cell_angle_gamma   90.01044464
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsSiO3
+_chemical_formula_sum   'Cs2 Si2 O6'
+_cell_volume   187.75438032
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.64980793  0.28057116  0.95714408  1
+  O  O1  1  0.55594307  0.90468442  0.51900834  1
+  Si  Si2  1  0.76266229  0.09717461  0.33937964  1
+  O  O3  1  0.48473325  0.30228829  0.97011173  1
+  Cs  Cs4  1  0.38032359  0.48377454  0.33852255  1
+  O  O5  1  0.74608964  0.12128401  0.09849155  1
+  O  O6  1  0.71630824  0.21291929  0.64717281  1
+  O  O7  1  0.68768847  0.73265398  0.20367801  1
+  Cs  Cs8  1  0.05359378  0.92097044  0.85829210  1
+  O  O9  1  0.06768951  0.28641227  0.50357908  1

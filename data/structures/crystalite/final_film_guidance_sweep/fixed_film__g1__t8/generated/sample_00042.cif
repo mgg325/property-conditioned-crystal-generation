@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Na3Li3Al2FeO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04937315
+_cell_length_b   5.41778040
+_cell_length_c   6.85037661
+_cell_angle_alpha   90.21491241
+_cell_angle_beta   90.08118439
+_cell_angle_gamma   90.23143768
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Li3Al2FeO7
+_chemical_formula_sum   'Na3 Li3 Al2 Fe1 O7'
+_cell_volume   187.39856818
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.82502991  0.06190708  0.60334349  1
+  Li  Li1  1  0.73956114  0.90041459  0.32648087  1
+  O  O2  1  0.86197317  0.55765784  0.77495229  1
+  O  O3  1  0.39472941  0.42915681  0.58616531  1
+  Li  Li4  1  0.22715235  0.58083719  0.79966295  1
+  Na  Na5  1  0.77043939  0.43492231  0.05679125  1
+  O  O6  1  0.37108484  0.90198219  0.23205167  1
+  O  O7  1  0.31606367  0.29656100  0.99882913  1
+  Na  Na8  1  0.26522124  0.48817018  0.27583075  1
+  Fe  Fe9  1  0.74160850  0.94987261  0.80894053  1
+  Li  Li10  1  0.27642363  0.24090990  0.74129510  1
+  Al  Al11  1  0.73491442  0.41584617  0.56416118  1
+  O  O12  1  0.86661124  0.98352891  0.03997406  1
+  Al  Al13  1  0.26119250  0.99992853  0.05933607  1
+  O  O14  1  0.83702081  0.52929747  0.35353649  1
+  Na  Na15  1  0.23147422  0.89907265  0.52788478  1

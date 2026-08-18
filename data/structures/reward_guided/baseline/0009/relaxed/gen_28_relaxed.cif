@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NdEr2Sc2In5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.72429542
+_cell_length_b   3.72430171
+_cell_length_c   18.32852355
+_cell_angle_alpha   89.99987077
+_cell_angle_beta   90.00006862
+_cell_angle_gamma   89.99995089
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdEr2Sc2In5
+_chemical_formula_sum   'Nd1 Er2 Sc2 In5'
+_cell_volume   254.22394994
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.31520960  0.89978411  0.69227097  1
+  Er  Er1  1  0.31527253  0.89974457  0.47921334  1
+  Er  Er2  1  0.31513213  0.89985817  0.27646812  1
+  Sc  Sc3  1  0.31506042  0.89991428  0.89752663  1
+  Sc  Sc4  1  0.31506188  0.89994531  0.08362811  1
+  In  In5  1  0.81509357  0.39987924  0.80667821  1
+  In  In6  1  0.81530778  0.39971650  0.58272853  1
+  In  In7  1  0.81503874  0.39994027  0.99038041  1
+  In  In8  1  0.81524220  0.39976048  0.37712257  1
+  In  In9  1  0.81507682  0.39988586  0.17230836  1

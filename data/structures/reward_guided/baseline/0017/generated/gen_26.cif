@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       GaInHg3InCdGaCdHg
+_chemical_formula_sum              "Ga2 In2 Hg4 Cd2"
+_cell_length_a       5.225329612117608
+_cell_length_b       5.220161765002572
+_cell_length_c       9.008612632751465
+_cell_angle_alpha    105.74159916159269
+_cell_angle_beta     87.9645174394394
+_cell_angle_gamma    88.63114370508366
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.6933227777481079  0.43370547890663147  0.5111757516860962  1.0000
+  In  In1       1.0  0.6939732432365417  0.19623583555221558  0.1017230972647667  1.0000
+  Hg  Hg1       1.0  0.6927919387817383  0.6030795574188232  0.8807520866394043  1.0000
+  Hg  Hg2       1.0  0.1935894787311554  0.21655213832855222  0.3229648172855377  1.0000
+  Hg  Hg3       1.0  0.6929576992988586  0.8172494769096375  0.31718870997428894  1.0000
+  In  In2       1.0  0.19385920464992523  0.6233387589454651  0.09925900399684907  1.0000
+  Cd  Cd1       1.0  0.19412808120250702  0.791135311126709  0.5114767551422119  1.0000
+  Ga  Ga2       1.0  0.19387735426425934  0.3863886594772339  0.6930288672447205  1.0000
+  Cd  Cd2       1.0  0.6928638815879822  0.028483077883720394  0.6897603273391724  1.0000
+  Hg  Hg4       1.0  0.19355767965316772  0.004794075153768063  0.8841812014579773  1.0000

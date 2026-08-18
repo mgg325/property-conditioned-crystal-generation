@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Na2MgGa3Ge2C4N3F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.80377573
+_cell_length_b   2.83190061
+_cell_length_c   4.44829417
+_cell_angle_alpha   90.74402222
+_cell_angle_beta   90.46712168
+_cell_angle_gamma   92.80619827
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2MgGa3Ge2C4N3F
+_chemical_formula_sum   'Na2 Mg1 Ga3 Ge2 C4 N3 F1'
+_cell_volume   35.27282531
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.40943852  0.24733504  0.92968714  1
+  Na  Na1  1  0.93600349  0.59077451  0.52044084  1
+  Mg  Mg2  1  0.88792734  0.18955026  0.24437210  1
+  Ga  Ga3  1  0.76882247  0.61561819  0.98872217  1
+  Ga  Ga4  1  0.32189318  0.41792122  0.50864587  1
+  Ga  Ga5  1  0.88924483  0.06508177  0.87568838  1
+  Ge  Ge6  1  0.72246545  0.47921905  0.96425565  1
+  Ge  Ge7  1  0.31262943  0.51888953  0.50098406  1
+  C  C8  1  0.63764431  0.80504940  0.20663718  1
+  C  C9  1  0.19063319  0.85800852  0.75735331  1
+  C  C10  1  0.32891337  0.26206080  0.52738957  1
+  C  C11  1  0.49615737  0.75597441  0.23096507  1
+  N  N12  1  0.35226886  0.13160092  0.47611094  1
+  N  N13  1  0.91126796  0.10290274  0.78524837  1
+  N  N14  1  0.33932263  0.87764972  0.76533805  1
+  F  F15  1  0.35112981  0.03380930  0.45499661  1

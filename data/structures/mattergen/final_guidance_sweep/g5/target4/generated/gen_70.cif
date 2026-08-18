@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li4SLiS2Li
+_chemical_formula_sum              "Li6 S3"
+_cell_length_a       4.062737942831914
+_cell_length_b       4.058711558033079
+_cell_length_c       9.99678897857666
+_cell_angle_alpha    89.95140570987988
+_cell_angle_beta     90.14424927880539
+_cell_angle_gamma    120.08609107188101
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.3364088833332062  0.12211391329765318  0.4113255739212036  1.0000
+  Li  Li2       1.0  0.002753496170043934  0.454883873462677  0.24526110291481018  1.0000
+  Li  Li3       1.0  0.002854104619473208  0.45522961020469666  0.7443850040435791  1.0000
+  Li  Li4       1.0  0.6701468825340271  0.7882523536682129  0.5783215761184692  1.0000
+  S   S1        1.0  0.0033082962036132518  0.45504832267761225  0.49471142888069153  1.0000
+  Li  Li5       1.0  0.6688050031661986  0.7882640957832335  0.07742836326360703  1.0000
+  S   S2        1.0  0.33587875962257385  0.1216866374015808  0.16124336421489716  1.0000
+  S   S3        1.0  0.6696954965591431  0.7884500622749329  0.8277984261512756  1.0000
+  Li  Li6       1.0  0.3360503613948822  0.1216159462928772  0.9114252328872681  1.0000

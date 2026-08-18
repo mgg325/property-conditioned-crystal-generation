@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_AlInRuO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.01859890
+_cell_length_b   5.01486941
+_cell_length_c   4.60877895
+_cell_angle_alpha   89.93961570
+_cell_angle_beta   90.05315567
+_cell_angle_gamma   119.99161123
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlInRuO6
+_chemical_formula_sum   'Al1 In1 Ru1 O6'
+_cell_volume   100.46043236
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.29973243  0.11432539  0.12265045  1
+  In  In1  1  0.63272862  0.78053486  0.62325419  1
+  Ru  Ru2  1  0.96608085  0.44715892  0.12349244  1
+  O  O3  1  0.62728552  0.41852277  0.34918042  1
+  O  O4  1  0.27550373  0.41848177  0.89618051  1
+  O  O5  1  0.99460811  0.78652839  0.89735102  1
+  O  O6  1  0.99551616  0.13677731  0.34948841  1
+  O  O7  1  0.27647179  0.78624835  0.34931793  1
+  O  O8  1  0.62708480  0.13702164  0.89714134  1

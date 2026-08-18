@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_K2CaCdGaSeBrN(O2F)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.00515147
+_cell_length_b   5.74519550
+_cell_length_c   5.28017670
+_cell_angle_alpha   89.91002760
+_cell_angle_beta   89.26014150
+_cell_angle_gamma   92.17253251
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2CaCdGaSeBrN(O2F)4
+_chemical_formula_sum   'K2 Ca1 Cd1 Ga1 Se1 Br1 N1 O8 F4'
+_cell_volume   91.08989919
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.48957885  0.87184160  0.19658126  1
+  K  K1  1  0.58091613  0.59067197  0.76355910  1
+  Ca  Ca2  1  0.19099411  0.62085807  0.69088567  1
+  Cd  Cd3  1  0.91651761  0.45368223  0.52516725  1
+  Ga  Ga4  1  0.40731494  0.27669053  0.92705321  1
+  Se  Se5  1  1.01382581  0.42305191  0.17873804  1
+  Br  Br6  1  0.51127749  0.89513177  0.12918793  1
+  N  N7  1  0.94771811  0.38085407  0.11706347  1
+  O  O8  1  0.65077790  0.09019546  0.92218604  1
+  O  O9  1  0.20129046  0.64525493  0.76455363  1
+  O  O10  1  0.90091796  0.36046019  0.06619754  1
+  O  O11  1  0.98855574  0.94501654  0.36988898  1
+  O  O12  1  0.01349892  0.48685560  0.56859310  1
+  O  O13  1  0.19725824  0.63675868  0.74650206  1
+  O  O14  1  0.17088914  0.22469229  0.10866524  1
+  O  O15  1  0.43447851  0.70636928  0.95620311  1
+  F  F16  1  0.72846089  0.15131815  0.93564366  1
+  F  F17  1  0.98716790  0.91624970  0.38503480  1
+  F  F18  1  0.66954886  0.27421536  0.24681576  1
+  F  F19  1  0.48635453  0.69159075  0.31954192  1

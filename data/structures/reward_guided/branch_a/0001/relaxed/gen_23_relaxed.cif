@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LaPr3H10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99592720
+_cell_length_b   5.81110415
+_cell_length_c   5.81110759
+_cell_angle_alpha   90.02905226
+_cell_angle_beta   89.99302799
+_cell_angle_gamma   89.99869933
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaPr3H10
+_chemical_formula_sum   'La1 Pr3 H10'
+_cell_volume   168.70720020
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.31562681  0.49119564  0.99338589  1
+  Pr  Pr1  1  0.31566910  0.98498731  0.49971128  1
+  Pr  Pr2  1  0.81566135  0.98504311  0.99156949  1
+  Pr  Pr3  1  0.81551671  0.49273472  0.49900372  1
+  H  H4  1  0.56896690  0.23496241  0.24958261  1
+  H  H5  1  0.81583099  0.58652609  0.89803782  1
+  H  H6  1  0.31618282  0.58408445  0.58483286  1
+  H  H7  1  0.56845586  0.74265589  0.24770644  1
+  H  H8  1  0.06276501  0.23703233  0.74161691  1
+  H  H9  1  0.31415306  0.90010296  0.90054319  1
+  H  H10  1  0.06233079  0.23491445  0.24941637  1
+  H  H11  1  0.56839822  0.23660004  0.74177641  1
+  H  H12  1  0.06276894  0.74278206  0.24782342  1
+  H  H13  1  0.81585869  0.89136831  0.59313155  1

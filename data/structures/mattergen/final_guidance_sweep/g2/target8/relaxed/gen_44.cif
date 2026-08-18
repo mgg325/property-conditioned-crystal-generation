@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ZnGeZnCoGeCo
+_chemical_formula_sum              "Zn2 Ge2 Co2"
+_cell_length_a       4.089803880336769
+_cell_length_b       4.090105419088734
+_cell_length_c       5.343016714253173
+_cell_angle_alpha    90.01358354949816
+_cell_angle_beta     90.05150307500051
+_cell_angle_gamma    90.1299998061485
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.09414725607665853  0.5875311259731523  0.3569832013656659  1.0000
+  Ge  Ge1       1.0  0.0929248144131221  0.5874443532283249  0.8573470577066166  1.0000
+  Zn  Zn2       1.0  0.5929130877735282  0.08650195577963865  0.8576186798549109  1.0000
+  Co  Co1       1.0  0.09303704665210291  0.08752371589030543  0.10738399825699273  1.0000
+  Ge  Ge2       1.0  0.5932675072775706  0.08760172267276159  0.35685782677356953  1.0000
+  Co  Co2       1.0  0.0928381185624681  0.08744602280320248  0.607202135155411  1.0000

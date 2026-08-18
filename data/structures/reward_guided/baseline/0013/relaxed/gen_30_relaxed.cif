@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Pr3BiSbTe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.60037927
+_cell_length_b   9.22287193
+_cell_length_c   10.30199551
+_cell_angle_alpha   103.05908746
+_cell_angle_beta   102.90447928
+_cell_angle_gamma   90.00238110
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3BiSbTe
+_chemical_formula_sum   'Pr6 Bi2 Sb2 Te2'
+_cell_volume   414.45439834
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.71842300  0.33218601  0.05314196  1
+  Pr  Pr1  1  0.05408154  0.50138534  0.72395598  1
+  Pr  Pr2  1  0.39072348  0.66837780  0.39880376  1
+  Pr  Pr3  1  0.05444044  0.00340996  0.72545232  1
+  Pr  Pr4  1  0.71725426  0.83636875  0.05045584  1
+  Pr  Pr5  1  0.39005126  0.17258086  0.39621171  1
+  Bi  Bi6  1  0.22183327  0.08489165  0.05963341  1
+  Bi  Bi7  1  0.88640376  0.41983639  0.38971070  1
+  Sb  Sb8  1  0.55439403  0.25227908  0.72457552  1
+  Sb  Sb9  1  0.55424159  0.75235351  0.72464917  1
+  Te  Te10  1  0.88609720  0.91704953  0.38856058  1
+  Te  Te11  1  0.22221142  0.58775028  0.06082652  1

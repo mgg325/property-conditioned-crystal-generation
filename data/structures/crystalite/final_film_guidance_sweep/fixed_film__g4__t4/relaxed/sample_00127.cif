@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_KSrNO6F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49915569
+_cell_length_b   5.46324422
+_cell_length_c   6.49524377
+_cell_angle_alpha   116.89844043
+_cell_angle_beta   120.04312689
+_cell_angle_gamma   90.76114769
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSrNO6F
+_chemical_formula_sum   'K1 Sr1 N1 O6 F1'
+_cell_volume   143.19447315
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.99158487  0.05801812  0.71091545  1
+  Sr  Sr1  1  0.22011188  0.63800665  0.28335230  1
+  N  N2  1  0.68890819  0.43174326  0.31688498  1
+  O  O3  1  0.80238827  0.52166459  0.56388319  1
+  O  O4  1  0.56618747  0.57021306  0.03127056  1
+  O  O5  1  0.59184164  0.03570821  0.33134430  1
+  O  O6  1  0.64311868  0.66317849  0.32034923  1
+  O  O7  1  0.52272687  0.52732640  0.71319397  1
+  O  O8  1  0.51814693  0.52632408  0.70773792  1
+  F  F9  1  0.50817969  0.52346996  0.68333912  1

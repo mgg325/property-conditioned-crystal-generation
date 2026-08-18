@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2Bi2Sb5
+_chemical_formula_sum              "Hg2 Bi2 Sb5"
+_cell_length_a       4.420466049432665
+_cell_length_b       7.430073854632309
+_cell_length_c       9.774726867675781
+_cell_angle_alpha    97.73260327657948
+_cell_angle_beta     103.13677050883015
+_cell_angle_gamma    107.61573120295526
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.06320746988058099  0.8342745304107667  0.9800856709480286  1.0000
+  Hg  Hg2       1.0  0.4679848551750183  0.29593282938003546  0.33341658115386963  1.0000
+  Bi  Bi1       1.0  0.983234703540802  0.030033482238650325  0.627372980117798  1.0000
+  Bi  Bi2       1.0  0.15165737271308904  0.65909481048584  0.3346552550792694  1.0000
+  Sb  Sb1       1.0  0.2844531536102295  0.23204895853996277  0.027634093537926674  1.0000
+  Sb  Sb2       1.0  0.32961857318878174  0.6945117115974426  0.6534308791160583  1.0000
+  Sb  Sb3       1.0  0.6630223393440247  0.37411093711853033  0.6394423842430115  1.0000
+  Sb  Sb4       1.0  0.7798767685890198  0.9385805130004883  0.31188878417015076  1.0000
+  Sb  Sb5       1.0  0.8517295718193054  0.43776082992553716  0.9523760080337524  1.0000

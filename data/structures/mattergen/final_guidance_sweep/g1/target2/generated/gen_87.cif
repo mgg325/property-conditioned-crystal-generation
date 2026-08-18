@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Rb2H3RbCsH
+_chemical_formula_sum              "Rb3 H4 Cs1"
+_cell_length_a       6.159582985624386
+_cell_length_b       6.157403512432194
+_cell_length_c       6.168999195098877
+_cell_angle_alpha    90.00679854297806
+_cell_angle_beta     89.96994284026476
+_cell_angle_gamma    90.04234284967433
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.5954337120056152  0.5115596652030945  0.5886951088905334  1.0000
+  Rb  Rb2       1.0  0.09506092965602875  0.5119189023971558  0.08835972100496292  1.0000
+  H   H1        1.0  0.09483259171247482  0.5118082761764526  0.5881645679473877  1.0000
+  H   H2        1.0  0.5947809815406799  0.5119693279266357  0.08798776566982269  1.0000
+  H   H3        1.0  0.5949909687042236  0.011871861293911932  0.587803065776825  1.0000
+  Rb  Rb3       1.0  0.09552159905433655  0.01202661357820034  0.5886362791061401  1.0000
+  Cs  Cs1       1.0  0.5940330028533936  0.010378789156675337  0.08803639560937881  1.0000
+  H   H4        1.0  0.09485232084989548  0.01157455239444971  0.08796350657939911  1.0000

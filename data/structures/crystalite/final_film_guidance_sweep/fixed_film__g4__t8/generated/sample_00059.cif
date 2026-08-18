@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Cs2KNaCd2Sn(SeBr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.18051863
+_cell_length_b   6.67888594
+_cell_length_c   7.62749147
+_cell_angle_alpha   117.76361847
+_cell_angle_beta   114.53805542
+_cell_angle_gamma   90.68329620
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2KNaCd2Sn(SeBr)2
+_chemical_formula_sum   'Cs2 K1 Na1 Cd2 Sn1 Se2 Br2'
+_cell_volume   245.05734379
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.30769283  0.25251973  0.53452784  1
+  Se  Se1  1  0.43849623  0.91054976  0.01980656  1
+  Cs  Cs2  1  0.99604905  0.72930539  0.92023206  1
+  Cd  Cd3  1  0.34428298  0.42715454  0.26511490  1
+  Cs  Cs4  1  0.54346722  0.25338161  0.77796668  1
+  Se  Se5  1  0.34917763  0.76315820  0.23817948  1
+  Na  Na6  1  0.84097445  0.92971152  0.55637932  1
+  K  K7  1  0.26669157  0.69695997  0.72282696  1
+  Br  Br8  1  0.95479584  0.54576188  0.92552137  1
+  Cd  Cd9  1  0.85037625  0.32039973  0.27432984  1
+  Br  Br10  1  0.69814640  0.71795732  0.49993104  1

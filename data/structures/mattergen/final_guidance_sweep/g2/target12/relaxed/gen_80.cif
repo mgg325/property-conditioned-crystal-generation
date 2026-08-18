@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CoBaNLiN
+_chemical_formula_sum              "Co1 Ba1 N2 Li1"
+_cell_length_a       3.1072874770489425
+_cell_length_b       3.7098493671432666
+_cell_length_c       5.744550406724024
+_cell_angle_alpha    90.00271169545758
+_cell_angle_beta     89.99196124101624
+_cell_angle_gamma    89.99122081415051
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.8914177460245147  0.4570426746500903  0.3244698479730595  1.0000
+  Ba  Ba1       1.0  0.8914701090064773  0.956950559531137  0.8245654959125606  1.0000
+  N   N1        1.0  0.3913363206593643  0.457095289941184  0.5287459077511613  1.0000
+  Li  Li1       1.0  0.3915477757324178  0.956916081815637  0.32432307688889833  1.0000
+  N   N2        1.0  0.39146943247480404  0.4571631507080863  0.12033830557494937  1.0000

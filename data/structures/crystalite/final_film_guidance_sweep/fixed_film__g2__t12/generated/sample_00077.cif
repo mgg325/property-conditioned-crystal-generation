@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_NaCaSi2Bi3RhPb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01302147
+_cell_length_b   4.20014524
+_cell_length_c   15.85863781
+_cell_angle_alpha   89.80371857
+_cell_angle_beta   90.26023865
+_cell_angle_gamma   119.48199463
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCaSi2Bi3RhPb
+_chemical_formula_sum   'Na1 Ca1 Si2 Bi3 Rh1 Pb1'
+_cell_volume   232.68626583
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.46506855  0.17669308  0.50396752  1
+  Rh  Rh1  1  0.09590816  0.51390433  0.57754624  1
+  Ca  Ca2  1  0.43689185  0.16058302  0.97979093  1
+  Si  Si3  1  0.77414238  0.83676493  0.59024543  1
+  Bi  Bi4  1  0.80251169  0.83450842  0.15864673  1
+  Bi  Bi5  1  0.11354783  0.50580925  0.31573194  1
+  Pb  Pb6  1  0.78851128  0.82779044  0.83284736  1
+  Bi  Bi7  1  0.13993174  0.48860142  0.78092140  1
+  Si  Si8  1  0.43988585  0.15857354  0.19313753  1

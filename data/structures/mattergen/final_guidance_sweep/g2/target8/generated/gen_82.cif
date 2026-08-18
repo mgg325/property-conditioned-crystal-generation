@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       TeCr
+_chemical_formula_sum              "Te1 Cr1"
+_cell_length_a       3.5232455850804314
+_cell_length_b       3.8351099612445423
+_cell_length_c       3.8354902267456055
+_cell_angle_alpha    119.88206090222714
+_cell_angle_beta     90.08955311647347
+_cell_angle_gamma    89.98101457647297
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.2200583666563034  0.412518173456192  0.584214985370636  1.0000
+  Cr  Cr1       1.0  0.7181307673454285  0.079376257956028  0.9175320267677307  1.0000

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_K2NaLiMnZnS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.05123234
+_cell_length_b   7.02230167
+_cell_length_c   7.70855093
+_cell_angle_alpha   61.75776291
+_cell_angle_beta   63.02851868
+_cell_angle_gamma   59.64316940
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NaLiMnZnS8
+_chemical_formula_sum   'K2 Na1 Li1 Mn1 Zn1 S8'
+_cell_volume   278.37455406
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.62065405  0.70577681  0.95412207  1
+  S  S1  1  0.16633114  0.26246488  0.30320108  1
+  Zn  Zn2  1  0.87691408  0.48994234  0.13357386  1
+  Mn  Mn3  1  0.38460189  0.47673202  0.13483050  1
+  Li  Li4  1  0.38394490  0.96720576  0.11141366  1
+  S  S5  1  0.69386625  0.73924375  0.27881196  1
+  S  S6  1  0.57942873  0.23527271  0.98754001  1
+  S  S7  1  0.65371132  0.26800591  0.34088433  1
+  S  S8  1  0.17772806  0.71260893  0.31567696  1
+  Na  Na9  1  0.32404533  0.25611514  0.62131184  1
+  K  K10  1  0.95358288  0.92578411  0.65734136  1
+  S  S11  1  0.12858719  0.69418657  0.94984841  1
+  S  S12  1  0.09151447  0.26547882  0.95499104  1
+  K  K13  1  0.60755259  0.53765601  0.64458156  1

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       BaPtAs2AuAsAu2BaAu
+_chemical_formula_sum              "Ba2 Pt1 As3 Au4"
+_cell_length_a       4.705511832410565
+_cell_length_b       4.70530708971976
+_cell_length_c       10.665325164794922
+_cell_angle_alpha    89.97205337023695
+_cell_angle_beta     89.98086431349826
+_cell_angle_gamma    89.99094567400586
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.5618695616722107  0.4339505136013031  0.7992575764656067  1.0000
+  Pt  Pt1       1.0  0.06251081079244614  0.4343362450599671  0.5546321272850037  1.0000
+  As  As1       1.0  0.5620406866073608  0.9337491393089293  0.5548751950263977  1.0000
+  As  As2       1.0  0.06235681474208832  0.9343215823173523  0.9259625673294067  1.0000
+  Au  Au1       1.0  0.061995845288038254  0.4342929720878601  0.053804509341716766  1.0000
+  As  As3       1.0  0.562263011932373  0.43393346667289734  0.18345507979393005  1.0000
+  Au  Au2       1.0  0.5617325305938721  0.9343219995498656  0.05499006435275078  1.0000
+  Au  Au3       1.0  0.5625448226928711  0.4335659742355346  0.42942559719085693  1.0000
+  Ba  Ba2       1.0  0.06261221319437027  0.9341756105422974  0.3104129433631897  1.0000
+  Au  Au4       1.0  0.06192915141582489  0.9343287944793701  0.6798083782196045  1.0000

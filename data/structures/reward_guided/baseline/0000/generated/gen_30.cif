@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ge2Mo3C2
+_chemical_formula_sum              "Ge2 Mo3 C2"
+_cell_length_a       3.002260875987358
+_cell_length_b       5.602690646790325
+_cell_length_c       6.8321027755737305
+_cell_angle_alpha    68.90866473309114
+_cell_angle_beta     76.73579533041348
+_cell_angle_gamma    74.02060959287884
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.07411342859268188  0.3044140934944153  0.7291910648345947  1.0000
+  Ge  Ge2       1.0  0.35046833753585815  0.7904351949691772  0.6910431981086731  1.0000
+  Mo  Mo1       1.0  0.6314013004302979  0.9342851638793945  0.9881111979484558  1.0000
+  Mo  Mo2       1.0  0.35335808992385864  0.40249615907669073  0.0742146223783493  1.0000
+  Mo  Mo3       1.0  0.05507825687527657  0.7015526294708252  0.37000298500061035  1.0000
+  C   C1        1.0  0.9703553915023805  0.082171730697155  0.15827210247516632  1.0000
+  C   C2        1.0  0.6977389454841614  0.5615425109863281  0.2256578654050827  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AgCa3Ag2Sr2
+_chemical_formula_sum              "Ag3 Ca3 Sr2"
+_cell_length_a       3.829218393165061
+_cell_length_b       5.122478892801638
+_cell_length_c       13.761526107788086
+_cell_angle_alpha    101.50245152808807
+_cell_angle_beta     98.67301133061308
+_cell_angle_gamma    91.0900391572947
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.29752811789512634  0.5293663740158081  0.6504547595977783  1.0000
+  Ca  Ca1       1.0  0.8940815925598145  0.6262435913085939  0.8431352972984314  1.0000
+  Ca  Ca2       1.0  0.8015097975730896  0.03072837367653847  0.6553639769554138  1.0000
+  Ca  Ca3       1.0  0.985388457775116  0.2178376913070679  0.029017575085163116  1.0000
+  Ag  Ag2       1.0  0.3911469876766205  0.12418950349092485  0.8445575833320618  1.0000
+  Ag  Ag3       1.0  0.4892532229423523  0.7232347726821899  0.03682507202029228  1.0000
+  Sr  Sr1       1.0  0.09163931757211685  0.824399471282959  0.24018830060958862  1.0000
+  Sr  Sr2       1.0  0.6954770684242249  0.427075743675232  0.4473070502281189  1.0000

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CsRbHgAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.27873953
+_cell_length_b   6.30410391
+_cell_length_c   6.30593188
+_cell_angle_alpha   59.73136184
+_cell_angle_beta   59.93079907
+_cell_angle_gamma   60.62418420
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsRbHgAu
+_chemical_formula_sum   'Cs1 Rb1 Hg1 Au1'
+_cell_volume   176.85207630
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.19668526  0.65922825  0.77031986  1
+  Rb  Rb1  1  0.69834215  0.16337902  0.27308023  1
+  Hg  Hg2  1  0.44701311  0.91055321  0.02351966  1
+  Au  Au3  1  0.94788508  0.41081835  0.52128170  1

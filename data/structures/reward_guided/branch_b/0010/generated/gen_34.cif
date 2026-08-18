@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SmFeHCH
+_chemical_formula_sum              "Sm1 Fe1 H2 C1"
+_cell_length_a       3.5905543025458497
+_cell_length_b       3.602037429654696
+_cell_length_c       3.6568517684936523
+_cell_angle_alpha    89.90913366970805
+_cell_angle_beta     88.42933889060674
+_cell_angle_gamma    89.85170542527517
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.7270371913909912  0.5587817430496215  0.904776394367218  1.0000
+  Fe  Fe1       1.0  0.22853514552116394  0.058940935879945755  0.40189361572265625  1.0000
+  H   H1        1.0  0.2240893542766571  0.059050321578979485  0.9057977199554443  1.0000
+  C   C1        1.0  0.226252481341362  0.5577525496482849  0.4035190939903259  1.0000
+  H   H2        1.0  0.726079523563385  0.05825714394450187  0.40372589230537415  1.0000

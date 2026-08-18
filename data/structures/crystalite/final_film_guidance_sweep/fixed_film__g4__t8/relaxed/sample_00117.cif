@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_SrCaZn2CdInGa6Se2Br3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.41189459
+_cell_length_b   8.32833867
+_cell_length_c   13.26174411
+_cell_angle_alpha   92.13890878
+_cell_angle_beta   73.93556477
+_cell_angle_gamma   64.69149079
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCaZn2CdInGa6Se2Br3
+_chemical_formula_sum   'Sr1 Ca1 Zn2 Cd1 In1 Ga6 Se2 Br3'
+_cell_volume   605.25999562
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.14785086  0.68191306  0.70668703  1
+  Ca  Ca1  1  0.31846251  0.17201252  0.45117256  1
+  Zn  Zn2  1  0.01075914  0.31248780  0.14310591  1
+  Zn  Zn3  1  1.01036442  0.68570760  0.47883354  1
+  Cd  Cd4  1  0.93957543  0.74318919  -0.00624475  1
+  In  In5  1  0.51477240  0.75873801  0.86767822  1
+  Ga  Ga6  1  0.68995859  0.67476449  0.24602586  1
+  Ga  Ga7  1  0.47732664  0.71222855  0.47481484  1
+  Ga  Ga8  1  0.78311176  0.40283401  0.38343251  1
+  Ga  Ga9  1  0.40474116  0.47908720  0.34827388  1
+  Ga  Ga10  1  0.57952904  0.04289365  0.96527332  1
+  Ga  Ga11  1  0.13633321  0.51371390  0.24187133  1
+  Se  Se12  1  0.99530585  0.00402831  0.86839106  1
+  Se  Se13  1  0.30789032  0.16643120  0.22537017  1
+  Br  Br14  1  1.07970156  0.37878319  0.66579676  1
+  Br  Br15  1  0.84218681  -0.01640152  0.39574251  1
+  Br  Br16  1  0.29389994  0.66443373  0.08480447  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrTlGa2Si2SnAsS3N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.48188496
+_cell_length_b   7.12013960
+_cell_length_c   7.28543568
+_cell_angle_alpha   89.98013306
+_cell_angle_beta   91.03744507
+_cell_angle_gamma   90.22666168
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTlGa2Si2SnAsS3N
+_chemical_formula_sum   'Zr1 Tl1 Ga2 Si2 Sn1 As1 S3 N1'
+_cell_volume   232.45030981
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  N  N0  1  0.04936662  0.49121636  0.09618351  1
+  S  S1  1  0.96728909  0.01881772  0.44977772  1
+  Si  Si2  1  0.40156853  0.45611855  0.68513674  1
+  Zr  Zr3  1  0.70368111  0.51533729  0.31603730  1
+  Tl  Tl4  1  0.63500249  0.95829630  0.61261773  1
+  S  S5  1  0.85062450  0.86982405  0.88154393  1
+  S  S6  1  0.42030972  0.68880391  0.19679019  1
+  Si  Si7  1  0.05711555  0.54137319  0.66037017  1
+  As  As8  1  0.13228738  0.12165400  0.29868901  1
+  Ga  Ga9  1  0.19267347  0.97645032  0.96584773  1
+  Sn  Sn10  1  0.50154293  0.21056536  0.22469303  1
+  Ga  Ga11  1  0.22272000  0.46386230  0.92718780  1

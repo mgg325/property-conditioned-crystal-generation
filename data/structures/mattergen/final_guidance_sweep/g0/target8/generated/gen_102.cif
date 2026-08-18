@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CsK2S2
+_chemical_formula_sum              "Cs1 K2 S2"
+_cell_length_a       5.2465722822185565
+_cell_length_b       5.244818390416278
+_cell_length_c       8.106603622436523
+_cell_angle_alpha    90.082408733679
+_cell_angle_beta     90.09634232024032
+_cell_angle_gamma    59.992187656424726
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.9496980309486389  0.797802746295929  0.5558223128318787  1.0000
+  K   K1        1.0  0.2825036942958832  0.1314529776573181  0.9095863103866577  1.0000
+  K   K2        1.0  0.6155663728713989  0.46434241533279413  0.20660120248794556  1.0000
+  S   S1        1.0  0.6156669855117799  0.464629203081131  0.8121267557144165  1.0000
+  S   S2        1.0  0.28248095512390137  0.13129886984825134  0.30125829577445984  1.0000

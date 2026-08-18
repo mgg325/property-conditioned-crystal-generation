@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_K5Na2Sn3H
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.29505062
+_cell_length_b   7.41602325
+_cell_length_c   8.87849998
+_cell_angle_alpha   115.00444794
+_cell_angle_beta   113.74302673
+_cell_angle_gamma   90.25289154
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K5Na2Sn3H
+_chemical_formula_sum   'K5 Na2 Sn3 H1'
+_cell_volume   389.53997081
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.58148271  0.60286641  0.56705189  1
+  K  K1  1  0.09530333  0.09156543  0.66141605  1
+  K  K2  1  0.29823285  0.67880726  0.92285192  1
+  Sn  Sn3  1  0.33834648  0.29742670  0.09497744  1
+  Na  Na4  1  0.18629077  0.14612579  0.27189213  1
+  Sn  Sn5  1  0.53721684  0.01154265  0.49159628  1
+  Na  Na6  1  0.66793615  0.12173584  0.28260982  1
+  H  H7  1  0.12887749  0.48289227  0.49025637  1
+  Sn  Sn8  1  0.85431552  0.79669303  0.07349643  1
+  K  K9  1  0.75528395  0.28406447  0.93715733  1
+  K  K10  1  0.06039259  0.63803446  0.36397552  1

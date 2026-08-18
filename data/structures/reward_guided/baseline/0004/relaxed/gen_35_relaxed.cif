@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ca2Ce3DySe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.24313729
+_cell_length_b   7.27139872
+_cell_length_c   7.27159230
+_cell_angle_alpha   120.00107468
+_cell_angle_beta   99.63031704
+_cell_angle_gamma   99.62805437
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Ce3DySe6
+_chemical_formula_sum   'Ca2 Ce3 Dy1 Se6'
+_cell_volume   312.55445466
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.68731639  0.79059412  0.38291090  1
+  Ca  Ca1  1  0.68722454  0.12295486  0.05057210  1
+  Ce  Ce2  1  0.18722155  0.95670563  0.21671168  1
+  Ce  Ce3  1  0.18714786  0.62445325  0.54914727  1
+  Ce  Ce4  1  0.18736151  0.28901666  0.88447686  1
+  Dy  Dy5  1  0.68721441  0.45673234  0.71670087  1
+  Se  Se6  1  0.44887477  0.04709608  0.63730903  1
+  Se  Se7  1  0.44690009  0.70648258  0.96651328  1
+  Se  Se8  1  0.92565494  0.53602740  0.12624484  1
+  Se  Se9  1  0.92556829  0.86637841  0.79608950  1
+  Se  Se10  1  0.92763437  0.20699530  0.46704033  1
+  Se  Se11  1  0.44882352  0.37744741  0.30725027  1

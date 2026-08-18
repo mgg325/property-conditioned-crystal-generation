@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       NaLiCl2LiClLiMnCl2
+_chemical_formula_sum              "Na1 Li3 Cl5 Mn1"
+_cell_length_a       5.338638425056191
+_cell_length_b       6.471520181105435
+_cell_length_c       6.496947765350342
+_cell_angle_alpha    80.2084621684229
+_cell_angle_beta     65.76110778441898
+_cell_angle_gamma    65.66056798676182
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.4901208281517029  0.052011735737323754  0.707444429397583  1.0000
+  Li  Li1       1.0  0.08978251367807388  0.25464725494384766  0.3070203363895416  1.0000
+  Cl  Cl1       1.0  0.8043586015701294  0.6353299617767334  0.4967834353446961  1.0000
+  Cl  Cl2       1.0  0.6040419340133667  0.24724724888801575  0.28642192482948303  1.0000
+  Li  Li2       1.0  0.2881408929824829  0.652862012386322  0.5096574425697327  1.0000
+  Cl  Cl3       1.0  0.3852852284908295  0.8451383709907532  0.12592838704586026  1.0000
+  Li  Li3       1.0  0.6899965405464173  0.45154136419296265  0.9115984439849855  1.0000
+  Mn  Mn1       1.0  0.8899281620979309  0.8511244654655457  0.10999542474746705  1.0000
+  Cl  Cl4       1.0  0.9887353181838989  0.04976990073919296  0.7142038345336914  1.0000
+  Cl  Cl5       1.0  0.1771745085716248  0.4739183485507965  0.9122835993766786  1.0000

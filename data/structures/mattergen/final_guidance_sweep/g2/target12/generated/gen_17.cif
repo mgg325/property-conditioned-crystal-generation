@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       VCuTe2
+_chemical_formula_sum              "V1 Cu1 Te2"
+_cell_length_a       3.789884775449689
+_cell_length_b       3.788725935298705
+_cell_length_c       7.171177864074707
+_cell_angle_alpha    74.95070420807016
+_cell_angle_beta     75.0273866829325
+_cell_angle_gamma    60.203897583024485
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.3542667031288147  0.41458019614219666  0.2755371034145355  1.0000
+  Cu  Cu1       1.0  0.854535162448883  0.9139392971992493  0.7758521437644958  1.0000
+  Te  Te1       1.0  0.605208158493042  0.6662681698799133  0.5227968096733093  1.0000
+  Te  Te2       1.0  0.10352279245853423  0.16276884078979492  0.02822132222354412  1.0000

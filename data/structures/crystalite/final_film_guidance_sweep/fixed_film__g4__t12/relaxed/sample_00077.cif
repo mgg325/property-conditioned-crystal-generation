@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ac3SmTc5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.26928958
+_cell_length_b   4.21299104
+_cell_length_c   14.06888824
+_cell_angle_alpha   85.14420664
+_cell_angle_beta   92.89199238
+_cell_angle_gamma   129.71219549
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ac3SmTc5
+_chemical_formula_sum   'Ac3 Sm1 Tc5'
+_cell_volume   239.39283584
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.23280783  0.81921117  0.99128372  1
+  Ac  Ac1  1  0.19924656  1.04574897  0.42621116  1
+  Ac  Ac2  1  0.75688698  0.93753550  0.79853051  1
+  Sm  Sm3  1  0.76194225  0.26059231  0.23427753  1
+  Tc  Tc4  1  0.24530332  0.26788391  0.17790455  1
+  Tc  Tc5  1  0.55729193  0.62921697  0.58843460  1
+  Tc  Tc6  1  0.25080115  0.97352762  0.67299124  1
+  Tc  Tc7  1  0.92231799  0.35978752  0.58869914  1
+  Tc  Tc8  1  0.72981542  -0.23866580  0.07651692  1

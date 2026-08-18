@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SmTm2SmCd4
+_chemical_formula_sum              "Sm2 Tm2 Cd4"
+_cell_length_a       4.997182534009421
+_cell_length_b       4.945727769241803
+_cell_length_c       8.64619255065918
+_cell_angle_alpha    106.8988378209233
+_cell_angle_beta     108.00696791899118
+_cell_angle_gamma    88.57346334537561
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.13964711129665375  0.9806510210037231  0.17448881268501282  1.0000
+  Tm  Tm1       1.0  0.8911423683166504  0.7367138862609862  0.6842880249023438  1.0000
+  Tm  Tm2       1.0  0.7688605189323425  0.11123254895210266  0.43351542949676514  1.0000
+  Sm  Sm2       1.0  0.6261138916015625  0.46523395180702204  0.1461740285158157  1.0000
+  Cd  Cd1       1.0  0.26798442006111145  0.6133311986923218  0.43320003151893616  1.0000
+  Cd  Cd2       1.0  0.3870813846588135  0.23088409006595612  0.6696501970291138  1.0000
+  Cd  Cd3       1.0  0.5042163729667664  0.8469050526618958  0.9021214246749878  1.0000
+  Cd  Cd4       1.0  0.9995805621147155  0.34280872344970703  0.8927783966064453  1.0000

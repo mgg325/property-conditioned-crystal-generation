@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MgScNiSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.77980257
+_cell_length_b   7.42375173
+_cell_length_c   8.98476108
+_cell_angle_alpha   99.49125271
+_cell_angle_beta   90.00280166
+_cell_angle_gamma   89.99599234
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgScNiSe3
+_chemical_formula_sum   'Mg2 Sc2 Ni2 Se6'
+_cell_volume   248.66397440
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.71670668  0.40094618  0.86138022  1
+  Mg  Mg1  1  0.21655131  0.75196334  0.44023726  1
+  Sc  Sc2  1  0.21658929  0.24142801  0.31894738  1
+  Sc  Sc3  1  0.71665937  0.91141432  0.98265511  1
+  Ni  Ni4  1  0.21663805  0.65869956  0.72267230  1
+  Ni  Ni5  1  0.71664406  0.49389290  0.57895168  1
+  Se  Se6  1  0.71660729  0.83425373  0.67588839  1
+  Se  Se7  1  0.71662005  0.97388458  0.29944202  1
+  Se  Se8  1  0.21669647  0.65548929  0.99161678  1
+  Se  Se9  1  0.21667233  0.31840278  0.62573674  1
+  Se  Se10  1  0.21662357  0.17896413  0.00215321  1
+  Se  Se11  1  0.71655760  0.49737313  0.31007018  1

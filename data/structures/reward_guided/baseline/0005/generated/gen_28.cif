@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       HSr4GeI2
+_chemical_formula_sum              "H1 Sr4 Ge1 I2"
+_cell_length_a       4.579325199127896
+_cell_length_b       8.389923864197886
+_cell_length_c       7.536189556121826
+_cell_angle_alpha    108.45783722977933
+_cell_angle_beta     89.99996835353268
+_cell_angle_gamma    90.0068600145659
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.2613072991371155  0.4955064058303833  0.9598755836486816  1.0000
+  Sr  Sr1       1.0  0.7604849338531494  0.7016373872756959  0.1998010724782944  1.0000
+  Sr  Sr2       1.0  0.26077646017074585  0.6942552328109741  0.6942269206047058  1.0000
+  Sr  Sr3       1.0  0.2609228491783142  0.2963798940181733  0.22566871345043182  1.0000
+  Sr  Sr4       1.0  0.760802149772644  0.2895134687423706  0.7207386493682861  1.0000
+  Ge  Ge1       1.0  0.7608805894851685  0.495392769575119  0.4601617157459259  1.0000
+  I   I1        1.0  0.260990172624588  0.9954242706298829  0.46005240082740784  1.0000
+  I   I2        1.0  0.7610051035881042  0.9950129985809326  0.9600510001182556  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       KH3Au
+_chemical_formula_sum              "K1 H3 Au1"
+_cell_length_a       3.9485607863053667
+_cell_length_b       3.9494846166114232
+_cell_length_c       3.948485851287842
+_cell_angle_alpha    90.02902397996938
+_cell_angle_beta     90.10403311099944
+_cell_angle_gamma    89.92080646098103
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.4373037219047547  0.3277800977230072  0.5926752686500549  1.0000
+  H   H1        1.0  0.9375789761543275  0.32721021771430975  0.09275726974010468  1.0000
+  H   H2        1.0  0.43731641769409185  0.8279982209205627  0.09281627833843231  1.0000
+  H   H3        1.0  0.9373456835746766  0.8280438184738159  0.5917838215827942  1.0000
+  Au  Au1       1.0  0.9373292922973634  0.8277534246444702  0.09259139746427536  1.0000

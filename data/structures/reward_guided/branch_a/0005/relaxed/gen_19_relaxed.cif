@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Li7(AgSn)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11870418
+_cell_length_b   4.91412344
+_cell_length_c   9.14375635
+_cell_angle_alpha   99.18612333
+_cell_angle_beta   120.93844139
+_cell_angle_gamma   82.29040827
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li7(AgSn)2
+_chemical_formula_sum   'Li7 Ag2 Sn2'
+_cell_volume   194.37817265
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.88554325  0.54278369  0.53340330  1
+  Li  Li1  1  0.99052254  0.28169602  0.00417743  1
+  Li  Li2  1  0.44106995  0.91760201  0.27275384  1
+  Li  Li3  1  0.54707528  0.63939122  0.71425565  1
+  Li  Li4  1  0.07442378  0.00102543  0.43806153  1
+  Li  Li5  1  0.17187641  0.73221172  0.91000518  1
+  Li  Li6  1  0.36900903  0.17341798  0.81614480  1
+  Ag  Ag7  1  0.28384475  0.45322480  0.36449432  1
+  Ag  Ag8  1  0.80019066  0.82248377  0.07748817  1
+  Sn  Sn9  1  0.63202108  0.37338733  0.17328331  1
+  Sn  Sn10  1  0.73064492  0.09611328  0.64063595  1

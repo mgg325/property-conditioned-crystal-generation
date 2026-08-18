@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Cu2NaS2
+_chemical_formula_sum              "Cu2 Na1 S2"
+_cell_length_a       3.8241350961737957
+_cell_length_b       3.8216499400728656
+_cell_length_c       6.905285835266113
+_cell_angle_alpha    90.01606710944161
+_cell_angle_beta     89.93886547897534
+_cell_angle_gamma    119.99866680129992
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.7092307806015016  0.6716797351837159  0.16361519694328308  1.0000
+  Cu  Cu2       1.0  0.042970903217792504  0.33811259269714355  0.4115693271160125  1.0000
+  Na  Na1       1.0  0.3756177425384522  0.00480053760111332  0.7875796556472777  1.0000
+  S   S1        1.0  0.042381912469863926  0.33837479352951055  0.06041875854134559  1.0000
+  S   S2        1.0  0.7094193696975709  0.6717479825019838  0.5145655870437622  1.0000

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs2GeF7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80505012
+_cell_length_b   6.96163323
+_cell_length_c   6.88928438
+_cell_angle_alpha   60.55182762
+_cell_angle_beta   59.94409161
+_cell_angle_gamma   60.36387086
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2GeF7
+_chemical_formula_sum   'Cs2 Ge1 F7'
+_cell_volume   232.26511565
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.60328402  0.29396321  0.15976805  1
+  Cs  Cs1  1  0.13446932  0.83151546  0.63294220  1
+  Ge  Ge2  1  0.34505460  0.04293030  0.91895175  1
+  F  F3  1  0.17940013  0.20710479  0.13170978  1
+  F  F4  1  0.34290774  0.36469699  0.69421014  1
+  F  F5  1  0.09654273  0.17480394  0.78682449  1
+  F  F6  1  0.66234727  0.07344326  0.78416346  1
+  F  F7  1  0.50850479  0.80361574  0.14055044  1
+  F  F8  1  0.13490026  0.85657682  0.13854779  1
+  F  F9  1  0.50114448  0.84765250  0.74049539  1

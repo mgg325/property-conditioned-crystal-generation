@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SrCl2SrCl2
+_chemical_formula_sum              "Sr2 Cl4"
+_cell_length_a       4.455772583988726
+_cell_length_b       4.455135048097998
+_cell_length_c       12.57972526550293
+_cell_angle_alpha    79.86682943531878
+_cell_angle_beta     79.8963504295968
+_cell_angle_gamma    59.99142207654012
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.7025682926177977  0.9166123867034912  0.23887582123279572  1.0000
+  Cl  Cl1       1.0  0.5739485621452332  0.7892769575119019  0.6251320838928223  1.0000
+  Cl  Cl2       1.0  0.8332308530807495  0.04642007127404213  0.8521739840507507  1.0000
+  Sr  Sr2       1.0  0.20297332108020785  0.41686004400253296  0.7391201853752136  1.0000
+  Cl  Cl3       1.0  0.9983758330345154  0.21278275549411774  0.3511074483394623  1.0000
+  Cl  Cl4       1.0  0.4065476357936859  0.6214349865913391  0.12660159170627594  1.0000

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiErAlIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.60883058
+_cell_length_b   4.60605062
+_cell_length_c   4.60474159
+_cell_angle_alpha   60.06787329
+_cell_angle_beta   60.07403609
+_cell_angle_gamma   59.99394982
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiErAlIr
+_chemical_formula_sum   'Li1 Er1 Al1 Ir1'
+_cell_volume   69.19181926
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.96158005  0.17801305  0.40414616  1
+  Er  Er1  1  0.71054212  0.92860624  0.15361456  1
+  Al  Al2  1  0.21020661  0.42951827  0.65396169  1
+  Ir  Ir3  1  0.46011501  0.67909009  0.90326062  1

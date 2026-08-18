@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_KBaBeS6Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.75234795
+_cell_length_b   5.77304935
+_cell_length_c   5.85434628
+_cell_angle_alpha   111.99329376
+_cell_angle_beta   119.52319336
+_cell_angle_gamma   91.85286713
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBaBeS6Cl
+_chemical_formula_sum   'K1 Ba1 Be1 S6 Cl1'
+_cell_volume   72.29118880
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.74228466  0.10465634  0.11478496  1
+  S  S1  1  0.33789700  0.02163163  0.45745924  1
+  S  S2  1  0.43638581  0.45153844  0.18496665  1
+  Be  Be3  1  0.52338547  0.16181475  0.61454058  1
+  Ba  Ba4  1  0.53381389  0.48756093  0.21241534  1
+  S  S5  1  0.77032143  0.06421381  0.13924927  1
+  S  S6  1  0.59775949  0.09574580  0.79681385  1
+  S  S7  1  0.85675085  0.54137903  0.20642355  1
+  K  K8  1  0.08112115  0.86562347  0.73639512  1
+  S  S9  1  0.94423759  0.56013304  0.66014379  1

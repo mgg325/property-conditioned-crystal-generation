@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_BeBiO6F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22492933
+_cell_length_b   4.99014091
+_cell_length_c   6.73736334
+_cell_angle_alpha   70.86106110
+_cell_angle_beta   70.58339691
+_cell_angle_gamma   64.17088318
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeBiO6F
+_chemical_formula_sum   'Be1 Bi1 O6 F1'
+_cell_volume   117.74596120
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.04052141  0.69614112  0.26504648  1
+  Bi  Bi1  1  0.43892074  0.11196557  0.78789449  1
+  Be  Be2  1  0.80167615  0.40024868  0.31056261  1
+  O  O3  1  0.85697049  0.53285557  0.86251926  1
+  O  O4  1  0.78555489  0.08801150  0.25343820  1
+  O  O5  1  0.40907222  0.07665670  0.27887446  1
+  O  O6  1  0.27841318  0.60602582  0.24393734  1
+  O  O7  1  0.66002959  0.29195175  0.10348487  1
+  O  O8  1  0.91356945  0.59645009  0.55367190  1

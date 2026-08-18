@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CdBa2KH
+_chemical_formula_sum              "Cd1 Ba2 K1 H1"
+_cell_length_a       5.406528364674637
+_cell_length_b       5.762072860775141
+_cell_length_c       5.774980545043945
+_cell_angle_alpha    89.94987575094713
+_cell_angle_beta     89.97884257676228
+_cell_angle_gamma    89.93273197001261
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.02860273793339729  0.9001173377037047  0.8053673505783081  1.0000
+  Ba  Ba1       1.0  0.5286609530448914  0.40042823553085327  0.8049735426902771  1.0000
+  Ba  Ba2       1.0  0.5289210677146912  0.9003342986106871  0.30512580275535583  1.0000
+  K   K1        1.0  0.02826367691159248  0.40018519759178156  0.3048569858074188  1.0000
+  H   H1        1.0  0.5285729765892029  0.40006998181343073  0.30517375469207764  1.0000

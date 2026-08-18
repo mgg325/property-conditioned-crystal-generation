@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Dy2CoIr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21043565
+_cell_length_b   5.20814632
+_cell_length_c   5.20953932
+_cell_angle_alpha   61.98478926
+_cell_angle_beta   61.99368148
+_cell_angle_gamma   61.98460467
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2CoIr3
+_chemical_formula_sum   'Dy2 Co1 Ir3'
+_cell_volume   104.40827504
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.39801920  0.57559502  0.32387321  1
+  Dy  Dy1  1  0.64995149  0.82568800  0.57559379  1
+  Co  Co2  1  0.02579721  0.20078853  0.94799945  1
+  Ir  Ir3  1  0.02351257  0.19998509  0.45057808  1
+  Ir  Ir4  1  0.52459914  0.20110654  0.95102305  1
+  Ir  Ir5  1  0.02353531  0.69974210  0.95061359  1

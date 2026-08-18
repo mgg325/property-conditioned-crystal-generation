@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaTbAlBiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50837722
+_cell_length_b   6.59267237
+_cell_length_c   7.12028763
+_cell_angle_alpha   105.49830230
+_cell_angle_beta   90.05399685
+_cell_angle_gamma   89.96403357
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTbAlBiO6
+_chemical_formula_sum   'Na2 Tb2 Al2 Bi2 O12'
+_cell_volume   249.17046589
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.32678191  0.72912944  0.00568546  1
+  Na  Na1  1  0.82710593  0.86200887  0.05000891  1
+  Tb  Tb2  1  0.82437983  0.46286037  0.69070671  1
+  Tb  Tb3  1  0.32419911  0.16778560  0.86775060  1
+  Al  Al4  1  0.32445371  0.69182694  0.52608156  1
+  Al  Al5  1  0.82468214  0.92091922  0.58181420  1
+  Bi  Bi6  1  0.32486248  0.15630740  0.37205946  1
+  Bi  Bi7  1  0.82484258  0.42935969  0.18845935  1
+  O  O8  1  0.82373723  0.76489846  0.32796303  1
+  O  O9  1  0.06470465  0.46167923  0.95874647  1
+  O  O10  1  0.32357930  0.82792935  0.33649772  1
+  O  O11  1  0.57673053  0.80064685  0.70798455  1
+  O  O12  1  0.10000014  0.45958541  0.43352623  1
+  O  O13  1  0.05476764  0.15071473  0.60322239  1
+  O  O14  1  0.07399575  0.80296698  0.70900902  1
+  O  O15  1  0.54889998  0.45854413  0.43204365  1
+  O  O16  1  0.07819123  0.13151295  0.12703984  1
+  O  O17  1  0.58475673  0.45966695  0.95851500  1
+  O  O18  1  0.57024770  0.12865356  0.12646077  1
+  O  O19  1  0.59409482  0.15025912  0.60398065  1

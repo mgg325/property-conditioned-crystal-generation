@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CeHgCePb
+_chemical_formula_sum              "Ce2 Hg1 Pb1"
+_cell_length_a       4.500180586615014
+_cell_length_b       4.863340486997111
+_cell_length_c       4.8582563400268555
+_cell_angle_alpha    91.63260909323144
+_cell_angle_beta     90.63615951949276
+_cell_angle_gamma    92.9278315414652
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.44322994351387024  0.5152702331542969  0.9512982964515685  1.0000
+  Hg  Hg1       1.0  0.9444130659103394  0.5142054557800293  0.44941392540931696  1.0000
+  Ce  Ce2       1.0  0.4447419047355652  0.013415383175015451  0.44981426000595087  1.0000
+  Pb  Pb1       1.0  0.9454081654548645  0.014120103791356088  0.952084183692932  1.0000

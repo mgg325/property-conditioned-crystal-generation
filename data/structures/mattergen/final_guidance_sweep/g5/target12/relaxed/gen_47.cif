@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       RhLaTi2Rh
+_chemical_formula_sum              "Rh2 La1 Ti2"
+_cell_length_a       4.233097111299433
+_cell_length_b       4.233230128544708
+_cell_length_c       6.424444771344398
+_cell_angle_alpha    109.21510404672733
+_cell_angle_beta     109.22898285406953
+_cell_angle_gamma    90.0037907188394
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.6985015892144433  0.9681451028880943  0.9835718518590053  1.0000
+  La  La1       1.0  0.3182888230584784  0.5880033480525527  0.22345604222280327  1.0000
+  Ti  Ti1       1.0  0.06887323510864596  0.8387136316431991  0.7242283656594062  1.0000
+  Ti  Ti2       1.0  0.5689609555170992  0.3386604827711925  0.7243766360681111  1.0000
+  Rh  Rh2       1.0  0.9396201871887501  0.20970545461698564  0.4656260881873957  1.0000

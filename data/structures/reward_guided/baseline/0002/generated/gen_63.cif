@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Yb2FeNi3
+_chemical_formula_sum              "Yb2 Fe1 Ni3"
+_cell_length_a       4.899067810373315
+_cell_length_b       4.897099798952437
+_cell_length_c       4.902465343475342
+_cell_angle_alpha    63.1333830088852
+_cell_angle_beta     63.1037479338809
+_cell_angle_gamma    63.185914916703545
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.5243898034095764  0.6624162197113037  0.1979978233575821  1.0000
+  Yb  Yb2       1.0  0.27173164486885076  0.4096084833145141  0.9452676773071289  1.0000
+  Fe  Fe1       1.0  0.8981589078903198  0.03565678745508193  0.5717268586158752  1.0000
+  Ni  Ni1       1.0  0.3982865810394287  0.03597371652722358  0.5717586278915405  1.0000
+  Ni  Ni2       1.0  0.8981027603149415  0.5360541343688965  0.5714714527130127  1.0000
+  Ni  Ni3       1.0  0.8980573415756226  0.035813271999359124  0.071791872382164  1.0000

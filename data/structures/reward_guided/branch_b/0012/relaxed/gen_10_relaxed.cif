@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiLaIn3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43980063
+_cell_length_b   6.43680742
+_cell_length_c   6.85544800
+_cell_angle_alpha   89.97295922
+_cell_angle_beta   90.00319776
+_cell_angle_gamma   112.86731727
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiLaIn3
+_chemical_formula_sum   'Li2 La2 In6'
+_cell_volume   261.83659055
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.62196033  0.84722783  0.08222061  1
+  Li  Li1  1  0.78280079  0.68687951  0.58205036  1
+  La  La2  1  0.45111200  0.01965623  0.58174089  1
+  La  La3  1  0.95346351  0.51411055  0.08170468  1
+  In  In4  1  0.97111575  0.03642173  0.33194367  1
+  In  In5  1  0.97086081  0.03562063  0.83195716  1
+  In  In6  1  0.38094549  0.08805280  0.08217936  1
+  In  In7  1  0.43306716  0.49867112  0.83195183  1
+  In  In8  1  0.43314252  0.49852089  0.33206387  1
+  In  In9  1  0.02350835  0.44647312  0.58212765  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Na2Si5O13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.53702164
+_cell_length_b   6.19368839
+_cell_length_c   7.38395596
+_cell_angle_alpha   70.49285889
+_cell_angle_beta   75.93148041
+_cell_angle_gamma   89.09352875
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Si5O13
+_chemical_formula_sum   'Na2 Si5 O13'
+_cell_volume   189.23384897
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.82054794  0.86315191  0.73222888  1
+  Na  Na1  1  0.99392843  0.14430630  0.98782814  1
+  Si  Si2  1  0.60804212  0.33204126  0.22665289  1
+  Si  Si3  1  0.75800884  0.69844019  0.60347068  1
+  O  O4  1  0.25511149  0.58050543  0.28307337  1
+  O  O5  1  0.60852784  0.77193010  0.36462200  1
+  O  O6  1  0.03647482  0.45782724  0.72147697  1
+  Na  Na7  1  0.03688633  0.34745693  0.45016965  1
+  O  O8  1  0.27967620  0.92608058  0.79564995  1
+  O  O9  1  0.90723646  0.39726990  0.21979928  1
+  O  O10  1  0.44226992  0.53541690  0.67934102  1
+  O  O11  1  0.52910823  0.20921716  0.87786323  1
+  O  O12  1  0.56040341  0.46353197  0.02447399  1
+  O  O13  1  0.15813759  0.82583022  0.52677953  1
+  O  O14  1  0.12856939  0.97726357  0.18645805  1
+  O  O15  1  0.49517986  0.14049354  0.20938423  1
+  Si  Si16  1  0.37917981  0.86793995  0.25578061  1
+  O  O17  1  0.58957934  0.28493744  0.47847933  1
+  Si  Si18  1  0.44171140  0.29552662  0.67829704  1
+  Si  Si19  1  0.21641153  0.79075706  0.68310690  1

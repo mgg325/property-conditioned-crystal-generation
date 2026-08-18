@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CaGeCaSi3PtSiPt2
+_chemical_formula_sum              "Ca2 Ge1 Si4 Pt3"
+_cell_length_a       4.258220762705473
+_cell_length_b       4.257395898235326
+_cell_length_c       9.994482040405273
+_cell_angle_alpha    89.98459359600763
+_cell_angle_beta     89.98821359820897
+_cell_angle_gamma    89.98924495626125
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.28284263610839844  0.7101497650146485  0.5462039709091187  1.0000
+  Ge  Ge1       1.0  0.28291818499565125  0.20978431403636932  0.2920810580253601  1.0000
+  Ca  Ca2       1.0  0.7829176187515259  0.20978900790214539  0.03886273875832558  1.0000
+  Si  Si1       1.0  0.7827044129371643  0.20985792577266693  0.4310305416584015  1.0000
+  Si  Si2       1.0  0.2827509939670563  0.20976978540420532  0.7921227812767029  1.0000
+  Si  Si3       1.0  0.28307974338531494  0.7098893523216248  0.15374764800071716  1.0000
+  Pt  Pt1       1.0  0.7826041579246521  0.709713876247406  0.29255878925323486  1.0000
+  Si  Si4       1.0  0.7833563685417175  0.7096714973449707  0.7924604415893555  1.0000
+  Pt  Pt2       1.0  0.78272944688797  0.20971432328224182  0.6701453328132629  1.0000
+  Pt  Pt3       1.0  0.28329893946647644  0.7098303437232971  0.9145563244819641  1.0000

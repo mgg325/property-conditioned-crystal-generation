@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CeLaSrCeAs4
+_chemical_formula_sum              "Ce2 La1 Sr1 As4"
+_cell_length_a       4.318551241299394
+_cell_length_b       7.475237503998286
+_cell_length_c       7.520376833736796
+_cell_angle_alpha    109.2573680332167
+_cell_angle_beta     89.99997767752485
+_cell_angle_gamma    90.00002448264048
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.19486151034627314  0.4211645675783455  0.8474642647999733  1.0000
+  La  La1       1.0  0.19486104132598742  0.9210392244290595  0.347368184213559  1.0000
+  Sr  Sr1       1.0  0.6947349946185017  0.4211778080116322  0.3474113085284393  1.0000
+  Ce  Ce2       1.0  0.6947714539989556  0.921176897589794  0.8474372200661792  1.0000
+  As  As1       1.0  0.6948571250682494  0.6706500967337075  0.0870761970519067  1.0000
+  As  As2       1.0  0.19474984327498102  0.16247082851526812  0.08252645019569513  1.0000
+  As  As3       1.0  0.6948717033461038  0.17165841355213252  0.6076198777001451  1.0000
+  As  As4       1.0  0.19478377789304688  0.6797819727982414  0.6123643219812718  1.0000

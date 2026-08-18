@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li5Cr3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09970617
+_cell_length_b   5.10708380
+_cell_length_c   5.78760719
+_cell_angle_alpha   88.85231781
+_cell_angle_beta   90.38421631
+_cell_angle_gamma   71.61178589
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li5Cr3O8
+_chemical_formula_sum   'Li5 Cr3 O8'
+_cell_volume   142.99745333
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.37343884  0.45340598  0.74291658  1
+  O  O1  1  0.35454050  0.41576827  0.24625322  1
+  O  O2  1  0.81258601  0.92892468  0.71609581  1
+  Li  Li3  1  0.08488038  0.19846836  0.72140765  1
+  Cr  Cr4  1  0.58481991  0.68235487  0.71130788  1
+  O  O5  1  0.37426281  0.95000374  0.97615790  1
+  Li  Li6  1  0.10713404  0.17193928  0.20838204  1
+  O  O7  1  0.85774767  0.94355798  0.18611500  1
+  O  O8  1  0.80231810  0.42669162  0.97367126  1
+  Li  Li9  1  0.59038585  0.17154953  0.47212207  1
+  Cr  Cr10  1  0.09650582  0.66920727  0.46299478  1
+  Li  Li11  1  0.08583876  0.67953861  0.96263754  1
+  O  O12  1  0.86272335  0.45860440  0.49058199  1
+  O  O13  1  0.33419418  0.90384293  0.48180479  1
+  Cr  Cr14  1  0.59720820  0.19006717  0.98309880  1
+  Li  Li15  1  0.60402215  0.67942339  0.21850547  1

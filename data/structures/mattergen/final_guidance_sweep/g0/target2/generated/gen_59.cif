@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CuPdTe2
+_chemical_formula_sum              "Cu1 Pd1 Te2"
+_cell_length_a       4.626989624776536
+_cell_length_b       4.5877366915858095
+_cell_length_c       4.5990190505981445
+_cell_angle_alpha    111.0212671969592
+_cell_angle_beta     89.9676615594076
+_cell_angle_gamma    90.0890545132639
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9510852694511414  0.8922757506370544  0.6316896677017212  1.0000
+  Pd  Pd1       1.0  0.4515608549118042  0.7021429538726807  0.8214176893234253  1.0000
+  Te  Te1       1.0  0.45152366161346436  0.06850682199001312  0.4551200568675995  1.0000
+  Te  Te2       1.0  0.9512762427330017  0.5268118977546692  0.9976842999458313  1.0000

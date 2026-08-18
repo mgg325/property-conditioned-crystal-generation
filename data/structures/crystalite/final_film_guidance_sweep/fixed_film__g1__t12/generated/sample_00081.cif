@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sr3CaCuAu4O11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80766821
+_cell_length_b   5.90147305
+_cell_length_c   7.98570538
+_cell_angle_alpha   89.97293854
+_cell_angle_beta   90.05073547
+_cell_angle_gamma   89.91420746
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3CaCuAu4O11
+_chemical_formula_sum   'Sr3 Ca1 Cu1 Au4 O11'
+_cell_volume   273.70000324
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.04723728  0.09973240  0.40358850  1
+  O  O1  1  0.74709356  0.86401296  0.67885655  1
+  O  O2  1  0.19712144  0.47598603  0.16118273  1
+  Sr  Sr3  1  0.31558627  0.92112929  0.65939689  1
+  Au  Au4  1  0.32553834  0.39470983  0.40885699  1
+  O  O5  1  0.09373680  0.66654557  0.44883984  1
+  O  O6  1  0.41420156  0.34495029  0.66020119  1
+  Au  Au7  1  0.82175475  0.90535116  0.91033399  1
+  O  O8  1  0.62060565  0.63571215  0.97843218  1
+  Au  Au9  1  0.33399302  0.39805678  0.91284370  1
+  O  O10  1  0.11273220  0.69362992  0.87914610  1
+  Ca  Ca11  1  0.31697622  0.85387623  0.17332205  1
+  O  O12  1  0.55111903  0.12654722  0.97315192  1
+  Sr  Sr13  1  0.81209463  0.31935993  0.20610636  1
+  Sr  Sr14  1  0.83626866  0.39870778  0.64683843  1
+  Au  Au15  1  0.82176852  0.88962495  0.43285370  1
+  O  O16  1  0.05622166  0.15455708  0.92252982  1
+  O  O17  1  0.55136335  0.08662546  0.37023687  1
+  Cu  Cu18  1  0.89823103  0.47572607  0.97141284  1
+  O  O19  1  0.60084349  0.62624478  0.37077892  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Rb4Na5Li3(CaPb3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.89554394
+_cell_length_b   12.41634975
+_cell_length_c   11.11920143
+_cell_angle_alpha   90.06368159
+_cell_angle_beta   89.99943295
+_cell_angle_gamma   90.00001196
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb4Na5Li3(CaPb3)2
+_chemical_formula_sum   'Rb4 Na5 Li3 Ca2 Pb6'
+_cell_volume   675.87785949
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.15553187  0.78222098  0.25309953  1
+  Rb  Rb1  1  0.15490420  0.39297629  0.89036135  1
+  Rb  Rb2  1  0.15542879  0.89357381  0.75358289  1
+  Rb  Rb3  1  0.15460838  0.28049002  0.39907638  1
+  Na  Na4  1  0.65468011  0.30532228  0.13647241  1
+  Na  Na5  1  0.15493816  0.49954421  0.20969888  1
+  Na  Na6  1  0.65548809  0.81327428  0.50667746  1
+  Na  Na7  1  0.65497367  0.36210935  0.64044983  1
+  Na  Na8  1  0.65564900  0.86309792  0.00576786  1
+  Li  Li9  1  0.15515232  0.15927629  0.70899646  1
+  Li  Li10  1  0.15532115  0.66245271  0.93499156  1
+  Li  Li11  1  0.15578288  0.01490357  0.43938073  1
+  Ca  Ca12  1  0.15530428  0.08761215  0.07333195  1
+  Ca  Ca13  1  0.15520008  0.58911790  0.57812930  1
+  Pb  Pb14  1  0.65511281  0.54519635  0.37869250  1
+  Pb  Pb15  1  0.65533533  0.59447307  0.06714944  1
+  Pb  Pb16  1  0.65551291  0.08694886  0.57432123  1
+  Pb  Pb17  1  0.65505564  0.63828364  0.78089172  1
+  Pb  Pb18  1  0.65524050  0.13588758  0.86764069  1
+  Pb  Pb19  1  0.65543084  0.04179615  0.28013079  1

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TiSbTi2SbFe
+_chemical_formula_sum              "Ti3 Sb2 Fe1"
+_cell_length_a       3.683110007614955
+_cell_length_b       4.278384979781973
+_cell_length_c       6.845365524291992
+_cell_angle_alpha    90.05144749122645
+_cell_angle_beta     105.7157824226281
+_cell_angle_gamma    89.98075503065117
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.17160667479038239  0.4389159381389618  0.4475782811641693  1.0000
+  Sb  Sb1       1.0  0.4806309640407562  0.43909081816673284  0.06570750474929811  1.0000
+  Ti  Ti2       1.0  0.3404255509376526  0.9394140839576721  0.785701334476471  1.0000
+  Ti  Ti3       1.0  0.005949643440544605  0.9390890598297119  0.11577873677015305  1.0000
+  Sb  Sb2       1.0  0.6836176514625549  0.9386958479881288  0.47188246250152593  1.0000
+  Fe  Fe1       1.0  0.8227009773254395  0.4385268986225128  0.7516153454780579  1.0000

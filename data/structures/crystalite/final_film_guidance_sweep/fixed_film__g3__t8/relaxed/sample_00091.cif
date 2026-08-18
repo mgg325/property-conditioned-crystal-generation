@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_CaCdSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96259380
+_cell_length_b   4.84740183
+_cell_length_c   4.13475668
+_cell_angle_alpha   89.54750277
+_cell_angle_beta   89.76711945
+_cell_angle_gamma   121.24574784
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCdSn
+_chemical_formula_sum   'Ca1 Cd1 Sn1'
+_cell_volume   85.03060723
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.19022385  0.74245491  0.87261046  1
+  Cd  Cd1  1  0.85727852  0.07404409  0.39544385  1
+  Sn  Sn2  1  0.52365449  0.40166508  0.33326059  1

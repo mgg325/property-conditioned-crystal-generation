@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_V2GaO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.39419794
+_cell_length_b   5.70659065
+_cell_length_c   5.75824451
+_cell_angle_alpha   101.18682098
+_cell_angle_beta   110.17057800
+_cell_angle_gamma   115.58915710
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V2GaO7
+_chemical_formula_sum   'V2 Ga1 O7'
+_cell_volume   111.76471860
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.84514260  0.02770674  0.69148529  1
+  O  O1  1  0.33975863  0.75816989  0.21259445  1
+  O  O2  1  0.73144525  0.38421708  0.43231386  1
+  O  O3  1  0.92026043  0.57087880  0.94149029  1
+  O  O4  1  0.42950687  0.44073769  0.69683295  1
+  V  V5  1  0.83347464  0.57207906  0.63276857  1
+  V  V6  1  0.08514524  0.39991230  0.05583993  1
+  O  O7  1  0.17735729  0.07090560  0.95964575  1
+  O  O8  1  0.24699652  0.86241388  0.53741771  1
+  Ga  Ga9  1  0.32869753  0.92633796  0.43376815  1

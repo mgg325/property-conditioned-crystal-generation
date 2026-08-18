@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LiZn2CdGeSbSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.35998224
+_cell_length_b   6.17602524
+_cell_length_c   7.40813047
+_cell_angle_alpha   108.46108081
+_cell_angle_beta   115.54978543
+_cell_angle_gamma   94.88931555
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiZn2CdGeSbSe2
+_chemical_formula_sum   'Li1 Zn2 Cd1 Ge1 Sb1 Se2'
+_cell_volume   127.06257288
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.39558643  0.52862118  0.45607685  1
+  Zn  Zn1  1  0.27298954  0.89534602  0.48479163  1
+  Zn  Zn2  1  0.69284265  0.37445759  0.82695451  1
+  Cd  Cd3  1  0.86440549  1.02986821  0.90701457  1
+  Ge  Ge4  1  0.41299226  0.81557178  0.16167613  1
+  Sb  Sb5  1  0.88664172  0.22250623  0.46399337  1
+  Se  Se6  1  0.60771794  0.41818582  0.14215462  1
+  Se  Se7  1  0.19485683  0.67094765  0.77335540  1

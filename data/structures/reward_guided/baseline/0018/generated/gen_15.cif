@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2CaOCeO3
+_chemical_formula_sum              "Na2 Ca1 O4 Ce1"
+_cell_length_a       3.5200748675569415
+_cell_length_b       5.8554928557983414
+_cell_length_c       5.938416481018066
+_cell_angle_alpha    108.66142904952268
+_cell_angle_beta     89.39794183401739
+_cell_angle_gamma    89.46630519530866
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.11712596565485  0.12997283041477203  0.18406741321086884  1.0000
+  Na  Na2       1.0  0.6175701022148132  0.1305331587791443  0.6858564019203186  1.0000
+  Ca  Ca1       1.0  0.1171288937330246  0.6297036409378052  0.6844347715377808  1.0000
+  O   O1        1.0  0.1166076511144638  0.4135008156299591  0.9590201973915101  1.0000
+  Ce  Ce1       1.0  0.6167513132095337  0.6304701566696167  0.1846383810043335  1.0000
+  O   O2        1.0  0.6165509819984436  0.4195329546928406  0.4283532798290253  1.0000
+  O   O3        1.0  0.6170786023139954  0.8415486812591554  0.9396678209304811  1.0000
+  O   O4        1.0  0.11566131561994553  0.849697232246399  0.4107573330402375  1.0000

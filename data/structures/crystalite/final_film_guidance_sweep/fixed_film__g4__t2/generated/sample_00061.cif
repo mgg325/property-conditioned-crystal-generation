@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LiCaBeSiN3F7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.45243454
+_cell_length_b   8.13474178
+_cell_length_c   10.03812695
+_cell_angle_alpha   90.38744354
+_cell_angle_beta   89.75696564
+_cell_angle_gamma   120.62216949
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCaBeSiN3F7
+_chemical_formula_sum   'Li1 Ca1 Be1 Si1 N3 F7'
+_cell_volume   664.20723669
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.31893700  0.88187027  0.46508807  1
+  F  F1  1  0.18070298  0.38488710  0.64565152  1
+  F  F2  1  0.93124521  0.97190869  0.44772270  1
+  F  F3  1  0.08073497  0.83279902  0.68765116  1
+  N  N4  1  0.58966774  0.51661009  0.65496540  1
+  Si  Si5  1  0.06885192  0.00419396  0.59867311  1
+  Ca  Ca6  1  0.14048514  0.55291069  0.08800885  1
+  F  F7  1  0.75880730  0.71928883  0.31515676  1
+  N  N8  1  0.05370256  0.48319611  0.59587914  1
+  Li  Li9  1  0.19915017  0.28959644  0.67033482  1
+  N  N10  1  0.05546677  0.85438609  0.42127198  1
+  F  F11  1  0.55237967  0.42302439  0.67950791  1
+  F  F12  1  0.06704783  0.01650426  0.22294360  1
+  Be  Be13  1  0.95320648  0.71410871  0.67540663  1

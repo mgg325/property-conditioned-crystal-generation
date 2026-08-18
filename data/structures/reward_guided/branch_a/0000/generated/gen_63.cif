@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Pr2In2CuIn2Au3
+_chemical_formula_sum              "Pr2 In4 Cu1 Au3"
+_cell_length_a       4.465540959975375
+_cell_length_b       4.524382473618141
+_cell_length_c       11.502176284790039
+_cell_angle_alpha    88.63696987481953
+_cell_angle_beta     87.87599138073972
+_cell_angle_gamma    87.69441741095274
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.3070354759693146  0.7428390979766846  0.9253146648406982  1.0000
+  Pr  Pr2       1.0  0.8078653812408447  0.24435411393642428  0.3976573944091797  1.0000
+  In  In1       1.0  0.8072544932365417  0.24378931522369388  0.03369563817977905  1.0000
+  In  In2       1.0  0.307738721370697  0.7435370087623596  0.2873220145702362  1.0000
+  Cu  Cu1       1.0  0.8070700168609619  0.7435120344161987  0.16250261664390564  1.0000
+  In  In3       1.0  0.80757737159729  0.7437695860862732  0.6602274179458618  1.0000
+  In  In4       1.0  0.3072763979434967  0.24492660164833066  0.661415696144104  1.0000
+  Au  Au1       1.0  0.8065982460975647  0.2425884157419205  0.8039595484733582  1.0000
+  Au  Au2       1.0  0.30693909525871277  0.24437090754508972  0.16092535853385925  1.0000
+  Au  Au3       1.0  0.307172954082489  0.744097113609314  0.5184833407402039  1.0000

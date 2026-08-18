@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       BePtBe2
+_chemical_formula_sum              "Be3 Pt1"
+_cell_length_a       3.4002535343407874
+_cell_length_b       3.4027967555586387
+_cell_length_c       3.392686128616333
+_cell_angle_alpha    90.00444895780944
+_cell_angle_beta     90.0002142403398
+_cell_angle_gamma    90.0342695623354
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.058834277093410485  0.6960710287094116  0.3160070478916168  1.0000
+  Pt  Pt1       1.0  0.05884850770235061  0.19590294361114502  0.8159720897674562  1.0000
+  Be  Be2       1.0  0.5588808059692383  0.1958621442317963  0.3162609338760376  1.0000
+  Be  Be3       1.0  0.5586487054824829  0.6959009766578674  0.8162853717803956  1.0000

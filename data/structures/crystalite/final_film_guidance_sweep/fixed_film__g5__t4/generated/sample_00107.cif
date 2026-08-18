@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_NaCaPSe2(ClO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   1.73454309
+_cell_length_b   5.47611618
+_cell_length_c   4.41460800
+_cell_angle_alpha   96.64665985
+_cell_angle_beta   112.81848907
+_cell_angle_gamma   112.37602997
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCaPSe2(ClO3)2
+_chemical_formula_sum   'Na1 Ca1 P1 Se2 Cl2 O6'
+_cell_volume   33.99133328
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.23063391  0.70348954  0.31543452  1
+  O  O1  1  0.42704189  0.29092816  0.91797447  1
+  O  O2  1  0.11877385  0.79906595  0.71286100  1
+  O  O3  1  0.09369457  0.48721275  0.40865466  1
+  Ca  Ca4  1  0.14596632  0.08550373  0.89113533  1
+  O  O5  1  0.07918426  0.65665281  0.94483584  1
+  Se  Se6  1  0.00305346  0.42619696  0.10306886  1
+  O  O7  1  0.13580361  0.60619354  0.52141851  1
+  Na  Na8  1  0.57055426  0.25944084  0.97539866  1
+  Cl  Cl9  1  0.21647590  0.82781303  0.88682628  1
+  Cl  Cl10  1  0.22692394  0.55822617  0.89348793  1
+  O  O11  1  0.05931675  0.45232871  0.87921643  1
+  Se  Se12  1  0.22296995  0.64450169  0.90389520  1

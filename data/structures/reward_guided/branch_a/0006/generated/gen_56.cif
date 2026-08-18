@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Zr2AlCd
+_chemical_formula_sum              "Zr2 Al1 Cd1"
+_cell_length_a       3.0771787443621714
+_cell_length_b       4.153331495593737
+_cell_length_c       6.064355373382568
+_cell_angle_alpha    89.23742560228011
+_cell_angle_beta     90.78069993757875
+_cell_angle_gamma    91.5616842743485
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.9732679724693298  0.9005630016326904  0.04245509207248688  1.0000
+  Zr  Zr2       1.0  0.9740361571311951  0.9032849073410033  0.5249962210655212  1.0000
+  Al  Al1       1.0  0.4727576673030853  0.40248024463653564  0.2816217243671417  1.0000
+  Cd  Cd1       1.0  0.4728192090988159  0.40282732248306274  0.7833979725837709  1.0000

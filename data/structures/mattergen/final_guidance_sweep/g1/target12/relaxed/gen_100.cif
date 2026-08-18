@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       GeAs2MgAs2MgGe
+_chemical_formula_sum              "Ge2 As4 Mg2"
+_cell_length_a       4.143840050131462
+_cell_length_b       5.926712624131867
+_cell_length_c       8.445705778985813
+_cell_angle_alpha    90.00354531836773
+_cell_angle_beta     90.0020363606439
+_cell_angle_gamma    89.99254956772369
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.0801542754238968  0.6719435247851716  0.8026426028579792  1.0000
+  As  As1       1.0  0.08031314648392593  0.4658984509106493  0.04471695382321116  1.0000
+  As  As2       1.0  0.5801435915645494  0.9655077829181953  0.32045369915674227  1.0000
+  Mg  Mg1       1.0  0.5804309144029829  0.20747085279654642  0.05853612943684662  1.0000
+  As  As3       1.0  0.580068340282637  0.9241369242137554  0.8044558904302146  1.0000
+  As  As4       1.0  0.08002485740689588  0.4235298456517603  0.5610053049269453  1.0000
+  Mg  Mg2       1.0  0.08007939213565383  0.7067210742184894  0.30718860816561333  1.0000
+  Ge  Ge2       1.0  0.5800760499274668  0.17144848889595568  0.5624989783467358  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TaLaN3
+_chemical_formula_sum              "Ta1 La1 N3"
+_cell_length_a       3.9447388744357808
+_cell_length_b       3.936765274519145
+_cell_length_c       4.693816661834717
+_cell_angle_alpha    89.95846812513544
+_cell_angle_beta     89.97154793482062
+_cell_angle_gamma    89.95158329649482
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.5181035995483398  0.21352998912334445  0.22439484298229218  1.0000
+  La  La1       1.0  0.017954638227820396  0.7133654952049255  0.6651049852371216  1.0000
+  N   N1        1.0  0.017912618815898895  0.21392229199409488  0.33815082907676697  1.0000
+  N   N2        1.0  0.5181432366371155  0.7135673761367798  0.33927294611930847  1.0000
+  N   N3        1.0  0.5176209211349487  0.21336090564727786  0.8180766105651855  1.0000

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_LiC3F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.57796049
+_cell_length_b   5.38913727
+_cell_length_c   9.32010937
+_cell_angle_alpha   85.04669952
+_cell_angle_beta   86.41462708
+_cell_angle_gamma   91.79785919
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiC3F
+_chemical_formula_sum   'Li1 C3 F1'
+_cell_volume   228.47530705
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C0  1  0.73854488  0.11196885  0.59582967  1
+  Li  Li1  1  0.28209779  0.31242585  0.66169506  1
+  C  C2  1  0.70192194  0.48416883  0.57882488  1
+  C  C3  1  0.53340143  0.56972599  0.07166341  1
+  F  F4  1  0.64237177  0.19451773  0.77755874  1

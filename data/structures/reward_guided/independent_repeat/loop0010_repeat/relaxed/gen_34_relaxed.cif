@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li2MnPdI8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.31523092
+_cell_length_b   7.47272953
+_cell_length_c   9.64161334
+_cell_angle_alpha   123.72294272
+_cell_angle_beta   64.01086218
+_cell_angle_gamma   89.83880617
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2MnPdI8
+_chemical_formula_sum   'Li2 Mn1 Pd1 I8'
+_cell_volume   422.94523546
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.13649306  0.64689448  0.64800761  1
+  Li  Li1  1  0.63595372  0.14727717  0.14823249  1
+  Mn  Mn2  1  0.13612686  0.14718688  0.14818928  1
+  Pd  Pd3  1  0.63617758  0.64725673  0.64827380  1
+  I  I4  1  0.99061480  0.63300360  0.41455960  1
+  I  I5  1  0.25963277  0.15789846  0.37620115  1
+  I  I6  1  0.28174517  0.66139942  0.88197047  1
+  I  I7  1  0.77124924  0.17307394  0.39236475  1
+  I  I8  1  0.51448616  0.64014015  0.42185507  1
+  I  I9  1  0.50104592  0.12146119  0.90405164  1
+  I  I10  1  0.01262537  0.13619164  0.92012376  1
+  I  I11  1  0.75809720  0.65419636  0.87443093  1

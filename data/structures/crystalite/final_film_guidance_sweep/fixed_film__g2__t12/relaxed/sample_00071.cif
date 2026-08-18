@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CaSiSbSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89381485
+_cell_length_b   4.04685249
+_cell_length_c   12.64722694
+_cell_angle_alpha   85.16151344
+_cell_angle_beta   81.55450534
+_cell_angle_gamma   58.10339842
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaSiSbSe3
+_chemical_formula_sum   'Ca1 Si1 Sb1 Se3'
+_cell_volume   167.35859522
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.82236792  0.65713495  0.85985729  1
+  Si  Si1  1  0.73938828  0.32092890  0.39543687  1
+  Sb  Sb2  1  0.04430861  0.99168187  0.06349122  1
+  Se  Se3  1  0.96704173  0.68711997  0.47576875  1
+  Se  Se4  1  0.57113800  0.31844070  0.73158261  1
+  Se  Se5  1  0.20516675  0.15539630  0.23713119  1

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Nd2OSeOCu
+_chemical_formula_sum              "Nd2 O2 Se1 Cu1"
+_cell_length_a       4.053021928241249
+_cell_length_b       4.054071686446243
+_cell_length_c       7.766015529632568
+_cell_angle_alpha    89.97947778534184
+_cell_angle_beta     90.00575352376701
+_cell_angle_gamma    119.99120667325175
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.843116044998169  0.8267661333084106  0.16672389209270477  1.0000
+  Nd  Nd2       1.0  0.1774464249610901  0.4964178800582886  0.801513135433197  1.0000
+  O   O1        1.0  0.8432683348655701  0.8286956548690795  0.8697167038917542  1.0000
+  Se  Se1       1.0  0.5108681917190552  0.16293464601039886  0.5067902207374573  1.0000
+  O   O2        1.0  0.17721985280513763  0.494242787361145  0.12878121435642242  1.0000
+  Cu  Cu1       1.0  0.17645154893398285  0.4951076805591583  0.41577038168907166  1.0000

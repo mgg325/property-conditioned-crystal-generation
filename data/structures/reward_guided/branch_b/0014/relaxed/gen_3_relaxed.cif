@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2Hf2MnO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.19824762
+_cell_length_b   6.22247961
+_cell_length_c   8.44558117
+_cell_angle_alpha   72.49599283
+_cell_angle_beta   79.13372585
+_cell_angle_gamma   75.08876696
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Hf2MnO7
+_chemical_formula_sum   'Na2 Hf2 Mn1 O7'
+_cell_volume   153.76527587
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.22155930  0.95012796  0.42787408  1
+  Na  Na1  1  0.37274320  0.48110023  0.60007385  1
+  Hf  Hf2  1  0.55427135  0.92968667  0.78637617  1
+  Hf  Hf3  1  0.03695451  0.59064266  0.16127410  1
+  Mn  Mn4  1  0.78881460  0.24454698  0.00318893  1
+  O  O5  1  0.34573565  0.26570549  0.86744026  1
+  O  O6  1  0.20849632  0.23991529  0.16907178  1
+  O  O7  1  0.63388547  0.57541426  0.98172570  1
+  O  O8  1  0.02552007  0.10788241  0.66499555  1
+  O  O9  1  0.45449935  0.61289639  0.30458406  1
+  O  O10  1  0.72488850  0.75352708  0.62102244  1
+  O  O11  1  0.95443520  0.91828820  -0.00162371  1

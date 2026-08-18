@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Sr3Ca4Sb7TeXeBrN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18966579
+_cell_length_b   7.40236950
+_cell_length_c   7.50844669
+_cell_angle_alpha   111.46955872
+_cell_angle_beta   88.66558075
+_cell_angle_gamma   92.74333954
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Ca4Sb7TeXeBrN
+_chemical_formula_sum   'Sr3 Ca4 Sb7 Te1 Xe1 Br1 N1'
+_cell_volume   268.11592010
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.37098783  0.51655895  0.27851385  1
+  Sb  Sb1  1  0.46195033  0.72415137  0.63569272  1
+  Sr  Sr2  1  0.42443320  0.84385490  0.78867316  1
+  Te  Te3  1  0.94366527  0.95790792  0.94208837  1
+  Sr  Sr4  1  0.04176918  0.71105480  0.51066893  1
+  Ca  Ca5  1  0.48961779  0.69459105  0.13285917  1
+  Sb  Sb6  1  0.38496709  0.55004102  0.62935698  1
+  Ca  Ca7  1  0.01136988  0.29318911  0.83527929  1
+  Xe  Xe8  1  0.44799149  0.12347138  0.99398917  1
+  Sb  Sb9  1  0.96703827  0.96638292  0.32802001  1
+  Ca  Ca10  1  0.90205967  0.33160198  0.48823303  1
+  Sb  Sb11  1  0.95745516  0.29198605  0.16277239  1
+  Sb  Sb12  1  0.94033229  0.92846811  0.05401093  1
+  N  N13  1  0.96621728  0.65165734  0.37858850  1
+  Sb  Sb14  1  0.40595883  0.09105122  0.70191699  1
+  Br  Br15  1  0.90989029  0.24268028  0.08165738  1
+  Sr  Sr16  1  0.48564288  0.15621105  0.40298393  1
+  Ca  Ca17  1  0.47209710  0.33487093  0.98991287  1

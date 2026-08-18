@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_RbSiGePCN8F5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60043049
+_cell_length_b   11.52591133
+_cell_length_c   10.60898685
+_cell_angle_alpha   89.44104004
+_cell_angle_beta   92.51689148
+_cell_angle_gamma   91.46076202
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbSiGePCN8F5
+_chemical_formula_sum   'Rb1 Si1 Ge1 P1 C1 N8 F5'
+_cell_volume   683.90226172
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  N  N0  1  0.97159684  0.34226304  0.31472427  1
+  N  N1  1  0.33479112  0.55491400  0.15325913  1
+  N  N2  1  0.29351211  0.19835794  0.54898429  1
+  N  N3  1  0.73532295  0.47902444  0.49081501  1
+  Si  Si4  1  0.88053524  0.80080098  0.25914556  1
+  N  N5  1  0.89490163  0.57264107  0.23596957  1
+  Ge  Ge6  1  0.42045593  0.40896147  0.57188773  1
+  N  N7  1  0.91788590  0.59406769  0.48608646  1
+  N  N8  1  0.32113859  0.44662198  0.15168965  1
+  F  F9  1  0.27617049  0.03484797  0.83348334  1
+  N  N10  1  0.86551929  0.78131890  0.29597914  1
+  P  P11  1  0.85982382  0.05388898  0.82852167  1
+  F  F12  1  0.00715399  0.37639540  0.43788004  1
+  Rb  Rb13  1  0.34931189  0.45528990  0.90969133  1
+  C  C14  1  0.86948401  0.07977721  0.82274938  1
+  F  F15  1  0.27981430  0.45300087  0.92504966  1
+  F  F16  1  0.85747325  0.40908647  0.53477347  1
+  F  F17  1  0.32700658  0.20048124  0.88933742  1

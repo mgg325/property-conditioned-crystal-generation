@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Be2Cu2
+_chemical_formula_sum              "Be2 Cu2"
+_cell_length_a       2.66789616907332
+_cell_length_b       2.621207705175023
+_cell_length_c       5.341587066650391
+_cell_angle_alpha    88.99063710710365
+_cell_angle_beta     90.19007300361302
+_cell_angle_gamma    88.30106131571394
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.4581713080406189  0.5946459174156189  0.19137732684612274  1.0000
+  Be  Be2       1.0  0.4592352509498596  0.5955837965011597  0.6900330781936646  1.0000
+  Cu  Cu1       1.0  0.9636235833168029  0.09366418421268463  0.44010758399963373  1.0000
+  Cu  Cu2       1.0  0.9584534168243407  0.0971868261694908  0.9412527680397033  1.0000

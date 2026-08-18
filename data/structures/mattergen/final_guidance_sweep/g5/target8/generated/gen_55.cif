@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Sb2SrSbSnSrSb
+_chemical_formula_sum              "Sb4 Sr2 Sn1"
+_cell_length_a       4.452544098540406
+_cell_length_b       4.47415656723351
+_cell_length_c       11.644877433776855
+_cell_angle_alpha    90.18963586731101
+_cell_angle_beta     90.12925701956162
+_cell_angle_gamma    90.12479007613474
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.6748529672622681  0.3605529367923737  0.8382105231285095  1.0000
+  Sb  Sb2       1.0  0.17497926950454712  0.8603876233100892  0.5223202109336853  1.0000
+  Sr  Sr1       1.0  0.6750583052635193  0.3605078756809235  0.40447887778282166  1.0000
+  Sb  Sb3       1.0  0.6745012402534485  0.8606710433959962  0.17870111763477325  1.0000
+  Sn  Sn1       1.0  0.1747218370437622  0.36135074496269226  0.6790035367012024  1.0000
+  Sr  Sr2       1.0  0.17424795031547546  0.8608776330947877  0.9543384313583374  1.0000
+  Sb  Sb4       1.0  0.17399530112743378  0.3612078428268433  0.17906317114830017  1.0000

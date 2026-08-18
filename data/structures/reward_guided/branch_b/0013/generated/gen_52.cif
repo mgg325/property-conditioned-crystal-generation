@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       InHgIn3HgGa2Hg2
+_chemical_formula_sum              "In4 Hg4 Ga2"
+_cell_length_a       5.693221623358604
+_cell_length_b       5.869771185092871
+_cell_length_c       8.268150329589844
+_cell_angle_alpha    91.51892720028302
+_cell_angle_beta     107.39607080559544
+_cell_angle_gamma    89.70075827818715
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.9983952641487122  0.8501850962638856  0.26169756054878235  1.0000
+  Hg  Hg1       1.0  0.795274555683136  0.8471498489379883  0.8525926470756531  1.0000
+  In  In2       1.0  0.5990589261054993  0.8489686846733093  0.4609011113643646  1.0000
+  In  In3       1.0  0.391846626996994  0.8493050932884217  0.04844181984663011  1.0000
+  In  In4       1.0  0.10080385953187943  0.3502631187438965  0.4674672782421112  1.0000
+  Hg  Hg2       1.0  0.3008737564086914  0.3445701599121094  0.8661108016967773  1.0000
+  Ga  Ga1       1.0  0.19853635132312775  0.84892338514328  0.6574947834014893  1.0000
+  Ga  Ga2       1.0  0.49706706404685974  0.3486433327198029  0.2587403357028961  1.0000
+  Hg  Hg3       1.0  0.6946168541908264  0.3462708592414856  0.6502118706703186  1.0000
+  Hg  Hg4       1.0  0.9007128477096558  0.3492579162120819  0.0646144226193428  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SnSr2SnCa2O
+_chemical_formula_sum              "Sn2 Sr2 Ca2 O1"
+_cell_length_a       4.831239744868346
+_cell_length_b       4.845943104354004
+_cell_length_c       9.391066551208496
+_cell_angle_alpha    104.67471618975277
+_cell_angle_beta     104.60371115215295
+_cell_angle_gamma    89.67526800005682
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.715003490447998  0.2631714344024658  0.33918851613998413  1.0000
+  Sr  Sr1       1.0  0.24245843291282657  0.7913552522659303  0.39397382736206055  1.0000
+  Sr  Sr2       1.0  0.916873574256897  0.46513456106185913  0.7452399134635925  1.0000
+  Sn  Sn2       1.0  0.4467938244342804  0.9950659871101379  0.8028169274330139  1.0000
+  Ca  Ca1       1.0  0.5807371735572815  0.6288015842437745  0.0712232366204262  1.0000
+  Ca  Ca2       1.0  0.08053725212812424  0.12823811173439026  0.07064344733953476  1.0000
+  O   O1        1.0  0.08257613331079484  0.6301139593124391  0.073939248919487  1.0000

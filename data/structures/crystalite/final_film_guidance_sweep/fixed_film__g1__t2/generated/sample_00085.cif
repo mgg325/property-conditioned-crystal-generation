@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaLiMgTeO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.86570692
+_cell_length_b   5.01725435
+_cell_length_c   6.43967772
+_cell_angle_alpha   89.92882538
+_cell_angle_beta   90.02741241
+_cell_angle_gamma   112.71672821
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLiMgTeO8
+_chemical_formula_sum   'Na1 Li1 Mg1 Te1 O8'
+_cell_volume   145.01305645
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.31169033  0.11181191  0.05073592  1
+  Te  Te1  1  0.97199225  0.88021934  0.39068168  1
+  Mg  Mg2  1  0.55785978  0.31953338  0.22382164  1
+  O  O3  1  0.22456557  0.64214140  0.71726352  1
+  O  O4  1  0.73953658  0.57399458  0.42771158  1
+  O  O5  1  0.76954395  0.57283151  0.03641492  1
+  O  O6  1  0.83236814  0.08602613  0.63265347  1
+  O  O7  1  0.26487386  0.10433874  0.43264094  1
+  O  O8  1  0.30117315  0.56920087  0.22129601  1
+  O  O9  1  0.76502419  0.08247992  0.24406058  1
+  Na  Na10  1  0.45799425  0.40435413  0.74013686  1
+  Li  Li11  1  0.10569116  0.80027866  0.94767654  1

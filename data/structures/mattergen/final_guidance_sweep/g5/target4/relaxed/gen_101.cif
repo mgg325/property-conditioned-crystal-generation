@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NPdRbCRb2CN
+_chemical_formula_sum              "N2 Pd1 Rb3 C2"
+_cell_length_a       4.457012313483054
+_cell_length_b       5.102816983977214
+_cell_length_c       9.29590716052322
+_cell_angle_alpha    97.25622446563558
+_cell_angle_beta     104.02995020580133
+_cell_angle_gamma    89.86036885716399
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.07961944479690779  0.03908293443294356  0.04967838106926806  1.0000
+  Pd  Pd1       1.0  0.23706871625771445  0.801869741217446  0.3640932981171831  1.0000
+  Rb  Rb1       1.0  0.7369134251357958  0.30193647404648444  0.3638266180255042  1.0000
+  C   C1        1.0  0.33483539616479047  0.6479785303599394  0.5596342610734176  1.0000
+  Rb  Rb2       1.0  0.5602161833999656  0.5874109920505468  0.008681641139864865  1.0000
+  Rb  Rb3       1.0  0.9140365986331376  0.016756578820949195  0.7191646044895194  1.0000
+  C   C2        1.0  0.1393193635958904  0.9555117884785769  0.1684877252616979  1.0000
+  N   N2        1.0  0.39425499567322336  0.5642321205227825  0.6783910220519614  1.0000

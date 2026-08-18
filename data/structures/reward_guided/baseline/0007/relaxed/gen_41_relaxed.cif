@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Li2(Ga3Cu)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43040889
+_cell_length_b   7.02183336
+_cell_length_c   6.90082392
+_cell_angle_alpha   58.77082544
+_cell_angle_beta   62.32141909
+_cell_angle_gamma   62.78044644
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2(Ga3Cu)3
+_chemical_formula_sum   'Li2 Ga9 Cu3'
+_cell_volume   226.09914558
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.34801990  0.88765562  0.08050879  1
+  Li  Li1  1  0.85740870  0.40214006  0.54917249  1
+  Ga  Ga2  1  0.78396129  0.91982833  0.31072611  1
+  Ga  Ga3  1  0.81799608  0.66551826  0.08043904  1
+  Ga  Ga4  1  0.10674848  0.62416017  0.55012823  1
+  Ga  Ga5  1  0.19212833  0.14560934  0.31387640  1
+  Ga  Ga6  1  0.55392881  0.36776338  0.31661493  1
+  Ga  Ga7  1  0.73101884  0.02221710  0.68098823  1
+  Ga  Ga8  1  0.16525856  0.91958128  0.77869778  1
+  Ga  Ga9  1  0.97595493  0.26788823  0.94804438  1
+  Ga  Ga10  1  0.40653338  0.37014189  0.85030019  1
+  Cu  Cu11  1  0.46711031  0.73126753  0.46561322  1
+  Cu  Cu12  1  0.20128880  0.56052929  0.16375912  1
+  Cu  Cu13  1  0.61816730  0.64500727  0.81524813  1

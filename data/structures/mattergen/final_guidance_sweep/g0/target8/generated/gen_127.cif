@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LaOLaCuLaP2O
+_chemical_formula_sum              "La3 O2 Cu1 P2"
+_cell_length_a       4.099228513624883
+_cell_length_b       4.091194732196524
+_cell_length_c       11.8550443649292
+_cell_angle_alpha    80.33661031993208
+_cell_angle_beta     80.25027657518542
+_cell_angle_gamma    60.379025861653865
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.4693270921707154  0.7350462675094604  0.020379437133669853  1.0000
+  O   O1        1.0  0.9733564257621766  0.23917704820632932  0.5066367983818054  1.0000
+  La  La2       1.0  0.905419111251831  0.17127004265785217  0.7108088135719299  1.0000
+  Cu  Cu1       1.0  0.06213138252496721  0.327894777059555  0.2405446618795395  1.0000
+  La  La3       1.0  0.6598570942878723  0.924361765384674  0.4498057961463928  1.0000
+  P   P1        1.0  0.38652208447456354  0.6520907878875732  0.26755353808403015  1.0000
+  P   P2        1.0  0.17926199734210965  0.4465804696083069  0.8882561922073364  1.0000
+  O   O2        1.0  0.5909622311592102  0.8564932346343993  0.6549017429351807  1.0000

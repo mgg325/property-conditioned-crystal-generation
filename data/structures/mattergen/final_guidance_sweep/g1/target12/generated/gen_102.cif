@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AsBaAsSr2
+_chemical_formula_sum              "As2 Ba1 Sr2"
+_cell_length_a       5.199740415452381
+_cell_length_b       5.1897879713937165
+_cell_length_c       7.8966851234436035
+_cell_angle_alpha    90.05047760569146
+_cell_angle_beta     90.0026594479878
+_cell_angle_gamma    119.96034923839001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.12447670847177505  0.1838061511516571  0.6171362996101379  1.0000
+  Ba  Ba1       1.0  0.4579430520534516  0.8506410717964173  0.8576015830039977  1.0000
+  As  As2       1.0  0.7912477254867554  0.5173348188400269  0.09721374511718749  1.0000
+  Sr  Sr1       1.0  0.7913999557495117  0.5170578956604004  0.5083827972412109  1.0000
+  Sr  Sr2       1.0  0.12437033653259277  0.18379367887973785  0.20575512945652005  1.0000

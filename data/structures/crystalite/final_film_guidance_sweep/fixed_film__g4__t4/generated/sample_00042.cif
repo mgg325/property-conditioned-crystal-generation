@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li4BeAlNiSO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.06523967
+_cell_length_b   4.01585722
+_cell_length_c   8.89635086
+_cell_angle_alpha   90.68630981
+_cell_angle_beta   90.59289551
+_cell_angle_gamma   89.88980865
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4BeAlNiSO8
+_chemical_formula_sum   'Li4 Be1 Al1 Ni1 S1 O8'
+_cell_volume   109.49631159
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.08581030  0.73846573  0.58197933  1
+  O  O1  1  0.46992099  0.15379852  0.08180386  1
+  O  O2  1  0.01858816  0.20507047  0.81070399  1
+  O  O3  1  0.48877987  0.24584600  0.52280343  1
+  Li  Li4  1  0.26189989  0.80374491  0.56734151  1
+  Li  Li5  1  0.66733962  0.42786384  0.61510408  1
+  O  O6  1  0.53623748  0.65701669  0.23118693  1
+  O  O7  1  0.41537955  0.70008767  0.94301599  1
+  Li  Li8  1  0.28552538  0.89351588  0.11394492  1
+  Ni  Ni9  1  0.71407700  0.16216820  0.48587018  1
+  Li  Li10  1  0.93631357  0.44180965  0.96405739  1
+  Al  Al11  1  0.76597691  0.38511679  0.39408353  1
+  O  O12  1  0.92202878  0.69974935  0.95059085  1
+  S  S13  1  0.31373143  0.48278549  0.35839993  1
+  O  O14  1  0.04673392  0.26531982  0.28231418  1
+  Be  Be15  1  0.15901989  0.87039405  0.91710937  1

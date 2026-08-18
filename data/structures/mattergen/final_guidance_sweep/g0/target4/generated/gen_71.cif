@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HZnBeN
+_chemical_formula_sum              "H1 Zn1 Be1 N1"
+_cell_length_a       2.9128255728515864
+_cell_length_b       2.912608752164989
+_cell_length_c       4.778690814971924
+_cell_angle_alpha    90.01703016759741
+_cell_angle_beta     90.03238442919273
+_cell_angle_gamma    120.13248253511885
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.8898334503173827  0.5343443751335144  0.5080404877662659  1.0000
+  Zn  Zn1       1.0  0.22285559773445132  0.19918195903301242  0.6562975645065308  1.0000
+  Be  Be1       1.0  0.8908748030662536  0.5331907272338867  0.10659369826316833  1.0000
+  N   N1        1.0  0.22241333127021787  0.20018017292022705  0.06317802518606186  1.0000

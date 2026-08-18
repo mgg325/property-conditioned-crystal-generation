@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Zn2Te2
+_chemical_formula_sum              "Zn2 Te2"
+_cell_length_a       4.356188009176358
+_cell_length_b       4.355961171587288
+_cell_length_c       7.1746368408203125
+_cell_angle_alpha    89.97784536901227
+_cell_angle_beta     90.01686624312381
+_cell_angle_gamma    119.96981351532602
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.7493184804916382  0.047194790095090866  0.2954726219177246  1.0000
+  Zn  Zn2       1.0  0.08296018838882445  0.7128961086273193  0.7972151041030885  1.0000
+  Te  Te1       1.0  0.08336167037487029  0.7135067582130432  0.4222786724567414  1.0000
+  Te  Te2       1.0  0.749612033367157  0.04718842729926109  0.9222595095634462  1.0000

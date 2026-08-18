@@ -1,0 +1,23 @@
+{
+  "start_policy_dir": "provenance://mattergen/outputs/dielectric_rl/direct_rl_target12_online/matinvent_style_target12_eval24_topk025_from_loop0020/loop_0009/policy_for_generation",
+  "start_iteration_idx": 10,
+  "target": 12.0,
+  "sigma": 2.0,
+  "iterations": 6,
+  "sample_batch_size": 32,
+  "sample_num_batches": 2,
+  "eval_size": 32,
+  "topk_ratio": 0.25,
+  "replay_sample_size": 4,
+  "replay_reward_cutoff": 0.3,
+  "replay_recent_window": 0,
+  "replay_recent_fraction": 0.0,
+  "learning_rate": 1e-05,
+  "training_epochs": 1,
+  "training_timesteps": 1000,
+  "training_accum_steps": 50,
+  "kl_weight": 1000000000.0,
+  "anchor_source": "generated_pool",
+  "anchor_max_records": 0,
+  "device": "cuda"
+}

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li2Zn2SiSnGePbCS7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.92884588
+_cell_length_b   5.34054804
+_cell_length_c   5.47611141
+_cell_angle_alpha   78.58267975
+_cell_angle_beta   99.95187378
+_cell_angle_gamma   72.02961731
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Zn2SiSnGePbCS7
+_chemical_formula_sum   'Li2 Zn2 Si1 Sn1 Ge1 Pb1 C1 S7'
+_cell_volume   130.10344849
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.27322316  0.20970428  0.06563184  1
+  C  C1  1  0.48156625  0.75960428  0.95889854  1
+  S  S2  1  0.63861769  0.27001965  0.54579353  1
+  S  S3  1  0.03213379  0.74066436  0.58456624  1
+  Zn  Zn4  1  0.20287097  0.30041912  0.42439997  1
+  S  S5  1  0.65382069  0.65805387  0.88923192  1
+  S  S6  1  0.36658806  0.10353783  0.75595522  1
+  S  S7  1  0.69023550  0.87616473  0.13000605  1
+  Si  Si8  1  0.88602984  0.18453208  0.03086707  1
+  Li  Li9  1  0.29282323  0.46839470  0.86342859  1
+  Pb  Pb10  1  0.88056803  0.31628847  0.71620965  1
+  Li  Li11  1  0.09659326  0.81140804  0.22444439  1
+  Sn  Sn12  1  0.72445679  0.72935188  0.51057833  1
+  S  S13  1  0.44964603  0.98965561  0.33297861  1
+  Zn  Zn14  1  0.69045269  0.45397520  0.18317801  1
+  S  S15  1  0.44762287  0.44687000  0.24670899  1

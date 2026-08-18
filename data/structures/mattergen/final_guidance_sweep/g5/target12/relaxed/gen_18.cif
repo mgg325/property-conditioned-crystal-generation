@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HfZrS2
+_chemical_formula_sum              "Hf1 Zr1 S2"
+_cell_length_a       3.415244992409483
+_cell_length_b       3.417405298571371
+_cell_length_c       6.988926416020088
+_cell_angle_alpha    90.00290769556996
+_cell_angle_beta     89.99950203747116
+_cell_angle_gamma    119.97039184685008
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.15224228437352152  0.16447172200450216  0.08960183448369735  1.0000
+  Zr  Zr1       1.0  0.15240383580135  0.16445736841652153  0.5894207017460446  1.0000
+  S   S1        1.0  0.8191600289999106  0.4986305813153832  0.3333489915950708  1.0000
+  S   S2        1.0  0.4853659271607855  0.8302968119476622  0.8456306136225182  1.0000

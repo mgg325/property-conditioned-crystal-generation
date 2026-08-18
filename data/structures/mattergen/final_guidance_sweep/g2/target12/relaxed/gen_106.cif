@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AgInSe2
+_chemical_formula_sum              "Ag1 In1 Se2"
+_cell_length_a       4.377359405632948
+_cell_length_b       4.379516345792845
+_cell_length_c       7.111404158965137
+_cell_angle_alpha    90.00212376544995
+_cell_angle_beta     89.99333011963299
+_cell_angle_gamma    119.99754248363114
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.6601598410163511  0.6164432121271431  0.2557007368254002  1.0000
+  In  In1       1.0  0.9929146053047239  0.28232232216049563  0.7106674046704797  1.0000
+  Se  Se1       1.0  0.9932102577089897  0.2828002580680341  0.35175433820032137  1.0000
+  Se  Se2       1.0  0.6597506949060383  0.6159126713597746  0.858089025974126  1.0000

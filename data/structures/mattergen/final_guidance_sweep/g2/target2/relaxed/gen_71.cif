@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       OHRb
+_chemical_formula_sum              "O1 H1 Rb1"
+_cell_length_a       3.8328416553961615
+_cell_length_b       3.8347433720891253
+_cell_length_c       3.8339383673992384
+_cell_angle_alpha    90.00963374263739
+_cell_angle_beta     108.52067519617383
+_cell_angle_gamma    89.990247034929
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.6433457617287563  0.2269027410972602  0.3835770210962315  1.0000
+  H   H1        1.0  0.4861748213809867  0.22658019542042618  0.5398167963668636  1.0000
+  Rb  Rb1       1.0  0.9905749367341079  0.7264147299711593  0.035562708068565985  1.0000

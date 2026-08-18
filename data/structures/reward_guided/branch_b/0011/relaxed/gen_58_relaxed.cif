@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_LiAl9Cr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89813438
+_cell_length_b   6.35846046
+_cell_length_c   7.44192562
+_cell_angle_alpha   105.03773188
+_cell_angle_beta   105.17544918
+_cell_angle_gamma   89.99898878
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAl9Cr
+_chemical_formula_sum   'Li1 Al9 Cr1'
+_cell_volume   171.47109660
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.13782475  0.28244830  0.79234836  1
+  Al  Al1  1  0.68444471  0.01395940  0.88563136  1
+  Al  Al2  1  0.40527216  0.64969476  0.32689345  1
+  Al  Al3  1  0.58527600  0.54464462  0.68867006  1
+  Al  Al4  1  0.31887027  0.18633233  0.15478065  1
+  Al  Al5  1  0.77203990  0.47924770  0.06110723  1
+  Al  Al6  1  0.23015751  0.74697964  0.97703222  1
+  Al  Al7  1  0.04266160  0.82473733  0.60249003  1
+  Al  Al8  1  0.95334751  0.35486783  0.42392660  1
+  Al  Al9  1  0.49727433  0.09071380  0.51144676  1
+  Cr  Cr10  1  0.86704588  0.91974891  0.25140756  1

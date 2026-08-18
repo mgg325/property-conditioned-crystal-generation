@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ce2TlCuSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21453257
+_cell_length_b   7.59362900
+_cell_length_c   14.64123192
+_cell_angle_alpha   90.01598869
+_cell_angle_beta   89.97290207
+_cell_angle_gamma   106.09599233
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2TlCuSe4
+_chemical_formula_sum   'Ce4 Tl2 Cu2 Se8'
+_cell_volume   450.20332154
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.36631302  0.22567660  0.60901529  1
+  Ce  Ce1  1  0.63132731  0.75529394  0.73257264  1
+  Ce  Ce2  1  0.36597711  0.22593317  0.23300198  1
+  Ce  Ce3  1  0.63140097  0.75506945  0.10929957  1
+  Tl  Tl4  1  0.10858661  0.71077940  0.42082584  1
+  Tl  Tl5  1  0.88806844  0.26964876  0.92020112  1
+  Cu  Cu6  1  0.83751583  0.16960904  0.42120135  1
+  Cu  Cu7  1  0.15917953  0.81235570  0.92130939  1
+  Se  Se8  1  0.73423855  0.96192829  0.55612721  1
+  Se  Se9  1  0.26332456  0.01885829  0.05685432  1
+  Se  Se10  1  0.99855647  0.49084705  0.17192029  1
+  Se  Se11  1  0.73449016  0.96270174  0.28550179  1
+  Se  Se12  1  0.26201817  0.01913488  0.78557102  1
+  Se  Se13  1  0.99840100  0.49002880  0.67105400  1
+  Se  Se14  1  0.43136770  0.35639362  0.42103356  1
+  Se  Se15  1  0.56592496  0.62554272  0.92096804  1

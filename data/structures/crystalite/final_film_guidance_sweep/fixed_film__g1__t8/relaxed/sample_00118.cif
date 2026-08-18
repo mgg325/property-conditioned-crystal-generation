@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Mg2CoSi2Bi2PbSe12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.85061439
+_cell_length_b   6.95334814
+_cell_length_c   12.14588297
+_cell_angle_alpha   90.66460723
+_cell_angle_beta   89.91137927
+_cell_angle_gamma   113.29924384
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2CoSi2Bi2PbSe12
+_chemical_formula_sum   'Mg2 Co1 Si2 Bi2 Pb1 Se12'
+_cell_volume   531.34581674
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50806471  0.84877437  0.75599236  1
+  Mg  Mg1  1  0.50096904  0.35025064  0.22672729  1
+  Co  Co2  1  0.46661429  0.89596809  0.09971293  1
+  Si  Si3  1  0.01699270  0.35067765  0.09688330  1
+  Si  Si4  1  0.03317645  0.85825395  0.60284384  1
+  Bi  Bi5  1  -0.00547189  0.35689245  0.78466174  1
+  Bi  Bi6  1  0.98970063  0.84672228  0.24397212  1
+  Pb  Pb7  1  0.51062762  0.36220297  0.59640962  1
+  Se  Se8  1  0.24920523  0.05052264  0.75860866  1
+  Se  Se9  1  0.26208745  0.62792933  0.96522504  1
+  Se  Se10  1  0.21621297  0.12743663  0.07813959  1
+  Se  Se11  1  0.73674232  0.12363604  0.23136542  1
+  Se  Se12  1  0.23961230  0.05246859  0.44383672  1
+  Se  Se13  1  0.79927809  0.60668560  0.44418036  1
+  Se  Se14  1  0.79384822  0.55870962  0.07671753  1
+  Se  Se15  1  0.80729833  0.05616580  0.60619303  1
+  Se  Se16  1  0.21541970  0.61666799  0.60288693  1
+  Se  Se17  1  0.77379000  0.65027914  0.76401489  1
+  Se  Se18  1  0.72472932  0.09408401  0.96367238  1
+  Se  Se19  1  0.28136946  0.59404606  0.22612811  1

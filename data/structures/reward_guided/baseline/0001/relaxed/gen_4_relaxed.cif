@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Nd2Ga3Ir2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.23138693
+_cell_length_b   5.65582085
+_cell_length_c   7.13125426
+_cell_angle_alpha   65.75118903
+_cell_angle_beta   72.74148059
+_cell_angle_gamma   68.03350537
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd2Ga3Ir2
+_chemical_formula_sum   'Nd2 Ga3 Ir2'
+_cell_volume   142.23038363
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.80901277  0.84652744  0.04021061  1
+  Nd  Nd1  1  0.09503400  0.82007760  0.49467752  1
+  Ga  Ga2  1  0.45199632  0.33336535  0.26743367  1
+  Ga  Ga3  1  0.58787066  0.50142629  0.82771247  1
+  Ga  Ga4  1  0.31616959  0.16513113  0.70723496  1
+  Ir  Ir5  1  0.08669380  0.27700308  0.05440634  1
+  Ir  Ir6  1  0.81736840  0.38953938  0.48051327  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Rb2Tc8AsXe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   0.54380417
+_cell_length_b   11.26122379
+_cell_length_c   20.19931793
+_cell_angle_alpha   96.42984772
+_cell_angle_beta   89.86141205
+_cell_angle_gamma   90.68805695
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Tc8AsXe
+_chemical_formula_sum   'Rb2 Tc8 As1 Xe1'
+_cell_volume   122.91157755
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tc  Tc0  1  0.45537645  0.40785798  0.46917981  1
+  Tc  Tc1  1  0.58061397  0.79786170  0.38002074  1
+  Xe  Xe2  1  0.44970715  0.57298440  0.69020879  1
+  As  As3  1  0.47720316  0.59781772  0.11832264  1
+  Tc  Tc4  1  0.92587173  0.98232520  0.99380076  1
+  Tc  Tc5  1  0.88562083  0.27521178  0.74170208  1
+  Rb  Rb6  1  0.42197108  0.26434276  0.95464319  1
+  Tc  Tc7  1  0.98664737  0.29404068  0.27494287  1
+  Tc  Tc8  1  0.37552828  0.97045189  0.17554697  1
+  Rb  Rb9  1  0.96372777  0.99843627  0.50797540  1
+  Tc  Tc10  1  0.94816452  0.55765253  0.93518049  1
+  Tc  Tc11  1  0.36650908  0.95767844  0.75309980  1

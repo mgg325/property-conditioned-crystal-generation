@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaLi2Si2F11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67748035
+_cell_length_b   5.93719278
+_cell_length_c   6.68640789
+_cell_angle_alpha   103.02571189
+_cell_angle_beta   92.42914184
+_cell_angle_gamma   114.02563023
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLi2Si2F11
+_chemical_formula_sum   'Na1 Li2 Si2 F11'
+_cell_volume   198.27146268
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.87578173  -0.02340697  -0.04789076  1
+  Li  Li1  1  0.65614147  0.48934874  0.21767243  1
+  Li  Li2  1  0.20663571  0.71642831  0.68135454  1
+  Si  Si3  1  0.26284476  0.70682119  0.17671371  1
+  Si  Si4  1  0.56194357  0.34157713  0.65974882  1
+  F  F5  1  0.25586449  0.63804090  0.40150340  1
+  F  F6  1  0.48330667  0.30343210  0.39717737  1
+  F  F7  1  0.57809407  0.78045029  0.19856669  1
+  F  F8  1  0.02468647  0.79455866  0.22505139  1
+  F  F9  1  0.12444328  0.40821093  0.04167581  1
+  F  F10  1  0.65047413  0.38605311  0.92555101  1
+  F  F11  1  0.36976034  0.49903768  0.72158639  1
+  F  F12  1  0.30616030  0.06102450  0.65462577  1
+  F  F13  1  0.82261095  0.64816542  0.68039941  1
+  F  F14  1  0.76550959  0.20426652  0.60474584  1
+  F  F15  1  0.30892475  0.86398132  -0.00939541  1

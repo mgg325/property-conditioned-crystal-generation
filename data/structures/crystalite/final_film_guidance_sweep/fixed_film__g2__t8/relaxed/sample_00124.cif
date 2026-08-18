@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MnZn4O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55988142
+_cell_length_b   5.95312006
+_cell_length_c   6.23221681
+_cell_angle_alpha   117.57621120
+_cell_angle_beta   117.29503788
+_cell_angle_gamma   89.95535477
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZn4O9
+_chemical_formula_sum   'Mn1 Zn4 O9'
+_cell_volume   156.51845597
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.70275976  0.96039631  0.60668355  1
+  Zn  Zn1  1  0.19614502  0.47738432  0.54803649  1
+  Zn  Zn2  1  0.71078334  0.45984026  0.55885514  1
+  Zn  Zn3  1  0.71516057  0.97071065  0.06507099  1
+  Zn  Zn4  1  0.21933647  0.96424351  0.06351529  1
+  O  O5  1  0.49014324  0.20625612  0.15323902  1
+  O  O6  1  0.93596892  0.18497514  0.54964340  1
+  O  O7  1  0.94185805  0.73446550  0.98107389  1
+  O  O8  1  0.47742523  0.14755589  0.63780838  1
+  O  O9  1  0.95270208  0.71203617  0.52885145  1
+  O  O10  1  0.47415321  0.69262143  0.53379054  1
+  O  O11  1  0.45554867  0.16948890  0.63484070  1
+  O  O12  1  0.47476121  0.74461138  0.06400601  1
+  O  O13  1  0.94581501  0.17959399  0.05474050  1

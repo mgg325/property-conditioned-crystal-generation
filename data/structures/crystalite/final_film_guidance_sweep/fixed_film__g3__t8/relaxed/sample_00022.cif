@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LiAlTlBiPO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.92558834
+_cell_length_b   6.31341857
+_cell_length_c   6.47902215
+_cell_angle_alpha   87.81216026
+_cell_angle_beta   91.63471162
+_cell_angle_gamma   91.88787807
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAlTlBiPO9
+_chemical_formula_sum   'Li1 Al1 Tl1 Bi1 P1 O9'
+_cell_volume   201.14892569
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.93953081  0.57954284  0.45035741  1
+  Al  Al1  1  0.41370668  0.42621730  0.76733921  1
+  Tl  Tl2  1  0.13741455  0.89623274  0.71930461  1
+  Bi  Bi3  1  0.84120203  0.14802557  0.13531885  1
+  P  P4  1  0.31376350  0.63361136  0.18136248  1
+  O  O5  1  0.18971827  0.83395791  0.25387688  1
+  O  O6  1  0.42172904  0.19308248  0.51646738  1
+  O  O7  1  0.56725525  0.61381366  0.56564056  1
+  O  O8  1  0.50541436  0.20867039  0.93911770  1
+  O  O9  1  0.47080744  0.64369293  0.97924905  1
+  O  O10  1  0.64229008  1.08656530  0.46730579  1
+  O  O11  1  0.07321041  0.46859928  0.70603838  1
+  O  O12  1  0.08871700  0.45760399  0.19120180  1
+  O  O13  1  0.56688355  0.56771457  0.34073331  1

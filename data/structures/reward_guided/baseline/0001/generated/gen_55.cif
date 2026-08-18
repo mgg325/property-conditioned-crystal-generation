@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Sr2CdNi
+_chemical_formula_sum              "Sr2 Cd1 Ni1"
+_cell_length_a       3.7942458833881356
+_cell_length_b       3.794231240605117
+_cell_length_c       8.172867774963379
+_cell_angle_alpha    89.81465167136339
+_cell_angle_beta     89.74172576347594
+_cell_angle_gamma    89.66487245301144
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.10582305490970612  0.15953475236892697  0.22396619617938995  1.0000
+  Sr  Sr2       1.0  0.10492870211601257  0.1587439924478531  0.6574031114578247  1.0000
+  Cd  Cd1       1.0  0.6054427623748779  0.6592646241188049  0.9406745433807373  1.0000
+  Ni  Ni1       1.0  0.6055379509925842  0.6594129800796508  0.4411083459854126  1.0000

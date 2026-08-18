@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2Hg2Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42682302
+_cell_length_b   8.13307164
+_cell_length_c   8.13149479
+_cell_angle_alpha   90.00278158
+_cell_angle_beta   90.00418430
+_cell_angle_gamma   90.02374620
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Hg2Pb
+_chemical_formula_sum   'K4 Hg4 Pb2'
+_cell_volume   358.89764221
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.26281567  0.44602382  0.83732051  1
+  K  K1  1  0.26246904  0.30014052  0.33730949  1
+  K  K2  1  0.26204218  0.80013098  0.48251192  1
+  K  K3  1  0.26280459  0.94495861  0.98235715  1
+  Hg  Hg4  1  0.76253552  0.75624105  0.79318408  1
+  Hg  Hg5  1  0.76224407  0.25634407  0.02659750  1
+  Hg  Hg6  1  0.76294554  0.48966384  0.52651947  1
+  Hg  Hg7  1  0.76243648  0.98949725  0.29315368  1
+  Pb  Pb8  1  0.76259930  0.12299560  0.65998868  1
+  Pb  Pb9  1  0.76257660  0.62298658  0.15980690  1

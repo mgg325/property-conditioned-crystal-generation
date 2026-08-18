@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TiAlCuSiAsC(S2O)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05764589
+_cell_length_b   5.40055545
+_cell_length_c   7.77001027
+_cell_angle_alpha   86.61893473
+_cell_angle_beta   94.08161239
+_cell_angle_gamma   85.83318325
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiAlCuSiAsC(S2O)2
+_chemical_formula_sum   'Ti1 Al1 Cu1 Si1 As1 C1 S4 O2'
+_cell_volume   210.69357509
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.74216801  0.64807337  0.15607953  1
+  Al  Al1  1  0.34413091  0.13527131  0.21951033  1
+  Cu  Cu2  1  0.67368168  0.76643901  0.56756031  1
+  Si  Si3  1  0.29827555  0.68207806  0.95587204  1
+  As  As4  1  0.19002788  0.22219735  0.59131950  1
+  C  C5  1  0.42080434  0.46211378  0.13574519  1
+  S  S6  1  0.89533490  0.77757480  0.86648704  1
+  S  S7  1  0.97582150  0.54847220  0.43073013  1
+  S  S8  1  0.46598407  0.48983669  0.72919753  1
+  S  S9  1  0.90519690  1.06908844  0.23194859  1
+  O  O10  1  0.43186208  1.08147238  0.45301662  1
+  O  O11  1  0.43672643  -0.07969597  0.05515893  1

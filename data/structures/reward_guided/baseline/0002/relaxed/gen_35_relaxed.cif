@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CdAgHg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28679409
+_cell_length_b   6.25527669
+_cell_length_c   9.35182158
+_cell_angle_alpha   90.01492880
+_cell_angle_beta   90.00103043
+_cell_angle_gamma   89.99986680
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdAgHg
+_chemical_formula_sum   'Cd4 Ag4 Hg4'
+_cell_volume   250.76986466
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.52034641  0.64933722  0.51655244  1
+  Cd  Cd1  1  0.52031727  0.14865351  0.84069627  1
+  Cd  Cd2  1  0.02034171  0.89118353  0.01783545  1
+  Cd  Cd3  1  0.02020404  0.39189099  0.33960029  1
+  Ag  Ag4  1  0.52037065  0.14016875  0.17700709  1
+  Ag  Ag5  1  0.02027198  0.90029436  0.68075711  1
+  Ag  Ag6  1  0.52029946  0.64008937  0.18010762  1
+  Ag  Ag7  1  0.02032788  0.40058110  0.67667497  1
+  Hg  Hg8  1  0.52026541  0.15383710  0.51812597  1
+  Hg  Hg9  1  0.52038635  0.65342258  0.83921379  1
+  Hg  Hg10  1  0.02030083  0.38736893  0.01712992  1
+  Hg  Hg11  1  0.02033697  0.88821908  0.34042868  1

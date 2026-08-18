@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CsSiF7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.37139093
+_cell_length_b   5.95368622
+_cell_length_c   5.99398824
+_cell_angle_alpha   116.74263485
+_cell_angle_beta   89.07829838
+_cell_angle_gamma   88.78448977
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsSiF7
+_chemical_formula_sum   'Cs1 Si1 F7'
+_cell_volume   171.07288134
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.88433269  0.89662984  0.07225612  1
+  Si  Si1  1  0.51243815  0.58251131  0.45249239  1
+  F  F2  1  0.73032079  0.44130476  0.55006682  1
+  F  F3  1  0.27851740  0.70689824  0.34233341  1
+  F  F4  1  0.34302726  0.28638767  0.32082463  1
+  F  F5  1  0.66941469  0.85602383  0.56813921  1
+  F  F6  1  0.34387843  0.67466554  0.72164608  1
+  F  F7  1  0.31865905  0.14042464  0.55754887  1
+  F  F8  1  0.66191355  0.47429036  0.17119467  1

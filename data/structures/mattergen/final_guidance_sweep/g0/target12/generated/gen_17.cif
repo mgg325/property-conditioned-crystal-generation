@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ClRbCl5Re
+_chemical_formula_sum              "Cl6 Rb1 Re1"
+_cell_length_a       7.371599940878579
+_cell_length_b       6.851718065484583
+_cell_length_c       6.848128318786621
+_cell_angle_alpha    60.010315936948004
+_cell_angle_beta     62.41819605999544
+_cell_angle_gamma    62.43225766731199
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.2646270394325256  0.3112448751926422  0.3071818947792053  1.0000
+  Rb  Rb1       1.0  0.9817084670066833  0.8974526524543762  0.8926709294319153  1.0000
+  Cl  Cl2       1.0  0.26574814319610596  0.31011858582496643  0.7835041284561157  1.0000
+  Cl  Cl3       1.0  0.6966661214828491  0.008284810930490494  0.48005557060241705  1.0000
+  Cl  Cl4       1.0  0.6956068873405457  0.486225962638855  0.48018702864646906  1.0000
+  Cl  Cl5       1.0  0.6966055631637573  0.4852289557456971  0.00380630628205852  1.0000
+  Cl  Cl6       1.0  0.26534709334373474  0.7882423996925354  0.3059955537319184  1.0000
+  Re  Re1       1.0  0.48111099004745483  0.39812454581260687  0.3931073844432831  1.0000

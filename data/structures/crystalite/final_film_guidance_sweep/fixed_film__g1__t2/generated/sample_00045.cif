@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_PbOF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.87543821
+_cell_length_b   4.81961250
+_cell_length_c   4.83331347
+_cell_angle_alpha   90.10446167
+_cell_angle_beta   90.31000519
+_cell_angle_gamma   90.07520294
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PbOF4
+_chemical_formula_sum   'Pb1 O1 F4'
+_cell_volume   113.56991038
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pb  Pb0  1  0.07323423  0.10786310  0.99474895  1
+  F  F1  1  0.37132019  0.91014302  0.82868624  1
+  F  F2  1  0.89069927  0.89897722  0.26845899  1
+  O  O3  1  0.58946353  0.62879622  0.48635593  1
+  F  F4  1  0.87392640  0.38676280  0.82356685  1
+  F  F5  1  0.29967290  0.38162312  0.27876508  1

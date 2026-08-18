@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Rb2Tm(CdSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.30709441
+_cell_length_b   8.27502019
+_cell_length_c   8.39056337
+_cell_angle_alpha   107.31302893
+_cell_angle_beta   104.86310696
+_cell_angle_gamma   89.96356428
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Tm(CdSe2)2
+_chemical_formula_sum   'Rb2 Tm1 Cd2 Se4'
+_cell_volume   275.01888377
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.86389460  0.85674228  0.59065315  1
+  Rb  Rb1  1  0.12626934  0.97061466  0.11434229  1
+  Tm  Tm2  1  0.99512607  0.41369201  0.85251742  1
+  Cd  Cd3  1  0.67071075  0.38914509  0.20441748  1
+  Cd  Cd4  1  0.31950446  0.43822572  0.50067109  1
+  Se  Se5  1  0.18546879  0.60099756  0.23468670  1
+  Se  Se6  1  0.80473770  0.22634129  0.47035206  1
+  Se  Se7  1  0.48162606  0.64178001  0.82614798  1
+  Se  Se8  1  0.50855689  0.18560049  0.87890550  1

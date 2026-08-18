@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiZnCdCu2Si(PS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.01557892
+_cell_length_b   5.58727128
+_cell_length_c   12.87583040
+_cell_angle_alpha   90.78926460
+_cell_angle_beta   90.46556881
+_cell_angle_gamma   89.88722081
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiZnCdCu2Si(PS4)2
+_chemical_formula_sum   'Li1 Zn1 Cd1 Cu2 Si1 P2 S8'
+_cell_volume   360.77777958
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.95257993  -0.00741298  0.52995494  1
+  Zn  Zn1  1  0.93684371  0.51816747  0.72872448  1
+  Cd  Cd2  1  0.44019879  0.01147680  0.28859504  1
+  Cu  Cu3  1  0.90878007  0.44791244  0.31213318  1
+  Cu  Cu4  1  0.44095534  0.01220119  0.72959631  1
+  Si  Si5  1  0.56697192  0.53873845  0.19548682  1
+  P  P6  1  0.93939419  1.01814232  0.91424498  1
+  P  P7  1  0.42583368  0.51000807  0.52217101  1
+  S  S8  1  0.63805077  0.84846762  0.11743496  1
+  S  S9  1  0.20887030  0.35020016  0.18190077  1
+  S  S10  1  0.64773719  0.74131082  0.62037838  1
+  S  S11  1  0.18113264  0.78800078  0.83364511  1
+  S  S12  1  0.70290363  0.24780696  0.83182212  1
+  S  S13  1  0.19068149  0.70686121  0.41904746  1
+  S  S14  1  0.66489285  0.27131107  0.43558353  1
+  S  S15  1  0.21625080  0.28425089  0.62360345  1

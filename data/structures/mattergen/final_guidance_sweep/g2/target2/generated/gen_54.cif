@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HNiO2
+_chemical_formula_sum              "H1 Ni1 O2"
+_cell_length_a       2.9589310704601264
+_cell_length_b       2.9596779773167765
+_cell_length_c       4.666553020477295
+_cell_angle_alpha    71.41635521849979
+_cell_angle_beta     71.39913002752719
+_cell_angle_gamma    60.01161500865549
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.5743083953857422  0.7330165505409241  0.9063160419464111  1.0000
+  Ni  Ni1       1.0  0.07515620440244673  0.23209628462791446  0.4060802459716797  1.0000
+  O   O1        1.0  0.48402810096740717  0.6405459046363831  0.18068073689937592  1.0000
+  O   O2        1.0  0.666446328163147  0.8232309818267823  0.6320926547050476  1.0000

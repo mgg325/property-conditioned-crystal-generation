@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_NaZrUGaSiP3Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.48499594
+_cell_length_b   7.01325884
+_cell_length_c   7.03233293
+_cell_angle_alpha   89.90052591
+_cell_angle_beta   92.56105983
+_cell_angle_gamma   114.04914747
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaZrUGaSiP3Se
+_chemical_formula_sum   'Na1 Zr1 U1 Ga1 Si1 P3 Se1'
+_cell_volume   201.76258536
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.32843141  0.12455616  0.21957837  1
+  Zr  Zr1  1  0.82415468  0.79071640  0.60136522  1
+  U  U2  1  0.19559808  0.32433355  0.73150158  1
+  Ga  Ga3  1  0.77291480  0.70601527  0.01753124  1
+  Si  Si4  1  0.33212889  0.77235252  0.85922125  1
+  P  P5  1  0.73094471  0.40866049  0.53479357  1
+  P  P6  1  0.74030339  0.37043978  -0.05835293  1
+  P  P7  1  0.46464146  1.01067386  0.60604702  1
+  Se  Se8  1  0.37601607  0.53731352  0.33924555  1

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       NdGeRhAs2RhNdAsRh2
+_chemical_formula_sum              "Nd2 Ge1 Rh4 As3"
+_cell_length_a       4.193787573930659
+_cell_length_b       4.133277082060375
+_cell_length_c       9.873357772827148
+_cell_angle_alpha    90.08832367745885
+_cell_angle_beta     91.05290343474579
+_cell_angle_gamma    89.92010977346882
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.8714615106582642  0.2962654232978821  0.9713783264160155  1.0000
+  Ge  Ge1       1.0  0.37020590901374817  0.2928783297538757  0.723668098449707  1.0000
+  Rh  Rh1       1.0  0.371356338262558  0.29508769512176514  0.225483238697052  1.0000
+  As  As1       1.0  0.8696542978286743  0.7939453721046448  0.7240669131278992  1.0000
+  As  As2       1.0  0.873950719833374  0.2958697974681854  0.3617689609527588  1.0000
+  Rh  Rh2       1.0  0.3706604540348053  0.7938210368156432  0.8508163094520569  1.0000
+  Nd  Nd2       1.0  0.3701903522014618  0.7959337830543518  0.47528627514839167  1.0000
+  As  As3       1.0  0.3698107600212097  0.7948487401008606  0.09083157777786255  1.0000
+  Rh  Rh3       1.0  0.8711912631988525  0.29539668560028076  0.6005391478538513  1.0000
+  Rh  Rh4       1.0  0.873102068901062  0.7950642704963683  0.2260633111000061  1.0000

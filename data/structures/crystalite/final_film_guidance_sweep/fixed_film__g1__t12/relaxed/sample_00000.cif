@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_InSn2Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.81595327
+_cell_length_b   5.07136992
+_cell_length_c   6.31436716
+_cell_angle_alpha   92.31533767
+_cell_angle_beta   87.27404278
+_cell_angle_gamma   115.39988896
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InSn2Pb
+_chemical_formula_sum   'In1 Sn2 Pb1'
+_cell_volume   139.11960808
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.50981909  0.42649869  0.84959791  1
+  Sn  Sn1  1  0.12419936  0.77701029  0.47756917  1
+  Sn  Sn2  1  0.84812942  0.05964618  0.80245769  1
+  Pb  Pb3  1  0.46034876  0.40982146  0.33632708  1

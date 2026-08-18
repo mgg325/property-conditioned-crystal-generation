@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HCaH2CaI
+_chemical_formula_sum              "H3 Ca2 I1"
+_cell_length_a       4.015359023463767
+_cell_length_b       4.016823869208788
+_cell_length_c       8.82371997833252
+_cell_angle_alpha    76.87183278895772
+_cell_angle_beta     76.93244427507904
+_cell_angle_gamma    60.08293574699147
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.8725720047950745  0.7206287980079651  0.19456061720848083  1.0000
+  Ca  Ca1       1.0  0.5077196359634399  0.3550491631031037  0.2911374568939209  1.0000
+  H   H2        1.0  0.603320837020874  0.45150372385978704  0.0014820098876953  1.0000
+  H   H3        1.0  0.15490281581878662  0.0025889731477946043  0.34481075406074524  1.0000
+  Ca  Ca2       1.0  0.9575377702713014  0.8078650832176208  0.934934139251709  1.0000
+  I   I1        1.0  0.3737388849258423  0.2247862368822098  0.684390127658844  1.0000

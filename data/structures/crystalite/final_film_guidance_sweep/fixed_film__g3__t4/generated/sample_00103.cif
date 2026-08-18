@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CsAl3SiSbO14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.28010869
+_cell_length_b   7.45584774
+_cell_length_c   6.87748289
+_cell_angle_alpha   100.86292267
+_cell_angle_beta   92.34728241
+_cell_angle_gamma   92.50643921
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsAl3SiSbO14
+_chemical_formula_sum   'Cs1 Al3 Si1 Sb1 O14'
+_cell_volume   164.81611589
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.67883569  0.77991903  0.65213889  1
+  O  O1  1  0.65676814  0.20248410  0.52370131  1
+  O  O2  1  0.32705009  0.56605703  0.89725161  1
+  Cs  Cs3  1  0.56987691  0.07043371  0.04056633  1
+  O  O4  1  0.87320280  0.24368176  0.76154715  1
+  Al  Al5  1  0.47212133  0.80938852  0.68619341  1
+  O  O6  1  0.42146945  0.92484152  0.58232784  1
+  O  O7  1  0.53592706  0.30288786  0.77917385  1
+  O  O8  1  0.62107074  0.70692337  0.40122724  1
+  O  O9  1  0.08245522  0.62154710  0.55399317  1
+  Al  Al10  1  0.91624475  0.57403892  0.80697596  1
+  O  O11  1  0.76328057  0.60517025  0.95808780  1
+  O  O12  1  0.18616077  0.78761047  0.75787842  1
+  Si  Si13  1  0.19469205  0.15303019  0.60455209  1
+  O  O14  1  0.93738317  0.01331872  0.62936795  1
+  Al  Al15  1  0.62486374  0.15867287  0.68246496  1
+  O  O16  1  0.83365870  0.29845700  0.24948469  1
+  Sb  Sb17  1  0.92250758  0.61659932  0.35175681  1
+  O  O18  1  0.47050008  0.41466776  0.57075602  1
+  O  O19  1  0.23601681  0.12221727  0.43499807  1

@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       LuVC
+_chemical_formula_sum              "Lu1 V1 C1"
+_cell_length_a       3.2106563558621866
+_cell_length_b       3.210699485190042
+_cell_length_c       5.0612143367892735
+_cell_angle_alpha    90.02019460351308
+_cell_angle_beta     89.97154962110557
+_cell_angle_gamma    119.99028938698599
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.2619309697533313  0.7373534621467804  0.24185867411234827  1.0000
+  V   V1        1.0  0.9288413793441995  0.07075328589304038  0.7681275414542912  1.0000
+  C   C1        1.0  0.5953706307098493  0.4040883971893048  0.9488872913296847  1.0000

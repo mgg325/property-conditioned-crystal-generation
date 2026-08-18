@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       RhTm2Pt
+_chemical_formula_sum              "Rh1 Tm2 Pt1"
+_cell_length_a       3.3853457571502705
+_cell_length_b       3.4021536972088846
+_cell_length_c       6.870408058166504
+_cell_angle_alpha    90.25276732068335
+_cell_angle_beta     89.7364186667345
+_cell_angle_gamma    89.8618209529673
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.6323073506355286  0.4309646189212799  0.8627085089683533  1.0000
+  Tm  Tm1       1.0  0.13257165253162384  0.9304201602935791  0.10887274891138077  1.0000
+  Tm  Tm2       1.0  0.13215500116348267  0.9296720623970031  0.6153637170791626  1.0000
+  Pt  Pt1       1.0  0.6326167583465576  0.43145748972892756  0.3619702160358429  1.0000

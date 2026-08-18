@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       DyLaDyCa
+_chemical_formula_sum              "Dy2 La1 Ca1"
+_cell_length_a       3.69418792712504
+_cell_length_b       3.607248812354411
+_cell_length_c       12.191503524780273
+_cell_angle_alpha    80.92053570901524
+_cell_angle_beta     80.68460220102945
+_cell_angle_gamma    59.06423819689433
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.05760426074266431  0.28505527973175054  0.23060540854930878  1.0000
+  La  La1       1.0  0.6415460109710692  0.8707863092422486  0.47455447912216187  1.0000
+  Dy  Dy2       1.0  0.2292844653129577  0.45713579654693604  0.7141384482383728  1.0000
+  Ca  Ca1       1.0  0.4767865538597106  0.7051445245742798  0.9722311496734619  1.0000

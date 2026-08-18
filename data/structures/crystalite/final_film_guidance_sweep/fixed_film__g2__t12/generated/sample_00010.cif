@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NdUGe2Sb5TeAsBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.51281023
+_cell_length_b   6.66863966
+_cell_length_c   8.76770782
+_cell_angle_alpha   101.19984436
+_cell_angle_beta   102.69548035
+_cell_angle_gamma   90.17691803
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdUGe2Sb5TeAsBr
+_chemical_formula_sum   'Nd1 U1 Ge2 Sb5 Te1 As1 Br1'
+_cell_volume   252.21607887
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.04938063  0.25027853  0.22804224  1
+  Sb  Sb1  1  0.01380172  0.87093997  0.97227883  1
+  Br  Br2  1  0.96980405  0.33321309  0.95279622  1
+  Sb  Sb3  1  0.82160401  0.63443512  0.67935038  1
+  Sb  Sb4  1  0.51484883  0.21558198  0.99640167  1
+  Ge  Ge5  1  0.63212991  0.67643648  0.45112237  1
+  Nd  Nd6  1  0.56168598  0.74820423  0.13829324  1
+  Ge  Ge7  1  0.22209740  0.71634221  0.35039729  1
+  Sb  Sb8  1  0.22709182  0.02448821  0.50788379  1
+  As  As9  1  0.64180160  0.24919584  0.34969795  1
+  U  U10  1  0.34264034  0.49474037  0.73718065  1
+  Sb  Sb11  1  0.83672369  0.12813717  0.69739717  1

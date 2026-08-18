@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ho2TeO2
+_chemical_formula_sum              "Ho2 Te1 O2"
+_cell_length_a       3.8847110413111974
+_cell_length_b       3.9113452559718858
+_cell_length_c       6.721889972686768
+_cell_angle_alpha    107.7807732215692
+_cell_angle_beta     106.34134687786472
+_cell_angle_gamma    89.6618392475345
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.9856568574905397  0.09852361679077148  0.5286070704460144  1.0000
+  Ho  Ho2       1.0  0.6590354442596437  0.7727523446083069  0.8790053725242615  1.0000
+  Te  Te1       1.0  0.3220397830009461  0.43508163094520574  0.20452657341957092  1.0000
+  O   O1        1.0  0.07152001559734347  0.6857929229736329  0.7031410336494446  1.0000
+  O   O2        1.0  0.572710692882538  0.18423885107040405  0.7037056088447571  1.0000

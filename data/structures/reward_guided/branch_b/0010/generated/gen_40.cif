@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sc2CoGaCo2GaCo
+_chemical_formula_sum              "Sc2 Co4 Ga2"
+_cell_length_a       3.8662188669354682
+_cell_length_b       4.662570653348261
+_cell_length_c       6.224518299102783
+_cell_angle_alpha    90.51394007572495
+_cell_angle_beta     89.46791025815384
+_cell_angle_gamma    90.55963404076208
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.6763427257537842  0.3183942437171936  0.6257103085517883  1.0000
+  Sc  Sc2       1.0  0.6735931038856506  0.8155885934829712  0.023967456072568897  1.0000
+  Co  Co1       1.0  0.1749163717031479  0.0668906569480896  0.32810601592063904  1.0000
+  Ga  Ga1       1.0  0.17305104434490204  0.8152215480804443  0.6827353835105896  1.0000
+  Co  Co2       1.0  0.6741736531257629  0.8161569833755493  0.4494563043117524  1.0000
+  Co  Co3       1.0  0.6742133498191833  0.31554800271987915  0.20236471295356753  1.0000
+  Ga  Ga2       1.0  0.17101414501667023  0.31664401292800903  0.9696704149246217  1.0000
+  Co  Co4       1.0  0.17411908507347107  0.5660528540611267  0.3251107633113862  1.0000

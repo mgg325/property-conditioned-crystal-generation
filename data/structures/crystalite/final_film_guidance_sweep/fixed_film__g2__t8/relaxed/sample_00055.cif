@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K2NaCa2Mg3Si4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.70560322
+_cell_length_b   6.44832207
+_cell_length_c   10.30990157
+_cell_angle_alpha   86.36827588
+_cell_angle_beta   90.04418339
+_cell_angle_gamma   90.09986922
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NaCa2Mg3Si4
+_chemical_formula_sum   'K2 Na1 Ca2 Mg3 Si4'
+_cell_volume   312.20709381
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.90902270  0.20644500  0.83082897  1
+  K  K1  1  0.91145551  0.83632755  0.61994785  1
+  Na  Na2  1  0.91040004  0.61823289  0.00818102  1
+  Ca  Ca3  1  0.41034376  0.07761611  0.38942978  1
+  Ca  Ca4  1  0.41060730  0.90512620  0.06861037  1
+  Mg  Mg5  1  0.40993027  0.57330021  0.30960297  1
+  Mg  Mg6  1  0.91026022  0.23609651  0.19589386  1
+  Mg  Mg7  1  0.41023631  0.44637510  0.60422163  1
+  Si  Si8  1  0.91011757  0.39908905  0.44800994  1
+  Si  Si9  1  0.91029815  0.81920555  0.27122098  1
+  Si  Si10  1  0.41022094  0.59548334  0.84918819  1
+  Si  Si11  1  0.41002178  0.37554608  0.06157054  1

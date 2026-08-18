@@ -1,0 +1,16 @@
+{
+  "policy_dir": "provenance://mattergen/outputs/dielectric_rl/direct_rl_target12_online/matinvent_style_target12_eval24_topk025_loop0009_e1_replay6_cut03_gpu_20260730/loop_0010/policy_for_generation",
+  "generated_dir": "provenance://mattergen/outputs/dielectric_rl/direct_rl_target12_online/eval_loop0010_repeat02_20260730_gpu/eval_0000/generated",
+  "n_generated": 64,
+  "n_prefiltered_eval": 19,
+  "reward_summary": {
+    "n_samples": 19,
+    "mean_predicted_dielectric_scalar": 13.089068425357095,
+    "mean_abs_error": 4.853859157303105,
+    "mean_reward_final": 0.2974188219347378,
+    "within_1.0": 4,
+    "within_2.0": 5,
+    "reward_gt_0p1": 9,
+    "reward_gt_0p5": 6
+  }
+}

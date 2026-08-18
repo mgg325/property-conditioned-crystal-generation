@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HZnH2ZnH
+_chemical_formula_sum              "H4 Zn2"
+_cell_length_a       2.819466039396389
+_cell_length_b       4.33192036476572
+_cell_length_c       4.331780824242562
+_cell_angle_alpha    90.03099831289394
+_cell_angle_beta     90.00150735362276
+_cell_angle_gamma    89.99388352234712
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.25671294715851056  0.006816765940025812  0.36066839762434305  1.0000
+  Zn  Zn1       1.0  0.2559719917801108  0.7132539439039367  0.0669797365340907  1.0000
+  H   H2        1.0  0.7567647456761519  0.9194043562416159  0.8604740827657479  1.0000
+  H   H3        1.0  0.7564965432576685  0.5067121590383817  0.27314956128211515  1.0000
+  Zn  Zn2       1.0  0.7569346135270754  0.2133176019592296  0.5669755342282591  1.0000
+  H   H4        1.0  0.25683349328969646  0.4194364838397884  0.7733140176883314  1.0000

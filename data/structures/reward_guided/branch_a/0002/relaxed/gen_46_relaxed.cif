@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Pr8Ge3SbTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.94637683
+_cell_length_b   8.94633598
+_cell_length_c   9.05521537
+_cell_angle_alpha   60.38538664
+_cell_angle_beta   60.38608080
+_cell_angle_gamma   59.99399318
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr8Ge3SbTe4
+_chemical_formula_sum   'Pr8 Ge3 Sb1 Te4'
+_cell_volume   515.42309285
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.46523274  0.35421620  0.95813420  1
+  Pr  Pr1  1  0.95812310  0.36481005  0.96217995  1
+  Pr  Pr2  1  0.45416802  0.34317696  0.50849097  1
+  Pr  Pr3  1  0.93624147  0.34361156  0.50922060  1
+  Pr  Pr4  1  0.94717259  0.83610736  0.51379241  1
+  Pr  Pr5  1  0.45451235  0.82558476  0.50932874  1
+  Pr  Pr6  1  0.95797561  0.84735380  0.96189549  1
+  Pr  Pr7  1  0.47522816  0.84735105  0.96232463  1
+  Ge  Ge8  1  0.20634592  0.59496244  0.73555645  1
+  Ge  Ge9  1  0.70594561  0.09543802  0.73558382  1
+  Ge  Ge10  1  0.70626838  0.59515313  0.73610773  1
+  Sb  Sb11  1  0.20560152  0.09543828  0.73572755  1
+  Te  Te12  1  0.70656001  0.09493055  0.23560989  1
+  Te  Te13  1  0.20553664  0.59556270  0.23553186  1
+  Te  Te14  1  0.70569104  0.59541856  0.23568872  1
+  Te  Te15  1  0.20611176  0.09525074  0.23590559  1

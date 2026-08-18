@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cu4AsAuAs
+_chemical_formula_sum              "Cu4 As2 Au1"
+_cell_length_a       4.044747048872317
+_cell_length_b       4.08081253445347
+_cell_length_c       6.3710808753967285
+_cell_angle_alpha    89.32940087958062
+_cell_angle_beta     89.28559891692105
+_cell_angle_gamma    89.54974278830552
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.7969339489936829  0.7634065747261048  0.5573225617408752  1.0000
+  Cu  Cu2       1.0  0.29635998606681824  0.2634908854961396  0.5595470666885376  1.0000
+  Cu  Cu3       1.0  0.797288179397583  0.7635909318923951  0.9966264963150024  1.0000
+  Cu  Cu4       1.0  0.29661840200424194  0.26280421018600464  0.9969305396080017  1.0000
+  As  As1       1.0  0.7970066666603088  0.2625801861286164  0.7778825163841248  1.0000
+  Au  Au1       1.0  0.7965748906135559  0.2639598846435547  0.27726420760154724  1.0000
+  As  As2       1.0  0.2967447340488434  0.7636319994926453  0.2781500220298767  1.0000

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Mg3Si2P5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.60653166
+_cell_length_b   7.11375899
+_cell_length_c   6.60556200
+_cell_angle_alpha   96.95564941
+_cell_angle_beta   50.24059725
+_cell_angle_gamma   77.66434332
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg3Si2P5
+_chemical_formula_sum   'Mg3 Si2 P5'
+_cell_volume   218.97951459
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.17597594  0.55177876  0.96833164  1
+  Mg  Mg1  1  0.96282136  0.34751701  0.58048279  1
+  Mg  Mg2  1  0.77940498  0.14345974  0.16319939  1
+  Si  Si3  1  0.59496555  0.93713500  0.74976418  1
+  Si  Si4  1  0.38305870  0.75848073  0.35892987  1
+  P  P5  1  0.60804111  0.21638118  0.64066508  1
+  P  P6  1  0.02680346  0.67512220  0.44350887  1
+  P  P7  1  0.27034477  0.84762574  0.77312303  1
+  P  P8  1  0.42747372  0.02056884  0.18921555  1
+  P  P9  1  0.77130695  0.47909449  0.06664309  1

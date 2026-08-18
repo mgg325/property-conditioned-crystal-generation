@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K3AlF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04209995
+_cell_length_b   6.10476637
+_cell_length_c   6.16461277
+_cell_angle_alpha   60.12187576
+_cell_angle_beta   59.95260239
+_cell_angle_gamma   59.88251877
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3AlF6
+_chemical_formula_sum   'K3 Al1 F6'
+_cell_volume   160.73208027
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.26230323  0.15478951  0.68937516  1
+  F  F1  1  0.25881332  0.73298621  0.68896049  1
+  K  K2  1  0.22781011  0.69715810  0.22755474  1
+  K  K3  1  0.72729117  0.19221637  0.72323430  1
+  Al  Al4  1  0.48310056  0.95049852  0.47619557  1
+  F  F5  1  0.26659197  0.16231558  0.25596023  1
+  F  F6  1  0.68981254  0.72991759  0.25889719  1
+  F  F7  1  0.68936354  0.72704202  0.68647355  1
+  K  K8  1  0.97841096  0.44767803  0.97741568  1
+  F  F9  1  0.69233263  0.16495636  0.26174545  1

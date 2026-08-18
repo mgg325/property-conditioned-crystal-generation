@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LiSeLi2Se3Li
+_chemical_formula_sum              "Li4 Se4"
+_cell_length_a       4.757393123673901
+_cell_length_b       6.255790588255416
+_cell_length_c       6.314503192901611
+_cell_angle_alpha    90.26159875958531
+_cell_angle_beta     89.98178638879067
+_cell_angle_gamma    90.12394311644488
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5458437204360962  0.6472648978233337  0.31608062982559204  1.0000
+  Se  Se1       1.0  0.045299045741558075  0.027729241177439686  0.6958835124969482  1.0000
+  Li  Li2       1.0  0.04492922127246857  0.6269680261611938  0.817710816860199  1.0000
+  Li  Li3       1.0  0.04504917934536934  0.14602044224739075  0.2970196604728699  1.0000
+  Se  Se2       1.0  0.545678973197937  0.5271166563034058  0.9180842638015747  1.0000
+  Se  Se3       1.0  0.5462726950645447  0.24627466499805448  0.19707871973514557  1.0000
+  Se  Se4       1.0  0.04664325714111328  0.7449815273284911  0.41785678267478943  1.0000
+  Li  Li4       1.0  0.5460769534111023  0.1253143846988678  0.7990010380744934  1.0000

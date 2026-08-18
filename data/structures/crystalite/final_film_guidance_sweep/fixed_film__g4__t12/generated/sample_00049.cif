@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_RbDyU2GaTc3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.97735405
+_cell_length_b   7.49916887
+_cell_length_c   6.51805544
+_cell_angle_alpha   128.07019043
+_cell_angle_beta   128.59086609
+_cell_angle_gamma   89.79971313
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbDyU2GaTc3
+_chemical_formula_sum   'Rb1 Dy1 U2 Ga1 Tc3'
+_cell_volume   141.14663142
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.66551471  0.01097932  0.66026664  1
+  Rb  Rb1  1  0.74581707  0.85559547  0.97324193  1
+  Tc  Tc2  1  0.15670824  0.05885640  0.12129417  1
+  U  U3  1  0.54944372  0.40915906  0.50586140  1
+  Dy  Dy4  1  0.13365522  0.53461033  0.74226224  1
+  Ga  Ga5  1  0.10052523  0.52408618  0.27264100  1
+  Tc  Tc6  1  0.53004146  0.35038108  0.99838257  1
+  Tc  Tc7  1  0.03346789  0.87281609  0.47726569  1

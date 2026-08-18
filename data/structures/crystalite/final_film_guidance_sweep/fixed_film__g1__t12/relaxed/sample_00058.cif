@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Yb3Er2Tm2Ge(PbSe4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87779830
+_cell_length_b   10.82282383
+_cell_length_c   13.43187251
+_cell_angle_alpha   117.57747995
+_cell_angle_beta   89.73384570
+_cell_angle_gamma   90.14188440
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb3Er2Tm2Ge(PbSe4)2
+_chemical_formula_sum   'Yb3 Er2 Tm2 Ge1 Pb2 Se8'
+_cell_volume   499.66663154
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.93733635  0.51804317  0.15228774  1
+  Yb  Yb1  1  0.93563730  0.78640131  0.09341372  1
+  Yb  Yb2  1  0.43157650  0.40631453  0.48647400  1
+  Er  Er3  1  0.43071844  0.07977436  0.50474723  1
+  Er  Er4  1  0.93701032  0.76951087  0.46502308  1
+  Tm  Tm5  1  0.43818161  -0.00525782  0.93231690  1
+  Tm  Tm6  1  0.93014716  0.34455318  0.82375040  1
+  Ge  Ge7  1  0.43917212  0.78134573  0.31067099  1
+  Pb  Pb8  1  0.43795046  0.77088624  0.66790229  1
+  Pb  Pb9  1  0.43486715  0.27118270  0.18571041  1
+  Se  Se10  1  0.92898045  0.04378042  0.64598730  1
+  Se  Se11  1  0.93476172  0.78128786  0.85903079  1
+  Se  Se12  1  0.93408145  0.48132600  0.35884450  1
+  Se  Se13  1  0.43614185  0.54229476  -0.00414166  1
+  Se  Se14  1  0.43142454  0.36953555  0.69173058  1
+  Se  Se15  1  0.93323479  0.18386888  0.42008235  1
+  Se  Se16  1  0.43653770  0.99631116  0.13255559  1
+  Se  Se17  1  0.93652919  0.20940817  -0.03602344  1

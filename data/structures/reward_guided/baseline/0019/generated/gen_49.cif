@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LuPrBi2
+_chemical_formula_sum              "Lu1 Pr1 Bi2"
+_cell_length_a       4.495360533884864
+_cell_length_b       4.444029375436586
+_cell_length_c       7.718096733093262
+_cell_angle_alpha    74.20288680337295
+_cell_angle_beta     73.45330250837944
+_cell_angle_gamma    59.82953357591107
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.8249370455741882  0.5052919983863831  0.4937620759010315  1.0000
+  Pr  Pr1       1.0  0.3253604471683502  0.005474522709846496  0.9918349385261536  1.0000
+  Bi  Bi1       1.0  0.5686414241790771  0.25015074014663696  0.2571735680103302  1.0000
+  Bi  Bi2       1.0  0.07971730828285215  0.7596237659454346  0.7254233360290527  1.0000

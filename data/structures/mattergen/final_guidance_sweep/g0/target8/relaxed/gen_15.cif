@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ZnCaO2ZnO
+_chemical_formula_sum              "Zn2 Ca1 O3"
+_cell_length_a       3.2351251304397834
+_cell_length_b       4.466906837219151
+_cell_length_c       5.626552292898063
+_cell_angle_alpha    113.37974177118481
+_cell_angle_beta     106.67651035565713
+_cell_angle_gamma    90.02450686896792
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.6372996830096549  0.45241757900380936  0.13753368877959057  1.0000
+  Ca  Ca1       1.0  0.31180506064577523  0.13327335480748725  0.500501315982929  1.0000
+  O   O1        1.0  0.6329117675998451  0.9489197967443889  0.132906933035414  1.0000
+  O   O2        1.0  0.09008281084837498  0.632708890774689  0.5000233420952883  1.0000
+  Zn  Zn2       1.0  0.0013275765334492817  0.8151751814143727  0.8629439498146713  1.0000
+  O   O3        1.0  0.9999560982647189  0.3164352192715501  0.8678377168413642  1.0000

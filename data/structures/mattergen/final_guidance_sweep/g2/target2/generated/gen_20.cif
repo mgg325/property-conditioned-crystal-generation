@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CClMgCl
+_chemical_formula_sum              "C1 Cl2 Mg1"
+_cell_length_a       3.539899480586129
+_cell_length_b       3.546147561684032
+_cell_length_c       7.8456244468688965
+_cell_angle_alpha    90.1276314263808
+_cell_angle_beta     89.48338063842299
+_cell_angle_gamma    119.57392534916747
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.8289103507995605  0.9833074808120726  0.34501302242279047  1.0000
+  Cl  Cl1       1.0  0.1605663001537323  0.6518781781196594  0.6799038648605346  1.0000
+  Mg  Mg1       1.0  0.4949609339237213  0.3198276460170746  0.4936122894287109  1.0000
+  Cl  Cl2       1.0  0.8291479349136351  0.9818259477615355  0.13867364823818207  1.0000

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba6CaSe11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.76981068
+_cell_length_b   8.50391769
+_cell_length_c   8.39099884
+_cell_angle_alpha   109.50724792
+_cell_angle_beta   110.18124390
+_cell_angle_gamma   110.84639740
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba6CaSe11
+_chemical_formula_sum   'Ba6 Ca1 Se11'
+_cell_volume   468.64473558
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.02080300  0.02342945  0.09721133  1
+  Se  Se1  1  0.64596522  0.82959080  0.06354499  1
+  Ba  Ba2  1  0.25098968  0.68819654  0.19613037  1
+  Ba  Ba3  1  0.81895745  0.29458389  0.79481065  1
+  Se  Se4  1  0.19721374  0.23962373  0.93734860  1
+  Se  Se5  1  0.44377071  0.98307025  0.92096382  1
+  Se  Se6  1  0.55572134  0.97333026  0.82792795  1
+  Se  Se7  1  0.54734790  0.30292243  0.46858820  1
+  Se  Se8  1  0.67982429  0.74455351  0.57098126  1
+  Ba  Ba9  1  0.85005462  0.05549538  0.41232216  1
+  Ba  Ba10  1  0.95058209  0.62509894  0.50710249  1
+  Ba  Ba11  1  0.54687524  0.35234177  0.16682860  1
+  Se  Se12  1  0.23839381  0.66528898  0.84408897  1
+  Se  Se13  1  0.82120442  0.54672253  0.06875235  1
+  Se  Se14  1  0.33230829  0.06869835  0.69729376  1
+  Se  Se15  1  0.32432270  0.80209255  0.46043321  1
+  Ca  Ca16  1  0.47742510  0.52503651  0.70720524  1
+  Se  Se17  1  0.05538756  0.33122966  0.38815582  1

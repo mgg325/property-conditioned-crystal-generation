@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_KRb(ZnSe)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.49219520
+_cell_length_b   4.52152543
+_cell_length_c   12.50426618
+_cell_angle_alpha   90.00062575
+_cell_angle_beta   90.01318081
+_cell_angle_gamma   119.47929564
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRb(ZnSe)3
+_chemical_formula_sum   'K1 Rb1 Zn3 Se3'
+_cell_volume   221.09927610
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.33846646  0.98780644  0.61899245  1
+  Rb  Rb1  1  0.33021850  0.98574939  0.00899642  1
+  Zn  Zn2  1  0.66724020  0.65697436  0.26046326  1
+  Zn  Zn3  1  0.00489569  0.31592647  0.40137697  1
+  Zn  Zn4  1  0.67012485  0.65009983  0.80535488  1
+  Se  Se5  1  0.67216946  0.65129596  0.46340280  1
+  Se  Se6  1  0.99511563  0.32508281  0.81312508  1
+  Se  Se7  1  -0.00312045  0.32330871  0.19784711  1

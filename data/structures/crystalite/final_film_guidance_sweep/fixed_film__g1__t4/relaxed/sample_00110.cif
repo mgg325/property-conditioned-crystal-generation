@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Li2Fe2CoSbO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98312240
+_cell_length_b   6.05476771
+_cell_length_c   6.03924080
+_cell_angle_alpha   61.04934161
+_cell_angle_beta   60.79123835
+_cell_angle_gamma   60.80585807
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Fe2CoSbO8
+_chemical_formula_sum   'Li2 Fe2 Co1 Sb1 O8'
+_cell_volume   157.77527124
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.91529105  0.79277583  0.93235882  1
+  Li  Li1  1  0.40567840  0.28588562  0.93481536  1
+  Fe  Fe2  1  0.91636959  0.29740787  0.43253700  1
+  Fe  Fe3  1  0.41586986  0.79752124  0.43258658  1
+  Co  Co4  1  0.91722258  0.79891433  0.42728063  1
+  Sb  Sb5  1  0.41896742  0.30043775  0.42405843  1
+  O  O6  1  0.13911686  0.01874045  0.24344261  1
+  O  O7  1  0.69772250  0.58129752  0.61390659  1
+  O  O8  1  0.18220824  0.06526119  0.64013764  1
+  O  O9  1  0.17127453  0.51955232  0.19974545  1
+  O  O10  1  0.66123506  0.07980354  0.65549721  1
+  O  O11  1  0.19312081  0.54640986  0.65302151  1
+  O  O12  1  0.65497211  0.53478908  0.21578527  1
+  O  O13  1  0.64233996  0.04942322  0.20209616  1

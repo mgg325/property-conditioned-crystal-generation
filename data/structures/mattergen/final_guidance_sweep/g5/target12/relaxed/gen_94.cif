@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TeMnCrTe
+_chemical_formula_sum              "Te2 Mn1 Cr1"
+_cell_length_a       4.110379471326055
+_cell_length_b       4.109434451601617
+_cell_length_c       6.30207748343655
+_cell_angle_alpha    89.99965299694794
+_cell_angle_beta     89.99833854735516
+_cell_angle_gamma    119.99737058601751
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.2618476702900595  0.8494988453785661  0.4519958721180138  1.0000
+  Mn  Mn1       1.0  0.9284115465051131  0.1825424657761852  0.19618392821230474  1.0000
+  Cr  Cr1       1.0  0.9283051538767026  0.18274803752826865  0.6965504180704055  1.0000
+  Te  Te2       1.0  0.5947886673245507  0.5158729685592525  0.9408868210210867  1.0000

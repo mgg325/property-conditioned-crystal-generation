@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       DyMgTbCo
+_chemical_formula_sum              "Dy1 Mg1 Tb1 Co1"
+_cell_length_a       3.3949477181122183
+_cell_length_b       3.381445861207735
+_cell_length_c       8.03339958190918
+_cell_angle_alpha    89.29294812885233
+_cell_angle_beta     89.66887492968448
+_cell_angle_gamma    89.65788516339386
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.3584119081497193  0.12930279970169067  0.6971863508224487  1.0000
+  Mg  Mg1       1.0  0.8582236766815187  0.6286407709121703  0.4001353085041046  1.0000
+  Tb  Tb1       1.0  0.3589403629302979  0.12913250923156738  0.09966868162155151  1.0000
+  Co  Co1       1.0  0.858258605003357  0.6294679045677184  0.8974928259849548  1.0000

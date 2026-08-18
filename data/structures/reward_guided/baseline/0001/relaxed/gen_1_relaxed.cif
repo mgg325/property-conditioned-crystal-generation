@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Ba3NaTe2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98123066
+_cell_length_b   5.98214640
+_cell_length_c   7.36080326
+_cell_angle_alpha   90.00121211
+_cell_angle_beta   89.99842425
+_cell_angle_gamma   119.99414841
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3NaTe2O9
+_chemical_formula_sum   'Ba3 Na1 Te2 O9'
+_cell_volume   228.10196920
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.06601670  0.01178680  0.06986150  1
+  Ba  Ba1  1  0.73256694  0.34489085  0.72971203  1
+  Ba  Ba2  1  0.39960208  0.67843862  0.40974393  1
+  Na  Na3  1  0.06590220  0.01167015  0.56973581  1
+  Te  Te4  1  0.73261801  0.34497874  0.24136344  1
+  Te  Te5  1  0.39926135  0.67837048  0.89807309  1
+  O  O6  1  0.88726946  0.19006406  0.38337846  1
+  O  O7  1  0.24458829  0.36897390  0.75595109  1
+  O  O8  1  0.56603803  0.51155257  0.06984929  1
+  O  O9  1  0.88742980  0.65436615  0.38350684  1
+  O  O10  1  0.42313314  0.19042485  0.38350174  1
+  O  O11  1  0.70882481  0.83307268  0.75604968  1
+  O  O12  1  0.56589185  0.01190373  0.06978303  1
+  O  O13  1  0.06571031  0.51129993  0.06986244  1
+  O  O14  1  0.24442044  0.83318253  0.75617982  1

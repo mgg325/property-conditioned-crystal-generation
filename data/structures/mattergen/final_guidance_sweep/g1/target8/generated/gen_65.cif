@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       PrAsZn2AsOAsPr
+_chemical_formula_sum              "Pr2 As3 Zn2 O1"
+_cell_length_a       4.1255506933079245
+_cell_length_b       4.126920669003359
+_cell_length_c       12.624042510986328
+_cell_angle_alpha    80.6520273335366
+_cell_angle_beta     80.6957486011417
+_cell_angle_gamma    60.09057043406124
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.9087837338447572  0.7261152267456055  0.5378290414810181  1.0000
+  As  As1       1.0  0.434147298336029  0.2539176344871521  0.9616191983222961  1.0000
+  Zn  Zn1       1.0  0.08183438330888745  0.8998656272888184  0.020092690363526344  1.0000
+  Zn  Zn2       1.0  0.5014116168022157  0.31940296292304987  0.7642638087272644  1.0000
+  As  As2       1.0  0.19159290194511414  0.009876159951090813  0.6915621161460876  1.0000
+  O   O1        1.0  0.026692820712924014  0.8454250693321228  0.18343289196491241  1.0000
+  As  As3       1.0  0.624899685382843  0.4423155188560486  0.3952828347682953  1.0000
+  Pr  Pr2       1.0  0.3437909185886383  0.16267429292201996  0.23182934522628784  1.0000

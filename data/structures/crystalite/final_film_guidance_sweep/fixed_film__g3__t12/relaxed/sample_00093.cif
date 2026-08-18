@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_YbBiSb2PPbXe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.93291233
+_cell_length_b   8.98184613
+_cell_length_c   5.21810306
+_cell_angle_alpha   116.31384083
+_cell_angle_beta   96.54427081
+_cell_angle_gamma   119.82044153
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbBiSb2PPbXe
+_chemical_formula_sum   'Yb1 Bi1 Sb2 P1 Pb1 Xe1'
+_cell_volume   228.14106688
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.60816315  0.92584448  0.22774595  1
+  Bi  Bi1  1  0.41521320  0.44197583  -0.10716173  1
+  Sb  Sb2  1  0.03092231  0.82569605  0.21498281  1
+  Sb  Sb3  1  1.04183341  0.52244679  0.67311515  1
+  P  P4  1  0.38574907  0.56679848  0.51001748  1
+  Pb  Pb5  1  0.06716578  0.04753531  0.90642405  1
+  Xe  Xe6  1  0.63753899  0.15354007  0.90705490  1

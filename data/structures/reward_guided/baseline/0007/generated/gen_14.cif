@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       KHg2NaAu
+_chemical_formula_sum              "K1 Hg2 Na1 Au1"
+_cell_length_a       4.5999022996424666
+_cell_length_b       4.626258616555562
+_cell_length_c       7.698192119598389
+_cell_angle_alpha    107.88371828256714
+_cell_angle_beta     107.61878832634544
+_cell_angle_gamma    90.01387509181252
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.5949200391769409  0.5582338571548462  0.05047751218080524  1.0000
+  Hg  Hg1       1.0  0.3186667561531067  0.7800002694129944  0.49842944741249084  1.0000
+  Hg  Hg2       1.0  0.9790870547294617  0.9421899914741516  0.8189448118209839  1.0000
+  Na  Na1       1.0  0.8244094848632812  0.286643385887146  0.509594202041626  1.0000
+  Au  Au1       1.0  0.18576405942440033  0.1480992138385773  0.2327195405960083  1.0000

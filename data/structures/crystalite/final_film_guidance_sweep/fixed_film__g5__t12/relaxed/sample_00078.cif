@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Tc6XeBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.14468962
+_cell_length_b   5.13714331
+_cell_length_c   8.01416180
+_cell_angle_alpha   117.23437831
+_cell_angle_beta   128.41813644
+_cell_angle_gamma   96.72101092
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tc6XeBr
+_chemical_formula_sum   'Tc6 Xe1 Br1'
+_cell_volume   144.03680468
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tc  Tc0  1  -0.16376875  0.38412908  0.73048115  1
+  Tc  Tc1  1  1.26020601  0.69459073  0.26004352  1
+  Tc  Tc2  1  0.55911226  1.17712309  0.80462210  1
+  Tc  Tc3  1  0.47518152  0.18196204  0.22726911  1
+  Tc  Tc4  1  -0.13509236  -0.07905995  0.80559928  1
+  Tc  Tc5  1  0.22962043  0.32188772  0.38559006  1
+  Xe  Xe6  1  0.87135052  0.80540307  0.42435746  1
+  Br  Br7  1  0.52948494  0.77639804  0.90673820  1

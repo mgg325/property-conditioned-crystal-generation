@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SnNSbOSnNO2
+_chemical_formula_sum              "Sn2 N2 Sb1 O3"
+_cell_length_a       3.551199866530654
+_cell_length_b       3.5511361558815318
+_cell_length_c       9.971614948779608
+_cell_angle_alpha    79.74879987679073
+_cell_angle_beta     79.75097040324906
+_cell_angle_gamma    59.98613387280538
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.13411726524401932  0.658873956005262  0.48188328799742736  1.0000
+  N   N1        1.0  0.24487285032437123  0.7699244327979405  0.14913382716367893  1.0000
+  Sb  Sb1       1.0  0.3610784476383856  0.8851939792291359  0.8027903564827226  1.0000
+  O   O1        1.0  0.710351749551258  0.2344260260151407  0.7543843725163157  1.0000
+  Sn  Sn2       1.0  0.9124655901965673  0.43754641273584993  0.14638019074536338  1.0000
+  N   N2        1.0  0.4354117752225483  0.9599152552241905  0.5788403710994319  1.0000
+  O   O2        1.0  0.8372288983349272  0.36179961167261065  0.37266595701275673  1.0000
+  O   O3        1.0  0.9886333151310832  0.5126972540092005  0.9187650265946228  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SbNdAuNdAuSb
+_chemical_formula_sum              "Sb2 Nd2 Au2"
+_cell_length_a       4.693348470399467
+_cell_length_b       6.2663492506336675
+_cell_length_c       6.616797924041748
+_cell_angle_alpha    118.14714974996305
+_cell_angle_beta     110.83713205827208
+_cell_angle_gamma    89.95356463486571
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.4954446256160736  0.5837108492851258  0.33974099159240734  1.0000
+  Nd  Nd1       1.0  0.8051652312278748  0.1531202495098114  0.9593360424041749  1.0000
+  Au  Au1       1.0  0.13657459616661072  0.9851445555686951  0.6210272312164307  1.0000
+  Nd  Nd2       1.0  0.18910761177539825  0.5374873280525208  0.7251125574111938  1.0000
+  Au  Au2       1.0  0.8565564751625061  0.7049556970596315  0.06363308429718025  1.0000
+  Sb  Sb2       1.0  0.4973088204860687  0.10466723889112473  0.3436117470264435  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AlNAlGeH2
+_chemical_formula_sum              "Al2 N1 Ge1 H2"
+_cell_length_a       3.1462875842514606
+_cell_length_b       3.1463210584606416
+_cell_length_c       9.308634807235338
+_cell_angle_alpha    80.22994193825969
+_cell_angle_beta     80.23232729726539
+_cell_angle_gamma    60.00826184495492
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.8873467607128123  0.2986141370934913  0.10763848794440363  1.0000
+  N   N1        1.0  0.07324750168779609  0.48457056224149236  0.5538103523769202  1.0000
+  Al  Al2       1.0  0.715985649548855  0.1272768122256998  0.6252693442943005  1.0000
+  Ge  Ge1       1.0  0.6224225030798647  0.03374560344402204  0.9027441736578479  1.0000
+  H   H1        1.0  0.11121840174701898  0.5225851029548646  0.4405007736193956  1.0000
+  H   H2        1.0  0.829094311488118  0.24020923486650023  0.28450436851918365  1.0000

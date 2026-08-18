@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaF2NaF2
+_chemical_formula_sum              "Ca1 F4 Na1"
+_cell_length_a       4.132539624908395
+_cell_length_b       4.7618803874614235
+_cell_length_c       4.141237258911133
+_cell_angle_alpha    90.11744077823381
+_cell_angle_beta     90.13410644251455
+_cell_angle_gamma    90.04532081103598
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.17207689583301544  0.44910803437232966  0.041626308113336556  1.0000
+  F   F1        1.0  0.6718541979789734  0.20551227033138278  0.04166317731142045  1.0000
+  F   F2        1.0  0.17188456654548645  0.693761944770813  0.5418325662612915  1.0000
+  Na  Na1       1.0  0.6722970008850098  0.949209451675415  0.5419827103614807  1.0000
+  F   F3        1.0  0.17240415513515472  0.20450545847415924  0.5418643951416016  1.0000
+  F   F4        1.0  0.6716518402099609  0.6948863863945007  0.04178200662136078  1.0000

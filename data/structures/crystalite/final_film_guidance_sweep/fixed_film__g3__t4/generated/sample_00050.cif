@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_InCNO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38848877
+_cell_length_b   5.25748539
+_cell_length_c   5.39508152
+_cell_angle_alpha   103.60463715
+_cell_angle_beta   100.72262573
+_cell_angle_gamma   93.89135742
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InCNO9
+_chemical_formula_sum   'In1 C1 N1 O9'
+_cell_volume   118.05757962
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.35445023  0.67485756  0.79952121  1
+  C  C1  1  0.84941494  0.05393648  0.34572935  1
+  O  O2  1  0.97451603  0.47032985  0.63167864  1
+  O  O3  1  0.56961405  0.13948166  0.10863516  1
+  O  O4  1  0.07818782  0.01814792  0.51310956  1
+  O  O5  1  0.58772343  0.90918696  0.39969811  1
+  O  O6  1  0.85227078  0.83667624  0.11633533  1
+  N  N7  1  0.30408141  0.47547486  0.85909986  1
+  O  O8  1  0.44866592  0.50743002  0.62950313  1
+  In  In9  1  0.59266543  0.87174010  0.61821121  1
+  O  O10  1  0.88603878  0.97101080  0.83419567  1
+  O  O11  1  0.03566962  0.44859424  0.98883265  1

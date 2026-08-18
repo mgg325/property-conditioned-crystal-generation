@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_CsAlPSe2ClO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.23978209
+_cell_length_b   2.38903022
+_cell_length_c   3.58057284
+_cell_angle_alpha   117.42448425
+_cell_angle_beta   111.03580475
+_cell_angle_gamma   102.61702728
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsAlPSe2ClO5
+_chemical_formula_sum   'Cs1 Al1 P1 Se2 Cl1 O5'
+_cell_volume   20.34780699
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.44650418  0.55339479  0.85914499  1
+  Al  Al1  1  0.25421703  0.53884387  0.51899159  1
+  P  P2  1  0.95617354  0.48105955  0.56342143  1
+  Se  Se3  1  0.02414486  0.57066858  0.72981727  1
+  O  O4  1  0.78881568  0.39481911  0.77903187  1
+  O  O5  1  0.17223185  0.60060441  0.29712462  1
+  O  O6  1  0.17514879  0.75887108  0.06766525  1
+  Cl  Cl7  1  0.46347177  0.37707758  0.80557883  1
+  O  O8  1  0.45243865  0.54008001  0.78603649  1
+  Se  Se9  1  0.30868122  0.75715995  0.50426757  1
+  Cs  Cs10  1  0.00910926  0.19279820  0.53472841  1

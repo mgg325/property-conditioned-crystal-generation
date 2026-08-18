@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SrNdCd3Nd
+_chemical_formula_sum              "Sr1 Nd2 Cd3"
+_cell_length_a       3.8822797193309175
+_cell_length_b       3.9077090888485433
+_cell_length_c       11.72276782989502
+_cell_angle_alpha    89.58503435782154
+_cell_angle_beta     87.89508149624594
+_cell_angle_gamma    89.04403555458046
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.7553779482841492  0.5650442838668823  0.6958786249160767  1.0000
+  Nd  Nd1       1.0  0.7550665736198425  0.5644034743309021  0.3557702600955963  1.0000
+  Cd  Cd1       1.0  0.256152868270874  0.06439168751239777  0.5113509297370911  1.0000
+  Cd  Cd2       1.0  0.2556154429912567  0.064321331679821  0.19412162899971008  1.0000
+  Cd  Cd3       1.0  0.25725898146629333  0.06448271870613097  0.8776494264602661  1.0000
+  Nd  Nd2       1.0  0.7550263404846191  0.5651828646659851  0.03408990055322647  1.0000

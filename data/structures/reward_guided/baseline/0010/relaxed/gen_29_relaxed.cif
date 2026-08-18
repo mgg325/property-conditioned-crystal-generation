@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_SmZnPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01373902
+_cell_length_b   7.32960392
+_cell_length_c   7.33018610
+_cell_angle_alpha   120.00040206
+_cell_angle_beta   90.00014973
+_cell_angle_gamma   89.99950138
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmZnPd
+_chemical_formula_sum   'Sm3 Zn3 Pd3'
+_cell_volume   186.75554714
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.66662600  0.85333242  0.83759512  1
+  Sm  Sm1  1  0.66656138  0.44598114  0.24476832  1
+  Sm  Sm2  1  0.66662752  0.26043425  0.65197193  1
+  Zn  Zn3  1  0.16657027  0.10073433  0.24501294  1
+  Zn  Zn4  1  0.16657454  0.60573260  0.99724196  1
+  Zn  Zn5  1  0.16654463  0.85332772  0.49218688  1
+  Pd  Pd6  1  0.66653303  0.85319404  0.24454457  1
+  Pd  Pd7  1  0.16651914  0.51984770  0.57806816  1
+  Pd  Pd8  1  0.16660185  0.18668605  0.91150976  1

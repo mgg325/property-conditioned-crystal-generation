@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       GeKO2HgO2
+_chemical_formula_sum              "Ge1 K1 O4 Hg1"
+_cell_length_a       5.944220082887859
+_cell_length_b       5.92499382616193
+_cell_length_c       5.522812366485596
+_cell_angle_alpha    122.40525551557144
+_cell_angle_beta     122.47439062837117
+_cell_angle_gamma    90.05415103315332
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.32517632842063904  0.4524559080600739  0.4581683874130248  1.0000
+  K   K1        1.0  0.8255125284194946  0.9514936208724976  0.45846122503280623  1.0000
+  O   O1        1.0  0.6185970306396484  0.7859545350074768  0.7364842295646665  1.0000
+  O   O2        1.0  0.3838409185409546  0.1622285693883896  0.18655365705490107  1.0000
+  Hg  Hg1       1.0  0.5762317180633545  0.202235147356987  0.9586700797080994  1.0000
+  O   O3        1.0  0.9939600229263306  0.46828481554985046  0.18248397111892684  1.0000
+  O   O4        1.0  0.30695071816444397  0.39314812421798706  0.7317613363265991  1.0000

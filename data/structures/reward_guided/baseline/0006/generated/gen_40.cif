@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Dy3ODyHg2O
+_chemical_formula_sum              "Dy4 O2 Hg2"
+_cell_length_a       3.7544329489417487
+_cell_length_b       7.428550123116176
+_cell_length_c       7.148566246032715
+_cell_angle_alpha    107.36231464395372
+_cell_angle_beta     90.00751571262121
+_cell_angle_gamma    104.72531300777032
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.1223033592104912  0.4221898019313813  0.4637768566608429  1.0000
+  Dy  Dy2       1.0  0.801005482673645  0.7783321738243103  0.8571756482124329  1.0000
+  Dy  Dy3       1.0  0.38087236881256104  0.938113272190094  0.5224297046661378  1.0000
+  O   O1        1.0  0.265870064496994  0.7083634734153748  0.6875758171081543  1.0000
+  Dy  Dy4       1.0  0.05814324691891671  0.29195651412010193  0.914478063583374  1.0000
+  Hg  Hg1       1.0  0.46712341904640203  0.11015824973583223  0.17111483216285706  1.0000
+  Hg  Hg2       1.0  0.713579535484314  0.6043683290481567  0.20676322281360626  1.0000
+  O   O2        1.0  0.9158326983451843  0.008145570755004883  0.6915115118026733  1.0000

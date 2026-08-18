@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Zn2BiPbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38083363
+_cell_length_b   5.56950521
+_cell_length_c   5.74426889
+_cell_angle_alpha   117.49134827
+_cell_angle_beta   89.54746246
+_cell_angle_gamma   118.57744598
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2BiPbO6
+_chemical_formula_sum   'Zn2 Bi1 Pb1 O6'
+_cell_volume   128.99845235
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.90110159  0.83815670  0.63971722  1
+  Zn  Zn1  1  0.63223439  0.96767145  0.82481110  1
+  O  O2  1  0.72220945  0.86327565  0.11212769  1
+  Bi  Bi3  1  0.13457781  0.97922051  0.34252381  1
+  Zn  Zn4  1  0.86099398  0.38824919  0.49288133  1
+  O  O5  1  0.39110389  0.21044567  0.19044280  1
+  O  O6  1  0.97196651  0.48953062  0.14528596  1
+  O  O7  1  0.19967279  0.40398040  0.63428730  1
+  O  O8  1  0.51752418  0.15123332  0.64949274  1
+  Pb  Pb9  1  0.37117463  0.44823176  0.99202424  1

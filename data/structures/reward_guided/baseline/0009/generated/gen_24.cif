@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ZnCaTbAu
+_chemical_formula_sum              "Zn1 Ca1 Tb1 Au1"
+_cell_length_a       5.103972310403171
+_cell_length_b       5.1040487217336326
+_cell_length_c       5.105733394622803
+_cell_angle_alpha    59.97645126064337
+_cell_angle_beta     60.10664333814835
+_cell_angle_gamma    60.035335831606105
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.6142460107803345  0.17129956185817719  0.09617032855749134  1.0000
+  Ca  Ca1       1.0  0.8645525574684143  0.4218153953552246  0.346410483121872  1.0000
+  Tb  Tb1       1.0  0.36425492167472834  0.9217854142189026  0.8464059233665466  1.0000
+  Au  Au1       1.0  0.11440234631299978  0.6718806028366088  0.5963439345359802  1.0000

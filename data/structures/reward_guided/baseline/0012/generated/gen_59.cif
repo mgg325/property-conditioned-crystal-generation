@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CuErPdSi2
+_chemical_formula_sum              "Cu1 Er1 Pd1 Si2"
+_cell_length_a       4.005271898370167
+_cell_length_b       4.004790707409671
+_cell_length_c       5.785271167755127
+_cell_angle_alpha    110.44309982732065
+_cell_angle_beta     110.40711720232346
+_cell_angle_gamma    90.4687099407604
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.526203989982605  0.21966752409934998  0.9732849001884462  1.0000
+  Er  Er1       1.0  0.776084840297699  0.9699605703353882  0.47338366508483887  1.0000
+  Pd  Pd1       1.0  0.026117773726582527  0.7202622890472412  0.973327934741974  1.0000
+  Si  Si1       1.0  0.1618468463420868  0.3554525375366211  0.24438688158988955  1.0000
+  Si  Si2       1.0  0.3907804787158966  0.5846391320228577  0.7023515105247498  1.0000

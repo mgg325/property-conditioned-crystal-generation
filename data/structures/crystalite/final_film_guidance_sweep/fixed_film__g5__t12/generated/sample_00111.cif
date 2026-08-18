@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Tc7Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.48006678
+_cell_length_b   4.24868870
+_cell_length_c   4.53828287
+_cell_angle_alpha   118.00343323
+_cell_angle_beta   116.68915558
+_cell_angle_gamma   91.58946991
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tc7Se
+_chemical_formula_sum   'Tc7 Se1'
+_cell_volume   35.95553132
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tc  Tc0  1  0.39116514  0.26378277  0.23643675  1
+  Tc  Tc1  1  0.24387008  0.89707017  0.55597478  1
+  Tc  Tc2  1  0.03216264  0.52913195  0.08885327  1
+  Tc  Tc3  1  0.63180685  0.80862045  0.42909393  1
+  Tc  Tc4  1  0.74210548  0.95792806  0.12745994  1
+  Tc  Tc5  1  0.44942123  0.59792483  0.86810750  1
+  Tc  Tc6  1  0.93249762  0.36601648  0.55963045  1
+  Se  Se7  1  0.02259889  0.98066521  0.83835334  1

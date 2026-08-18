@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Si2PbAu4S5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.23884386
+_cell_length_b   5.81951905
+_cell_length_c   11.59399849
+_cell_angle_alpha   94.36685811
+_cell_angle_beta   91.64739601
+_cell_angle_gamma   91.10507412
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si2PbAu4S5
+_chemical_formula_sum   'Si2 Pb1 Au4 S5'
+_cell_volume   284.98681762
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.82993279  0.42878893  0.74479770  1
+  Si  Si1  1  0.42167967  0.43078662  0.45474801  1
+  Pb  Pb2  1  0.04166492  0.72382489  0.13552787  1
+  Au  Au3  1  0.45142903  0.29637625  0.94705833  1
+  Au  Au4  1  0.57955341  0.89359045  0.47104142  1
+  Au  Au5  1  0.92216013  0.29025314  0.37435956  1
+  Au  Au6  1  0.19328006  0.64043679  0.63918735  1
+  S  S7  1  0.49701608  0.64894062  0.83244418  1
+  S  S8  1  1.06373633  0.18104435  0.18196401  1
+  S  S9  1  0.08170372  1.00951025  0.56379282  1
+  S  S10  1  0.53750007  0.65976441  0.29398295  1
+  S  S11  1  0.94507645  0.17961429  0.86562608  1

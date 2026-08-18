@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiAuErCu
+_chemical_formula_sum              "Li1 Au1 Er1 Cu1"
+_cell_length_a       4.576918120796847
+_cell_length_b       4.613402380997263
+_cell_length_c       4.630062103271484
+_cell_angle_alpha    61.37293612236723
+_cell_angle_beta     60.8692617585581
+_cell_angle_gamma    62.00089851691125
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.8842309713363647  0.6548072099685669  0.028695955872535706  1.0000
+  Au  Au1       1.0  0.6325049996376038  0.4008292555809021  0.7785248160362244  1.0000
+  Er  Er1       1.0  0.3869771957397461  0.15010827779769897  0.5271162390708923  1.0000
+  Cu  Cu1       1.0  0.13582482933998108  0.9053021669387817  0.28108659386634827  1.0000

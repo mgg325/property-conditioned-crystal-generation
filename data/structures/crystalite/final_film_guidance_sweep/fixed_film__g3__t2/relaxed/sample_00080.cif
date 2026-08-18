@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_KSiF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.21264416
+_cell_length_b   6.35422222
+_cell_length_c   6.73998141
+_cell_angle_alpha   58.68826493
+_cell_angle_beta   58.92372378
+_cell_angle_gamma   58.87667295
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSiF8
+_chemical_formula_sum   'K1 Si1 F8'
+_cell_volume   183.11080435
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.81162463  0.09238222  0.70953160  1
+  Si  Si1  1  0.32821004  0.58449074  0.23143819  1
+  F  F2  1  0.11108464  0.78567055  0.06218813  1
+  F  F3  1  0.39423063  0.79107816  0.53264858  1
+  F  F4  1  0.26134729  0.55093734  0.83353835  1
+  F  F5  1  0.53438116  0.41285858  1.02671216  1
+  F  F6  1  0.10972113  0.76140001  0.42544875  1
+  F  F7  1  0.14691600  0.37684171  0.40707756  1
+  F  F8  1  0.50110695  0.79351574  0.05262066  1
+  F  F9  1  0.53641154  0.38169038  0.39675877  1

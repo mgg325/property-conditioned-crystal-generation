@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsLi2BeNO6F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.63281835
+_cell_length_b   4.00930085
+_cell_length_c   4.89449298
+_cell_angle_alpha   116.89052089
+_cell_angle_beta   93.54423601
+_cell_angle_gamma   89.56616586
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsLi2BeNO6F
+_chemical_formula_sum   'Cs1 Li2 Be1 N1 O6 F1'
+_cell_volume   45.97847675
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.38325160  0.98458686  0.62983411  1
+  Li  Li1  1  0.94571116  0.69473604  0.50164250  1
+  Li  Li2  1  0.30209470  0.36877118  0.44880184  1
+  Be  Be3  1  0.97590104  0.42363581  0.09702427  1
+  N  N4  1  0.92154322  0.78808396  0.18381449  1
+  O  O5  1  0.31046441  0.82049491  0.66366993  1
+  O  O6  1  0.87330425  0.57842689  0.17431136  1
+  O  O7  1  0.14108368  0.16152360  0.83636014  1
+  O  O8  1  0.89684296  0.08702133  0.47451605  1
+  O  O9  1  0.53571435  0.03257806  0.19894245  1
+  O  O10  1  0.18765707  0.74130055  0.09494449  1
+  F  F11  1  0.35669359  0.07855232  0.83709361  1

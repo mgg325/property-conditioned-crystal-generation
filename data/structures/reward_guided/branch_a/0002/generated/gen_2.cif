@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       InBiPbInBi2Pb
+_chemical_formula_sum              "In2 Bi3 Pb2"
+_cell_length_a       5.084362098482998
+_cell_length_b       5.962789457112268
+_cell_length_c       7.734435558319092
+_cell_angle_alpha    97.6833237658459
+_cell_angle_beta     89.78205117424358
+_cell_angle_gamma    115.22979698923167
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.9361809492111205  0.8229048252105713  0.3849904239177704  1.0000
+  Bi  Bi1       1.0  0.22901330888271335  0.4069270491600037  0.2314722687005997  1.0000
+  Pb  Pb1       1.0  0.36691373586654663  0.68551504611969  0.6689525246620178  1.0000
+  In  In2       1.0  0.8021013140678406  0.5530154705047607  0.9646984934806825  1.0000
+  Bi  Bi2       1.0  0.5128409266471863  0.9786630868911744  0.11595273017883305  1.0000
+  Bi  Bi3       1.0  0.6550705432891846  0.26150137186050415  0.5516510605812074  1.0000
+  Pb  Pb2       1.0  0.08055751770734787  0.11274075508117677  0.8115663528442383  1.0000

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Si2P2ClO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.52479970
+_cell_length_b   6.21063544
+_cell_length_c   6.29475481
+_cell_angle_alpha   109.74146403
+_cell_angle_beta   89.62224009
+_cell_angle_gamma   90.92632228
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si2P2ClO9
+_chemical_formula_sum   'Si2 P2 Cl1 O9'
+_cell_volume   166.47584007
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.27075514  0.02120051  0.73441854  1
+  Si  Si1  1  0.81766820  0.80233154  0.97423036  1
+  P  P2  1  0.14771314  0.72568091  0.37849854  1
+  P  P3  1  0.78402883  0.31193760  1.01344562  1
+  Cl  Cl4  1  0.71193350  0.27507791  0.29368387  1
+  O  O5  1  0.36234673  0.55223636  0.27471962  1
+  O  O6  1  0.59754611  0.11178863  0.82685658  1
+  O  O7  1  0.08509666  0.23748061  0.88857133  1
+  O  O8  1  0.71832216  0.28340745  0.27318717  1
+  O  O9  1  0.74948544  0.53143462  0.95544013  1
+  O  O10  1  0.19288999  -0.00169902  0.46381150  1
+  O  O11  1  0.85996552  0.65988605  0.44135800  1
+  O  O12  1  0.54224104  0.91208204  0.12888748  1
+  O  O13  1  0.18763003  0.78096890  0.75384522  1

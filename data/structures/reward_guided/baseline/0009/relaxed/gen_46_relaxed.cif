@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Er2Ge2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.32268211
+_cell_length_b   5.77187588
+_cell_length_c   9.53263990
+_cell_angle_alpha   81.89752313
+_cell_angle_beta   76.89523168
+_cell_angle_gamma   68.00909755
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2Ge2Au
+_chemical_formula_sum   'Er4 Ge4 Au2'
+_cell_volume   214.37749482
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.05013046  0.62707131  0.42524688  1
+  Er  Er1  1  0.23924391  0.03063155  0.64346985  1
+  Er  Er2  1  0.05200505  0.98019375  0.06830285  1
+  Er  Er3  1  0.86291297  0.57666653  0.85005461  1
+  Ge  Ge4  1  0.58428339  0.13007949  0.85389893  1
+  Ge  Ge5  1  0.41492400  0.01787604  0.30485916  1
+  Ge  Ge6  1  0.68722128  0.58936741  0.18869120  1
+  Ge  Ge7  1  0.51783419  0.47725202  0.63966647  1
+  Au  Au8  1  0.33323735  0.40455236  0.08142336  1
+  Au  Au9  1  0.76890728  0.20270364  0.41209742  1

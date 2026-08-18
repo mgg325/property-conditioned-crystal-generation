@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NaLiMnFe3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99516337
+_cell_length_b   6.09248706
+_cell_length_c   6.03077232
+_cell_angle_alpha   61.16907673
+_cell_angle_beta   60.20788118
+_cell_angle_gamma   60.19711170
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLiMnFe3O8
+_chemical_formula_sum   'Na1 Li1 Mn1 Fe3 O8'
+_cell_volume   157.57620651
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.90831254  0.07444588  0.17357472  1
+  Li  Li1  1  0.67039594  0.82992897  0.92322603  1
+  Mn  Mn2  1  0.77707488  0.46277187  0.55272059  1
+  Fe  Fe3  1  0.27988866  0.46180948  0.55367005  1
+  Fe  Fe4  1  0.27958956  0.46133154  0.05189626  1
+  Fe  Fe5  1  0.27942649  0.96174570  0.55231521  1
+  O  O6  1  0.52765464  0.25560990  0.78067235  1
+  O  O7  1  0.03288187  0.65225013  0.33205357  1
+  O  O8  1  0.07019108  0.69984842  0.78957967  1
+  O  O9  1  0.52804928  0.69198155  0.34388425  1
+  O  O10  1  0.52612978  0.69484999  0.78467334  1
+  O  O11  1  0.03143836  0.24081513  0.74632413  1
+  O  O12  1  0.03129696  0.23674402  0.32611897  1
+  O  O13  1  0.47198868  0.23059068  0.32128526  1

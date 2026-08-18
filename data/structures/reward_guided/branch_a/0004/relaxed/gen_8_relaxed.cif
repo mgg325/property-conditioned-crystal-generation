@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ho2TeO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90841617
+_cell_length_b   3.90978249
+_cell_length_c   6.79710977
+_cell_angle_alpha   106.73667290
+_cell_angle_beta   106.56146693
+_cell_angle_gamma   90.00463712
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2TeO2
+_chemical_formula_sum   'Ho2 Te1 O2'
+_cell_volume   94.95786460
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.98573451  0.09778165  0.52838696  1
+  Ho  Ho1  1  0.65881622  0.77315029  0.87899577  1
+  Te  Te2  1  0.32197491  0.43499495  0.20430804  1
+  O  O3  1  0.07190517  0.68558567  0.70339915  1
+  O  O4  1  0.57253198  0.18487681  0.70389573  1

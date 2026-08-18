@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BaMgSnGe2H3(SeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.43920445
+_cell_length_b   3.06650734
+_cell_length_c   5.76056623
+_cell_angle_alpha   93.97643280
+_cell_angle_beta   90.32034302
+_cell_angle_gamma   98.58184814
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaMgSnGe2H3(SeO4)2
+_chemical_formula_sum   'Ba1 Mg1 Sn1 Ge2 H3 Se2 O8'
+_cell_volume   59.92027589
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.56525165  0.96873474  0.88144058  1
+  O  O1  1  0.27332067  0.72433591  0.11905062  1
+  Ge  Ge2  1  0.39498696  0.97633398  0.26515561  1
+  O  O3  1  0.32775810  0.66936719  0.91138613  1
+  O  O4  1  0.51444370  0.05383185  0.65014231  1
+  Se  Se5  1  0.69094354  0.37236297  0.53550571  1
+  O  O6  1  0.79459369  0.83912563  0.32767969  1
+  Ba  Ba7  1  0.45371830  0.52231789  0.27444226  1
+  O  O8  1  0.68426669  0.37093329  0.20464632  1
+  Ge  Ge9  1  0.41791871  0.54102904  0.27311474  1
+  H  H10  1  0.32478991  0.71883988  0.69284064  1
+  Mg  Mg11  1  0.92285407  0.88982344  0.48402414  1
+  O  O12  1  0.75008273  0.01176253  0.69100195  1
+  O  O13  1  0.32890993  0.80310285  0.51726210  1
+  H  H14  1  0.36231989  0.50428313  0.86088735  1
+  O  O15  1  0.61031628  0.38093132  0.24155471  1
+  Se  Se16  1  0.65304357  0.03612208  0.73417854  1
+  H  H17  1  0.18616384  0.99357980  0.68179530  1

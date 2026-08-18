@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       BiTlSe2
+_chemical_formula_sum              "Bi1 Tl1 Se2"
+_cell_length_a       4.271317082668652
+_cell_length_b       4.273612642181353
+_cell_length_c       8.307771283367437
+_cell_angle_alpha    75.0841456619528
+_cell_angle_beta     75.08751841798463
+_cell_angle_gamma    60.01148161272773
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.693537325049164  0.6853828020667422  0.7218216283819147  1.0000
+  Tl  Tl1       1.0  0.8648827932671058  0.8563703396845074  0.20760527522315486  1.0000
+  Se  Se1       1.0  0.28839209231486423  0.27964223247274084  0.9356842758556227  1.0000
+  Se  Se2       1.0  0.09574256868484524  0.0881364210870411  0.512945674237846  1.0000

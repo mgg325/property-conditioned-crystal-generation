@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AuAgCdAg
+_chemical_formula_sum              "Au1 Ag2 Cd1"
+_cell_length_a       4.189264793909293
+_cell_length_b       4.162879510575727
+_cell_length_c       5.16786003112793
+_cell_angle_alpha    113.98131482200401
+_cell_angle_beta     113.42460707345855
+_cell_angle_gamma    89.32176497710161
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.23287211358547208  0.2800851464271545  0.366844117641449  1.0000
+  Ag  Ag1       1.0  0.9829207062721251  0.530898094177246  0.866910457611084  1.0000
+  Cd  Cd1       1.0  0.7317646145820615  0.7811516523361205  0.3673031926155089  1.0000
+  Ag  Ag2       1.0  0.4837853908538818  0.031676892191171646  0.8666250705718994  1.0000

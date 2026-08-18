@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Al3LiAl2
+_chemical_formula_sum              "Al5 Li1"
+_cell_length_a       2.8244080433030905
+_cell_length_b       4.722718288848947
+_cell_length_c       7.35480260848999
+_cell_angle_alpha    90.0270637136008
+_cell_angle_beta     101.06182207894321
+_cell_angle_gamma    89.88250959042921
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.7604597806930542  0.9126853346824646  0.8152950406074524  1.0000
+  Al  Al2       1.0  0.871429979801178  0.41214367747306824  0.03810492530465125  1.0000
+  Al  Al3       1.0  0.09243793785572052  0.9127883315086365  0.4834340810775757  1.0000
+  Li  Li1       1.0  0.20618225634098053  0.4129927456378937  0.7086609601974487  1.0000
+  Al  Al4       1.0  0.4269929826259613  0.9129511713981628  0.15138272941112518  1.0000
+  Al  Al5       1.0  0.5379003882408142  0.412249892950058  0.3726347088813782  1.0000

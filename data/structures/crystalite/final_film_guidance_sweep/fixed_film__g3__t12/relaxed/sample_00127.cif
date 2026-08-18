@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_U4GaTc2XeIN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43744931
+_cell_length_b   6.21825846
+_cell_length_c   7.95029331
+_cell_angle_alpha   105.72917232
+_cell_angle_beta   126.51857549
+_cell_angle_gamma   85.09969370
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U4GaTc2XeIN
+_chemical_formula_sum   'U4 Ga1 Tc2 Xe1 I1 N1'
+_cell_volume   244.99924539
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.75179793  0.53758042  0.55847273  1
+  U  U1  1  0.18139556  0.37375980  0.47448438  1
+  U  U2  1  0.70777107  0.03609511  0.46558525  1
+  U  U3  1  0.30348439  0.29424740  0.01389177  1
+  Ga  Ga4  1  0.29937430  0.77102180  -0.06309020  1
+  Tc  Tc5  1  0.73510566  0.63301259  0.24796361  1
+  Tc  Tc6  1  0.72492715  0.10084251  0.17815947  1
+  Xe  Xe7  1  0.74037235  0.31569923  0.89312908  1
+  I  I8  1  0.21221017  0.84533261  0.41410047  1
+  N  N9  1  0.38618995  0.28889670  0.33237934  1

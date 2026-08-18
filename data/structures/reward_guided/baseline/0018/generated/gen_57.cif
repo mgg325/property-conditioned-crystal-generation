@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaLiCaGa
+_chemical_formula_sum              "Na1 Li1 Ca1 Ga1"
+_cell_length_a       5.176313514479356
+_cell_length_b       5.190824048052172
+_cell_length_c       5.193363666534424
+_cell_angle_alpha    60.50049160341342
+_cell_angle_beta     59.37822208285574
+_cell_angle_gamma    59.836438163182144
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.1203887239098549  0.718229353427887  0.35798653960227966  1.0000
+  Li  Li1       1.0  0.8721317052841187  0.4677860140800476  0.10930145531892776  1.0000
+  Ca  Ca1       1.0  0.6206061840057373  0.21894384920597076  0.8576973080635071  1.0000
+  Ga  Ga1       1.0  0.3709152042865753  0.9684661626815796  0.6076970100402831  1.0000

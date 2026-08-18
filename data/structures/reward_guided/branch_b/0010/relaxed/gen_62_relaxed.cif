@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_MnGaFe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.89494634
+_cell_length_b   2.89603829
+_cell_length_c   5.61141980
+_cell_angle_alpha   89.99887089
+_cell_angle_beta   90.00476128
+_cell_angle_gamma   89.99673648
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnGaFe2
+_chemical_formula_sum   'Mn1 Ga1 Fe2'
+_cell_volume   47.04544442
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.17126378  0.53426666  0.09402301  1
+  Ga  Ga1  1  0.17067708  0.53333733  0.59341969  1
+  Fe  Fe2  1  0.67038088  0.03377417  0.85334632  1
+  Fe  Fe3  1  0.67126318  0.03401796  0.33392345  1

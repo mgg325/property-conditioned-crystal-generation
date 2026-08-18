@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AlNdZnAuZn
+_chemical_formula_sum              "Al1 Nd1 Zn2 Au1"
+_cell_length_a       4.342779457232334
+_cell_length_b       4.384049673590663
+_cell_length_c       6.095447063446045
+_cell_angle_alpha    111.10306549105313
+_cell_angle_beta     110.89992837625644
+_cell_angle_gamma    90.01428501937679
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.28135883808135986  0.22211562097072599  0.06740301847457884  1.0000
+  Nd  Nd1       1.0  0.6629562377929688  0.6042502522468567  0.8306517004966736  1.0000
+  Zn  Zn1       1.0  0.046164523810148225  0.9871553182601928  0.5976220965385437  1.0000
+  Au  Au1       1.0  0.9094718098640442  0.3505039811134338  0.32421553134918213  1.0000
+  Zn  Zn2       1.0  0.4148910045623779  0.8556307554244994  0.3344872593879699  1.0000

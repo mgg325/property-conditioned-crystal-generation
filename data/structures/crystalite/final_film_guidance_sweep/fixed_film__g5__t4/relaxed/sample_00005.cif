@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_AlSe6O7F2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   1.22200322
+_cell_length_b   5.80744088
+_cell_length_c   4.27432101
+_cell_angle_alpha   108.37141122
+_cell_angle_beta   82.38666209
+_cell_angle_gamma   95.09808282
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlSe6O7F2
+_chemical_formula_sum   'Al1 Se6 O7 F2'
+_cell_volume   28.49805294
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.67855119  0.55869223  0.97702176  1
+  Se  Se1  1  0.39635578  0.10341330  0.46794753  1
+  Se  Se2  1  0.49334913  0.27332212  0.44483546  1
+  Se  Se3  1  1.00257115  0.93748841  0.63782319  1
+  Se  Se4  1  0.43034495  0.19549947  0.45066386  1
+  Se  Se5  1  0.84983406  0.86359866  0.97939921  1
+  Se  Se6  1  0.13308407  0.45885008  0.24604121  1
+  O  O7  1  0.21511430  0.75567211  0.16776261  1
+  O  O8  1  0.50748167  0.62757449  0.32747291  1
+  O  O9  1  0.82333105  0.78398188  0.17818791  1
+  O  O10  1  0.07603115  0.06239505  0.48758298  1
+  O  O11  1  0.86964168  0.30134040  0.32755262  1
+  O  O12  1  0.58550644  0.47041701  0.26936799  1
+  O  O13  1  0.24293305  0.28485606  0.33430565  1
+  F  F14  1  0.44709584  0.15784472  0.44433975  1
+  F  F15  1  0.12487463  0.88485555  0.65618719  1

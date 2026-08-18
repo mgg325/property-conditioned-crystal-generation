@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiHOHF
+_chemical_formula_sum              "Li1 H2 O1 F1"
+_cell_length_a       4.238614812233504
+_cell_length_b       3.197440086402396
+_cell_length_c       4.44730281829834
+_cell_angle_alpha    119.21856146794022
+_cell_angle_beta     106.38548924145753
+_cell_angle_gamma    89.89854660609828
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.442466139793396  0.018972253426909447  0.29418694972991943  1.0000
+  H   H1        1.0  0.8639377951622009  0.45490103960037237  0.27552455663681036  1.0000
+  O   O1        1.0  0.7087753415107727  0.6113072037696838  0.42755332589149475  1.0000
+  H   H2        1.0  0.8676905035972595  0.818999707698822  0.6916080713272095  1.0000
+  F   F1        1.0  0.07540254294872284  0.13589385151863098  0.0553884729743004  1.0000

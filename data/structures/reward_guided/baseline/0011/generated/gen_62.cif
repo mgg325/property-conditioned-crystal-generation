@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       HgAgHgAuAgHg2Au3
+_chemical_formula_sum              "Hg4 Ag2 Au4"
+_cell_length_a       5.033760322233828
+_cell_length_b       5.369360515720502
+_cell_length_c       7.759568214416504
+_cell_angle_alpha    109.59077407787437
+_cell_angle_beta     90.01810933673694
+_cell_angle_gamma    89.9790338226445
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.6272361278533936  0.31339770555496216  0.8628857731819152  1.0000
+  Ag  Ag1       1.0  0.12728112936019897  0.9767341017723083  0.8480305671691893  1.0000
+  Hg  Hg2       1.0  0.628662109375  0.12597683072090152  0.4554313421249389  1.0000
+  Au  Au1       1.0  0.6270278692245483  0.9080071449279785  0.052740678191185025  1.0000
+  Ag  Ag2       1.0  0.6275666356086731  0.52625572681427  0.25597336888313293  1.0000
+  Hg  Hg3       1.0  0.12794318795204163  0.7800644040107727  0.45894485712051386  1.0000
+  Hg  Hg4       1.0  0.1277238428592682  0.18285278975963593  0.23727957904338834  1.0000
+  Au  Au2       1.0  0.1271878182888031  0.5877518653869629  0.05103179067373275  1.0000
+  Au  Au3       1.0  0.6271142363548279  0.7155888676643372  0.6575179696083069  1.0000
+  Au  Au4       1.0  0.12710024416446686  0.38836103677749634  0.6589702367782593  1.0000

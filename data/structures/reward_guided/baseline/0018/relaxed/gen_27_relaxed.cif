@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CuPdPt2IBr13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.30102650
+_cell_length_b   7.83494879
+_cell_length_c   11.61925280
+_cell_angle_alpha   89.75923778
+_cell_angle_beta   108.31939515
+_cell_angle_gamma   89.91183421
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuPdPt2IBr13
+_chemical_formula_sum   'Cu1 Pd1 Pt2 I1 Br13'
+_cell_volume   630.96419780
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.05963895  0.48897241  0.14804604  1
+  Pd  Pd1  1  0.55915946  0.48909547  0.14704112  1
+  Pt  Pt2  1  0.80884380  0.99016650  0.64689704  1
+  Pt  Pt3  1  0.30604232  0.99011627  0.64129584  1
+  I  I4  1  0.43782366  0.98812656  0.90441268  1
+  Br  Br5  1  0.92451417  0.98843233  0.87801534  1
+  Br  Br6  1  0.06774325  0.98910395  0.16332255  1
+  Br  Br7  1  0.55652179  0.21113302  0.64461225  1
+  Br  Br8  1  0.23100010  0.48859800  0.99838481  1
+  Br  Br9  1  0.88664440  0.49022002  0.29597513  1
+  Br  Br10  1  0.05896136  0.76917444  0.64497572  1
+  Br  Br11  1  0.69432215  0.99186220  0.41767973  1
+  Br  Br12  1  0.55790520  0.98876684  0.14349965  1
+  Br  Br13  1  0.05816276  0.21111022  0.64475259  1
+  Br  Br14  1  0.55752631  0.76915520  0.64489193  1
+  Br  Br15  1  0.38066393  0.49102717  0.29597374  1
+  Br  Br16  1  0.73860164  0.48671827  0.99839781  1
+  Br  Br17  1  0.18158242  0.99100416  0.39281456  1

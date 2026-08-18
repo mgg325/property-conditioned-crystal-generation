@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiGaS2
+_chemical_formula_sum              "Li1 Ga1 S2"
+_cell_length_a       3.830355323291878
+_cell_length_b       3.833756104834382
+_cell_length_c       6.513105392456055
+_cell_angle_alpha    90.0476703964389
+_cell_angle_beta     90.02599820439156
+_cell_angle_gamma    119.84333506597221
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.3870493173599242  0.8473035693168639  0.13891933858394623  1.0000
+  Ga  Ga1       1.0  0.0537106730043888  0.1819239854812622  0.5874601602554321  1.0000
+  S   S1        1.0  0.38688790798187245  0.8497101068496703  0.7440881729125975  1.0000
+  S   S2        1.0  0.05405503883957862  0.18180760741233826  0.2537440359592438  1.0000

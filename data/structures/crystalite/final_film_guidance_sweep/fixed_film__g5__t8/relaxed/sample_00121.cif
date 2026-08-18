@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_CdGaSi3TcSnGeSb2AsSeS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.18781500
+_cell_length_b   5.19904189
+_cell_length_c   6.90942112
+_cell_angle_alpha   90.17750802
+_cell_angle_beta   89.66246980
+_cell_angle_gamma   133.83504066
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdGaSi3TcSnGeSb2AsSeS
+_chemical_formula_sum   'Cd1 Ga1 Si3 Tc1 Sn1 Ge1 Sb2 As1 Se1 S1'
+_cell_volume   160.33651814
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.94690146  0.59533982  0.28844498  1
+  Ga  Ga1  1  0.60380677  -0.00897938  0.89766500  1
+  Si  Si2  1  0.53911713  0.93694897  0.10514092  1
+  Si  Si3  1  0.93157139  0.03305572  1.01623918  1
+  Si  Si4  1  0.04140054  -0.24720858  0.87430772  1
+  Tc  Tc5  1  0.17212336  0.26446317  0.29710482  1
+  Sn  Sn6  1  0.31771926  0.02862499  0.47282940  1
+  Ge  Ge7  1  0.57217932  0.95038767  0.05236860  1
+  Sb  Sb8  1  0.53015147  0.27989362  0.04259466  1
+  Sb  Sb9  1  0.63320222  0.93068511  0.53455776  1
+  As  As10  1  0.35655851  0.02343383  0.43084806  1
+  Se  Se11  1  0.36493720  0.51396703  0.93668415  1
+  S  S12  1  0.62948415  0.99477571  0.84090361  1

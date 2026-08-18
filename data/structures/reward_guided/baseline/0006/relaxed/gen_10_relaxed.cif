@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_La3MgNiPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.48773424
+_cell_length_b   7.38119334
+_cell_length_c   10.08833634
+_cell_angle_alpha   101.29754319
+_cell_angle_beta   102.85057778
+_cell_angle_gamma   89.99856663
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3MgNiPt
+_chemical_formula_sum   'La6 Mg2 Ni2 Pt2'
+_cell_volume   319.15986844
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.30661907  0.25280763  0.31366851  1
+  La  La1  1  0.24591982  0.67210027  0.19248251  1
+  La  La2  1  0.57209394  0.54418539  0.84479845  1
+  La  La3  1  0.69810409  0.98312023  0.09673485  1
+  La  La4  1  0.51597260  0.01146596  0.73236832  1
+  La  La5  1  0.91062231  0.62762863  0.52177895  1
+  Mg  Mg6  1  0.90770018  0.12175760  0.51576336  1
+  Mg  Mg7  1  0.13218888  0.24539660  0.96499054  1
+  Ni  Ni8  1  0.44109965  0.32699057  0.58257924  1
+  Ni  Ni9  1  0.37298575  0.92182225  0.44628131  1
+  Pt  Pt10  1  0.70917375  0.39493840  0.11891226  1
+  Pt  Pt11  1  0.09815880  0.84264936  0.89694690  1

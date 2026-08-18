@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li5MgLi2
+_chemical_formula_sum              "Li7 Mg1"
+_cell_length_a       6.106397947725289
+_cell_length_b       6.10314034836745
+_cell_length_c       6.105742767611683
+_cell_angle_alpha    60.02530565091982
+_cell_angle_beta     59.97043681976199
+_cell_angle_gamma    60.0120915628072
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.4819862207883812  0.4551711510852952  0.5605292542450698  1.0000
+  Li  Li2       1.0  0.982395070699904  0.4557175579972573  0.06073081433475107  1.0000
+  Li  Li3       1.0  0.4822940902686563  0.9551288570659118  0.5608832762817265  1.0000
+  Li  Li4       1.0  0.4819852257831265  0.9553686318927526  0.060507306652182374  1.0000
+  Li  Li5       1.0  0.9828231981865739  0.9550110282250017  0.5605435808722518  1.0000
+  Mg  Mg1       1.0  0.9826170376967065  0.4551014042332104  0.560889655465125  1.0000
+  Li  Li6       1.0  0.48228242359980744  0.45532220557706377  0.0609787671553666  1.0000
+  Li  Li7       1.0  0.9829739109190755  0.9551765601425536  0.06004166907480637  1.0000

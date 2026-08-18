@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Er3ZrCd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.73516538
+_cell_length_b   3.73384863
+_cell_length_c   11.14889124
+_cell_angle_alpha   90.00010654
+_cell_angle_beta   89.99966792
+_cell_angle_gamma   89.99740966
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er3ZrCd2
+_chemical_formula_sum   'Er3 Zr1 Cd2'
+_cell_volume   155.48848121
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.63089884  0.70300752  0.63668215  1
+  Er  Er1  1  0.63068733  0.70280354  0.30808975  1
+  Er  Er2  1  0.63066533  0.70277939  0.96573513  1
+  Zr  Zr3  1  0.13054407  0.20276744  0.13701801  1
+  Cd  Cd4  1  0.13082085  0.20293473  0.79860722  1
+  Cd  Cd5  1  0.13082201  0.20295964  0.47492100  1

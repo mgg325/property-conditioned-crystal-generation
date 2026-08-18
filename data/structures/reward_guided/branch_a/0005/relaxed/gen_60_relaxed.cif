@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ho5Ga2Cu3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59909820
+_cell_length_b   5.72368705
+_cell_length_c   7.90797716
+_cell_angle_alpha   107.14265922
+_cell_angle_beta   92.69827411
+_cell_angle_gamma   115.34941948
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho5Ga2Cu3
+_chemical_formula_sum   'Ho5 Ga2 Cu3'
+_cell_volume   214.40332673
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.39208361  0.36556853  0.30635711  1
+  Ho  Ho1  1  0.29205219  0.58519439  0.98928531  1
+  Ho  Ho2  1  0.75072531  0.14229255  0.02925892  1
+  Ho  Ho3  1  0.70907809  0.46951957  0.72483372  1
+  Ho  Ho4  1  0.97457337  0.03450496  0.56185721  1
+  Ga  Ga5  1  0.88926029  0.75136169  0.15604106  1
+  Ga  Ga6  1  0.36590488  0.76939035  0.66168770  1
+  Cu  Cu7  1  0.41640321  0.91804431  0.38126987  1
+  Cu  Cu8  1  0.96329857  0.50297551  0.39744188  1
+  Cu  Cu9  1  0.18527244  0.00812485  0.91452407  1

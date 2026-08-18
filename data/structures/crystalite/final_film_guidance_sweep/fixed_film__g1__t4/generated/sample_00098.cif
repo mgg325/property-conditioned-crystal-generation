@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Li2Si2GeH2PdO10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.23955870
+_cell_length_b   5.71685934
+_cell_length_c   7.37244177
+_cell_angle_alpha   109.44867706
+_cell_angle_beta   98.05461121
+_cell_angle_gamma   108.24823761
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Si2GeH2PdO10
+_chemical_formula_sum   'Li2 Si2 Ge1 H2 Pd1 O10'
+_cell_volume   190.25386761
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.42084917  0.40516472  0.03957888  1
+  O  O1  1  0.26441675  0.68460220  0.13173497  1
+  Li  Li2  1  0.84888518  0.11027119  0.68748736  1
+  O  O3  1  0.41458997  0.53932321  0.49533200  1
+  Si  Si4  1  0.76109636  0.11119136  0.11109823  1
+  H  H5  1  0.74423075  0.65130079  0.48744029  1
+  Si  Si6  1  0.50036371  0.40612525  0.63473976  1
+  O  O7  1  0.03454509  0.14211321  0.01389810  1
+  O  O8  1  0.21436110  0.37505221  0.71517527  1
+  O  O9  1  0.49017856  0.12750137  0.51940209  1
+  O  O10  1  0.81972599  0.96881771  0.25932050  1
+  O  O11  1  0.52489311  0.96138364  0.90294635  1
+  O  O12  1  0.95668530  0.77425373  0.58886969  1
+  O  O13  1  0.74863553  0.39117289  0.21628687  1
+  Ge  Ge14  1  0.24493363  0.84728062  0.35488880  1
+  O  O15  1  0.72534418  0.50841284  0.83961898  1
+  H  H16  1  0.96592140  0.60500109  0.26667199  1
+  Pd  Pd17  1  0.10546985  0.72559577  0.86379629  1

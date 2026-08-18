@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta11Cu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.30359698
+_cell_length_b   7.17002595
+_cell_length_c   9.72594483
+_cell_angle_alpha   74.16050008
+_cell_angle_beta   80.22423409
+_cell_angle_gamma   76.68494069
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta11Cu
+_chemical_formula_sum   'Ta11 Cu1'
+_cell_volume   214.26051663
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.26978813  0.01751392  0.19624169  1
+  Ta  Ta1  1  0.76861222  0.52330462  0.69243303  1
+  Ta  Ta2  1  0.43899953  0.18179976  0.69331863  1
+  Ta  Ta3  1  0.35512729  0.60104347  0.44209402  1
+  Ta  Ta4  1  0.85290261  0.10369053  0.94373130  1
+  Ta  Ta5  1  0.93836645  0.68702960  0.18967062  1
+  Ta  Ta6  1  0.68509098  0.93231991  0.45066280  1
+  Ta  Ta7  1  0.18786296  0.43581536  0.94186235  1
+  Ta  Ta8  1  0.60417082  0.35227873  0.19288562  1
+  Ta  Ta9  1  0.52272555  0.77237781  0.93528886  1
+  Ta  Ta10  1  0.02016466  0.26899203  0.44391253  1
+  Cu  Cu11  1  0.10366302  0.85271459  0.69302012  1

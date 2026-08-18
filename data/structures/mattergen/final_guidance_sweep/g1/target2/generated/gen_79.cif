@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       N2OCON
+_chemical_formula_sum              "N3 O2 C1"
+_cell_length_a       3.8835220132732244
+_cell_length_b       5.094883662194936
+_cell_length_c       4.823192119598389
+_cell_angle_alpha    91.45888977941217
+_cell_angle_beta     79.51791590274442
+_cell_angle_gamma    90.8879407258064
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.24476811289787292  0.1396859884262085  0.3353491425514221  1.0000
+  N   N2        1.0  0.45638981461524963  0.6399674415588379  0.6379294991493225  1.0000
+  O   O1        1.0  0.0307916421443224  0.6362504363059999  0.05681472644209862  1.0000
+  C   C1        1.0  0.24486523866653442  0.6381449699401855  0.8441413044929504  1.0000
+  O   O2        1.0  0.46446338295936584  0.1411600559949875  0.12658774852752686  1.0000
+  N   N3        1.0  0.03016219660639763  0.13708995282649997  0.5348289608955383  1.0000

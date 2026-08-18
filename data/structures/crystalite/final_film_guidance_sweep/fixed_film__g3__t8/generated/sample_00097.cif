@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Ca2Sn2SbTeO13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04877234
+_cell_length_b   6.60418749
+_cell_length_c   6.59421444
+_cell_angle_alpha   107.68043518
+_cell_angle_beta   108.42482758
+_cell_angle_gamma   113.14428711
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Sn2SbTeO13
+_chemical_formula_sum   'Ca2 Sn2 Sb1 Te1 O13'
+_cell_volume   200.25570733
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.36781877  0.83662856  0.59826189  1
+  O  O1  1  0.68989438  0.00468135  0.10120681  1
+  O  O2  1  0.99765426  0.57939762  0.59604514  1
+  Ca  Ca3  1  0.71228415  0.18162292  0.58412975  1
+  O  O4  1  0.35121661  0.68136895  0.76443052  1
+  O  O5  1  0.29609984  0.39059651  0.47197938  1
+  O  O6  1  0.52783948  0.54469287  0.81781042  1
+  O  O7  1  0.10521984  0.82880092  0.76281297  1
+  O  O8  1  0.32876348  0.08503968  0.35251898  1
+  O  O9  1  0.14802530  0.68900114  0.62121284  1
+  O  O10  1  0.09958410  0.72672451  0.45400167  1
+  Sb  Sb11  1  0.20440218  0.23385397  0.13403833  1
+  Te  Te12  1  0.65621036  0.74893904  0.58239043  1
+  O  O13  1  0.88253605  0.53100169  0.10146526  1
+  Sn  Sn14  1  0.71822006  0.69505334  0.02123013  1
+  O  O15  1  0.99800634  0.00346956  0.78919137  1
+  O  O16  1  0.29004660  0.35786021  0.23417163  1
+  Ca  Ca17  1  0.26087868  0.68405646  0.14418933  1
+  Sn  Sn18  1  0.16643295  0.19270241  0.56373835  1

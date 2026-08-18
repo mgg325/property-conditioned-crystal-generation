@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_CdSi7Hg2S
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43251467
+_cell_length_b   5.42643356
+_cell_length_c   7.77654934
+_cell_angle_alpha   90.92986298
+_cell_angle_beta   90.06742859
+_cell_angle_gamma   90.35451508
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdSi7Hg2S
+_chemical_formula_sum   'Cd1 Si7 Hg2 S1'
+_cell_volume   229.21153296
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.19964039  0.66062737  0.60449862  1
+  Hg  Hg1  1  0.50871956  0.21832117  0.35820723  1
+  Cd  Cd2  1  0.98061782  0.30862209  0.80800498  1
+  Hg  Hg3  1  0.47916052  0.78167391  0.92800766  1
+  Si  Si4  1  0.42553300  0.24777383  0.72048068  1
+  Si  Si5  1  0.89898503  0.83112919  0.95469117  1
+  Si  Si6  1  0.15437877  0.98914087  0.20508349  1
+  S  S7  1  0.58208352  0.33745658  0.00700170  1
+  Si  Si8  1  0.91202247  0.98808992  0.51619351  1
+  Si  Si9  1  0.16391894  0.62715715  0.23351836  1
+  Si  Si10  1  0.82363594  0.61153942  0.43327329  1

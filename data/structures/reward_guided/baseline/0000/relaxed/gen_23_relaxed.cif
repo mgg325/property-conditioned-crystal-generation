@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaLi6Ag5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12299134
+_cell_length_b   6.77038225
+_cell_length_c   8.66481319
+_cell_angle_alpha   98.39763973
+_cell_angle_beta   103.76684087
+_cell_angle_gamma   107.72575827
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLi6Ag5
+_chemical_formula_sum   'Na1 Li6 Ag5'
+_cell_volume   217.44000238
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.90779415  0.03742420  0.82589016  1
+  Li  Li1  1  0.57711437  0.38666360  0.81564627  1
+  Li  Li2  1  0.60460092  0.14853879  0.10833499  1
+  Li  Li3  1  0.22630657  0.95688147  0.54342846  1
+  Li  Li4  1  0.91624874  0.78064840  0.09980168  1
+  Li  Li5  1  0.21472755  0.67046197  0.80614862  1
+  Li  Li6  1  0.91120352  0.53616689  0.33400342  1
+  Ag  Ag7  1  0.90573830  0.29342742  0.56578902  1
+  Ag  Ag8  1  0.57584428  0.87434457  0.32484955  1
+  Ag  Ag9  1  0.56489054  0.61253152  0.56508618  1
+  Ag  Ag10  1  0.25301080  0.47354395  0.08010784  1
+  Ag  Ag11  1  0.23631426  0.20397487  0.31639561  1

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       YP2Hf
+_chemical_formula_sum              "Y1 P2 Hf1"
+_cell_length_a       3.8369107689458275
+_cell_length_b       3.838556767588799
+_cell_length_c       6.7310075759887695
+_cell_angle_alpha    73.50793728513501
+_cell_angle_beta     73.49708988915685
+_cell_angle_gamma    60.02825960112834
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.8341612219810486  0.7473462820053101  0.999408483505249  1.0000
+  P   P1        1.0  0.590088963508606  0.5035400986671448  0.731017529964447  1.0000
+  P   P2        1.0  0.07809132337570193  0.9914202094078063  0.2673547565937043  1.0000
+  Hf  Hf1       1.0  0.33407095074653625  0.2476096153259277  0.49869251251220703  1.0000

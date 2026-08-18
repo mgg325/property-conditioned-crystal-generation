@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pb4AuPbInPb
+_chemical_formula_sum              "Pb6 Au1 In1"
+_cell_length_a       4.783477273196206
+_cell_length_b       4.789205127180944
+_cell_length_c       10.010322570800781
+_cell_angle_alpha    89.96285310594125
+_cell_angle_beta     90.68881342221813
+_cell_angle_gamma    91.76250560150724
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.12885676324367523  0.3105667233467102  0.4875796437263489  1.0000
+  Pb  Pb2       1.0  0.6289191246032715  0.3114960789680481  0.7282503843307495  1.0000
+  Pb  Pb3       1.0  0.6276929378509521  0.30963778495788574  0.22858764231204987  1.0000
+  Pb  Pb4       1.0  0.6294929385185242  0.8118470907211303  0.9658156633377075  1.0000
+  Au  Au1       1.0  0.12866978347301483  0.8099825382232665  0.7277857065200806  1.0000
+  Pb  Pb5       1.0  0.628383219242096  0.8119162321090698  0.4888582229614258  1.0000
+  In  In1       1.0  0.12855534255504608  0.8109790682792664  0.22913454473018646  1.0000
+  Pb  Pb6       1.0  0.12942956387996674  0.31111252307891846  0.9671301245689392  1.0000

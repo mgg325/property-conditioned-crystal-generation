@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       IrReIrRu
+_chemical_formula_sum              "Ir2 Re1 Ru1"
+_cell_length_a       3.8630880688013227
+_cell_length_b       3.872103441946608
+_cell_length_c       4.705028057098389
+_cell_angle_alpha    113.5631784915902
+_cell_angle_beta     114.18268970935839
+_cell_angle_gamma    90.52118713366109
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.13755327463150024  0.5849634408950806  0.5965014696121216  1.0000
+  Re  Re1       1.0  0.6371099352836609  0.0834541991353035  0.5964686870574951  1.0000
+  Ir  Ir2       1.0  0.8855990171432495  0.8323052525520325  0.0968201532959938  1.0000
+  Ru  Ru1       1.0  0.38629859685897827  0.3325239419937134  0.09696662425994873  1.0000

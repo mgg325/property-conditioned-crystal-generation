@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_BaLi(TlSn)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31192814
+_cell_length_b   5.31554753
+_cell_length_c   7.63293125
+_cell_angle_alpha   90.17894752
+_cell_angle_beta   89.98167438
+_cell_angle_gamma   119.97145825
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLi(TlSn)2
+_chemical_formula_sum   'Ba1 Li1 Tl2 Sn2'
+_cell_volume   186.70005683
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.66494925  0.10372927  0.36831445  1
+  Li  Li1  1  0.66499075  0.10374336  0.86827422  1
+  Tl  Tl2  1  0.33206303  0.43809905  0.66454795  1
+  Tl  Tl3  1  0.99788474  0.76941300  0.07214850  1
+  Sn  Sn4  1  0.33109704  0.43574877  0.07914396  1
+  Sn  Sn5  1  0.99886357  0.77173866  0.65753053  1

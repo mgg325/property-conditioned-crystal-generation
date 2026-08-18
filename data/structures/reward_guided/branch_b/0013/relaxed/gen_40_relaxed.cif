@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Li2Nd7Ni2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35384507
+_cell_length_b   6.97004388
+_cell_length_c   6.42381604
+_cell_angle_alpha   103.93951811
+_cell_angle_beta   100.05556740
+_cell_angle_gamma   97.84417330
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Nd7Ni2
+_chemical_formula_sum   'Li2 Nd7 Ni2'
+_cell_volume   309.11730068
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.61861441  0.96576951  0.13919172  1
+  Li  Li1  1  0.37922064  0.19478995  0.98196394  1
+  Nd  Nd2  1  0.75656404  0.51207257  0.11379955  1
+  Nd  Nd3  1  0.99829577  0.08102930  0.05950425  1
+  Nd  Nd4  1  0.23985299  0.64931536  1.00579616  1
+  Nd  Nd5  1  0.92329433  0.31449475  0.57861065  1
+  Nd  Nd6  1  0.55734870  0.83651747  0.58470307  1
+  Nd  Nd7  1  0.07334351  0.84714199  0.54057060  1
+  Nd  Nd8  1  0.43929902  0.32413817  0.53543798  1
+  Ni  Ni9  1  0.16935708  0.48553046  0.33601765  1
+  Ni  Ni10  1  0.82802121  0.67626072  0.78446132  1

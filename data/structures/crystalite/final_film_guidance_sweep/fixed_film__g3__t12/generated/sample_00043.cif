@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_RbNaAcYbSiBiP4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.40088606
+_cell_length_b   8.25232410
+_cell_length_c   6.37956905
+_cell_angle_alpha   96.59132385
+_cell_angle_beta   89.69818878
+_cell_angle_gamma   110.65231323
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbNaAcYbSiBiP4
+_chemical_formula_sum   'Rb1 Na1 Ac1 Yb1 Si1 Bi1 P4'
+_cell_volume   264.11605257
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.61730993  0.86345035  0.03371218  1
+  Ac  Ac1  1  0.51626104  0.91292405  0.70936871  1
+  P  P2  1  0.90672898  0.49478024  0.97765750  1
+  Si  Si3  1  0.68657631  0.84079707  0.21781415  1
+  Na  Na4  1  0.82770157  0.60197747  0.74554360  1
+  Yb  Yb5  1  0.95583844  0.58507437  0.39587280  1
+  Rb  Rb6  1  0.23249823  0.29633331  0.75681084  1
+  P  P7  1  0.34214872  0.11052310  0.99415946  1
+  P  P8  1  0.49229264  0.06017530  0.41111431  1
+  Bi  Bi9  1  0.23186785  0.25183386  0.31858531  1

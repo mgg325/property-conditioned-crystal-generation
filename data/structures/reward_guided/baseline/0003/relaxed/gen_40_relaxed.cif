@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Na2AgRhN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.65195741
+_cell_length_b   5.18872267
+_cell_length_c   5.18879104
+_cell_angle_alpha   89.99930606
+_cell_angle_beta   90.00074140
+_cell_angle_gamma   90.00028198
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2AgRhN
+_chemical_formula_sum   'Na2 Ag1 Rh1 N1'
+_cell_volume   98.32237130
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.73631851  0.56437536  0.09165230  1
+  Na  Na1  1  0.73631147  0.06386039  0.59144883  1
+  Ag  Ag2  1  0.23618844  0.56440321  0.59181413  1
+  Rh  Rh3  1  0.23609248  0.06439642  0.09118421  1
+  N  N4  1  0.73608867  0.06439848  0.09117959  1

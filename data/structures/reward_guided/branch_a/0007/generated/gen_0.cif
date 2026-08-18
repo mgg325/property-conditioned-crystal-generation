@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CdPdCdSrO4
+_chemical_formula_sum              "Cd2 Pd1 Sr1 O4"
+_cell_length_a       4.850953136213043
+_cell_length_b       4.775175669763673
+_cell_length_c       5.730970859527588
+_cell_angle_alpha    114.89798796458955
+_cell_angle_beta     113.94437071980117
+_cell_angle_gamma    90.7931650838805
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.581049382686615  0.25505784153938293  0.48281475901603693  1.0000
+  Pd  Pd1       1.0  0.08031470328569412  0.7547481060028076  0.4841377437114715  1.0000
+  Cd  Cd2       1.0  0.8305664658546448  0.0040453337132930756  0.9851885437965392  1.0000
+  Sr  Sr1       1.0  0.3325847089290619  0.505484938621521  0.9821965098381041  1.0000
+  O   O1        1.0  0.2957807779312134  0.9691901803016661  0.9110487103462218  1.0000
+  O   O2        1.0  0.5903353691101074  0.7653354406356812  0.5049254298210144  1.0000
+  O   O3        1.0  0.07113247364759445  0.2443495988845825  0.4639115631580352  1.0000
+  O   O4        1.0  0.8676247596740723  0.5372079610824585  0.05531239509582519  1.0000

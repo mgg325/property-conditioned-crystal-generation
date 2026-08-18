@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Si2Sn2GeBi2Sb2Br3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.51526690
+_cell_length_b   6.63259029
+_cell_length_c   8.18460369
+_cell_angle_alpha   90.00532532
+_cell_angle_beta   92.22579193
+_cell_angle_gamma   74.44518280
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si2Sn2GeBi2Sb2Br3
+_chemical_formula_sum   'Si2 Sn2 Ge1 Bi2 Sb2 Br3'
+_cell_volume   235.94271608
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.03107214  0.03361022  0.71790278  1
+  Si  Si1  1  0.31268460  0.45305982  0.24541858  1
+  Sn  Sn2  1  0.19100335  0.52214414  0.84952819  1
+  Br  Br3  1  0.72503817  0.50740290  0.55797249  1
+  Ge  Ge4  1  0.87083423  0.56137753  0.10691682  1
+  Si  Si5  1  0.40752277  0.13225782  0.55117470  1
+  Bi  Bi6  1  0.46172121  0.11243129  0.93184549  1
+  Bi  Bi7  1  0.87387776  0.09312057  0.33712202  1
+  Br  Br8  1  0.98830044  0.93872344  0.07996273  1
+  Br  Br9  1  0.17232716  0.55371022  0.57447791  1
+  Sn  Sn10  1  0.61066043  0.60042453  0.90733838  1
+  Sb  Sb11  1  0.48376411  0.73840594  0.38097098  1

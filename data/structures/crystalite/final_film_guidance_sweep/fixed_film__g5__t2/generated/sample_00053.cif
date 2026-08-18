@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BaCaSiP2N9ClF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.48027229
+_cell_length_b   17.52749825
+_cell_length_c   12.10662937
+_cell_angle_alpha   113.48809052
+_cell_angle_beta   91.51156616
+_cell_angle_gamma   90.43962097
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCaSiP2N9ClF3
+_chemical_formula_sum   'Ba1 Ca1 Si1 P2 N9 Cl1 F3'
+_cell_volume   1649.50407693
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.39389792  0.48517525  0.07670018  1
+  P  P1  1  0.30588329  0.32828993  0.34223348  1
+  F  F2  1  0.21176046  0.17479619  0.30628008  1
+  N  N3  1  0.64344180  0.73142111  0.28597081  1
+  Ba  Ba4  1  0.83297110  0.02179834  0.47064856  1
+  Si  Si5  1  0.41799948  0.58315367  0.05773616  1
+  F  F6  1  0.23288292  0.55719489  0.23209867  1
+  Ca  Ca7  1  0.36015710  0.43815044  0.04194522  1
+  N  N8  1  0.23551351  0.28720069  0.23703593  1
+  N  N9  1  0.38640940  0.25670367  0.17200097  1
+  N  N10  1  0.40811893  0.18714020  0.25558239  1
+  Cl  Cl11  1  0.17444196  0.10142931  0.35740551  1
+  F  F12  1  0.38840449  0.50042546  0.93110502  1
+  N  N13  1  0.28146052  0.31090838  0.42360470  1
+  N  N14  1  0.61507905  0.98870742  0.46190703  1
+  N  N15  1  0.27509958  0.60344708  0.42765939  1
+  N  N16  1  0.02947634  0.85989070  0.98601329  1
+  N  N17  1  0.69662541  0.07341340  0.42054123  1

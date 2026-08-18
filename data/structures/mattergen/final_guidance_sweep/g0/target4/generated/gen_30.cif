@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       PBaMg2AlSbAlBaPSb
+_chemical_formula_sum              "P2 Ba2 Mg2 Al2 Sb2"
+_cell_length_a       6.021794424601603
+_cell_length_b       6.304637563628102
+_cell_length_c       7.776114463806152
+_cell_angle_alpha    90.3601993732762
+_cell_angle_beta     114.16658340794054
+_cell_angle_gamma    90.15273235831368
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.1551232486963272  0.08679031580686568  0.6543237566947937  1.0000
+  Ba  Ba1       1.0  0.9643572568893433  0.5860874652862549  0.32380467653274536  1.0000
+  Mg  Mg1       1.0  0.9962462186813354  0.3369621932506561  0.8500139713287355  1.0000
+  Mg  Mg2       1.0  0.9995907545089722  0.836298108100891  0.8524515032768251  1.0000
+  Al  Al1       1.0  0.46927136182785034  0.8355454206466674  0.8421881794929506  1.0000
+  Sb  Sb1       1.0  0.8423236012458801  0.0858263224363327  0.09261809289455415  1.0000
+  Al  Al2       1.0  0.473442941904068  0.3362046182155609  0.8465838432312013  1.0000
+  Ba  Ba2       1.0  0.4972439408302307  0.08489423245191573  0.3787157833576203  1.0000
+  P   P2        1.0  0.3628006875514984  0.5877787470817566  0.040151618421077714  1.0000
+  Sb  Sb2       1.0  0.5951561331748962  0.5863096714019774  0.604309618473053  1.0000

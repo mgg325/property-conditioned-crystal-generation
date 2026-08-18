@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiNd2Al5InAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31284820
+_cell_length_b   4.31523957
+_cell_length_c   11.48406503
+_cell_angle_alpha   89.99829664
+_cell_angle_beta   89.99910850
+_cell_angle_gamma   89.99725287
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiNd2Al5InAu
+_chemical_formula_sum   'Li1 Nd2 Al5 In1 Au1'
+_cell_volume   213.72962635
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50176775  0.55217126  0.39218197  1
+  Nd  Nd1  1  0.50147107  0.05184939  0.14961889  1
+  Nd  Nd2  1  0.00201852  0.55132526  0.63479619  1
+  Al  Al3  1  0.50178388  0.05150156  0.74759175  1
+  Al  Al4  1  0.00167467  0.55138285  0.03677070  1
+  Al  Al5  1  0.00166960  0.55177084  0.25674801  1
+  Al  Al6  1  0.50203165  0.05210836  0.52766525  1
+  Al  Al7  1  0.00202970  0.05174486  0.39206619  1
+  In  In8  1  0.50176140  0.55157075  0.89211311  1
+  Au  Au9  1  0.00167722  0.05137889  0.89256715  1

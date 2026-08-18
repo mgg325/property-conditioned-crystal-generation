@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CeSmInSmN
+_chemical_formula_sum              "Ce1 Sm2 In1 N1"
+_cell_length_a       4.832170044990526
+_cell_length_b       4.9944327060012
+_cell_length_c       4.995296955108643
+_cell_angle_alpha    90.08504518195775
+_cell_angle_beta     90.12997418229327
+_cell_angle_gamma    90.07897314603443
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.8198931813240051  0.7046983242034912  0.7161160707473755  1.0000
+  Sm  Sm1       1.0  0.31983011960983276  0.7050564885139465  0.21605709195137024  1.0000
+  In  In1       1.0  0.8196335434913635  0.20478491485118866  0.21578915417194366  1.0000
+  Sm  Sm2       1.0  0.31980904936790466  0.20576494932174683  0.7158545851707458  1.0000
+  N   N1        1.0  0.3190157115459442  0.704728901386261  0.7157515287399292  1.0000

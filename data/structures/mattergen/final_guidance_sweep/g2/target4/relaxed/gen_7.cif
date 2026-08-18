@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnIrGaLi
+_chemical_formula_sum              "Mn1 Ir1 Ga1 Li1"
+_cell_length_a       4.263027377660804
+_cell_length_b       4.270634734008056
+_cell_length_c       4.264978560538621
+_cell_angle_alpha    59.909022551663675
+_cell_angle_beta     60.022083019818645
+_cell_angle_gamma    59.93949832189068
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.016104290064070065  0.7242862601992324  0.6897923389300938  1.0000
+  Ir  Ir1       1.0  0.2659322859054111  0.9745157250512119  0.9397886520683153  1.0000
+  Ga  Ga1       1.0  0.5160470862761241  0.22428863563705465  0.1898304533711408  1.0000
+  Li  Li1       1.0  0.7662823021759846  0.4738633346356377  0.44017938953662517  1.0000

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_K2NaCuPdF15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.87090475
+_cell_length_b   8.40867055
+_cell_length_c   10.89644849
+_cell_angle_alpha   94.24387672
+_cell_angle_beta   74.61440396
+_cell_angle_gamma   71.16279205
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NaCuPdF15
+_chemical_formula_sum   'K2 Na1 Cu1 Pd1 F15'
+_cell_volume   400.97106465
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.84223398  0.25444269  0.93261894  1
+  K  K1  1  0.46323746  0.25750040  0.58908590  1
+  Na  Na2  1  0.38992248  0.64044838  0.86510493  1
+  Cu  Cu3  1  0.90738583  0.74950695  0.47661280  1
+  Pd  Pd4  1  0.55488432  0.55773152  0.35734426  1
+  F  F5  1  0.52846145  0.67114748  0.52726326  1
+  F  F6  1  -0.02531753  0.19225608  0.68236688  1
+  F  F7  1  0.34541880  0.23252402  0.97192087  1
+  F  F8  1  0.90241244  0.68209765  0.88457729  1
+  F  F9  1  0.79989057  0.34642000  0.38472362  1
+  F  F10  1  -0.13309850  0.78167251  0.64719298  1
+  F  F11  1  0.88382873  0.64420628  0.29584722  1
+  F  F12  1  1.14705452  -0.03780269  1.00198057  1
+  F  F13  1  0.28881183  0.78025616  0.33346572  1
+  F  F14  1  0.75884171  0.96726021  0.45694218  1
+  F  F15  1  0.67564826  0.75115183  0.04367374  1
+  F  F16  1  0.52765899  0.44021464  0.20700162  1
+  F  F17  1  0.46069452  0.62555882  0.05402250  1
+  F  F18  1  0.18972426  0.51384230  0.45532778  1
+  F  F19  1  0.32709650  0.91545867  0.86115884  1

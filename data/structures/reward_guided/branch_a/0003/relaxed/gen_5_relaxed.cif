@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiCu2TeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13814265
+_cell_length_b   5.14023798
+_cell_length_c   5.57348068
+_cell_angle_alpha   62.55063717
+_cell_angle_beta   62.59265782
+_cell_angle_gamma   60.01631208
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCu2TeO6
+_chemical_formula_sum   'Li1 Cu2 Te1 O6'
+_cell_volume   107.96628263
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.17796941  0.88824659  0.37001507  1
+  Cu  Cu1  1  0.45430314  0.16574946  0.54033734  1
+  Cu  Cu2  1  0.96778974  0.67883614  0.00118349  1
+  Te  Te3  1  0.65373393  0.36500241  0.94220309  1
+  O  O4  1  0.04238670  0.09021791  0.73992356  1
+  O  O5  1  0.58616193  0.96958935  0.21088006  1
+  O  O6  1  0.38009445  0.45470056  0.73771830  1
+  O  O7  1  0.25821069  0.55920893  0.21101136  1
+  O  O8  1  0.84884438  0.29717985  0.21041512  1
+  O  O9  1  0.74287424  0.75327352  0.73926494  1

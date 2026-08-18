@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ba2In7Ag3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.14281166
+_cell_length_b   6.14169410
+_cell_length_c   9.80969504
+_cell_angle_alpha   90.00692339
+_cell_angle_beta   89.97393423
+_cell_angle_gamma   114.83287947
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2In7Ag3
+_chemical_formula_sum   'Ba2 In7 Ag3'
+_cell_volume   335.87292971
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.73321190  0.43404329  0.00136292  1
+  Ba  Ba1  1  0.73581428  0.43065597  0.50116070  1
+  In  In2  1  0.23530035  0.44100652  0.74187007  1
+  In  In3  1  0.23475691  0.43997072  0.25999640  1
+  In  In4  1  0.38858323  0.77846978  0.00089860  1
+  In  In5  1  0.09050238  0.07623223  0.50118946  1
+  In  In6  1  0.07715477  0.09058224  0.00091584  1
+  In  In7  1  0.72688537  0.93147396  0.74219446  1
+  In  In8  1  0.72709668  0.93062758  0.25967718  1
+  Ag  Ag9  1  0.23483434  0.93170037  0.25054159  1
+  Ag  Ag10  1  0.23462298  0.93236894  0.75175412  1
+  Ag  Ag11  1  0.38930635  0.77958146  0.50082926  1

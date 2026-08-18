@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ba3Ce2TmS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.31000974
+_cell_length_b   7.30988003
+_cell_length_c   7.54140170
+_cell_angle_alpha   99.29385559
+_cell_angle_beta   99.29325697
+_cell_angle_gamma   119.98098310
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Ce2TmS6
+_chemical_formula_sum   'Ba3 Ce2 Tm1 S6'
+_cell_volume   330.35823316
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.80234132  0.51237295  0.96602838  1
+  Ba  Ba1  1  0.13374221  0.18091008  0.96600701  1
+  Ba  Ba2  1  0.46530635  0.84939625  0.96604000  1
+  Ce  Ce3  1  0.30014977  0.01464218  0.46608199  1
+  Ce  Ce4  1  0.96739264  0.34720520  0.46601041  1
+  Tm  Tm5  1  0.63379900  0.68084104  0.46603826  1
+  S  S6  1  0.56147506  0.28990776  0.24896830  1
+  S  S7  1  0.70597212  0.07178000  0.68295151  1
+  S  S8  1  0.24291360  0.60873414  0.24907077  1
+  S  S9  1  0.02473010  0.75310520  0.68306724  1
+  S  S10  1  0.87891306  0.92601476  0.24605118  1
+  S  S11  1  0.38865944  0.43576125  0.68601518  1

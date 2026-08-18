@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiZrSe2
+_chemical_formula_sum              "Li1 Zr1 Se2"
+_cell_length_a       3.8220142813260534
+_cell_length_b       3.8259052156038784
+_cell_length_c       7.039815425872803
+_cell_angle_alpha    90.09815915501574
+_cell_angle_beta     90.19703298187797
+_cell_angle_gamma    120.24169805422001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9325611591339111  0.3264481723308563  0.651751697063446  1.0000
+  Zr  Zr1       1.0  0.2662169933319091  0.9947378635406493  0.23263587057590485  1.0000
+  Se  Se1       1.0  0.6000460386276245  0.6608355045318602  0.4739345908164978  1.0000
+  Se  Se2       1.0  0.9321479201316833  0.3265846371650696  0.011212426237761974  1.0000

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_BaZnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.49453712
+_cell_length_b   3.67846179
+_cell_length_c   7.91654778
+_cell_angle_alpha   89.97486115
+_cell_angle_beta   89.53054047
+_cell_angle_gamma   64.14966583
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaZnO4
+_chemical_formula_sum   'Ba1 Zn1 O4'
+_cell_volume   91.57695381
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.78559566  0.11720997  0.63492602  1
+  O  O1  1  0.48309621  0.76797140  0.81101990  1
+  O  O2  1  0.74817622  0.14296389  0.32966906  1
+  Zn  Zn3  1  0.41076320  0.84015220  0.58573639  1
+  Ba  Ba4  1  0.07809332  0.50397295  0.07374951  1
+  O  O5  1  0.40710828  0.83382404  0.36294514  1

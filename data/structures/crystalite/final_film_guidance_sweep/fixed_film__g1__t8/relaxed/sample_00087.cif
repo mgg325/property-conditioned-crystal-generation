@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TiAlBPO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.69463507
+_cell_length_b   4.93785253
+_cell_length_c   7.49565638
+_cell_angle_alpha   89.53000446
+_cell_angle_beta   89.76341793
+_cell_angle_gamma   90.36997241
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiAlBPO8
+_chemical_formula_sum   'Ti1 Al1 B1 P1 O8'
+_cell_volume   173.74893808
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.25853948  0.50898952  0.20837882  1
+  Al  Al1  1  0.76242593  0.90555707  0.69683690  1
+  B  B2  1  0.75933180  0.40878837  0.45429399  1
+  P  P3  1  0.24942459  0.02195351  0.94441354  1
+  O  O4  1  0.32080286  0.32026441  -0.00935003  1
+  O  O5  1  0.83356838  0.59351687  0.59535925  1
+  O  O6  1  0.32681518  0.86064146  0.11709954  1
+  O  O7  1  0.83301697  0.14994507  0.53017408  1
+  O  O8  1  0.41178935  0.92988832  0.77866413  1
+  O  O9  1  0.90330354  0.46701997  0.27824082  1
+  O  O10  1  0.45726722  0.42512007  0.40026138  1
+  O  O11  1  0.93188399  0.98289190  0.90313160  1

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SrInCuIn2CuIn2
+_chemical_formula_sum              "Sr1 In5 Cu2"
+_cell_length_a       4.478574517492357
+_cell_length_b       7.019517812282971
+_cell_length_c       7.0174102783203125
+_cell_angle_alpha    68.58261140458579
+_cell_angle_beta     71.2765127875131
+_cell_angle_gamma    71.13705428634017
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.8435580730438232  0.7118973731994629  0.49175053834915156  1.0000
+  In  In1       1.0  0.19162239134311676  0.5602683424949646  0.9453792572021483  1.0000
+  Cu  Cu1       1.0  0.598510980606079  0.4588876068592072  0.2343599051237106  1.0000
+  In  In2       1.0  0.49850761890411366  0.8640679717063905  0.03200971335172653  1.0000
+  In  In3       1.0  0.49824130535125727  0.2562735974788666  0.6409062147140503  1.0000
+  Cu  Cu2       1.0  0.09360952675342557  0.9665525555610658  0.7440927624702454  1.0000
+  In  In4       1.0  0.8450950980186462  0.21194767951965332  0.9910841584205626  1.0000
+  In  In5       1.0  0.19224433600902557  0.16740676760673526  0.33751288056373596  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ClSrCl2NLiSr
+_chemical_formula_sum              "Cl3 Sr2 N1 Li1"
+_cell_length_a       4.222103909604205
+_cell_length_b       4.798634432741952
+_cell_length_c       8.244088556466737
+_cell_angle_alpha    106.79088307199045
+_cell_angle_beta     104.83349829848909
+_cell_angle_gamma    89.98568503575503
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.24058546330086406  0.8666900904128971  0.17755373740738203  1.0000
+  Sr  Sr1       1.0  0.04309604661678778  0.662578045570936  0.7835004918740456  1.0000
+  Cl  Cl2       1.0  0.6079127759549177  0.2351420733893504  0.9134625774123482  1.0000
+  Cl  Cl3       1.0  0.923075797791353  0.06895662938201312  0.5442073100133992  1.0000
+  N   N1        1.0  0.4246381491866234  0.5615305277952413  0.5475985277710498  1.0000
+  Li  Li1       1.0  0.42679143743073006  0.9747725241512859  0.5515741287423291  1.0000
+  Sr  Sr2       1.0  0.8069776383900982  0.4334370615976176  0.3100396955854732  1.0000

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ba2TeSeSO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   1.80208484
+_cell_length_b   3.15337512
+_cell_length_c   4.00903129
+_cell_angle_alpha   92.02089628
+_cell_angle_beta   90.51043339
+_cell_angle_gamma   89.74373269
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2TeSeSO7
+_chemical_formula_sum   'Ba2 Te1 Se1 S1 O7'
+_cell_volume   22.76664948
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.28107249  0.72890799  0.69622423  1
+  Ba  Ba1  1  0.83143957  0.15599365  0.28820328  1
+  Te  Te2  1  0.21887524  0.26766320  0.25567652  1
+  Se  Se3  1  0.23266310  0.03304772  0.24504382  1
+  S  S4  1  0.96795104  0.87176140  0.65392993  1
+  O  O5  1  0.78490707  0.91410285  0.79614506  1
+  O  O6  1  0.08001750  0.20950209  0.29968109  1
+  O  O7  1  0.21336750  0.50377866  0.22632941  1
+  O  O8  1  0.75030932  0.72242960  0.16935203  1
+  O  O9  1  0.18507022  0.99786847  0.25370350  1
+  O  O10  1  0.32944310  0.13204339  0.24954722  1
+  O  O11  1  0.48171992  0.58148539  0.18952054  1

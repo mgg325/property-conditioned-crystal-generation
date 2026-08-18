@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       PrSmNCeSmN3
+_chemical_formula_sum              "Pr1 Sm2 N4 Ce1"
+_cell_length_a       3.6258365394823224
+_cell_length_b       6.182038755682585
+_cell_length_c       6.234001159667969
+_cell_angle_alpha    109.67314038410503
+_cell_angle_beta     91.07077806881058
+_cell_angle_gamma    88.63298098594726
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.5086432099342346  0.90162193775177  0.24729929864406583  1.0000
+  Sm  Sm1       1.0  0.5067142248153687  0.3986256420612335  0.7461996078491212  1.0000
+  N   N1        1.0  0.505207896232605  0.6531412601470947  0.5039942860603333  1.0000
+  Ce  Ce1       1.0  0.0073843197897076615  0.9004225134849548  0.7485643029212953  1.0000
+  Sm  Sm2       1.0  0.006616982631385327  0.4015531539916992  0.2467395514249802  1.0000
+  N   N2        1.0  0.506823718547821  0.14572572708129883  0.9884527921676637  1.0000
+  N   N3        1.0  0.004868149757385256  0.6540443301200867  0.9844340682029725  1.0000
+  N   N4        1.0  0.005067299120128155  0.15029941499233246  0.5085636973381042  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       H2ClO
+_chemical_formula_sum              "H2 Cl1 O1"
+_cell_length_a       4.703438012104271
+_cell_length_b       4.704115023331275
+_cell_length_c       4.703133646996359
+_cell_angle_alpha    115.61649128064688
+_cell_angle_beta     98.94370393199189
+_cell_angle_gamma    114.45816592488508
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.990581250770211  0.255074196182772  0.15720886677442175  1.0000
+  H   H2        1.0  0.24313712573867755  0.254354784839378  0.4080525763713837  1.0000
+  Cl  Cl1       1.0  0.6164193979842769  0.6309432515208501  0.1583827741759432  1.0000
+  O   O1        1.0  0.11629307030155804  0.13537066389349162  0.1626952442344203  1.0000

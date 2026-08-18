@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_La2BeSi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.04881280
+_cell_length_b   4.04868661
+_cell_length_c   8.79573471
+_cell_angle_alpha   90.00156067
+_cell_angle_beta   89.99979205
+_cell_angle_gamma   119.99599784
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2BeSi3
+_chemical_formula_sum   'La2 Be1 Si3'
+_cell_volume   124.87115394
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.98078400  0.04848865  0.19937476  1
+  La  La1  1  0.97975810  0.04839373  0.70009004  1
+  Be  Be2  1  0.31249261  0.71512231  0.95065559  1
+  Si  Si3  1  0.64618103  0.38108334  0.44666436  1
+  Si  Si4  1  0.64647390  0.38188412  0.94929828  1
+  Si  Si5  1  0.31287492  0.71455464  0.45247238  1

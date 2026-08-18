@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CdNd2CdNdHgNdCd2Hg
+_chemical_formula_sum              "Cd4 Nd4 Hg2"
+_cell_length_a       4.653203264867146
+_cell_length_b       7.618894703270482
+_cell_length_c       7.660542964935303
+_cell_angle_alpha    90.03050613068109
+_cell_angle_beta     89.71053909647931
+_cell_angle_gamma    89.5018427192841
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.4039933979511261  0.8696033358573914  0.14779019355773926  1.0000
+  Nd  Nd1       1.0  0.9038076400756836  0.5706833600997926  0.11327713727951053  1.0000
+  Nd  Nd2       1.0  0.9050605893135071  0.9051451086997987  0.447724997997284  1.0000
+  Cd  Cd2       1.0  0.4037821888923645  0.3695962131023407  0.9117950201034547  1.0000
+  Nd  Nd3       1.0  0.905219316482544  0.4049987196922303  0.6122976541519165  1.0000
+  Hg  Hg1       1.0  0.4042188227176666  0.23613132536411285  0.28036776185035706  1.0000
+  Nd  Nd4       1.0  0.9049456119537354  0.06995368748903275  0.9475194215774537  1.0000
+  Cd  Cd3       1.0  0.4049050807952881  0.10562364012002945  0.6483586430549622  1.0000
+  Cd  Cd4       1.0  0.403445839881897  0.6058030128479004  0.4121395945549012  1.0000
+  Hg  Hg2       1.0  0.40400364995002747  0.7374171018600464  0.7809411883354187  1.0000

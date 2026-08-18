@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LaPrTm
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81197378
+_cell_length_b   5.80963010
+_cell_length_c   7.01955907
+_cell_angle_alpha   89.80907064
+_cell_angle_beta   90.57244642
+_cell_angle_gamma   119.96374355
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaPrTm
+_chemical_formula_sum   'La2 Pr2 Tm2'
+_cell_volume   205.32823399
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.68924681  0.50963646  0.75733492  1
+  La  La1  1  0.35722873  0.84478413  0.25670018  1
+  Pr  Pr2  1  0.02289277  0.17811128  0.00696124  1
+  Pr  Pr3  1  0.02264219  0.17755218  0.50662199  1
+  Tm  Tm4  1  0.35591545  0.84374008  0.75780749  1
+  Tm  Tm5  1  0.69043406  0.51224845  0.25749841  1

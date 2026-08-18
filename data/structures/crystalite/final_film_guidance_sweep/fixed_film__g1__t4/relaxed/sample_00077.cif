@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ba2TlRuO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99345057
+_cell_length_b   3.99529928
+_cell_length_c   9.74307552
+_cell_angle_alpha   90.04365906
+_cell_angle_beta   90.08229422
+_cell_angle_gamma   90.07971807
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2TlRuO5
+_chemical_formula_sum   'Ba2 Tl1 Ru1 O5'
+_cell_volume   155.45070793
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.08336117  0.46703096  0.45542915  1
+  Ba  Ba1  1  0.08440960  0.46726365  0.90667657  1
+  Tl  Tl2  1  0.55587815  0.93977513  0.18333995  1
+  Ru  Ru3  1  0.58514299  0.96809794  0.68044997  1
+  O  O4  1  0.08466936  0.96463725  0.68167354  1
+  O  O5  1  0.58574542  0.96750359  0.88555900  1
+  O  O6  1  0.58308858  0.46704170  0.67981801  1
+  O  O7  1  0.12910330  0.51034870  0.18180803  1
+  O  O8  1  0.58493268  0.96749350  0.47470697  1

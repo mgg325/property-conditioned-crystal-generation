@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li6Al2NiO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47404668
+_cell_length_b   5.54640968
+_cell_length_c   5.74400040
+_cell_angle_alpha   93.99968503
+_cell_angle_beta   89.75584520
+_cell_angle_gamma   94.88278206
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li6Al2NiO7
+_chemical_formula_sum   'Li6 Al2 Ni1 O7'
+_cell_volume   173.33899972
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.87956646  0.01746200  0.42421259  1
+  Li  Li1  1  0.13185963  0.60781432  0.60443881  1
+  Li  Li2  1  0.85516065  0.53622613  0.93070351  1
+  Li  Li3  1  0.17666792  0.70862991  0.15567745  1
+  Li  Li4  1  0.44116209  0.26061916  0.76134850  1
+  Li  Li5  1  0.60538677  0.84609184  0.96949521  1
+  Al  Al6  1  0.66039768  0.59453511  0.43262100  1
+  Al  Al7  1  0.37691228  0.19724455  0.31636321  1
+  Ni  Ni8  1  0.05933111  1.07134290  0.83211982  1
+  O  O9  1  0.78130852  0.75751421  0.69268224  1
+  O  O10  1  0.67831013  0.27386111  0.45546138  1
+  O  O11  1  0.21522939  0.02933677  0.52215779  1
+  O  O12  1  0.34306908  1.02401364  1.04344967  1
+  O  O13  1  0.34104794  0.51959648  0.35453411  1
+  O  O14  1  0.81174598  0.73812880  0.20327701  1
+  O  O15  1  0.14853410  0.42110211  0.86601193  1

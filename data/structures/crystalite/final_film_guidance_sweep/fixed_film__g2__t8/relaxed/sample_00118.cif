@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SnBi5Te7IrPb6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.90811938
+_cell_length_b   10.08314481
+_cell_length_c   9.24494753
+_cell_angle_alpha   107.14294438
+_cell_angle_beta   105.62655158
+_cell_angle_gamma   116.33538156
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnBi5Te7IrPb6
+_chemical_formula_sum   'Sn1 Bi5 Te7 Ir1 Pb6'
+_cell_volume   699.33823549
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.46915329  -0.00419596  0.63043289  1
+  Bi  Bi1  1  0.51133799  0.69201509  0.96071810  1
+  Bi  Bi2  1  0.25542699  -0.00551355  0.25426121  1
+  Bi  Bi3  1  0.08815318  0.71534655  0.34904681  1
+  Bi  Bi4  1  0.28023215  0.67591795  0.13407395  1
+  Bi  Bi5  1  0.97560632  0.53084111  0.78254380  1
+  Te  Te6  1  0.55003475  1.04805966  1.01786536  1
+  Te  Te7  1  0.08054349  1.11192196  0.49809033  1
+  Te  Te8  1  0.83475670  0.80049196  0.92892823  1
+  Te  Te9  1  0.78564869  0.55696499  0.47291122  1
+  Te  Te10  1  0.85489379  0.17652428  0.80626306  1
+  Te  Te11  1  0.35344067  0.59629129  0.55914706  1
+  Te  Te12  1  0.28342583  0.24827908  0.09451394  1
+  Ir  Ir13  1  0.63645185  0.89583697  0.80249605  1
+  Pb  Pb14  1  0.14301762  -0.04710027  0.73774505  1
+  Pb  Pb15  1  0.71538722  0.18024983  0.43515756  1
+  Pb  Pb16  1  0.46297341  0.34487208  0.58941521  1
+  Pb  Pb17  1  0.64096205  0.79774545  0.45097116  1
+  Pb  Pb18  1  0.62793593  0.40908534  0.07630140  1
+  Pb  Pb19  1  0.97806805  0.19037311  0.19027788  1

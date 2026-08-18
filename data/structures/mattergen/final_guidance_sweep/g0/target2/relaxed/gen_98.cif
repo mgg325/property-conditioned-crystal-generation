@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       La2ClN
+_chemical_formula_sum              "La2 Cl1 N1"
+_cell_length_a       3.7380159478796378
+_cell_length_b       3.7380718696816966
+_cell_length_c       7.6550514461736965
+_cell_angle_alpha    75.85145415434661
+_cell_angle_beta     75.85375306825019
+_cell_angle_gamma    60.00854071182031
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.8716595159000973  0.7566819901975604  0.12895373342616268  1.0000
+  La  La2       1.0  0.33224422415674393  0.21746517651490532  0.7483240556360735  1.0000
+  Cl  Cl1       1.0  0.10184468106065585  0.9869953608239881  0.43859098941539226  1.0000
+  N   N1        1.0  0.6018725348342139  0.48697094307822014  0.9387983393366766  1.0000

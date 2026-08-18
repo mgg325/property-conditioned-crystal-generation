@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuTlCdBi2Se5O2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00004504
+_cell_length_b   4.72812145
+_cell_length_c   4.74238123
+_cell_angle_alpha   87.03515524
+_cell_angle_beta   118.93844912
+_cell_angle_gamma   123.31398469
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuTlCdBi2Se5O2
+_chemical_formula_sum   'Lu1 Tl1 Cd1 Bi2 Se5 O2'
+_cell_volume   62.72207024
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.90148655  0.90526560  0.20309818  1
+  Tl  Tl1  1  0.32765918  0.74256621  0.31549561  1
+  Cd  Cd2  1  0.84137284  0.73839365  0.81626360  1
+  Bi  Bi3  1  0.67049926  0.14614543  0.13074586  1
+  Bi  Bi4  1  0.69701226  0.22873621  0.95657208  1
+  Se  Se5  1  0.14801714  0.62157434  0.99758992  1
+  Se  Se6  1  0.67488792  0.22646717  0.86409800  1
+  Se  Se7  1  0.38427261  0.76213661  0.71472178  1
+  Se  Se8  1  0.94701486  0.15099155  0.63150728  1
+  Se  Se9  1  0.45792229  0.88208264  0.14034161  1
+  O  O10  1  0.35066603  0.37957443  0.35323335  1
+  O  O11  1  0.85097890  0.63812910  0.48915310  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Li2GeF5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83705807
+_cell_length_b   5.93323612
+_cell_length_c   6.16583681
+_cell_angle_alpha   62.50384903
+_cell_angle_beta   63.01448822
+_cell_angle_gamma   61.23863983
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2GeF5
+_chemical_formula_sum   'Li2 Ge1 F5'
+_cell_volume   158.51294160
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.89783680  0.25810376  0.20650235  1
+  F  F1  1  0.67596740  0.03449276  0.62489653  1
+  F  F2  1  0.57621360  0.10646170  0.14919382  1
+  F  F3  1  0.18755794  0.06961179  0.70518541  1
+  Ge  Ge4  1  0.52379072  0.92770499  0.50846666  1
+  Li  Li5  1  0.72394717  0.12034413  0.82529879  1
+  F  F6  1  0.69385827  0.63024235  0.22755569  1
+  F  F7  1  0.61115438  0.59793407  0.68757874  1

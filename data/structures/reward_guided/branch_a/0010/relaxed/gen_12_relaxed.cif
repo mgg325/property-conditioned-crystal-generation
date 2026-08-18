@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tb2Nd3HoS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96818187
+_cell_length_b   8.01554914
+_cell_length_c   8.94484088
+_cell_angle_alpha   103.72316167
+_cell_angle_beta   102.84165709
+_cell_angle_gamma   90.00081197
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Nd3HoS6
+_chemical_formula_sum   'Tb2 Nd3 Ho1 S6'
+_cell_volume   269.05702904
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.39782045  0.01596404  0.30867447  1
+  Tb  Tb1  1  0.06403322  0.34812177  0.64057109  1
+  Nd  Nd2  1  0.73137044  0.18233455  0.97422156  1
+  Nd  Nd3  1  0.06384871  0.84859640  0.64030876  1
+  Nd  Nd4  1  0.39826353  0.51507923  0.30942204  1
+  Ho  Ho5  1  0.73200012  0.68282431  0.97540928  1
+  S  S6  1  0.23437430  0.92220612  0.98025758  1
+  S  S7  1  0.22904992  0.44302273  0.96930387  1
+  S  S8  1  0.89995346  0.25810657  0.31281364  1
+  S  S9  1  0.56895575  0.59248401  0.65016349  1
+  S  S10  1  0.56142261  0.10578578  0.63585661  1
+  S  S11  1  0.89370909  0.77166749  0.30027165  1

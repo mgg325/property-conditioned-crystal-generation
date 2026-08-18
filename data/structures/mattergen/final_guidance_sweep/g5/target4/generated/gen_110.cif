@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CaIn2N2CaN2
+_chemical_formula_sum              "Ca2 In2 N4"
+_cell_length_a       3.372804167202671
+_cell_length_b       5.03834705224417
+_cell_length_c       6.748244285583496
+_cell_angle_alpha    89.75627403709386
+_cell_angle_beta     89.81466532969392
+_cell_angle_gamma    90.02618944903601
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.39087003469467163  0.4019640386104584  0.5635462403297424  1.0000
+  In  In1       1.0  0.8904850482940674  0.9020605683326721  0.8050657510757447  1.0000
+  In  In2       1.0  0.3909491300582886  0.40282532572746277  0.06282659620046616  1.0000
+  N   N1        1.0  0.8907371759414673  0.40042901039123535  0.8286837339401246  1.0000
+  N   N2        1.0  0.39078474044799805  0.9014820456504822  0.5752119421958923  1.0000
+  Ca  Ca2       1.0  0.8905484676361084  0.9021081328392029  0.304183840751648  1.0000
+  N   N3        1.0  0.8911470770835876  0.401569128036499  0.29259711503982544  1.0000
+  N   N4        1.0  0.3907639682292938  0.8997141718864441  0.03922206163406373  1.0000

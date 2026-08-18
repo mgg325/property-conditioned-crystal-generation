@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfUCuPbO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25449038
+_cell_length_b   5.78426743
+_cell_length_c   6.74775553
+_cell_angle_alpha   113.83686829
+_cell_angle_beta   114.44766235
+_cell_angle_gamma   90.61727142
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfUCuPbO8
+_chemical_formula_sum   'Hf1 U1 Cu1 Pb1 O8'
+_cell_volume   166.82473050
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.61113256  0.81970704  0.21272936  1
+  O  O1  1  0.32121360  0.69361204  0.76595056  1
+  O  O2  1  0.29454839  0.12765393  0.51135153  1
+  U  U3  1  0.82314312  0.22085783  0.51904285  1
+  Hf  Hf4  1  0.52490705  0.47649813  0.00348037  1
+  O  O5  1  0.60702384  0.29579598  0.21850586  1
+  O  O6  1  0.11705381  0.22858405  0.84120679  1
+  O  O7  1  0.11592314  0.55871403  0.27992153  1
+  Cu  Cu8  1  0.34972399  0.73150194  0.51350617  1
+  O  O9  1  0.81025863  0.83589160  0.60439765  1
+  Pb  Pb10  1  0.04934713  0.94211698  0.03472993  1
+  O  O11  1  0.70016646  0.45813370  0.79747260  1

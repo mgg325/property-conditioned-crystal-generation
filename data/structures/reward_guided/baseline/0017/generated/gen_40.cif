@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       K2Na2Cd3
+_chemical_formula_sum              "K2 Na2 Cd3"
+_cell_length_a       5.470545156185106
+_cell_length_b       6.802652814174254
+_cell_length_c       8.005428314208984
+_cell_angle_alpha    116.76079902144222
+_cell_angle_beta     89.83132414209675
+_cell_angle_gamma    112.66373906679141
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.26185339689254755  0.34203255176544184  0.8058089613914491  1.0000
+  K   K2        1.0  0.9376502037048339  0.6984643340110779  0.2635744214057923  1.0000
+  Na  Na1       1.0  0.2421082407236099  0.30414018034935  0.3005758821964264  1.0000
+  Na  Na2       1.0  0.9587869644165038  0.7366727590560913  0.7684947848320007  1.0000
+  Cd  Cd1       1.0  0.5275747179985046  0.8762925267219543  0.6325928568840027  1.0000
+  Cd  Cd2       1.0  0.5999336242675781  0.020340871065855026  0.034456077963113785  1.0000
+  Cd  Cd3       1.0  0.6730204820632935  0.1642034947872162  0.4365924894809723  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       STmCaS
+_chemical_formula_sum              "S2 Tm1 Ca1"
+_cell_length_a       3.7971035638554413
+_cell_length_b       3.798683404534774
+_cell_length_c       6.961311189339349
+_cell_angle_alpha    90.0116521116087
+_cell_angle_beta     90.00256020390792
+_cell_angle_gamma    119.9912691809648
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7906606992285198  0.7871134385836551  0.4736671221349557  1.0000
+  Tm  Tm1       1.0  0.45760754123225256  0.12097452501722847  0.7114795703108103  1.0000
+  Ca  Ca1       1.0  0.457681237930995  0.12113242928773915  0.2114703739290796  1.0000
+  S   S2        1.0  0.12465477705281695  0.4548025842690363  0.9493122298565321  1.0000

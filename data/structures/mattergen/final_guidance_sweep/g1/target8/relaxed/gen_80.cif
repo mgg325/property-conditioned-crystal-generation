@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SeAuSeSc
+_chemical_formula_sum              "Se2 Au1 Sc1"
+_cell_length_a       3.986714718166666
+_cell_length_b       3.9895221470303177
+_cell_length_c       8.096323593437695
+_cell_angle_alpha    76.34276739212775
+_cell_angle_beta     76.41026367683438
+_cell_angle_gamma    59.885510788116754
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.9629619291259729  0.6707439064093985  0.6501859636525226  1.0000
+  Au  Au1       1.0  0.854671139404319  0.5637278077896836  0.9623169308324514  1.0000
+  Se  Se2       1.0  0.7466785344680621  0.4584065346787861  0.274474493395117  1.0000
+  Sc  Sc1       1.0  0.35454349687478537  0.06486880136873334  0.4622989161619424  1.0000

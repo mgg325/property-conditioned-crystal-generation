@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ho2Al3Sn
+_chemical_formula_sum              "Ho2 Al3 Sn1"
+_cell_length_a       3.555399964637958
+_cell_length_b       4.541140609985931
+_cell_length_c       8.084038734436035
+_cell_angle_alpha    90.76556423481944
+_cell_angle_beta     88.62847305501734
+_cell_angle_gamma    89.836501436341
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.35167908668518066  0.8561450839042664  0.8936900496482849  1.0000
+  Ho  Ho2       1.0  0.35196566581726074  0.3568032681941986  0.3789772093296051  1.0000
+  Al  Al1       1.0  0.8523778915405273  0.3564918637275696  0.05648570507764816  1.0000
+  Al  Al2       1.0  0.8503376841545105  0.8559995889663697  0.2123929113149643  1.0000
+  Al  Al3       1.0  0.8507350087165833  0.35582593083381653  0.7340081930160522  1.0000
+  Sn  Sn1       1.0  0.850508451461792  0.8580799698829651  0.5523038506507874  1.0000

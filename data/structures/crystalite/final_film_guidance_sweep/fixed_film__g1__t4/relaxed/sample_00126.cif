@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_K3MgAlBr8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.18682909
+_cell_length_b   7.44664622
+_cell_length_c   10.86015649
+_cell_angle_alpha   92.40667088
+_cell_angle_beta   89.23981941
+_cell_angle_gamma   113.18392464
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3MgAlBr8
+_chemical_formula_sum   'K3 Mg1 Al1 Br8'
+_cell_volume   533.80152237
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  1.00119625  0.14611943  0.35114256  1
+  K  K1  1  0.71193492  0.47087572  0.04588202  1
+  K  K2  1  0.33528533  0.88100242  0.74890792  1
+  Mg  Mg3  1  0.37666009  0.88212474  0.23509303  1
+  Al  Al4  1  0.69306795  0.54933451  0.63163541  1
+  Br  Br5  1  0.44145295  0.99094073  0.45937007  1
+  Br  Br6  1  0.68888359  0.88894429  0.12215766  1
+  Br  Br7  1  -0.02224592  0.47146682  0.62426325  1
+  Br  Br8  1  0.29318828  0.12614295  0.11790138  1
+  Br  Br9  1  0.46199540  0.35467142  0.77688916  1
+  Br  Br10  1  0.08194394  0.55559864  0.22479974  1
+  Br  Br11  1  0.53592456  0.51241747  0.44399239  1
+  Br  Br12  1  0.80307104  0.87004859  0.71722873  1

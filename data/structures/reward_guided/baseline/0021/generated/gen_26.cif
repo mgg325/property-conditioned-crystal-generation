@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       La4HgLa2Co
+_chemical_formula_sum              "La6 Hg1 Co1"
+_cell_length_a       6.4624882160451556
+_cell_length_b       6.477646007571021
+_cell_length_c       6.3847270011901855
+_cell_angle_alpha    101.1951680575482
+_cell_angle_beta     101.53498280121482
+_cell_angle_gamma    99.5935906571736
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.9633273482322692  0.5202528238296509  0.6491742730140686  1.0000
+  La  La2       1.0  0.14966948330402374  0.712014377117157  0.2414344102144241  1.0000
+  La  La3       1.0  0.5373448133468628  0.33101251721382136  0.24475075304508206  1.0000
+  La  La4       1.0  0.9538594484329223  0.12470114976167679  0.03822183981537819  1.0000
+  Hg  Hg1       1.0  0.7499892711639404  0.9253662824630737  0.4463453292846679  1.0000
+  La  La5       1.0  0.3486504554748535  0.1369529366493225  0.651014506816864  1.0000
+  La  La6       1.0  0.544933021068573  0.7253690958023071  0.8537920117378236  1.0000
+  Co  Co1       1.0  0.2511551082134247  0.4258866012096405  0.9470787048339845  1.0000

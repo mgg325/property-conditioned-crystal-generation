@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       La2Zn2Au4
+_chemical_formula_sum              "La2 Zn2 Au4"
+_cell_length_a       4.865182097039899
+_cell_length_b       5.697597362136464
+_cell_length_c       7.454601764678955
+_cell_angle_alpha    76.6492493273301
+_cell_angle_beta     92.96399713736287
+_cell_angle_gamma    65.41754230217342
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.27432522177696234  0.4814670979976654  0.3806559145450592  1.0000
+  La  La2       1.0  0.16375796496868136  0.7080887556076049  0.8087589144706726  1.0000
+  Zn  Zn1       1.0  0.2168933004140854  0.09575993567705154  0.09284395724534988  1.0000
+  Zn  Zn2       1.0  0.5860210061073303  0.8546847701072693  0.47918540239334106  1.0000
+  Au  Au1       1.0  0.8367959856987  0.36455774307250977  0.7031857371330261  1.0000
+  Au  Au2       1.0  0.7200669050216675  0.5920787453651428  0.09802684187889099  1.0000
+  Au  Au3       1.0  0.48530814051628113  0.08629904687404633  0.7991218566894531  1.0000
+  Au  Au4       1.0  0.9611034989356995  0.08165442198514937  0.39004790782928467  1.0000

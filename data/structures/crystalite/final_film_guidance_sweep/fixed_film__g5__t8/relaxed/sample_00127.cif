@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NaCd3GaTcSe2IBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16665022
+_cell_length_b   6.78693108
+_cell_length_c   10.39597372
+_cell_angle_alpha   109.02256858
+_cell_angle_beta   107.47852831
+_cell_angle_gamma   88.05017320
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCd3GaTcSe2IBr
+_chemical_formula_sum   'Na1 Cd3 Ga1 Tc1 Se2 I1 Br1'
+_cell_volume   327.89696687
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.22936518  0.96669996  0.87815113  1
+  Cd  Cd1  1  0.79942037  0.72385416  0.28262236  1
+  Cd  Cd2  1  0.23895536  -0.02004362  0.24262275  1
+  Cd  Cd3  1  0.28846741  0.39692231  0.17694406  1
+  Ga  Ga4  1  0.85839955  0.34940871  0.70384868  1
+  Tc  Tc5  1  0.71344801  0.12309996  0.21676728  1
+  Se  Se6  1  0.74481255  0.33032034  1.07039710  1
+  Se  Se7  1  0.71996550  0.79823044  1.03174881  1
+  I  I8  1  0.75791238  0.71392489  0.62135838  1
+  Br  Br9  1  0.29845433  0.19274930  0.68748870  1

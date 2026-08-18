@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na3TiCr2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27843513
+_cell_length_b   5.27841798
+_cell_length_c   5.66124122
+_cell_angle_alpha   98.93364380
+_cell_angle_beta   98.90585101
+_cell_angle_gamma   120.01306742
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3TiCr2O6
+_chemical_formula_sum   'Na3 Ti1 Cr2 O6'
+_cell_volume   129.84640872
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.18321397  0.27618094  0.34283793  1
+  Na  Na1  1  0.52045483  0.93822849  0.34290373  1
+  Na  Na2  1  0.85224982  0.60690591  0.34246741  1
+  Ti  Ti3  1  0.35225739  0.10694812  0.84263310  1
+  Cr  Cr4  1  0.01888110  0.44004168  0.84257545  1
+  Cr  Cr5  1  0.68553592  0.77364613  0.84257729  1
+  O  O6  1  0.41837524  0.50187163  0.04178707  1
+  O  O7  1  0.95730283  0.04062031  0.64341000  1
+  O  O8  1  0.08993104  0.84470071  0.04156524  1
+  O  O9  1  0.74705846  0.17308577  0.04171401  1
+  O  O10  1  0.28608867  0.71183498  0.64349545  1
+  O  O11  1  0.61471678  0.36923609  0.64375226  1

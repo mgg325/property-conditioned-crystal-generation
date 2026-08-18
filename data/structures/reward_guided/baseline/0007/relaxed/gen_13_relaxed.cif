@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tl3CuF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.56796186
+_cell_length_b   6.50653337
+_cell_length_c   6.50633324
+_cell_angle_alpha   111.87969570
+_cell_angle_beta   83.59078796
+_cell_angle_gamma   96.39514497
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl3CuF8
+_chemical_formula_sum   'Tl3 Cu1 F8'
+_cell_volume   216.74316329
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.95269179  0.94484557  0.10909095  1
+  Tl  Tl1  1  0.45269915  0.94483561  0.60910095  1
+  Tl  Tl2  1  0.95269144  0.44483859  0.60908263  1
+  Cu  Cu3  1  0.45260855  0.44489077  0.10904054  1
+  F  F4  1  0.64263702  0.35943463  0.82202738  1
+  F  F5  1  0.83695951  0.80091641  0.75206265  1
+  F  F6  1  0.14830480  0.62313530  0.92921720  1
+  F  F7  1  0.64329163  0.73208528  0.19439108  1
+  F  F8  1  0.26199678  0.15766218  1.02373808  1
+  F  F9  1  0.06850892  0.08878558  0.46610263  1
+  F  F10  1  0.26269554  0.53028016  0.39611080  1
+  F  F11  1  0.75705018  0.26652746  0.28899828  1

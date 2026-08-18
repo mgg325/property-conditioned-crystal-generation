@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_HoIn7Cu5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51991912
+_cell_length_b   7.25200620
+_cell_length_c   7.25351292
+_cell_angle_alpha   81.17987627
+_cell_angle_beta   67.63670489
+_cell_angle_gamma   67.62763567
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoIn7Cu5
+_chemical_formula_sum   'Ho1 In7 Cu5'
+_cell_volume   248.29940338
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.89762888  0.44099366  0.68027158  1
+  In  In1  1  0.88567941  0.11662414  0.02898852  1
+  In  In2  1  0.22979808  0.10874085  0.34808472  1
+  In  In3  1  0.41862257  0.23170237  0.84791808  1
+  In  In4  1  0.17277617  0.66579051  0.90506861  1
+  In  In5  1  0.55451650  0.78394418  0.02343255  1
+  In  In6  1  0.88539842  0.78952614  0.35579319  1
+  In  In7  1  0.41826270  0.60864734  0.47110388  1
+  Cu  Cu8  1  0.39475575  0.94114640  0.67271345  1
+  Cu  Cu9  1  0.90784268  0.94090777  0.67257225  1
+  Cu  Cu10  1  0.90790046  0.43346584  0.18060944  1
+  Cu  Cu11  1  0.39492216  0.43335748  0.18040634  1
+  Cu  Cu12  1  0.63825283  0.20027778  0.43969188  1

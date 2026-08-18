@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Zr5Zn2Fe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22681766
+_cell_length_b   5.18161790
+_cell_length_c   8.31508082
+_cell_angle_alpha   89.17133392
+_cell_angle_beta   90.00758818
+_cell_angle_gamma   120.28196001
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr5Zn2Fe5
+_chemical_formula_sum   'Zr5 Zn2 Fe5'
+_cell_volume   194.44578526
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.68086020  0.14107495  0.96069365  1
+  Zr  Zr1  1  0.01617489  0.81109774  0.08587989  1
+  Zr  Zr2  1  0.38865456  0.47609370  0.52346165  1
+  Zr  Zr3  1  0.70667293  0.13981647  0.59114067  1
+  Zr  Zr4  1  0.04290573  0.81217620  0.45570186  1
+  Zn  Zn5  1  0.18370230  0.65282049  0.78540076  1
+  Zn  Zn6  1  0.00709783  0.29959860  0.26148311  1
+  Fe  Fe7  1  0.51627336  0.28624087  0.25871976  1
+  Fe  Fe8  1  0.18004134  0.14001155  0.79073930  1
+  Fe  Fe9  1  0.38585744  0.47653534  0.02353386  1
+  Fe  Fe10  1  0.51646378  0.81262543  0.25591493  1
+  Fe  Fe11  1  0.70627599  0.66626059  0.78806024  1

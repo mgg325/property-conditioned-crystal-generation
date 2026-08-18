@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Si4Hg2BiSbP2Pb2(AuS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.66220236
+_cell_length_b   8.98311615
+_cell_length_c   7.86489534
+_cell_angle_alpha   113.73460388
+_cell_angle_beta   111.32238007
+_cell_angle_gamma   109.65242004
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si4Hg2BiSbP2Pb2(AuS2)2
+_chemical_formula_sum   'Si4 Hg2 Bi1 Sb1 P2 Pb2 Au2 S4'
+_cell_volume   380.57238983
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.70840240  0.68324971  0.56327862  1
+  S  S1  1  0.09194306  0.51192456  0.77298999  1
+  S  S2  1  0.90664995  0.98648149  0.09031755  1
+  P  P3  1  0.93006110  0.46869636  0.45309317  1
+  Au  Au4  1  0.55228680  0.78332102  0.10215890  1
+  S  S5  1  0.64313138  0.21507430  0.55778450  1
+  Pb  Pb6  1  0.54212677  0.29440403  0.98416388  1
+  Si  Si7  1  0.90840983  0.04071182  0.94693220  1
+  Hg  Hg8  1  0.04787850  0.92889929  0.54573053  1
+  Sb  Sb9  1  0.29195142  0.79868203  0.21371841  1
+  Si  Si10  1  0.94445550  0.48636594  0.19376799  1
+  Au  Au11  1  0.45599329  0.40526521  0.53586245  1
+  Si  Si12  1  0.57236201  0.85199869  0.87941527  1
+  Pb  Pb13  1  0.29224336  0.23589391  0.19084790  1
+  Si  Si14  1  0.69952923  0.48190424  0.21417668  1
+  P  P15  1  0.50443226  0.02907169  0.66328818  1
+  S  S16  1  0.27618074  0.92072237  0.60985601  1
+  Hg  Hg17  1  0.05318448  0.42316487  0.95660937  1

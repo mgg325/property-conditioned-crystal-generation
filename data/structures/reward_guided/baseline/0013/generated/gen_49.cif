@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TbTlMgLi
+_chemical_formula_sum              "Tb1 Tl1 Mg1 Li1"
+_cell_length_a       5.048130577299149
+_cell_length_b       5.054560886776917
+_cell_length_c       5.067707061767578
+_cell_angle_alpha    60.75865302410583
+_cell_angle_beta     60.571957033024525
+_cell_angle_gamma    60.57250878878012
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.874689280986786  0.6075513958930969  0.8066503405570984  1.0000
+  Tl  Tl1       1.0  0.12486505508422852  0.8571913838386536  0.05681290477514267  1.0000
+  Mg  Mg1       1.0  0.3744545876979828  0.10716778039932251  0.3061797022819519  1.0000
+  Li  Li1       1.0  0.6245333552360535  0.357321560382843  0.5566362738609314  1.0000

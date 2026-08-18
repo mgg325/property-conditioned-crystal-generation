@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2CdInBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80958986
+_cell_length_b   6.76898622
+_cell_length_c   9.41397860
+_cell_angle_alpha   111.03680962
+_cell_angle_beta   111.18537148
+_cell_angle_gamma   90.00676115
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2CdInBi2
+_chemical_formula_sum   'Na4 Cd2 In2 Bi4'
+_cell_volume   373.40803527
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.31883687  0.69239177  0.45257173  1
+  Na  Na1  1  0.46608147  0.34014081  0.74681848  1
+  Na  Na2  1  0.96601831  0.83885609  0.74662750  1
+  Na  Na3  1  0.81858795  0.19152147  0.45293683  1
+  Cd  Cd4  1  0.39254892  0.76572429  0.09977466  1
+  Cd  Cd5  1  0.89236827  0.76577325  0.09967304  1
+  In  In6  1  0.39245506  0.26549975  0.09965994  1
+  In  In7  1  0.89240596  0.26548185  0.09976474  1
+  Bi  Bi8  1  0.52200692  0.89275396  0.85883435  1
+  Bi  Bi9  1  0.02227437  0.39849433  0.85922606  1
+  Bi  Bi10  1  0.26276217  0.13310177  0.34045925  1
+  Bi  Bi11  1  0.76274885  0.63875685  0.34029993  1

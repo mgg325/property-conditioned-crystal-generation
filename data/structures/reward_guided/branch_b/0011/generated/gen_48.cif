@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Nd2CuGa4Cu
+_chemical_formula_sum              "Nd2 Cu2 Ga4"
+_cell_length_a       4.2159654143378775
+_cell_length_b       4.252806241909021
+_cell_length_c       8.916723251342773
+_cell_angle_alpha    89.27291523914876
+_cell_angle_beta     100.86763219418975
+_cell_angle_gamma    87.74490622770264
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.15260127186775208  0.3128538727760315  0.7850426435470581  1.0000
+  Nd  Nd2       1.0  0.3690396249294281  0.8143723011016847  0.22229604423046112  1.0000
+  Cu  Cu1       1.0  0.9374049305915833  0.31443992257118225  0.3560403883457184  1.0000
+  Ga  Ga1       1.0  0.7989389300346375  0.3147939443588257  0.0801202803850174  1.0000
+  Ga  Ga2       1.0  0.7220985293388367  0.8134195804595947  0.929755687713623  1.0000
+  Ga  Ga3       1.0  0.009551836177706717  0.8129807710647583  0.5028224587440491  1.0000
+  Ga  Ga4       1.0  0.5115959644317627  0.31294548511505127  0.5046677589416504  1.0000
+  Cu  Cu2       1.0  0.5847873687744141  0.8149272799491882  0.6538110375404358  1.0000

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_La2MgNi3Sn4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.54932814
+_cell_length_b   4.54923525
+_cell_length_c   10.57413194
+_cell_angle_alpha   89.98716319
+_cell_angle_beta   90.00718923
+_cell_angle_gamma   89.99465311
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2MgNi3Sn4
+_chemical_formula_sum   'La2 Mg1 Ni3 Sn4'
+_cell_volume   218.84184532
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.32764153  0.38610357  0.33267378  1
+  La  La1  1  0.82783944  0.88538820  0.83037641  1
+  Mg  Mg2  1  0.32743754  0.88508116  0.08142827  1
+  Ni  Ni3  1  0.82784822  0.88608422  0.46424813  1
+  Ni  Ni4  1  0.32793317  0.38578145  0.69863387  1
+  Ni  Ni5  1  0.82776458  0.38616279  0.08132877  1
+  Sn  Sn6  1  0.32791105  0.88588774  0.58138139  1
+  Sn  Sn7  1  0.32774892  0.38522544  0.93623981  1
+  Sn  Sn8  1  0.82783254  0.38596381  0.58137288  1
+  Sn  Sn9  1  0.82755293  0.88626760  0.22668933  1

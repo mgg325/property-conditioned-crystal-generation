@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LaHgLaDyC
+_chemical_formula_sum              "La2 Hg1 Dy1 C1"
+_cell_length_a       4.894899983087991
+_cell_length_b       5.070533335036466
+_cell_length_c       5.115529537200928
+_cell_angle_alpha    90.00877246776052
+_cell_angle_beta     90.02871661920047
+_cell_angle_gamma    90.96542916272405
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.654462993144989  0.31334030628204346  0.9775405526161194  1.0000
+  Hg  Hg1       1.0  0.1562676578760147  0.3147445321083069  0.47649791836738586  1.0000
+  La  La2       1.0  0.6547353267669678  0.8119754791259766  0.4755009412765503  1.0000
+  Dy  Dy1       1.0  0.1547127068042755  0.8118559122085572  0.9739614129066467  1.0000
+  C   C1        1.0  0.6555156707763672  0.8146589398384094  0.9777446985244751  1.0000

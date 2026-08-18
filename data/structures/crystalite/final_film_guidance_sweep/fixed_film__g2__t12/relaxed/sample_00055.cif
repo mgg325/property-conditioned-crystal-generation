@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_AcUAlGaSi3P4Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88525451
+_cell_length_b   6.91834791
+_cell_length_c   6.41024406
+_cell_angle_alpha   91.43670326
+_cell_angle_beta   87.40143033
+_cell_angle_gamma   91.81153713
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcUAlGaSi3P4Pb
+_chemical_formula_sum   'Ac1 U1 Al1 Ga1 Si3 P4 Pb1'
+_cell_volume   260.52927937
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  1.00924566  0.38389144  0.13090617  1
+  U  U1  1  0.51921215  0.00718701  0.97715995  1
+  Al  Al2  1  0.85636684  0.69509435  0.78882794  1
+  Ga  Ga3  1  0.40195220  0.64215053  0.66875389  1
+  Si  Si4  1  0.61800805  0.78747917  0.36122256  1
+  Si  Si5  1  0.52956663  0.58682075  0.04571297  1
+  Si  Si6  1  0.64529584  0.32711154  0.68707073  1
+  P  P7  1  -0.02455596  0.70828137  0.42953363  1
+  P  P8  1  0.01895563  0.97741255  -0.05318426  1
+  P  P9  1  0.62853463  0.13591847  0.36942582  1
+  P  P10  1  0.16930751  -0.05294039  0.26432161  1
+  Pb  Pb11  1  0.17280762  0.22065010  0.61042203  1

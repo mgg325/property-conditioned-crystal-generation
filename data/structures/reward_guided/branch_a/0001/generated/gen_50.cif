@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ho2MgRu
+_chemical_formula_sum              "Ho2 Mg1 Ru1"
+_cell_length_a       3.37403886386262
+_cell_length_b       3.3937647003865234
+_cell_length_c       8.046669006347656
+_cell_angle_alpha    90.64281892339785
+_cell_angle_beta     91.77438317855909
+_cell_angle_gamma    90.40821561077479
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.5582987070083618  0.6252554059028627  0.5169492363929749  1.0000
+  Ho  Ho2       1.0  0.5583822131156921  0.6270282864570619  0.11426960676908493  1.0000
+  Mg  Mg1       1.0  0.05787192657589913  0.1281024515628815  0.8164308071136475  1.0000
+  Ru  Ru1       1.0  0.05745472759008408  0.1262197345495224  0.3162100613117218  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgCdPb2Cd2
+_chemical_formula_sum              "Mg1 Cd3 Pb2"
+_cell_length_a       3.3616979487033234
+_cell_length_b       3.4420647685364196
+_cell_length_c       13.021210670471191
+_cell_angle_alpha    90.15674851853979
+_cell_angle_beta     89.35726805962749
+_cell_angle_gamma    86.94919607587397
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.6123026609420776  0.8310531377792358  0.30126655101776123  1.0000
+  Cd  Cd1       1.0  0.11611771583557129  0.3287070393562317  0.8018652796745301  1.0000
+  Pb  Pb1       1.0  0.6141650676727295  0.8291946649551392  0.9764149188995362  1.0000
+  Pb  Pb2       1.0  0.6128002405166626  0.8297830820083618  0.6218593716621399  1.0000
+  Cd  Cd2       1.0  0.11231894791126251  0.3313010036945343  0.44730973243713384  1.0000
+  Cd  Cd3       1.0  0.11399473249912262  0.33056315779685974  0.15632690489292145  1.0000

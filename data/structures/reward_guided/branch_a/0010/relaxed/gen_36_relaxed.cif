@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ti2CuGe(Pb2Se5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93720516
+_cell_length_b   9.34375218
+_cell_length_c   12.74901948
+_cell_angle_alpha   89.26503920
+_cell_angle_beta   90.00434139
+_cell_angle_gamma   102.16683017
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2CuGe(Pb2Se5)2
+_chemical_formula_sum   'Ti2 Cu1 Ge1 Pb4 Se10'
+_cell_volume   458.44001823
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.33729756  0.83143083  0.47075275  1
+  Ti  Ti1  1  0.93879406  0.03572059  0.95296215  1
+  Cu  Cu2  1  0.55081538  0.26045832  0.88003177  1
+  Ge  Ge3  1  0.68611888  0.52898036  0.36649261  1
+  Pb  Pb4  1  0.25572631  0.66843171  0.09637894  1
+  Pb  Pb5  1  0.23398716  0.62307470  0.75598458  1
+  Pb  Pb6  1  -0.00439929  0.14790726  0.24797600  1
+  Pb  Pb7  1  0.99821793  0.15357196  0.63514262  1
+  Se  Se8  1  0.78265041  0.72232105  0.93728733  1
+  Se  Se9  1  0.82755659  0.81159935  0.60041882  1
+  Se  Se10  1  0.17366034  0.50401115  0.48304328  1
+  Se  Se11  1  0.47116520  0.09900806  0.44684589  1
+  Se  Se12  1  0.42627024  0.01045222  0.82009240  1
+  Se  Se13  1  0.62220398  0.40126768  0.20490642  1
+  Se  Se14  1  0.61573389  0.38800974  0.70996319  1
+  Se  Se15  1  0.07039197  0.29920314  0.98718483  1
+  Se  Se16  1  0.41522395  0.98789856  0.09701614  1
+  Se  Se17  1  0.81639095  0.78936629  0.32698341  1

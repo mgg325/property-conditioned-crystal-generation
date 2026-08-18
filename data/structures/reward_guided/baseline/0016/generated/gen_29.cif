@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       BaCaBiPbCaPb2BiBaPb
+_chemical_formula_sum              "Ba2 Ca2 Bi2 Pb4"
+_cell_length_a       5.028979874820323
+_cell_length_b       5.033300753967953
+_cell_length_c       14.449027061462402
+_cell_angle_alpha    89.9352386449847
+_cell_angle_beta     99.5316067983043
+_cell_angle_gamma    89.88531681034934
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.09318528324365616  0.9929416179656984  0.9502846598625182  1.0000
+  Ca  Ca1       1.0  0.20996497571468353  0.49409925937652593  0.1830887049436569  1.0000
+  Bi  Bi1       1.0  0.2770911455154419  0.9950340986251831  0.3221076726913452  1.0000
+  Pb  Pb1       1.0  0.42250242829322815  0.49416011571884155  0.6072787642478943  1.0000
+  Ca  Ca2       1.0  0.7082129716873169  0.9941604733467102  0.18321180343627927  1.0000
+  Pb  Pb2       1.0  0.4988611042499542  0.9944394826889038  0.7577438950538634  1.0000
+  Pb  Pb3       1.0  0.9254133701324463  0.9926334023475646  0.6139070391654968  1.0000
+  Bi  Bi2       1.0  0.638953685760498  0.4946212470531464  0.0405462421476841  1.0000
+  Ba  Ba2       1.0  0.8258000016212463  0.4940447211265564  0.4195095598697662  1.0000
+  Pb  Pb4       1.0  0.9974572658538818  0.49231019616127014  0.7536521553993224  1.0000

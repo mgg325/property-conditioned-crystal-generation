@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       O2ZnCdOBO
+_chemical_formula_sum              "O4 Zn1 Cd1 B1"
+_cell_length_a       5.0140001402386645
+_cell_length_b       5.006401107195488
+_cell_length_c       5.082512378692627
+_cell_angle_alpha    119.44604743985978
+_cell_angle_beta     119.57580886251763
+_cell_angle_gamma    90.02179063206171
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.31090882420539856  0.3227854669094085  0.6717429757118225  1.0000
+  O   O2        1.0  0.9222514033317566  0.014567311853170393  0.6722155213356018  1.0000
+  Zn  Zn1       1.0  0.47924432158470154  0.032185979187488556  0.3984958529472351  1.0000
+  Cd  Cd1       1.0  0.9791719317436218  0.532807469367981  0.39845696091651917  1.0000
+  O   O3        1.0  0.18794339895248413  0.5896416902542114  0.12389113008975979  1.0000
+  B   B1        1.0  0.22945769131183624  0.2826009690761566  0.8987579941749573  1.0000
+  O   O4        1.0  0.49720314145088196  0.20069031417369843  0.12459319829940792  1.0000

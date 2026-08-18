@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SbAg2Au
+_chemical_formula_sum              "Sb1 Ag2 Au1"
+_cell_length_a       4.2812909846483915
+_cell_length_b       4.300242854815925
+_cell_length_c       5.197997570037842
+_cell_angle_alpha    113.59650864561084
+_cell_angle_beta     113.5674254967512
+_cell_angle_gamma    89.94314801266891
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.6594479680061339  0.7261472344398499  0.40054926276206965  1.0000
+  Ag  Ag1       1.0  0.4097872078418731  0.9770462512969972  0.901648998260498  1.0000
+  Ag  Ag2       1.0  0.15943704545497892  0.2258807867765427  0.40198618173599243  1.0000
+  Au  Au1       1.0  0.9107166528701781  0.4759957194328308  0.9012042880058289  1.0000

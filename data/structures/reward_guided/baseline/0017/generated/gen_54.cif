@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       PSmPSmP2Ni2
+_chemical_formula_sum              "P4 Sm2 Ni2"
+_cell_length_a       3.7793566816530957
+_cell_length_b       3.7998135938308444
+_cell_length_c       9.59016227722168
+_cell_angle_alpha    88.87203087165491
+_cell_angle_beta     89.49659021512896
+_cell_angle_gamma    87.28345177512679
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.021789425984025005  0.6035075187683105  0.1420615315437317  1.0000
+  Sm  Sm1       1.0  0.5199678540229797  0.6030334234237672  0.9063478708267212  1.0000
+  P   P2        1.0  0.5224632620811462  0.6041604280471803  0.5135104656219482  1.0000
+  Sm  Sm2       1.0  0.022822722792625427  0.1038123518228531  0.37778475880622864  1.0000
+  P   P3        1.0  0.5218549370765686  0.1035924181342125  0.14157085120677948  1.0000
+  P   P4        1.0  0.02166062965989113  0.1039886921644211  0.772452175617218  1.0000
+  Ni  Ni1       1.0  0.522729218006134  0.10422344505786896  0.6425787210464478  1.0000
+  Ni  Ni2       1.0  0.020563298836350438  0.6034494638442994  0.6409732103347778  1.0000

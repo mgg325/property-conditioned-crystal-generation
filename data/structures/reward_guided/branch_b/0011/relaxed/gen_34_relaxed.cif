@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KLiHfTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25967141
+_cell_length_b   9.55102975
+_cell_length_c   10.16892133
+_cell_angle_alpha   108.47550921
+_cell_angle_beta   90.00810977
+_cell_angle_gamma   89.99194604
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLiHfTe3
+_chemical_formula_sum   'K2 Li2 Hf2 Te6'
+_cell_volume   392.39171619
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.83248260  0.68006704  0.65357386  1
+  K  K1  1  0.33318247  0.26260397  0.14577963  1
+  Li  Li2  1  0.83248950  0.54873035  0.99933457  1
+  Li  Li3  1  0.33250238  0.39363971  0.79985893  1
+  Hf  Hf4  1  0.83250468  0.15075576  0.55885116  1
+  Hf  Hf5  1  0.33275218  0.79190222  0.24027186  1
+  Te  Te6  1  0.33266166  0.93289555  0.54814304  1
+  Te  Te7  1  0.83263192  0.00976016  0.25105969  1
+  Te  Te8  1  0.33243899  0.69701568  0.94604863  1
+  Te  Te9  1  0.83264775  0.24528985  0.85298186  1
+  Te  Te10  1  0.83279012  0.59714802  0.27502085  1
+  Te  Te11  1  0.33248619  0.34547846  0.52421099  1

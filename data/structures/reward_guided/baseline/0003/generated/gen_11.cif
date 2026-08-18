@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TbPOsPOs
+_chemical_formula_sum              "Tb1 P2 Os2"
+_cell_length_a       4.077603807787742
+_cell_length_b       4.079204521859459
+_cell_length_c       5.588901519775391
+_cell_angle_alpha    111.50270006881901
+_cell_angle_beta     111.52255551113302
+_cell_angle_gamma    90.01308938001061
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.14810554683208466  0.03359168395400047  0.7854433059692383  1.0000
+  P   P1        1.0  0.773382306098938  0.6586325764656067  0.03644436597824104  1.0000
+  Os  Os1       1.0  0.3983446955680847  0.7837708592414856  0.28612837195396423  1.0000
+  P   P2        1.0  0.5230734348297119  0.40835943818092346  0.5349159240722656  1.0000
+  Os  Os2       1.0  0.8984415531158447  0.2837210297584534  0.2858923077583313  1.0000

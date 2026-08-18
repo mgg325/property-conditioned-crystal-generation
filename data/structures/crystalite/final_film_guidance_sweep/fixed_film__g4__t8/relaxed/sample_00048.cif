@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Zn2CdBi2PbSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04941348
+_cell_length_b   5.92630267
+_cell_length_c   8.03727946
+_cell_angle_alpha   109.18272253
+_cell_angle_beta   112.81840190
+_cell_angle_gamma   91.31235646
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2CdBi2PbSe2
+_chemical_formula_sum   'Zn2 Cd1 Bi2 Pb1 Se2'
+_cell_volume   247.07622036
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.67067579  0.18153329  0.19549675  1
+  Zn  Zn1  1  0.41840701  0.49719303  0.88280550  1
+  Cd  Cd2  1  0.80174540  0.72177892  0.78197736  1
+  Bi  Bi3  1  0.33323216  0.64694546  0.38471713  1
+  Bi  Bi4  1  0.53396302  0.20501784  0.50307533  1
+  Pb  Pb5  1  0.04334497  0.03092561  0.53595859  1
+  Se  Se6  1  0.83384066  0.43920125  0.06568204  1
+  Se  Se7  1  0.29071414  0.88885188  -0.05328527  1

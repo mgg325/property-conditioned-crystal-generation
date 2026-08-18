@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_ZnCoSiF11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64364996
+_cell_length_b   5.66785982
+_cell_length_c   6.86845456
+_cell_angle_alpha   78.99594709
+_cell_angle_beta   78.42082032
+_cell_angle_gamma   80.31509412
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCoSiF11
+_chemical_formula_sum   'Zn1 Co1 Si1 F11'
+_cell_volume   209.33846474
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.02618302  0.41197226  -0.03036335  1
+  Co  Co1  1  0.15379681  0.61132633  0.40161800  1
+  Si  Si2  1  0.58719568  -0.00998366  0.96599341  1
+  F  F3  1  0.01220733  0.41153503  0.25599424  1
+  F  F4  1  0.13943618  0.45580553  0.67607746  1
+  F  F5  1  0.82747366  0.17909539  0.90953362  1
+  F  F6  1  0.37739270  0.25769727  0.97572805  1
+  F  F7  1  0.58815596  0.01585126  0.72219672  1
+  F  F8  1  0.85962978  0.74925939  0.44384410  1
+  F  F9  1  0.25771735  0.86594331  0.43581509  1
+  F  F10  1  0.42898819  0.45072585  0.33320234  1
+  F  F11  1  0.81452090  0.73385301  0.95170228  1
+  F  F12  1  0.60714039  -0.02043158  0.20565784  1
+  F  F13  1  0.35721718  0.81581582  1.02785219  1

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AlAs2AlSr
+_chemical_formula_sum              "Al2 As2 Sr1"
+_cell_length_a       4.464693685747858
+_cell_length_b       4.465754057942604
+_cell_length_c       7.117575168609619
+_cell_angle_alpha    89.9537279746324
+_cell_angle_beta     89.98567959669634
+_cell_angle_gamma    119.8988088830692
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.9245569109916687  0.09708625078201294  0.030775506049394608  1.0000
+  As  As1       1.0  0.9245023131370544  0.09711237251758575  0.3872860074043274  1.0000
+  As  As2       1.0  0.5912088751792907  0.43072944879531855  0.9483277797698975  1.0000
+  Al  Al2       1.0  0.5913983583450317  0.43095627427101135  0.3046002984046936  1.0000
+  Sr  Sr1       1.0  0.2580093443393707  0.764426589012146  0.6678171753883362  1.0000

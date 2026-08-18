@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_HoTmIn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.72975073
+_cell_length_b   3.72892741
+_cell_length_c   7.47504367
+_cell_angle_alpha   90.00563421
+_cell_angle_beta   90.00164804
+_cell_angle_gamma   89.99752313
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoTmIn2
+_chemical_formula_sum   'Ho1 Tm1 In2'
+_cell_volume   103.96268041
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.49451883  0.69893625  0.91877778  1
+  Tm  Tm1  1  0.49429641  0.69820271  0.41856757  1
+  In  In2  1  0.99345753  0.19625173  0.17149270  1
+  In  In3  1  0.99599329  0.19929351  0.66680120  1

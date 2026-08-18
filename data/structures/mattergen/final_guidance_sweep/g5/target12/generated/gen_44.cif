@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ZrInSe2
+_chemical_formula_sum              "Zr1 In1 Se2"
+_cell_length_a       3.7699597164702756
+_cell_length_b       3.768489686812406
+_cell_length_c       8.4530029296875
+_cell_angle_alpha    102.70151167739712
+_cell_angle_beta     90.02155175218569
+_cell_angle_gamma    119.94040531467067
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.09419067203998563  0.9244514107704163  0.44320744276046753  1.0000
+  In  In1       1.0  0.9324787855148315  0.5981319546699524  0.9519630074501038  1.0000
+  Se  Se1       1.0  0.49285307526588434  0.7238745093345641  0.6440961956977844  1.0000
+  Se  Se2       1.0  0.6931926608085632  0.1252206414937973  0.24414129555225372  1.0000

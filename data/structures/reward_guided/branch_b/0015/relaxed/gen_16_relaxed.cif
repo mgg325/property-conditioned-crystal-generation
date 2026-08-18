@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiErCuAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73869895
+_cell_length_b   4.73708434
+_cell_length_c   4.75768504
+_cell_angle_alpha   59.73447320
+_cell_angle_beta   59.64308421
+_cell_angle_gamma   60.04518083
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiErCuAu
+_chemical_formula_sum   'Li1 Er1 Cu1 Au1'
+_cell_volume   75.18617066
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.88447389  0.65391301  0.02861292  1
+  Er  Er1  1  0.38535681  0.15187644  0.52847266  1
+  Cu  Cu2  1  0.13626198  0.90406491  0.28007906  1
+  Au  Au3  1  0.63344531  0.40119255  0.77825896  1

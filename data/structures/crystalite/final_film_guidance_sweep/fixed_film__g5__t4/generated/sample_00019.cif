@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BaTlCSeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.19106913
+_cell_length_b   5.15409088
+_cell_length_c   5.69707346
+_cell_angle_alpha   56.84442902
+_cell_angle_beta   58.16158295
+_cell_angle_gamma   57.52275848
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaTlCSeO6
+_chemical_formula_sum   'Ba1 Tl1 C1 Se1 O6'
+_cell_volume   140.71593238
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C0  1  0.15187255  0.81058574  0.34325165  1
+  Ba  Ba1  1  0.66365570  0.02949309  0.70004499  1
+  O  O2  1  0.31529260  0.73317868  0.07237536  1
+  O  O3  1  0.79619384  0.24159324  0.97341132  1
+  O  O4  1  0.90814805  0.52170080  0.20278493  1
+  O  O5  1  0.44168520  0.97114825  0.66878307  1
+  O  O6  1  0.18047547  0.92291355  0.87483358  1
+  Tl  Tl7  1  0.96797585  0.63550025  0.31703916  1
+  Se  Se8  1  0.93771189  0.06814268  0.19997635  1
+  O  O9  1  0.18496439  0.99903154  0.70561600  1

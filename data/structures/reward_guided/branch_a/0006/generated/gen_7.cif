@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       NdIrSi4IrSiNdIr
+_chemical_formula_sum              "Nd2 Ir3 Si5"
+_cell_length_a       4.2335468924531865
+_cell_length_b       4.203603810252818
+_cell_length_c       9.90106201171875
+_cell_angle_alpha    91.31653496919563
+_cell_angle_beta     91.06833275754138
+_cell_angle_gamma    88.44178357131536
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.7734232544898987  0.3089124858379364  0.5987498164176941  1.0000
+  Ir  Ir1       1.0  0.7719318866729736  0.8103634119033815  0.8472487330436707  1.0000
+  Si  Si1       1.0  0.27308374643325806  0.31131380796432495  0.34983521699905396  1.0000
+  Si  Si2       1.0  0.2726583778858185  0.8109005093574524  0.7129531502723694  1.0000
+  Si  Si3       1.0  0.7760860919952393  0.3109663426876068  0.21110408008098602  1.0000
+  Si  Si4       1.0  0.7729042768478394  0.30936479568481445  0.9719897508621217  1.0000
+  Ir  Ir2       1.0  0.2747037708759308  0.31108027696609497  0.8471789956092834  1.0000
+  Si  Si5       1.0  0.7737120985984802  0.8102009892463684  0.35200974345207214  1.0000
+  Nd  Nd2       1.0  0.2715698182582855  0.809144914150238  0.10925160348415375  1.0000
+  Ir  Ir3       1.0  0.27103203535079956  0.8081029653549194  0.46960690617561346  1.0000

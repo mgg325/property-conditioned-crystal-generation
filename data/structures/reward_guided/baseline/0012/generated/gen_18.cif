@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NaHNaPHNa2P
+_chemical_formula_sum              "Na4 H2 P2"
+_cell_length_a       5.032684752971166
+_cell_length_b       5.8034413684542985
+_cell_length_c       5.787184238433838
+_cell_angle_alpha    74.36524699868673
+_cell_angle_beta     79.9395228699302
+_cell_angle_gamma    79.79042738535804
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.7218911647796631  0.24191147089004517  0.5510312914848328  1.0000
+  H   H1        1.0  0.9431072473526001  0.14155258238315582  0.994346022605896  1.0000
+  Na  Na2       1.0  0.2769611775875092  0.986379086971283  0.3809957206249237  1.0000
+  P   P1        1.0  0.17617499828338626  0.5083606839179993  0.3591972291469574  1.0000
+  H   H2        1.0  0.06362131983041763  0.08419962972402573  0.9353710412979124  1.0000
+  Na  Na3       1.0  0.2766801118850708  0.5297685265541077  0.8390676975250244  1.0000
+  Na  Na4       1.0  0.7222115993499756  0.6986305117607117  0.0930821523070335  1.0000
+  P   P2        1.0  0.8215005397796631  0.7210147976875305  0.5724078416824341  1.0000

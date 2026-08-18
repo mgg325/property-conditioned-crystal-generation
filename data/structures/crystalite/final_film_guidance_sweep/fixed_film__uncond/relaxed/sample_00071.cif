@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_InI5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35404958
+_cell_length_b   8.23304641
+_cell_length_c   9.54164602
+_cell_angle_alpha   78.21359117
+_cell_angle_beta   76.34258459
+_cell_angle_gamma   73.31569908
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InI5
+_chemical_formula_sum   'In1 I5'
+_cell_volume   314.93601086
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.78338147  0.42515919  0.29549920  1
+  I  I1  1  0.21100341  0.68974741  0.28778891  1
+  I  I2  1  0.96392328  0.55017435  0.86150646  1
+  I  I3  1  0.38704877  0.78585544  0.75349332  1
+  I  I4  1  0.45774530  0.20904081  0.20820244  1
+  I  I5  1  0.72032320  0.27205980  0.57743969  1

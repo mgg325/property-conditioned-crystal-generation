@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiEuTl2
+_chemical_formula_sum              "Li1 Eu1 Tl2"
+_cell_length_a       3.909555470998962
+_cell_length_b       5.401685720525504
+_cell_length_c       5.396191120147705
+_cell_angle_alpha    89.490429406879
+_cell_angle_beta     89.1186144007018
+_cell_angle_gamma    89.82152282986274
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.22522231936454773  0.42023018002510065  0.4317344129085541  1.0000
+  Eu  Eu1       1.0  0.22627656161785123  0.9230261445045472  0.9320090413093567  1.0000
+  Tl  Tl1       1.0  0.7205582857131958  0.4209097921848297  0.9319359660148621  1.0000
+  Tl  Tl2       1.0  0.7221537232398987  0.9215710759162903  0.43241143226623535  1.0000

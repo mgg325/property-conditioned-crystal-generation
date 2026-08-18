@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_AgPt3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00883613
+_cell_length_b   5.66898902
+_cell_length_c   5.66893468
+_cell_angle_alpha   89.99945262
+_cell_angle_beta   90.00116463
+_cell_angle_gamma   90.00171308
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgPt3
+_chemical_formula_sum   'Ag2 Pt6'
+_cell_volume   128.83248154
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.14561193  0.06537509  0.64458060  1
+  Ag  Ag1  1  0.14555778  0.56504593  0.14458211  1
+  Pt  Pt2  1  0.14457632  0.56551287  0.64468218  1
+  Pt  Pt3  1  0.14636216  0.06518061  0.14485874  1
+  Pt  Pt4  1  0.64630973  0.31460250  0.39559283  1
+  Pt  Pt5  1  0.64515879  0.31499821  0.89535052  1
+  Pt  Pt6  1  0.64514465  0.81548655  0.89359455  1
+  Pt  Pt7  1  0.64571830  0.81492351  0.39350065  1

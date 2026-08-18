@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CsKCaBeSi2PSeClO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.43901205
+_cell_length_b   3.15843797
+_cell_length_c   8.30150223
+_cell_angle_alpha   89.91061401
+_cell_angle_beta   88.33234406
+_cell_angle_gamma   91.43761444
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsKCaBeSi2PSeClO9
+_chemical_formula_sum   'Cs1 K1 Ca1 Be1 Si2 P1 Se1 Cl1 O9'
+_cell_volume   63.90298397
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.32619947  0.93200958  0.41050410  1
+  Cs  Cs1  1  0.00261319  0.98297906  0.13181487  1
+  O  O2  1  0.92075372  0.17436078  0.90290326  1
+  Se  Se3  1  0.32521731  0.39436442  0.12227482  1
+  K  K4  1  0.46352684  0.66562414  0.02465263  1
+  O  O5  1  0.35407758  0.70578176  0.70683140  1
+  O  O6  1  0.28385025  0.85476178  0.03134018  1
+  Si  Si7  1  0.38946596  0.98180342  0.75970268  1
+  Ca  Ca8  1  0.62892294  0.80487674  0.61921930  1
+  O  O9  1  0.68988115  0.66613472  0.02486062  1
+  Be  Be10  1  0.90374857  0.13737017  0.18905908  1
+  O  O11  1  0.79757774  0.61838520  0.56308508  1
+  O  O12  1  0.85086471  0.15376967  0.25738692  1
+  O  O13  1  0.57115835  0.70790482  0.90350807  1
+  Cl  Cl14  1  0.20083427  0.88500798  0.39514384  1
+  O  O15  1  0.33489856  0.08728585  0.80740422  1
+  Si  Si16  1  0.02126646  0.69123799  0.83369327  1
+  P  P17  1  0.79540551  0.66525841  0.37325156  1

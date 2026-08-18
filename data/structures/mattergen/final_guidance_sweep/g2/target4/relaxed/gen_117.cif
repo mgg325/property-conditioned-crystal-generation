@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       O2SiOBaOBa2O
+_chemical_formula_sum              "O5 Si1 Ba3"
+_cell_length_a       5.451616419252926
+_cell_length_b       5.45862265870963
+_cell_length_c       6.281471201293215
+_cell_angle_alpha    110.29619441973334
+_cell_angle_beta     110.29485471246514
+_cell_angle_gamma    91.77748742984983
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.06713201680746077  0.6541784639094342  0.5282301628119623  1.0000
+  O   O2        1.0  0.06070814812914822  0.30033084982355535  0.9442424676354613  1.0000
+  Si  Si1       1.0  0.3819471349145358  0.6231133165064857  0.5739670616117685  1.0000
+  O   O3        1.0  0.41455480510859166  0.3091119236664093  0.5285453090273199  1.0000
+  Ba  Ba1       1.0  0.12858276918298495  0.8425589826964088  0.026579001025301915  1.0000
+  O   O4        1.0  0.5583865861017806  0.7997428551274278  0.8820721207892123  1.0000
+  Ba  Ba2       1.0  0.8740437934296208  0.11476888456005241  0.5088279670681456  1.0000
+  Ba  Ba3       1.0  0.6018434954078264  0.370172119280212  0.02734424942975347  1.0000
+  O   O5        1.0  0.491221714630337  0.7332320223624869  0.405505030412323  1.0000

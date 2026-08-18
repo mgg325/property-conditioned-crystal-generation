@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CdF3MgF
+_chemical_formula_sum              "Cd1 F4 Mg1"
+_cell_length_a       3.6857367584448433
+_cell_length_b       3.6860736556267675
+_cell_length_c       5.355840682983398
+_cell_angle_alpha    89.8738420899356
+_cell_angle_beta     89.76373942730024
+_cell_angle_gamma    89.94454819820395
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.6689065694808961  0.8278291225433348  0.5039039254188538  1.0000
+  F   F1        1.0  0.6686990857124329  0.32771965861320496  0.7740321159362793  1.0000
+  F   F2        1.0  0.16905203461647034  0.827353537082672  0.7731212973594666  1.0000
+  F   F3        1.0  0.1691516935825348  0.8281927108764647  0.23271548748016357  1.0000
+  Mg  Mg1       1.0  0.1686728596687317  0.32831758260726923  0.0029652579687535763  1.0000
+  F   F4        1.0  0.669519305229187  0.32764130830764765  0.2333708256483078  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CsO2NWNa2O
+_chemical_formula_sum              "Cs1 O3 N1 W1 Na2"
+_cell_length_a       5.8235571508661135
+_cell_length_b       5.823111753838433
+_cell_length_c       5.824600696563721
+_cell_angle_alpha    91.99154899671662
+_cell_angle_beta     117.31254446278334
+_cell_angle_gamma    118.40805147378272
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.22186696529388428  0.6078500151634216  0.8557896614074707  1.0000
+  O   O1        1.0  0.2142251431941986  0.7942631244659424  0.39222413301467896  1.0000
+  O   O2        1.0  0.8682719469070435  0.0633406788110733  0.3097898960113526  1.0000
+  N   N1        1.0  0.5626645088195801  0.4083344638347626  0.6566334366798401  1.0000
+  W   W1        1.0  0.219384104013443  0.10751095414161682  0.3544136583805084  1.0000
+  Na  Na1       1.0  0.7199935317039489  0.8590427637100219  0.6047388911247253  1.0000
+  Na  Na2       1.0  0.719839334487915  0.3580572307109833  0.10596858710050583  1.0000
+  O   O3        1.0  0.2155236303806305  0.14587447047233582  0.04206482693552971  1.0000

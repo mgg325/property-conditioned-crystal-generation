@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Zn5Pt2Au5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.85305868
+_cell_length_b   6.32670367
+_cell_length_c   6.46775209
+_cell_angle_alpha   85.08422986
+_cell_angle_beta   83.20069109
+_cell_angle_gamma   83.03332103
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn5Pt2Au5
+_chemical_formula_sum   'Zn5 Pt2 Au5'
+_cell_volume   195.21920209
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.20690486  0.11016915  0.49026877  1
+  Zn  Zn1  1  0.47280985  0.38635773  0.69858810  1
+  Zn  Zn2  1  0.22324272  0.45043678  0.17075260  1
+  Zn  Zn3  1  0.48938574  0.02939287  0.07184479  1
+  Zn  Zn4  1  0.95283977  0.87060818  0.25343668  1
+  Pt  Pt5  1  0.69616555  0.26320297  0.31984315  1
+  Pt  Pt6  1  0.44431735  0.72835950  0.38782419  1
+  Au  Au7  1  0.21983273  0.76921126  0.83091142  1
+  Au  Au8  1  0.70610293  0.96704749  0.66897888  1
+  Au  Au9  1  0.72013748  0.60343296  1.00202871  1
+  Au  Au10  1  0.95899564  0.52617102  0.55980559  1
+  Au  Au11  1  0.01736339  0.20082829  0.91542474  1

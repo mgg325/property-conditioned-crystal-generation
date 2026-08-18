@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LaNi2Cu
+_chemical_formula_sum              "La1 Ni2 Cu1"
+_cell_length_a       4.197994267403006
+_cell_length_b       4.197207265920275
+_cell_length_c       5.235692687672715
+_cell_angle_alpha    89.94256303321994
+_cell_angle_beta     113.6402259844911
+_cell_angle_gamma    120.00497986463485
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.34485067900066096  0.05361183177976988  0.21032467644595942  1.0000
+  Ni  Ni1       1.0  0.9632510195946914  0.8628972251024148  0.6380812517579002  1.0000
+  Ni  Ni2       1.0  0.7264795169047308  0.2444169151360155  0.7824007761195021  1.0000
+  Cu  Cu1       1.0  0.34493085381563937  0.5536758479474281  0.7103605365604686  1.0000

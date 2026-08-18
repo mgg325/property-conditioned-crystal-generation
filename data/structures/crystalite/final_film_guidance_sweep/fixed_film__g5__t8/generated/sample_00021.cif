@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_SrCaZn4CdIn3Tc2SnBiSb3AsSeBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46476221
+_cell_length_b   9.70208740
+_cell_length_c   7.81987429
+_cell_angle_alpha   89.27908325
+_cell_angle_beta   93.75625610
+_cell_angle_gamma   91.10617828
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCaZn4CdIn3Tc2SnBiSb3AsSeBr
+_chemical_formula_sum
+'Sr1 Ca1 Zn4 Cd1 In3 Tc2 Sn1 Bi1 Sb3 As1 Se1 Br1'
+_cell_volume   413.61222718
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.93005830  0.28704339  0.43866038  1
+  Tc  Tc1  1  0.42425412  0.10784069  0.62983280  1
+  Zn  Zn2  1  0.90525222  0.67044103  0.75194436  1
+  In  In3  1  0.44301841  0.84994179  0.02831098  1
+  Zn  Zn4  1  0.43058321  0.85970247  0.09860110  1
+  Zn  Zn5  1  0.95542324  0.75037402  0.35350877  1
+  Br  Br6  1  0.99945772  0.68952090  0.12539405  1
+  Sb  Sb7  1  0.36820227  0.50039810  0.51830083  1
+  Sb  Sb8  1  0.41983864  0.21498671  0.29705843  1
+  Se  Se9  1  0.87041402  0.80281281  0.96646804  1
+  Sn  Sn10  1  0.94130635  0.06032655  0.20268673  1
+  In  In11  1  0.87821323  0.53157699  0.13568693  1
+  As  As12  1  0.92616713  0.91281557  0.61833388  1
+  Sr  Sr13  1  0.95887071  0.28070605  0.82612491  1
+  Ca  Ca14  1  0.50448024  0.78911108  0.29586965  1
+  Bi  Bi15  1  0.45924252  0.26184034  0.34389067  1
+  Tc  Tc16  1  0.42137223  0.28630370  0.93615532  1
+  In  In17  1  0.47518042  0.35123530  0.03564268  1
+  Zn  Zn18  1  0.84321988  0.37997353  0.11844966  1
+  Sb  Sb19  1  0.39980304  0.58610851  0.74072683  1

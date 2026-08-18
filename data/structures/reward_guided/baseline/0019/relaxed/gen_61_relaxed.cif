@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbHf5N6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.23890112
+_cell_length_b   6.51348078
+_cell_length_c   7.26376050
+_cell_angle_alpha   103.00968530
+_cell_angle_beta   102.88167429
+_cell_angle_gamma   89.99862311
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbHf5N6
+_chemical_formula_sum   'Tb1 Hf5 N6'
+_cell_volume   145.34590896
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.20270633  0.45930684  0.42039583  1
+  Hf  Hf1  1  0.53308343  0.12215923  0.08131703  1
+  Hf  Hf2  1  0.53497468  0.62603154  0.08503713  1
+  Hf  Hf3  1  0.87218690  0.79595630  0.75921831  1
+  Hf  Hf4  1  0.20243062  0.95909988  0.41996908  1
+  Hf  Hf5  1  0.87002776  0.29173632  0.75548705  1
+  N  N6  1  0.03083622  0.37333935  0.07681400  1
+  N  N7  1  0.37434234  0.54466166  0.76374700  1
+  N  N8  1  0.03688572  0.87485272  0.08839949  1
+  N  N9  1  0.36823784  0.04313430  0.75183977  1
+  N  N10  1  0.70330702  0.72555889  0.42166139  1
+  N  N11  1  0.70183336  0.19298004  0.41877112  1

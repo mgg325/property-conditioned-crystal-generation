@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Cd3In2(GaSn)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.79066835
+_cell_length_b   6.78791468
+_cell_length_c   7.05720275
+_cell_angle_alpha   90.88663323
+_cell_angle_beta   88.14818051
+_cell_angle_gamma   121.00459535
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd3In2(GaSn)3
+_chemical_formula_sum   'Cd3 In2 Ga3 Sn3'
+_cell_volume   278.67555527
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.34870714  0.70999974  0.86639025  1
+  Cd  Cd1  1  0.37784604  0.22147594  0.85842803  1
+  Cd  Cd2  1  0.71186246  0.88868425  0.18559254  1
+  In  In3  1  0.73876923  0.40548192  0.27847458  1
+  In  In4  1  0.22320566  0.39458927  0.24906147  1
+  Ga  Ga5  1  0.55891129  0.60472184  0.55345014  1
+  Ga  Ga6  1  0.56203481  0.02435782  0.55294165  1
+  Ga  Ga7  1  0.99930097  0.03499969  0.54506179  1
+  Sn  Sn8  1  0.88547317  0.24634595  0.86631895  1
+  Sn  Sn9  1  0.88575479  0.70796880  0.85999612  1
+  Sn  Sn10  1  0.22664181  0.90087083  0.25070489  1

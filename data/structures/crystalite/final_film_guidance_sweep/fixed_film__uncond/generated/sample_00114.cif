@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_SrPr3Mn2O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49960518
+_cell_length_b   5.71134806
+_cell_length_c   6.91175604
+_cell_angle_alpha   90.06909180
+_cell_angle_beta   113.63377380
+_cell_angle_gamma   90.07805634
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrPr3Mn2O8
+_chemical_formula_sum   'Sr1 Pr3 Mn2 O8'
+_cell_volume   198.88994439
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.07140765  0.21268240  0.57582462  1
+  Pr  Pr1  1  0.17948219  0.46830803  0.28339046  1
+  O  O2  1  0.54787785  0.72888124  0.51687735  1
+  O  O3  1  0.99083114  0.54523325  0.91296792  1
+  Pr  Pr4  1  0.94115829  0.96487033  0.83905917  1
+  Mn  Mn5  1  0.30958459  0.97608805  0.56105065  1
+  Sr  Sr6  1  0.45402092  0.48616311  0.84056592  1
+  O  O7  1  0.57322323  0.22503957  0.57177043  1
+  Mn  Mn8  1  0.81131405  0.48159981  0.55754387  1
+  O  O9  1  0.64415783  0.41339976  0.21581554  1
+  Pr  Pr10  1  0.67506766  0.00663945  0.28066790  1
+  O  O11  1  0.48543772  0.93340206  0.89999461  1
+  O  O12  1  0.12998030  0.05770692  0.18756226  1
+  O  O13  1  0.04092538  0.72600883  0.51616222  1

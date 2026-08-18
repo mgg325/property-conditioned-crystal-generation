@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_NaSrHgAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38986392
+_cell_length_b   4.38669768
+_cell_length_c   7.48815042
+_cell_angle_alpha   107.03513312
+_cell_angle_beta   107.04773084
+_cell_angle_gamma   90.00145324
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSrHgAu2
+_chemical_formula_sum   'Na1 Sr1 Hg1 Au2'
+_cell_volume   131.23120659
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.21798017  0.06299377  0.01272745  1
+  Sr  Sr1  1  0.96801383  0.31369894  0.51294408  1
+  Hg  Hg2  1  0.71817075  0.56362211  0.01329241  1
+  Au  Au3  1  0.56921020  0.91488593  0.71577843  1
+  Au  Au4  1  0.36670014  0.71203047  0.31050277  1

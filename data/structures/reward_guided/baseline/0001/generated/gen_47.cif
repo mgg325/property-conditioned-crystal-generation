@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       IrMn2CeIr2
+_chemical_formula_sum              "Ir3 Mn2 Ce1"
+_cell_length_a       4.080301458788058
+_cell_length_b       5.411427133561606
+_cell_length_c       5.4127044677734375
+_cell_angle_alpha    120.00710895250661
+_cell_angle_beta     89.95740261119077
+_cell_angle_gamma    90.07826281095458
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.3058578372001648  0.9541041254997253  0.20694032311439506  1.0000
+  Mn  Mn1       1.0  0.8060065507888794  0.2870776057243347  0.374047189950943  1.0000
+  Mn  Mn2       1.0  0.8058139085769653  0.6202204823493956  0.04070668295025817  1.0000
+  Ce  Ce1       1.0  0.8057393431663513  0.9539308547973632  0.7073129415512084  1.0000
+  Ir  Ir2       1.0  0.3058278262615204  0.45384225249290466  0.2073918133974075  1.0000
+  Ir  Ir3       1.0  0.3057672679424286  0.4538077712059021  0.7069234848022461  1.0000

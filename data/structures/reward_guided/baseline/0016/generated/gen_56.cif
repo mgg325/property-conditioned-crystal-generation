@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ho2MgHgHoMgHg2
+_chemical_formula_sum              "Ho3 Mg2 Hg3"
+_cell_length_a       3.5951985813293206
+_cell_length_b       5.268016824064499
+_cell_length_c       10.82424259185791
+_cell_angle_alpha    104.08660563246652
+_cell_angle_beta     99.25244325444004
+_cell_angle_gamma    91.06366085811001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.07860136032104492  0.2521866261959076  0.3077867329120636  1.0000
+  Ho  Ho2       1.0  0.8290244936943054  0.0019789456855505705  0.8058892488479614  1.0000
+  Mg  Mg1       1.0  0.19335304200649261  0.8666029572486876  0.5334725379943848  1.0000
+  Hg  Hg1       1.0  0.4530193507671356  0.12700197100639343  0.05530644953250885  1.0000
+  Ho  Ho3       1.0  0.9540210962295532  0.6278062462806702  0.05602383613586426  1.0000
+  Mg  Mg2       1.0  0.7138492465019226  0.38878470659255976  0.57776939868927  1.0000
+  Hg  Hg2       1.0  0.3272971510887146  0.5010772943496704  0.8030965924263  1.0000
+  Hg  Hg3       1.0  0.580371081829071  0.7544906735420226  0.3103182315826416  1.0000

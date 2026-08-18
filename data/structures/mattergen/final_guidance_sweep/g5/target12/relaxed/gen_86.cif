@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2Ba2Sb2BaSb2
+_chemical_formula_sum              "In2 Ba3 Sb4"
+_cell_length_a       5.028168337101334
+_cell_length_b       5.0288432972054595
+_cell_length_c       16.78986473822578
+_cell_angle_alpha    90.01068974807173
+_cell_angle_beta     89.98463802498047
+_cell_angle_gamma    119.99751794447548
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.26414629305785886  0.09107528461175138  0.5806287817552385  1.0000
+  In  In2       1.0  0.2633158777790471  0.09042726131705418  0.20212809106325727  1.0000
+  Ba  Ba1       1.0  0.9304035051160295  0.42388881162775527  0.7741296999768199  1.0000
+  Ba  Ba2       1.0  0.9313410829345313  0.424365900287553  0.464350502584302  1.0000
+  Sb  Sb1       1.0  0.9301797763962866  0.42380021243027605  0.1440452845032653  1.0000
+  Sb  Sb2       1.0  0.26471528689417867  0.0909151332720933  0.37195825679830236  1.0000
+  Ba  Ba3       1.0  0.5968561971512157  0.757305348545183  0.006144841087472781  1.0000
+  Sb  Sb3       1.0  0.26361899120567894  0.09055880719261633  0.8884434224673584  1.0000
+  Sb  Sb4       1.0  0.5973199576513303  0.7576261493960973  0.6257173741060935  1.0000

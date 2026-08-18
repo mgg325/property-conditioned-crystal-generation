@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TePrTbTe
+_chemical_formula_sum              "Te2 Pr1 Tb1"
+_cell_length_a       4.417473579564593
+_cell_length_b       4.354164836405882
+_cell_length_c       6.27290153503418
+_cell_angle_alpha    90.2345238772043
+_cell_angle_beta     88.83787303059546
+_cell_angle_gamma    91.54530555727514
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.8946714997291565  0.290260374546051  0.22642627358436587  1.0000
+  Pr  Pr1       1.0  0.39705169200897217  0.7928174138069153  0.22592353820800784  1.0000
+  Tb  Tb1       1.0  0.8962559103965759  0.2898813486099243  0.7288575768470765  1.0000
+  Te  Te2       1.0  0.3966532051563263  0.7906572818756104  0.7269682288169862  1.0000

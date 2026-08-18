@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Li2ZnCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.66145778
+_cell_length_b   3.75324750
+_cell_length_c   11.16745663
+_cell_angle_alpha   90.11215210
+_cell_angle_beta   89.98256683
+_cell_angle_gamma   89.98944855
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2ZnCl3
+_chemical_formula_sum   'Li2 Zn1 Cl3'
+_cell_volume   153.46687477
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.85177541  0.40864119  0.86730814  1
+  Li  Li1  1  0.85554910  0.92484164  0.71332854  1
+  Cl  Cl2  1  0.35120302  0.92009073  0.59361035  1
+  Li  Li3  1  0.34981465  0.41825685  0.74099773  1
+  Cl  Cl4  1  0.35454053  0.91849804  0.16401950  1
+  Zn  Zn5  1  0.84803641  0.41287166  0.18878764  1

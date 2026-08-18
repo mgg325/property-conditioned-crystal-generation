@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       KOTaO2
+_chemical_formula_sum              "K1 O3 Ta1"
+_cell_length_a       4.030903838789415
+_cell_length_b       4.049727243928291
+_cell_length_c       4.057533264160156
+_cell_angle_alpha    89.89022086573182
+_cell_angle_beta     89.99393729684101
+_cell_angle_gamma    89.99573363611671
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.33187931776046753  0.44344982504844666  0.795657753944397  1.0000
+  O   O1        1.0  0.8322292566299438  0.9335511922836304  0.7825749516487122  1.0000
+  Ta  Ta1       1.0  0.8319126963615417  0.9487543702125549  0.3043575882911682  1.0000
+  O   O2        1.0  0.3321625888347626  0.9327013492584229  0.2822669446468353  1.0000
+  O   O3        1.0  0.8323169350624084  0.43396440148353577  0.28258511424064636  1.0000

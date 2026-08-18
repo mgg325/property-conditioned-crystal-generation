@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Sb3Se
+_chemical_formula_sum              "Sb3 Se1"
+_cell_length_a       4.2834241979702234
+_cell_length_b       4.294323889633847
+_cell_length_c       6.080214814608162
+_cell_angle_alpha    90.10703756658617
+_cell_angle_beta     90.07189105397993
+_cell_angle_gamma    90.00006962529368
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.0564955474595882  0.0950863286126288  0.5949364533081776  1.0000
+  Sb  Sb2       1.0  0.5557494140327994  0.5947843790935253  0.09603183860107103  1.0000
+  Sb  Sb3       1.0  0.055822560907220146  0.09481474326137755  0.09538139114762702  1.0000
+  Se  Se1       1.0  0.5560224263449359  0.5951002196178321  0.5946139488910029  1.0000

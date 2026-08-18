@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Mg(ZnCd)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.27145595
+_cell_length_b   7.86974808
+_cell_length_c   7.87382661
+_cell_angle_alpha   89.99774561
+_cell_angle_beta   89.99559876
+_cell_angle_gamma   89.99805138
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(ZnCd)2
+_chemical_formula_sum   'Mg2 Zn4 Cd4'
+_cell_volume   202.71587149
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.34297112  0.44399935  0.94102699  1
+  Mg  Mg1  1  0.34285176  0.94408474  0.44153028  1
+  Zn  Zn2  1  0.34308299  0.06203978  0.82343329  1
+  Zn  Zn3  1  0.34289931  0.82612776  0.05916858  1
+  Zn  Zn4  1  0.34278844  0.56201276  0.55888588  1
+  Zn  Zn5  1  0.34299759  0.32616363  0.32337744  1
+  Cd  Cd6  1  0.84281247  0.76324818  0.76015967  1
+  Cd  Cd7  1  0.84274501  0.12491299  0.12200868  1
+  Cd  Cd8  1  0.84261837  0.62498082  0.26015880  1
+  Cd  Cd9  1  0.84312476  0.26314813  0.62206976  1

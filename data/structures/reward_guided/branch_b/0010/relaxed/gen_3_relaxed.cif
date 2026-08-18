@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Eu2ZnIrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54001157
+_cell_length_b   5.53145508
+_cell_length_c   5.64186960
+_cell_angle_alpha   119.30325901
+_cell_angle_beta   119.36454851
+_cell_angle_gamma   90.10473958
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu2ZnIrO6
+_chemical_formula_sum   'Eu2 Zn1 Ir1 O6'
+_cell_volume   124.56790377
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.66467626  0.16550328  0.73515327  1
+  Eu  Eu1  1  0.16432614  0.66472387  0.73430998  1
+  Zn  Zn2  1  0.41572799  0.41475842  0.23451823  1
+  Ir  Ir3  1  0.91537122  0.91542096  0.23495884  1
+  O  O4  1  0.73852009  0.60247593  0.23518360  1
+  O  O5  1  0.60334032  0.09149737  0.23519302  1
+  O  O6  1  0.15963627  0.16036150  0.72414882  1
+  O  O7  1  0.09163651  0.22918192  0.23514933  1
+  O  O8  1  0.22708685  0.73914717  0.23418050  1
+  O  O9  1  0.66965770  0.67203621  0.74577937  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BeSi2P2S9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05500650
+_cell_length_b   3.61668897
+_cell_length_c   5.77313375
+_cell_angle_alpha   85.63134766
+_cell_angle_beta   112.42926788
+_cell_angle_gamma   128.02287292
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeSi2P2S9
+_chemical_formula_sum   'Be1 Si2 P2 S9'
+_cell_volume   75.00508150
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.71729636  0.93961596  0.31546181  1
+  S  S1  1  0.87173557  0.23468390  0.93222630  1
+  Si  Si2  1  0.75528562  0.72275114  0.83011788  1
+  S  S3  1  0.65688467  0.53003383  0.83582473  1
+  Be  Be4  1  0.24927846  0.84161246  0.81069338  1
+  S  S5  1  0.61860168  0.33329171  0.38235980  1
+  P  P6  1  0.63777381  0.27449173  0.86265236  1
+  S  S7  1  0.48063722  0.17962787  0.65253335  1
+  S  S8  1  0.85935974  0.74662274  0.34519416  1
+  S  S9  1  0.72916412  0.16802087  0.86415970  1
+  S  S10  1  0.54742926  0.53093219  0.06233871  1
+  S  S11  1  0.86611474  0.86115336  0.63979757  1
+  Si  Si12  1  0.78660107  0.26286292  0.76088655  1
+  P  P13  1  0.57592058  0.42576343  0.33965772  1

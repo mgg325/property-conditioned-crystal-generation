@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       MgTiPd3TiPd3
+_chemical_formula_sum              "Mg1 Ti2 Pd6"
+_cell_length_a       3.9634654025962273
+_cell_length_b       4.7309627424136105
+_cell_length_c       8.161249160766602
+_cell_angle_alpha    103.47550815529358
+_cell_angle_beta     90.79934636080799
+_cell_angle_gamma    115.54202173324445
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.1550644189119339  0.5664510130882263  0.9278765320777893  1.0000
+  Ti  Ti1       1.0  0.4603709876537323  0.17681369185447693  0.6844459772109985  1.0000
+  Pd  Pd1       1.0  0.8184232711791992  0.8892043232917786  0.4838293492794037  1.0000
+  Pd  Pd2       1.0  0.14284367859363556  0.5419368743896484  0.6031969785690308  1.0000
+  Pd  Pd3       1.0  0.4968918561935425  0.24987313151359558  0.029595900326967232  1.0000
+  Ti  Ti2       1.0  0.8490232825279236  0.9567586779594421  0.17104725539684293  1.0000
+  Pd  Pd4       1.0  0.8128728270530701  0.8826614618301392  0.8248584866523743  1.0000
+  Pd  Pd5       1.0  0.4943624436855316  0.2413635104894638  0.3720921277999878  1.0000
+  Pd  Pd6       1.0  0.16851456463336945  0.589949369430542  0.253950297832489  1.0000

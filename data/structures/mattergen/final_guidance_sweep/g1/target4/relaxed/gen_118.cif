@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AgZnBa2N
+_chemical_formula_sum              "Ag1 Zn1 Ba2 N1"
+_cell_length_a       3.9303452576987623
+_cell_length_b       5.957571991818309
+_cell_length_c       5.957634686438015
+_cell_angle_alpha    89.9999809691285
+_cell_angle_beta     89.99647333963155
+_cell_angle_gamma    89.99629262123331
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.9116304921143709  0.3427654808639252  0.4177550722990528  1.0000
+  Zn  Zn1       1.0  0.9127888353269513  0.8428331514332186  0.9173405510535058  1.0000
+  Ba  Ba1       1.0  0.41129218909536525  0.3429841172176963  0.9175876504213617  1.0000
+  Ba  Ba2       1.0  0.41146228884970504  0.842890714316099  0.41765903914350494  1.0000
+  N   N1        1.0  0.4130671797490495  0.8426055294386036  0.9173854719082406  1.0000

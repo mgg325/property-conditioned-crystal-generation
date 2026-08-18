@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CeAsCeAs3RhIrRh2
+_chemical_formula_sum              "Ce2 As4 Rh3 Ir1"
+_cell_length_a       4.1860237431881515
+_cell_length_b       4.2769057729214355
+_cell_length_c       9.903654098510742
+_cell_angle_alpha    88.63305630372315
+_cell_angle_beta     91.13554870689785
+_cell_angle_gamma    89.31765980588726
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.1945907026529312  0.14861194789409637  0.20486976206302643  1.0000
+  As  As1       1.0  0.695787250995636  0.1482647210359573  0.45169171690940857  1.0000
+  Ce  Ce2       1.0  0.695446789264679  0.6492165923118591  0.6990899443626404  1.0000
+  As  As2       1.0  0.1956518590450287  0.14879122376441956  0.812656581401825  1.0000
+  As  As3       1.0  0.19536368548870087  0.6491448879241943  0.4514882564544678  1.0000
+  As  As4       1.0  0.6953921914100647  0.6483835577964783  0.09396561980247498  1.0000
+  Rh  Rh1       1.0  0.6976183652877808  0.14970648288726807  0.9525990486145017  1.0000
+  Ir  Ir1       1.0  0.19629913568496704  0.6504004597663879  0.9511075615882874  1.0000
+  Rh  Rh2       1.0  0.19550162553787231  0.1501950919628143  0.5721890926361084  1.0000
+  Rh  Rh3       1.0  0.6946095824241638  0.6506515741348267  0.33291512727737427  1.0000

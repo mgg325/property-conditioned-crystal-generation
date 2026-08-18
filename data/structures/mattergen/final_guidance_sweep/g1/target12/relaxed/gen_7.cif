@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Zn2ClAs
+_chemical_formula_sum              "Zn2 Cl1 As1"
+_cell_length_a       4.1182722407845285
+_cell_length_b       4.1180923752646805
+_cell_length_c       5.785124101476568
+_cell_angle_alpha    89.981063008262
+_cell_angle_beta     90.03120359319149
+_cell_angle_gamma    89.99387249400965
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.037956316805043536  0.27441863506232245  0.22516772263059387  1.0000
+  Zn  Zn2       1.0  0.5387601500064216  0.7737663849710799  0.6467115792593405  1.0000
+  Cl  Cl1       1.0  0.538268907616183  0.2744911328865047  0.9357509089457595  1.0000
+  As  As1       1.0  0.038556989482116395  0.774368639251845  0.4359219534865343  1.0000

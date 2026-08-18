@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CsLiSmAgI6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.22537087
+_cell_length_b   7.70344815
+_cell_length_c   8.20923271
+_cell_angle_alpha   81.15091345
+_cell_angle_beta   68.40544488
+_cell_angle_gamma   82.82003180
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsLiSmAgI6
+_chemical_formula_sum   'Cs1 Li1 Sm1 Ag1 I6'
+_cell_volume   476.57558089
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.58361290  0.68139268  0.15011715  1
+  Li  Li1  1  0.08523067  0.08103104  0.10158316  1
+  Sm  Sm2  1  0.01220630  0.44138192  0.44019265  1
+  Ag  Ag3  1  0.27391866  0.52831328  0.78014644  1
+  I  I4  1  0.32961438  0.24021509  0.17697366  1
+  I  I5  1  0.15684693  0.75643898  0.52017382  1
+  I  I6  1  0.06449660  0.71066810  0.08889446  1
+  I  I7  1  0.63742930  0.59913364  0.66668687  1
+  I  I8  1  0.78825354  0.21194380  0.34499954  1
+  I  I9  1  0.10201062  0.23901616  0.75681745  1

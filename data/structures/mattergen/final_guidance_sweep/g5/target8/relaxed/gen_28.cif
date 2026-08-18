@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Te2Se2Te2AuSe
+_chemical_formula_sum              "Te4 Se3 Au1"
+_cell_length_a       4.20607638521793
+_cell_length_b       6.630040859608417
+_cell_length_c       8.498639098256211
+_cell_angle_alpha    108.73210567894897
+_cell_angle_beta     89.99871438452782
+_cell_angle_gamma    108.49310245358694
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.8928086318868405  0.110952143591263  0.7472947833900577  1.0000
+  Te  Te2       1.0  0.6388420788893818  0.603326943631851  0.6092898634988709  1.0000
+  Se  Se1       1.0  0.8943990910269617  0.11477190908877068  0.1902403500559468  1.0000
+  Se  Se2       1.0  0.1522009661802387  0.6300388803369528  0.858560916385782  1.0000
+  Te  Te3       1.0  0.13838132955863855  0.6024231660550414  0.3475960276971764  1.0000
+  Te  Te4       1.0  0.640727452835695  0.6070825778218261  0.09249820347491676  1.0000
+  Au  Au1       1.0  0.39415362740510623  0.11393301515116369  0.9827479385476303  1.0000
+  Se  Se3       1.0  0.3877611050092838  0.10128806105053263  0.49019928701046955  1.0000

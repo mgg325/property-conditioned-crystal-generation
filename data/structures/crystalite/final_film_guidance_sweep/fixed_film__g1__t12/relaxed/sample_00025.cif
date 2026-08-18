@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ba2TlIn3GaGeAsC3Se3O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84022219
+_cell_length_b   7.23914441
+_cell_length_c   11.17326827
+_cell_angle_alpha   84.17277066
+_cell_angle_beta   74.00441589
+_cell_angle_gamma   65.91495479
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2TlIn3GaGeAsC3Se3O
+_chemical_formula_sum   'Ba2 Tl1 In3 Ga1 Ge1 As1 C3 Se3 O1'
+_cell_volume   414.53097586
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.80945736  0.09534237  0.07581842  1
+  Ba  Ba1  1  0.82377446  0.62522947  0.52770399  1
+  Tl  Tl2  1  0.38835842  0.17899168  0.73529839  1
+  In  In3  1  0.12760015  0.48402463  0.97927890  1
+  In  In4  1  0.42319199  0.66609607  0.19099594  1
+  In  In5  1  0.14463953  0.11001494  0.46742739  1
+  Ga  Ga6  1  0.20896885  0.67397280  0.71987943  1
+  Ge  Ge7  1  0.29790348  0.71586272  0.49224964  1
+  As  As8  1  0.84800790  0.25622008  0.73891739  1
+  C  C9  1  0.74156754  0.48165636  0.04794392  1
+  C  C10  1  0.83020867  0.78287405  0.78461659  1
+  C  C11  1  0.47966209  0.43428160  0.80218346  1
+  Se  Se12  1  0.97278969  0.65126355  0.22092581  1
+  Se  Se13  1  0.28134721  0.05289204  0.19526463  1
+  Se  Se14  1  0.64186992  0.23365512  0.46119413  1
+  O  O15  1  0.60462580  0.84530528  0.83984508  1

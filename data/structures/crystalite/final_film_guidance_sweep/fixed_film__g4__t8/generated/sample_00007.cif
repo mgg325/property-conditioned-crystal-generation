@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BaSnBiTe2P2Se7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.48733044
+_cell_length_b   7.51222134
+_cell_length_c   6.73525667
+_cell_angle_alpha   104.97743225
+_cell_angle_beta   103.26712036
+_cell_angle_gamma   128.60714722
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSnBiTe2P2Se7
+_chemical_formula_sum   'Ba1 Sn1 Bi1 Te2 P2 Se7'
+_cell_volume   212.00716635
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.36235499  0.83373100  0.43027392  1
+  Se  Se1  1  0.30429304  0.18920648  0.04646412  1
+  Sn  Sn2  1  0.98816204  0.98466122  0.44337988  1
+  Se  Se3  1  0.35136449  0.94602692  0.72852719  1
+  Se  Se4  1  0.50448573  0.97257042  0.40763301  1
+  Te  Te5  1  0.69074076  0.39546359  0.41093868  1
+  Se  Se6  1  0.66928518  0.30187684  0.09831914  1
+  Ba  Ba7  1  0.20686352  0.55850345  0.10717085  1
+  Bi  Bi8  1  0.62505400  0.32528478  0.05380487  1
+  Se  Se9  1  0.34253705  0.22322476  0.25332373  1
+  Se  Se10  1  0.70755464  0.78866524  0.60137558  1
+  P  P11  1  0.95488250  0.56202191  0.49306917  1
+  P  P12  1  0.25849572  0.17168978  0.58774364  1
+  Te  Te13  1  0.28370619  0.22385302  0.06557631  1

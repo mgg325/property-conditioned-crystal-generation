@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_HgBi2Pb6Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.39422985
+_cell_length_b   6.91843451
+_cell_length_c   7.84288055
+_cell_angle_alpha   78.28125427
+_cell_angle_beta   61.66204954
+_cell_angle_gamma   59.49579778
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgBi2Pb6Br
+_chemical_formula_sum   'Hg1 Bi2 Pb6 Br1'
+_cell_volume   344.97519208
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.77458294  0.47395021  0.01375180  1
+  Bi  Bi1  1  -0.00436217  0.60876711  0.35213752  1
+  Bi  Bi2  1  0.59427876  0.84927420  0.76969000  1
+  Pb  Pb3  1  0.11140083  0.03516399  0.14465853  1
+  Pb  Pb4  1  0.82459868  0.28930097  0.61068218  1
+  Pb  Pb5  1  0.01053845  0.78595870  0.89622919  1
+  Pb  Pb6  1  0.40641315  0.30730462  0.98630760  1
+  Pb  Pb7  1  0.64996878  0.10409241  0.27675744  1
+  Pb  Pb8  1  0.22195241  0.25269924  0.66982799  1
+  Br  Br9  1  0.31934547  0.79447758  0.49619883  1

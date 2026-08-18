@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SiTeSbTe2Ag2Te
+_chemical_formula_sum              "Si1 Te4 Sb1 Ag2"
+_cell_length_a       6.722909024808955
+_cell_length_b       6.723634539590133
+_cell_length_c       7.702320378426936
+_cell_angle_alpha    115.93886641873266
+_cell_angle_beta     115.95015395222956
+_cell_angle_gamma    89.94782716916846
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.6082547541634193  0.9720209638150489  0.12307510476083805  1.0000
+  Te  Te1       1.0  0.2642965645948459  0.6278000794024338  0.8730278884499311  1.0000
+  Sb  Sb1       1.0  0.10877611911885518  0.47220629615792203  0.12353715152651239  1.0000
+  Te  Te2       1.0  0.5147003741138212  0.31621095525432574  0.37379683344578424  1.0000
+  Te  Te3       1.0  0.702504936088501  0.06562991473974668  0.873256427813865  1.0000
+  Ag  Ag1       1.0  0.3584385856930625  0.22192587894367938  0.6229947955809965  1.0000
+  Ag  Ag2       1.0  0.8587727827965346  0.7223106683576156  0.6227858515028323  1.0000
+  Te  Te4       1.0  0.9526203129837406  0.8781125692368326  0.37333968985083477  1.0000

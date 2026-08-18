@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ge2PtCuEr
+_chemical_formula_sum              "Ge2 Pt1 Cu1 Er1"
+_cell_length_a       4.067921602260383
+_cell_length_b       4.204522759144536
+_cell_length_c       5.899044513702393
+_cell_angle_alpha    109.55367171649887
+_cell_angle_beta     108.15001435464957
+_cell_angle_gamma    90.07224554211166
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.9655091762542723  0.6567264199256897  0.2944021224975586  1.0000
+  Ge  Ge2       1.0  0.19784817099571225  0.8883504867553711  0.7604780793190002  1.0000
+  Pt  Pt1       1.0  0.8335331082344054  0.022577626630663872  0.03001471981406208  1.0000
+  Cu  Cu1       1.0  0.33169960975646967  0.5244216322898865  0.02847568877041336  1.0000
+  Er  Er1       1.0  0.5848494172096251  0.27243325114250183  0.5271608829498291  1.0000

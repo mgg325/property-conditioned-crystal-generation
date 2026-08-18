@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ag3Lu
+_chemical_formula_sum              "Ag3 Lu1"
+_cell_length_a       4.333062891136314
+_cell_length_b       4.273188151328878
+_cell_length_c       4.281966686248779
+_cell_angle_alpha    88.49556448641623
+_cell_angle_beta     87.73835598750028
+_cell_angle_gamma    88.81532665327566
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.04262542352080345  0.5061684846878052  0.7043431401252747  1.0000
+  Ag  Ag2       1.0  0.5413584113121033  0.5072917938232421  0.20573872327804565  1.0000
+  Ag  Ag3       1.0  0.04255712404847145  0.00781217310577631  0.20391352474689484  1.0000
+  Lu  Lu1       1.0  0.5433541536331177  0.007022795267403126  0.7040972113609314  1.0000

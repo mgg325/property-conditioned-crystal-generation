@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CsBiO2F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.43464386
+_cell_length_b   4.81440820
+_cell_length_c   4.39794018
+_cell_angle_alpha   90.02747932
+_cell_angle_beta   89.99297766
+_cell_angle_gamma   90.02782038
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsBiO2F
+_chemical_formula_sum   'Cs1 Bi1 O2 F1'
+_cell_volume   93.89681750
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.81945674  0.15998656  0.10806951  1
+  Bi  Bi1  1  0.32813410  0.65775148  0.60825061  1
+  O  O2  1  0.34187145  0.65680182  0.10910488  1
+  O  O3  1  0.83207757  0.66148837  0.60744964  1
+  F  F4  1  0.33032538  0.16048788  0.60891839  1

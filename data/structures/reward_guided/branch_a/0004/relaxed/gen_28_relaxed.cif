@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sc6BiSb3As2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05624376
+_cell_length_b   8.25180177
+_cell_length_c   9.14189228
+_cell_angle_alpha   103.04581021
+_cell_angle_beta   102.82092980
+_cell_angle_gamma   89.99879537
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc6BiSb3As2
+_chemical_formula_sum   'Sc6 Bi1 Sb3 As2'
+_cell_volume   290.25750824
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.13253647  0.75210045  0.70029307  1
+  Sc  Sc1  1  0.78875515  0.07484233  0.01264841  1
+  Sc  Sc2  1  0.46980892  0.90919143  0.37673763  1
+  Sc  Sc3  1  0.13284882  0.22104716  0.70200145  1
+  Sc  Sc4  1  0.78932639  0.54343955  0.01404962  1
+  Sc  Sc5  1  0.45066384  0.38753786  0.33850049  1
+  Bi  Bi6  1  0.95997313  0.64833027  0.35703695  1
+  Sb  Sb7  1  0.96010454  0.14820446  0.35724858  1
+  Sb  Sb8  1  0.62279359  0.48130456  0.68155435  1
+  Sb  Sb9  1  0.29907717  0.81444187  0.03306345  1
+  As  As10  1  0.63012275  0.98553998  0.69570971  1
+  As  As11  1  0.29178860  0.31028895  0.01925287  1

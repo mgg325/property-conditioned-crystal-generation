@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Mn3(NbNi2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.67825179
+_cell_length_b   5.74626664
+_cell_length_c   6.85910631
+_cell_angle_alpha   123.37903551
+_cell_angle_beta   105.55012704
+_cell_angle_gamma   90.00439181
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3(NbNi2)2
+_chemical_formula_sum   'Mn3 Nb2 Ni4'
+_cell_volume   114.65146323
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.79012734  0.82644959  0.26041764  1
+  Mn  Mn1  1  0.34506246  0.66136558  0.37045076  1
+  Mn  Mn2  1  0.46685078  0.19976036  0.61400837  1
+  Nb  Nb3  1  0.91238767  0.44767834  0.50512601  1
+  Nb  Nb4  1  0.22328108  0.05009358  0.12691329  1
+  Ni  Ni5  1  0.56883711  0.74882875  0.81778845  1
+  Ni  Ni6  1  0.67617021  0.30060504  0.03243287  1
+  Ni  Ni7  1  0.12760413  0.51701733  0.93516580  1
+  Ni  Ni8  1  0.01092582  0.98531239  0.70252165  1

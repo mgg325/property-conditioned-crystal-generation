@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Nd3FeSiFeSi3
+_chemical_formula_sum              "Nd3 Fe2 Si4"
+_cell_length_a       4.131776065886874
+_cell_length_b       5.891299393902248
+_cell_length_c       7.994245529174805
+_cell_angle_alpha    106.33056765796756
+_cell_angle_beta     88.83068084766515
+_cell_angle_gamma    110.13281995328842
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.9727213978767395  0.02754727564752102  0.711956262588501  1.0000
+  Nd  Nd2       1.0  0.7515513896942139  0.5847220420837402  0.3298231363296509  1.0000
+  Nd  Nd3       1.0  0.361428588628769  0.8062482476234437  0.021829307079315213  1.0000
+  Fe  Fe1       1.0  0.6656748056411743  0.4147105813026428  0.6574714779853821  1.0000
+  Si  Si1       1.0  0.6405176520347595  0.36543229222297674  0.936888575553894  1.0000
+  Fe  Fe2       1.0  0.058913033455610275  0.1983792632818222  0.38431113958358765  1.0000
+  Si  Si2       1.0  0.24078260362148285  0.5634182095527649  0.6175910234451294  1.0000
+  Si  Si3       1.0  0.08304984867572784  0.2477359175682068  0.10446369647979736  1.0000
+  Si  Si4       1.0  0.48339182138442993  0.049365997314453125  0.42390868067741394  1.0000

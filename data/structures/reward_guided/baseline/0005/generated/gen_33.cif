@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TmSnLu2
+_chemical_formula_sum              "Tm1 Sn1 Lu2"
+_cell_length_a       4.704945416968725
+_cell_length_b       4.706739903098983
+_cell_length_c       4.740172386169434
+_cell_angle_alpha    90.02580695982024
+_cell_angle_beta     89.97855570954773
+_cell_angle_gamma    89.98789257842483
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.10748132318258286  0.6017476916313171  0.3071916997432709  1.0000
+  Sn  Sn1       1.0  0.6074500679969788  0.10165590047836305  0.30724239349365234  1.0000
+  Lu  Lu1       1.0  0.6075944900512695  0.6018304824829102  0.8068978786468506  1.0000
+  Lu  Lu2       1.0  0.10749384760856628  0.10151501744985582  0.8069491386413574  1.0000

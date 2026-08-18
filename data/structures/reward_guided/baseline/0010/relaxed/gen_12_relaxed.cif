@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Zn2Cu7Au5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.56385499
+_cell_length_b   6.68560711
+_cell_length_c   6.08282645
+_cell_angle_alpha   69.17309540
+_cell_angle_beta   77.28519864
+_cell_angle_gamma   89.81306173
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2Cu7Au5
+_chemical_formula_sum   'Zn2 Cu7 Au5'
+_cell_volume   205.59780147
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.14719333  0.29742314  0.74929642  1
+  Zn  Zn1  1  0.72020515  0.74428912  0.45931110  1
+  Cu  Cu2  1  0.01179409  0.43491535  0.32557082  1
+  Cu  Cu3  1  0.49571096  0.43660788  0.32009053  1
+  Cu  Cu4  1  0.94116266  0.02687644  0.59859285  1
+  Cu  Cu5  1  0.28135542  0.16609701  0.18334115  1
+  Cu  Cu6  1  0.42899632  0.02727087  0.59212003  1
+  Cu  Cu7  1  0.79592558  0.16281947  0.19537425  1
+  Cu  Cu8  1  0.08127909  0.89559325  0.02242991  1
+  Au  Au9  1  0.65210490  0.31192495  0.72111316  1
+  Au  Au10  1  0.35626243  0.59370841  0.90353750  1
+  Au  Au11  1  0.86078271  0.58375218  0.91178123  1
+  Au  Au12  1  0.20561231  0.73817390  0.45240089  1
+  Au  Au13  1  0.58783069  0.89547649  0.03908815  1

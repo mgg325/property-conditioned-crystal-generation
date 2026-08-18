@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LiCaMgF15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.02708671
+_cell_length_b   7.32700521
+_cell_length_c   7.72490101
+_cell_angle_alpha   108.88196273
+_cell_angle_beta   111.72815560
+_cell_angle_gamma   107.78699896
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCaMgF15
+_chemical_formula_sum   'Li1 Ca1 Mg1 F15'
+_cell_volume   349.48659271
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.27631563  0.34904824  0.33416052  1
+  Ca  Ca1  1  0.36754026  0.84477187  0.48587972  1
+  Mg  Mg2  1  0.91766743  0.88093113  -0.00333276  1
+  F  F3  1  0.48423604  0.69413560  0.96563108  1
+  F  F4  1  0.70866271  0.88090434  0.68392833  1
+  F  F5  1  0.33849389  0.08185134  0.19334030  1
+  F  F6  1  0.66236376  0.90538925  0.06127292  1
+  F  F7  1  0.39597681  0.08802178  0.83224832  1
+  F  F8  1  0.68658602  0.62584290  0.73685973  1
+  F  F9  1  0.69024195  1.07691740  0.59337361  1
+  F  F10  1  1.00465760  0.82137519  0.23469609  1
+  F  F11  1  0.25395813  0.57496691  0.16298799  1
+  F  F12  1  0.11005577  0.83276877  0.91673557  1
+  F  F13  1  0.00006126  0.18381934  0.12874560  1
+  F  F14  1  0.17492289  0.93909758  0.67254204  1
+  F  F15  1  0.48614832  0.53247824  0.28719470  1
+  F  F16  1  0.29924477  0.57898109  0.55646480  1
+  F  F17  1  0.27972006  0.11131613  0.43750912  1

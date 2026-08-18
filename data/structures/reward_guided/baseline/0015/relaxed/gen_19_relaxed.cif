@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ni5Bi(OF2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.80309867
+_cell_length_b   5.70840542
+_cell_length_c   7.94409752
+_cell_angle_alpha   94.07684072
+_cell_angle_beta   88.69582232
+_cell_angle_gamma   92.47868891
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni5Bi(OF2)4
+_chemical_formula_sum   'Ni5 Bi1 O4 F8'
+_cell_volume   217.01476149
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.20103947  0.90310625  0.40854467  1
+  Ni  Ni1  1  0.19977101  0.57400230  0.05779908  1
+  Ni  Ni2  1  0.69340227  0.05694323  0.07363248  1
+  Ni  Ni3  1  0.70185982  0.73728952  0.74403438  1
+  Ni  Ni4  1  0.20746221  0.22492076  0.75095722  1
+  Bi  Bi5  1  0.72505536  0.40726221  0.38626571  1
+  O  O6  1  0.50551032  0.77067989  0.96895152  1
+  O  O7  1  0.89500156  0.70357691  0.51306717  1
+  O  O8  1  0.91124673  0.35378098  0.15348772  1
+  O  O9  1  0.50803191  0.09998188  0.30587912  1
+  F  F10  1  0.37407190  0.60447732  0.30187841  1
+  F  F11  1  0.39748507  0.93701508  0.64152892  1
+  F  F12  1  0.00148218  0.85313516  0.17679681  1
+  F  F13  1  0.89979753  0.03040971  0.84508787  1
+  F  F14  1  0.00664475  0.52665617  0.83319801  1
+  F  F15  1  0.40265906  0.27415991  0.96952600  1
+  F  F16  1  0.50016125  0.43203551  0.64049126  1
+  F  F17  1  0.01639685  0.19405073  0.52015534  1

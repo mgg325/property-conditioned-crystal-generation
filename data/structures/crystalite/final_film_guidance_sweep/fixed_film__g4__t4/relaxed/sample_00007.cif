@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Na4SrN2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.62524769
+_cell_length_b   5.48298953
+_cell_length_c   5.67689648
+_cell_angle_alpha   107.01563314
+_cell_angle_beta   108.62683895
+_cell_angle_gamma   117.25951604
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4SrN2O7
+_chemical_formula_sum   'Na4 Sr1 N2 O7'
+_cell_volume   125.89009191
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.74616245  0.05664993  0.92635822  1
+  Na  Na1  1  0.54044472  0.28009194  0.24403802  1
+  Na  Na2  1  0.26828684  0.46077941  0.87714239  1
+  Na  Na3  1  0.96108253  0.67230863  0.27374056  1
+  Sr  Sr4  1  0.71756438  0.07355021  0.96169809  1
+  N  N5  1  0.50432293  0.76487156  0.31086731  1
+  N  N6  1  0.04039399  0.20685001  0.23066638  1
+  O  O7  1  0.32659536  0.10242741  0.60692948  1
+  O  O8  1  0.84521707  0.81022631  0.38773507  1
+  O  O9  1  0.33340298  0.46954074  0.28714154  1
+  O  O10  1  0.69944711  0.10289489  0.02615221  1
+  O  O11  1  0.19786166  0.60449969  0.31380390  1
+  O  O12  1  0.82803099  0.90983831  0.42073180  1
+  O  O13  1  0.61680764  0.92548171  0.59261143  1

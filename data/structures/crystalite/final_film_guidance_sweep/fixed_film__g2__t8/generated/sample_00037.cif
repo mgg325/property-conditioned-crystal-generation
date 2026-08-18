@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ag2BiPd(AuO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79351377
+_cell_length_b   5.85139418
+_cell_length_c   5.86031914
+_cell_angle_alpha   89.64917755
+_cell_angle_beta   89.47170258
+_cell_angle_gamma   89.83034515
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag2BiPd(AuO2)4
+_chemical_formula_sum   'Ag2 Bi1 Pd1 Au4 O8'
+_cell_volume   198.65258975
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.12399143  0.85782057  0.08400443  1
+  O  O1  1  0.58882248  0.31999451  0.58409047  1
+  Au  Au2  1  0.36028060  0.09029749  0.86499965  1
+  O  O3  1  0.63971120  0.85864991  0.58213049  1
+  Ag  Ag4  1  0.09182897  0.56812513  0.85938561  1
+  Pd  Pd5  1  0.36653310  0.55246776  0.38461998  1
+  Au  Au6  1  0.84540725  0.07658038  0.78728080  1
+  O  O7  1  0.14115360  0.84637177  0.56378239  1
+  Ag  Ag8  1  0.59072715  0.56802303  0.86970925  1
+  Bi  Bi9  1  0.34828687  0.06926501  0.37154168  1
+  O  O10  1  0.59898877  0.31320703  0.12229955  1
+  O  O11  1  0.10757822  0.35413769  0.55429924  1
+  Au  Au12  1  0.86987102  0.66385204  0.40366289  1
+  Au  Au13  1  0.84759235  0.12858132  0.25458175  1
+  O  O14  1  0.58898014  0.86544645  0.12834474  1
+  O  O15  1  0.15237585  0.36613786  0.08425683  1

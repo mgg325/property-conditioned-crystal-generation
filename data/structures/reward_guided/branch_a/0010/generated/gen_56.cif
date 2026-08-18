@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NdNaErSe2ErSe2
+_chemical_formula_sum              "Nd1 Na1 Er2 Se4"
+_cell_length_a       4.115307591377631
+_cell_length_b       7.037346453207142
+_cell_length_c       7.134208679199219
+_cell_angle_alpha    108.36301312458554
+_cell_angle_beta     90.71582677570814
+_cell_angle_gamma    90.06384426508679
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.44404926896095276  0.15876463055610657  0.28051719069480896  1.0000
+  Na  Na1       1.0  0.9447348117828369  0.6592065095901489  0.27996093034744257  1.0000
+  Er  Er1       1.0  0.4465818703174591  0.6569927334785461  0.7789697051048278  1.0000
+  Se  Se1       1.0  0.9444159865379333  0.8988919258117676  0.0182964950799942  1.0000
+  Se  Se2       1.0  0.4450923204421997  0.914412558078766  0.5438030362129211  1.0000
+  Er  Er2       1.0  0.9454468488693237  0.16032835841178894  0.779974102973938  1.0000
+  Se  Se3       1.0  0.44409918785095215  0.4066364467144013  0.016375774517655373  1.0000
+  Se  Se4       1.0  0.9451706409454346  0.4176007509231568  0.5417765378952026  1.0000

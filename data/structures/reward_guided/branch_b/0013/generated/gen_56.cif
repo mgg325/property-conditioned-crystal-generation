@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ErAuErAuSiAu
+_chemical_formula_sum              "Er2 Au3 Si1"
+_cell_length_a       3.4893272053315165
+_cell_length_b       4.35760097212801
+_cell_length_c       7.929502010345459
+_cell_angle_alpha    91.41420675939992
+_cell_angle_beta     91.10466951605805
+_cell_angle_gamma    91.37843699405848
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.580802857875824  0.09224393963813782  0.7750983834266664  1.0000
+  Au  Au1       1.0  0.08220039308071136  0.09421908855438231  0.41993322968482977  1.0000
+  Er  Er2       1.0  0.5820795297622681  0.5949651002883911  0.28382211923599243  1.0000
+  Au  Au2       1.0  0.08147495239973068  0.5942451357841492  0.6228331327438356  1.0000
+  Si  Si1       1.0  0.07966605573892593  0.09193357080221176  0.1098308563232422  1.0000
+  Au  Au3       1.0  0.07961496710777283  0.5892239212989806  0.9643346071243287  1.0000

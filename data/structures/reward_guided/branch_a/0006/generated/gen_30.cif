@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       BeGeZnGeSm2Zn2Ge2
+_chemical_formula_sum              "Be1 Ge4 Zn3 Sm2"
+_cell_length_a       4.24877910873351
+_cell_length_b       4.168463411325099
+_cell_length_c       10.186378479003906
+_cell_angle_alpha    89.93643393545523
+_cell_angle_beta     90.45471552386788
+_cell_angle_gamma    91.29753349025836
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.587497353553772  0.3595827519893646  0.7469601631164551  1.0000
+  Ge  Ge1       1.0  0.5903146266937256  0.3601839542388916  0.24725665152072906  1.0000
+  Zn  Zn1       1.0  0.08824974298477173  0.8594945669174194  0.7460518479347229  1.0000
+  Ge  Ge2       1.0  0.5887264013290405  0.8596197962760925  0.8717553615570068  1.0000
+  Sm  Sm1       1.0  0.5891181826591492  0.8589334487915039  0.49872955679893494  1.0000
+  Sm  Sm2       1.0  0.09027782827615738  0.3611301779747009  0.993208110332489  1.0000
+  Zn  Zn2       1.0  0.5877764225006104  0.8619226813316345  0.10911022126674652  1.0000
+  Zn  Zn3       1.0  0.09086395800113678  0.3609963357448578  0.3837113678455353  1.0000
+  Ge  Ge3       1.0  0.08885771036148071  0.3589305877685547  0.6170220375061035  1.0000
+  Ge  Ge4       1.0  0.08862224966287613  0.8594402074813842  0.2458503693342209  1.0000

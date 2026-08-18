@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ScGeRh2
+_chemical_formula_sum              "Sc1 Ge1 Rh2"
+_cell_length_a       4.228892016763931
+_cell_length_b       4.214672441632104
+_cell_length_c       4.4903645515441895
+_cell_angle_alpha    117.86697519677296
+_cell_angle_beta     117.39447650961668
+_cell_angle_gamma    89.8525053976708
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.3999873101711273  0.26430535316467285  0.636809766292572  1.0000
+  Ge  Ge1       1.0  0.8990569114685059  0.7642133831977843  0.6391891241073608  1.0000
+  Rh  Rh1       1.0  0.14900805056095123  0.5151698589324951  0.13828536868095398  1.0000
+  Rh  Rh2       1.0  0.6473532319068909  0.013144398108124731  0.136000707745552  1.0000

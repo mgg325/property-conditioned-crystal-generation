@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ga2SGaS2Cu2
+_chemical_formula_sum              "Ga3 S3 Cu2"
+_cell_length_a       5.506155435454073
+_cell_length_b       5.5060856209097615
+_cell_length_c       6.823590556053363
+_cell_angle_alpha    116.7283490686867
+_cell_angle_beta     113.77105586392257
+_cell_angle_gamma    86.78151210129542
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.3920062247311809  0.047583952388743064  0.930768051569074  1.0000
+  Ga  Ga2       1.0  0.6893689969159978  0.8121046194115649  0.463782874715676  1.0000
+  S   S1        1.0  0.8014604240478986  0.40776032216051283  0.18278952529358244  1.0000
+  Ga  Ga3       1.0  0.16067788570637698  0.28359512766301526  0.4640444162342693  1.0000
+  S   S2        1.0  0.5539413149883525  0.646195815973648  0.6911120640539872  1.0000
+  S   S3        1.0  0.28384688262065233  0.8905972103276176  0.18283768020485916  1.0000
+  Cu  Cu1       1.0  0.8977853173149948  0.5986630720843238  0.9877589951914488  1.0000
+  Cu  Cu2       1.0  0.023691112455643943  0.1985346722006384  0.7131559620898608  1.0000

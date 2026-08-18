@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       DyAsDyLiAsLiO
+_chemical_formula_sum              "Dy2 As2 Li2 O1"
+_cell_length_a       4.11831684820581
+_cell_length_b       4.118328530046217
+_cell_length_c       8.015529580113153
+_cell_angle_alpha    104.89420201508919
+_cell_angle_beta     104.88227050844166
+_cell_angle_gamma    90.0000049170395
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.7945337391779019  0.05341850391612602  0.0930981821611052  1.0000
+  As  As1       1.0  0.9918108232130209  0.25013686655154443  0.4872044860570407  1.0000
+  Dy  Dy2       1.0  0.48235440730222146  0.7406996029758252  0.46846117171482127  1.0000
+  Li  Li1       1.0  0.6383131656616173  0.39703875450493775  0.780749939434968  1.0000
+  As  As2       1.0  0.28507015207791353  0.5439820281894097  0.07423018095678384  1.0000
+  Li  Li2       1.0  0.13836447447756972  0.8968044801801361  0.7806529679600653  1.0000
+  O   O1        1.0  0.6383625138602511  0.8970210088774757  0.7807199920506501  1.0000

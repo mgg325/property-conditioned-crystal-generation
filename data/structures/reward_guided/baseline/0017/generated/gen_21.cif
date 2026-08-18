@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Be3Cu5
+_chemical_formula_sum              "Be3 Cu5"
+_cell_length_a       3.718227139046261
+_cell_length_b       4.820289442813296
+_cell_length_c       4.875490188598633
+_cell_angle_alpha    100.20278254871488
+_cell_angle_beta     87.99771890910249
+_cell_angle_gamma    88.15552372196505
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.5468783974647522  0.28384995460510254  0.29374489188194275  1.0000
+  Be  Be2       1.0  0.048008736222982414  0.5515996813774109  0.025814974680542946  1.0000
+  Be  Be3       1.0  0.04990582168102265  0.01593250408768654  0.5610001087188721  1.0000
+  Cu  Cu1       1.0  0.5492526292800903  0.2834275960922241  0.793730616569519  1.0000
+  Cu  Cu2       1.0  0.5470954179763794  0.7838916778564452  0.2931402623653412  1.0000
+  Cu  Cu3       1.0  0.047306701540946974  0.5048536658287048  0.5146421194076538  1.0000
+  Cu  Cu4       1.0  0.04790686815977097  0.06245841458439826  0.07213053107261658  1.0000
+  Cu  Cu5       1.0  0.5487222671508789  0.7832907438278198  0.7936875224113464  1.0000

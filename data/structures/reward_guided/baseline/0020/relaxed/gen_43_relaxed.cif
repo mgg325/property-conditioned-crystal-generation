@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Zn2CrAgO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.94239771
+_cell_length_b   5.52156039
+_cell_length_c   5.35732808
+_cell_angle_alpha   65.16907938
+_cell_angle_beta   91.13459647
+_cell_angle_gamma   65.60425904
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2CrAgO6
+_chemical_formula_sum   'Zn2 Cr1 Ag1 O6'
+_cell_volume   117.48781839
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.48831287  0.97044581  0.78431790  1
+  Zn  Zn1  1  0.91514786  0.97987227  0.30745179  1
+  Cr  Cr2  1  0.17801061  0.51622479  0.94000427  1
+  Ag  Ag3  1  0.65678056  0.53675562  0.42928713  1
+  O  O4  1  0.15346519  0.89297343  0.70738118  1
+  O  O5  1  0.53309040  0.37460504  0.19619988  1
+  O  O6  1  0.41724914  0.37275358  0.70123558  1
+  O  O7  1  0.86594848  0.72852469  0.13032606  1
+  O  O8  1  0.13973142  0.18991140  0.08884107  1
+  O  O9  1  0.78522398  0.72241836  0.63251428  1

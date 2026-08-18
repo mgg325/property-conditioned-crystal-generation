@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsNaLiCa2MgSi5P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.40498495
+_cell_length_b   5.63277340
+_cell_length_c   7.24073935
+_cell_angle_alpha   89.45365143
+_cell_angle_beta   90.46534729
+_cell_angle_gamma   90.79291534
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNaLiCa2MgSi5P
+_chemical_formula_sum   'Cs1 Na1 Li1 Ca2 Mg1 Si5 P1'
+_cell_volume   179.62816081
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.64172667  0.30828351  0.00057706  1
+  Si  Si1  1  0.51299858  0.52560776  0.14538270  1
+  Si  Si2  1  0.67745227  0.00195903  0.09311742  1
+  P  P3  1  0.89017719  0.66613871  0.57806027  1
+  Mg  Mg4  1  0.28822124  0.29864031  0.42329460  1
+  Li  Li5  1  0.83200264  0.90681100  0.83624691  1
+  Si  Si6  1  0.64575773  0.71509278  0.42314002  1
+  Na  Na7  1  0.71333605  0.28194779  0.57705992  1
+  Cs  Cs8  1  0.08899835  0.44657028  0.85874307  1
+  Ca  Ca9  1  0.15990359  0.90876251  0.79468942  1
+  Ca  Ca10  1  0.16396627  0.93875098  0.15294340  1
+  Si  Si11  1  0.34137309  0.00267997  0.67847681  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_TlGa3HgBi3AsPb2IBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.52567192
+_cell_length_b   9.93345688
+_cell_length_c   11.02979995
+_cell_angle_alpha   99.81345729
+_cell_angle_beta   95.73666231
+_cell_angle_gamma   105.03596145
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlGa3HgBi3AsPb2IBr
+_chemical_formula_sum   'Tl1 Ga3 Hg1 Bi3 As1 Pb2 I1 Br1'
+_cell_volume   466.42089965
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.11815779  0.96018735  0.24958012  1
+  Ga  Ga1  1  0.60048776  0.62464668  0.88287363  1
+  Ga  Ga2  1  0.67092509  0.56727723  0.52170860  1
+  Ga  Ga3  1  0.40703045  0.37410375  0.30552858  1
+  Hg  Hg4  1  0.20054173  0.50784254  0.13144166  1
+  Bi  Bi5  1  0.66455082  0.80690160  0.70877250  1
+  Bi  Bi6  1  0.23567766  0.88665770  -0.07548053  1
+  Bi  Bi7  1  0.92538147  0.33498683  0.46583298  1
+  As  As8  1  0.47807471  0.74862503  0.08613295  1
+  Pb  Pb9  1  0.97069675  0.43536656  0.78146435  1
+  Pb  Pb10  1  0.74782403  0.20115475  0.15062368  1
+  I  I11  1  0.31372654  0.19546268  0.77783994  1
+  Br  Br12  1  -0.06070946  0.73752630  0.40910637  1

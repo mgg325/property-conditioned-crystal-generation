@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Na3BeH5O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.02571011
+_cell_length_b   4.50691223
+_cell_length_c   7.14816856
+_cell_angle_alpha   92.27904510
+_cell_angle_beta   90.65370941
+_cell_angle_gamma   93.39160919
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3BeH5O9
+_chemical_formula_sum   'Na3 Be1 H5 O9'
+_cell_volume   129.35107803
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.77995944  0.78256094  0.12427777  1
+  O  O1  1  0.02608007  0.43457311  0.03015268  1
+  H  H2  1  0.98450977  0.15618673  0.08042118  1
+  O  O3  1  0.19754058  0.58021128  0.96440756  1
+  O  O4  1  0.19842020  0.02091527  0.46480250  1
+  O  O5  1  0.84562880  0.23350397  0.05123538  1
+  O  O6  1  0.01947087  0.92405295  0.25679103  1
+  Na  Na7  1  0.34125149  0.67108619  0.34668493  1
+  Na  Na8  1  0.64445877  0.19888651  0.66333884  1
+  H  H9  1  0.72564948  0.41667813  0.32020977  1
+  H  H10  1  0.22413823  0.58773398  0.62077415  1
+  Be  Be11  1  0.95888376  0.07670507  0.44434306  1
+  O  O12  1  0.79579413  0.96611738  0.40714335  1
+  O  O13  1  0.25803426  0.53957593  0.57918197  1
+  H  H14  1  0.51111597  0.39708638  0.99402225  1
+  O  O15  1  0.79214859  0.55936414  0.27114257  1
+  O  O16  1  0.61933112  0.18470666  0.63434833  1
+  Na  Na17  1  0.37363583  0.03120306  0.78221446  1

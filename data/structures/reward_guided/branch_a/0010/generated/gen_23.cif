@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       GaNaGaSNaS3
+_chemical_formula_sum              "Ga2 Na2 S4"
+_cell_length_a       6.235494419950973
+_cell_length_b       6.317444029172963
+_cell_length_c       6.265015602111816
+_cell_angle_alpha    89.24200180978019
+_cell_angle_beta     120.24045337276138
+_cell_angle_gamma    118.7979590989056
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.45870542526245117  0.0258641354739666  0.47673875093460083  1.0000
+  Na  Na1       1.0  0.960773229598999  0.2755044400691986  0.22713348269462585  1.0000
+  Ga  Ga2       1.0  0.9587223529815674  0.7752824425697327  0.7234599590301514  1.0000
+  S   S1        1.0  0.5197607278823853  0.40059518814086914  0.4112439751625061  1.0000
+  Na  Na2       1.0  0.458895206451416  0.5278404951095581  0.9755076169967651  1.0000
+  S   S2        1.0  0.020706009119749093  0.712036669254303  0.10084769874811175  1.0000
+  S   S3        1.0  0.39670222997665405  0.9003474712371826  0.7891255021095276  1.0000
+  S   S4        1.0  0.8953958749771118  0.0880422368645668  0.6001678705215454  1.0000

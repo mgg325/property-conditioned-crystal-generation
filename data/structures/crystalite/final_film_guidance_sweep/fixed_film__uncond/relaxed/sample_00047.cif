@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_UAl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13080201
+_cell_length_b   6.11356412
+_cell_length_c   7.89221775
+_cell_angle_alpha   67.24873659
+_cell_angle_beta   67.20331732
+_cell_angle_gamma   60.22729738
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UAl3
+_chemical_formula_sum   'U3 Al9'
+_cell_volume   229.61925796
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.73757176  0.93960045  0.67857913  1
+  U  U1  1  0.52240822  0.72398597  0.33321060  1
+  U  U2  1  0.30605625  0.50892419  0.99032871  1
+  Al  Al3  1  0.01989027  0.22089942  0.33437324  1
+  Al  Al4  1  0.27057559  0.01754838  0.00782124  1
+  Al  Al5  1  0.81408151  0.01738556  1.00566101  1
+  Al  Al6  1  0.22993942  0.43195454  0.66376957  1
+  Al  Al7  1  0.02298987  0.72327595  0.33519031  1
+  Al  Al8  1  0.77208432  0.42978174  0.66306886  1
+  Al  Al9  1  0.22838831  0.97319317  0.66157050  1
+  Al  Al10  1  0.52406736  0.22268899  0.33422831  1
+  Al  Al11  1  0.81380028  0.47621633  0.00668775  1

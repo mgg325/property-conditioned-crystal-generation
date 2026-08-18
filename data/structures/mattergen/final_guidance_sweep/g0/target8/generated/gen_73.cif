@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SiAuSiLiP
+_chemical_formula_sum              "Si2 Au1 Li1 P1"
+_cell_length_a       3.6655585615669626
+_cell_length_b       3.6692897751587936
+_cell_length_c       8.55099105834961
+_cell_angle_alpha    89.98174540871628
+_cell_angle_beta     90.09227152677202
+_cell_angle_gamma    120.07987946429063
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.32343432307243347  0.4316578805446624  0.08745834231376648  1.0000
+  Au  Au1       1.0  0.988681674003601  0.7667619585990905  0.5961048603057861  1.0000
+  Si  Si2       1.0  0.6570959687232971  0.09928477555513382  0.4665581285953522  1.0000
+  Li  Li1       1.0  0.3230019807815552  0.43281668424606323  0.7920665740966797  1.0000
+  P   P1        1.0  0.6548195481300354  0.09892833977937698  0.20051898062229156  1.0000

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Be2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   1.68200433
+_cell_length_b   3.47375226
+_cell_length_c   5.15034628
+_cell_angle_alpha   81.14024353
+_cell_angle_beta   92.35328674
+_cell_angle_gamma   76.31835938
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be2O3
+_chemical_formula_sum   'Be2 O3'
+_cell_volume   28.79576641
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.07919738  0.59949237  0.63573682  1
+  Be  Be1  1  0.14502543  0.34469569  0.87994945  1
+  Be  Be2  1  0.53361273  0.56824148  0.51527083  1
+  O  O3  1  0.32187921  0.58641702  0.13167435  1
+  O  O4  1  0.67001045  0.96307778  0.54610908  1

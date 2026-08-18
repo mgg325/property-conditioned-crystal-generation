@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ca4GeAsSe9Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46059179
+_cell_length_b   6.07738018
+_cell_length_c   8.80340004
+_cell_angle_alpha   89.06143188
+_cell_angle_beta   94.50135803
+_cell_angle_gamma   88.75660706
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca4GeAsSe9Br
+_chemical_formula_sum   'Ca4 Ge1 As1 Se9 Br1'
+_cell_volume   291.13279109
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.26770309  0.70793724  0.07486907  1
+  Ca  Ca1  1  0.65860927  0.56072837  0.56770968  1
+  Ca  Ca2  1  0.11278605  0.19304940  0.07140863  1
+  Ca  Ca3  1  0.64762300  0.67588085  0.06976837  1
+  Se  Se4  1  0.28673452  0.68422973  0.54344296  1
+  As  As5  1  0.67678630  0.22832906  0.81713778  1
+  Se  Se6  1  0.97424752  0.45792514  0.78195560  1
+  Se  Se7  1  0.52965569  0.18655640  0.49336925  1
+  Se  Se8  1  0.81409556  0.91612637  0.31835112  1
+  Se  Se9  1  0.19345585  0.67100871  0.82144272  1
+  Se  Se10  1  0.80033636  0.93622005  0.85303444  1
+  Br  Br11  1  0.60013640  0.22603670  0.33053482  1
+  Ge  Ge12  1  0.10689330  0.62673342  0.33167967  1
+  Se  Se13  1  0.97822201  0.45175794  0.32737660  1
+  Ca  Ca14  1  0.08492321  0.14873952  0.58343637  1
+  Se  Se15  1  0.51243263  0.20635101  0.01169750  1

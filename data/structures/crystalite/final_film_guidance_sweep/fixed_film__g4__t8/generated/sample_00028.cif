@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_SrCa2Zn3Cd2TcSn2GeTeAsSeBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.86315393
+_cell_length_b   5.86673784
+_cell_length_c   9.85423565
+_cell_angle_alpha   90.21132660
+_cell_angle_beta   90.01133728
+_cell_angle_gamma   90.55905914
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCa2Zn3Cd2TcSn2GeTeAsSeBr
+_chemical_formula_sum   'Sr1 Ca2 Zn3 Cd2 Tc1 Sn2 Ge1 Te1 As1 Se1 Br1'
+_cell_volume   165.51626720
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  0.44826376  0.65067172  0.41788110  1
+  Sr  Sr1  1  0.99871349  0.41015282  0.51781398  1
+  Zn  Zn2  1  0.96999729  0.74478686  0.00971928  1
+  Tc  Tc3  1  0.47502398  0.77968043  0.24184614  1
+  Zn  Zn4  1  0.46224743  0.41942990  0.77001929  1
+  Te  Te5  1  0.92902005  0.21651691  0.98869467  1
+  Zn  Zn6  1  0.95626813  0.14317003  0.78475404  1
+  Cd  Cd7  1  0.49027476  0.32024342  0.01196578  1
+  Ca  Ca8  1  0.94193941  0.95300311  0.44157559  1
+  Sn  Sn9  1  0.40144372  0.73780060  0.66381317  1
+  Se  Se10  1  0.86294687  0.74195874  0.73465043  1
+  Sn  Sn11  1  0.42885315  0.15330729  0.64562237  1
+  Br  Br12  1  0.93776894  0.63670397  0.18236011  1
+  Cd  Cd13  1  0.98590684  0.33516574  0.24683845  1
+  Ca  Ca14  1  0.40419886  0.00038707  0.03279704  1
+  Ge  Ge15  1  0.41861892  0.15882811  0.19539505  1

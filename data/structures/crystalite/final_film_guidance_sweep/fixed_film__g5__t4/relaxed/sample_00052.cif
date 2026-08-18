@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Si2SeSO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   1.71761978
+_cell_length_b   2.28719193
+_cell_length_c   7.78827966
+_cell_angle_alpha   93.47139055
+_cell_angle_beta   90.56687726
+_cell_angle_gamma   114.25755565
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si2SeSO7
+_chemical_formula_sum   'Si2 Se1 S1 O7'
+_cell_volume   27.82351965
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.85603931  0.04599887  0.85127955  1
+  Si  Si1  1  0.56626685  0.75330431  1.00824734  1
+  Se  Se2  1  0.08561845  1.09100380  0.35643851  1
+  S  S3  1  1.01648147  0.22499989  0.52884457  1
+  O  O4  1  0.13215164  0.75134965  0.60013075  1
+  O  O5  1  0.46627672  0.59141321  0.03623720  1
+  O  O6  1  0.37728664  0.76281648  0.58100158  1
+  O  O7  1  0.61978852  0.35907237  0.74833485  1
+  O  O8  1  0.02329710  0.07632744  0.12872509  1
+  O  O9  1  0.52811523  0.39762854  0.70298988  1
+  O  O10  1  0.74045889  0.50031485  0.22494030  1

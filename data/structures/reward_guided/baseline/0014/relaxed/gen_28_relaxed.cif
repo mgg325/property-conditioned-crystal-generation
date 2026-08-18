@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2SiPbAu6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82096671
+_cell_length_b   6.82277197
+_cell_length_c   7.74988462
+_cell_angle_alpha   64.00555737
+_cell_angle_beta   63.92730993
+_cell_angle_gamma   60.01198940
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2SiPbAu6
+_chemical_formula_sum   'K2 Si1 Pb1 Au6'
+_cell_volume   269.28760417
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.73097506  0.14903169  0.67430194  1
+  K  K1  1  0.29639581  0.71340240  0.97805113  1
+  Si  Si2  1  0.51367113  0.93132750  0.32614529  1
+  Pb  Pb3  1  0.01384480  0.43097287  0.82614183  1
+  Au  Au4  1  0.27392593  0.69256531  0.46571279  1
+  Au  Au5  1  0.17384381  0.17005694  0.18744916  1
+  Au  Au6  1  0.27455692  0.27298829  0.46330132  1
+  Au  Au7  1  0.75334265  0.17011857  0.18703222  1
+  Au  Au8  1  0.75272327  0.59032154  0.18853000  1
+  Au  Au9  1  0.85328657  0.69275988  0.46507625  1

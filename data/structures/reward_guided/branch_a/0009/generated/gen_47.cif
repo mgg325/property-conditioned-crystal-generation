@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mn3VMgV
+_chemical_formula_sum              "Mn3 V2 Mg1"
+_cell_length_a       2.8388619775718706
+_cell_length_b       2.847373609127904
+_cell_length_c       8.968006134033203
+_cell_angle_alpha    91.44378829493225
+_cell_angle_beta     90.85674731747169
+_cell_angle_gamma    93.54519860463714
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.4319422245025635  0.546359658241272  0.7417991757392883  1.0000
+  Mn  Mn2       1.0  0.43329334259033203  0.5485153198242188  0.14377117156982422  1.0000
+  Mn  Mn3       1.0  0.43003109097480774  0.545183002948761  0.4389254152774811  1.0000
+  V   V1        1.0  0.9329549670219421  0.04830748587846757  0.5990768671035767  1.0000
+  Mg  Mg1       1.0  0.9321296811103821  0.045672010630369186  0.9421616792678833  1.0000
+  V   V2        1.0  0.9335932731628418  0.04346047341823578  0.2833370864391327  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb2Cd2Ga2
+_chemical_formula_sum              "Tb2 Cd2 Ga2"
+_cell_length_a       4.214579764453509
+_cell_length_b       4.604152421863024
+_cell_length_c       7.171405792236328
+_cell_angle_alpha    90.17964330122378
+_cell_angle_beta     109.51029257308467
+_cell_angle_gamma    89.66003669825207
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.42781275510787964  0.9709069132804871  0.7284970283508301  1.0000
+  Tb  Tb2       1.0  0.5998191237449646  0.4721040427684784  0.07082016021013263  1.0000
+  Cd  Cd1       1.0  0.2688511908054352  0.4722764194011688  0.407938152551651  1.0000
+  Cd  Cd2       1.0  0.7618136405944824  0.9732692241668701  0.39230209589004517  1.0000
+  Ga  Ga1       1.0  0.9316412210464478  0.4740884602069854  0.7310585379600525  1.0000
+  Ga  Ga2       1.0  0.09895794093608856  0.9735552668571472  0.07512727379798889  1.0000

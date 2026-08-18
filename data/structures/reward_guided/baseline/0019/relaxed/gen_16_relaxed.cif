@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Rb3Li2In3Sn4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.71930553
+_cell_length_b   6.93290486
+_cell_length_c   10.30523776
+_cell_angle_alpha   109.67579037
+_cell_angle_beta   109.82374388
+_cell_angle_gamma   89.99848003
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb3Li2In3Sn4
+_chemical_formula_sum   'Rb3 Li2 In3 Sn4'
+_cell_volume   421.69952238
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.69695487  0.66400089  0.06403745  1
+  Rb  Rb1  1  0.53967393  0.02055249  0.77724073  1
+  Rb  Rb2  1  0.18465310  0.16528777  0.06652471  1
+  Li  Li3  1  0.62733359  0.59398783  0.44105805  1
+  Li  Li4  1  0.62798798  0.11141338  0.44152343  1
+  In  In5  1  0.97036763  0.46378463  0.66208860  1
+  In  In6  1  0.12816458  0.08754818  0.42577585  1
+  In  In7  1  0.12837976  0.60202676  0.42545246  1
+  Sn  Sn8  1  0.95839491  0.94165985  0.61994168  1
+  Sn  Sn9  1  0.77393491  0.26039424  0.25697801  1
+  Sn  Sn10  1  0.47077587  0.44698137  0.62976321  1
+  Sn  Sn11  1  0.31719808  0.76213063  0.25975648  1

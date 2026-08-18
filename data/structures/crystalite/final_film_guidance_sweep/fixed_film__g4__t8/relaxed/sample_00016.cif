@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_BaSrCa2Zn4Cd2GaTcSn2GeBiSeO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31507001
+_cell_length_b   9.44697229
+_cell_length_c   9.49870881
+_cell_angle_alpha   118.58492387
+_cell_angle_beta   92.23235494
+_cell_angle_gamma   94.64150751
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrCa2Zn4Cd2GaTcSn2GeBiSeO
+_chemical_formula_sum
+'Ba1 Sr1 Ca2 Zn4 Cd2 Ga1 Tc1 Sn2 Ge1 Bi1 Se1 O1'
+_cell_volume   415.78723098
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.77867329  0.69903232  0.51359877  1
+  Sr  Sr1  1  0.88370274  0.85071445  0.22578898  1
+  Ca  Ca2  1  0.48373289  0.37873230  0.53984143  1
+  Ca  Ca3  1  0.32527810  0.65705851  0.14669113  1
+  Zn  Zn4  1  0.25771079  0.92111945  0.54394790  1
+  Zn  Zn5  1  0.32633074  0.79851566  0.73602865  1
+  Zn  Zn6  1  0.59884754  0.57852793  0.88043307  1
+  Zn  Zn7  1  0.58147166  0.12217545  0.74920115  1
+  Cd  Cd8  1  0.97307728  0.21992367  0.30375502  1
+  Cd  Cd9  1  0.22171584  0.96615681  1.04334637  1
+  Ga  Ga10  1  0.44393269  0.03469361  0.38170764  1
+  Tc  Tc11  1  0.25101539  0.31209511  0.89508699  1
+  Sn  Sn12  1  0.07212958  0.54440615  0.79777698  1
+  Sn  Sn13  1  -0.03427854  0.18229102  0.60595840  1
+  Ge  Ge14  1  0.70937448  0.91293749  0.94217768  1
+  Bi  Bi15  1  0.71127551  0.37902918  0.05345930  1
+  Se  Se16  1  0.24670630  0.46427256  0.29613208  1
+  O  O17  1  1.06812628  0.14130387  0.90884090  1

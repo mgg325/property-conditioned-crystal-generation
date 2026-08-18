@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       MoHgBr3Se2BrHgSe
+_chemical_formula_sum              "Mo1 Hg2 Br4 Se3"
+_cell_length_a       7.3496755092730055
+_cell_length_b       7.919588599852375
+_cell_length_c       7.3926520347595215
+_cell_angle_alpha    63.21454154228941
+_cell_angle_beta     78.54218855486799
+_cell_angle_gamma    89.205009371218
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.7364449501037598  0.8385275602340699  0.7440024614334106  1.0000
+  Hg  Hg1       1.0  0.5613735914230347  0.30077761411666876  0.8464769721031189  1.0000
+  Br  Br1       1.0  0.3685605823993683  0.9708696007728577  0.18728826940059662  1.0000
+  Br  Br2       1.0  0.051379784941673286  0.8935223221778871  0.8240436911582947  1.0000
+  Br  Br3       1.0  0.2548021972179413  0.4629237353801727  0.6977565288543701  1.0000
+  Se  Se1       1.0  0.6797249913215637  0.16833026707172394  0.5806397795677185  1.0000
+  Se  Se2       1.0  0.5531423091888428  0.6815333962440491  0.08780069649219518  1.0000
+  Br  Br4       1.0  0.8701154589653014  0.8175320625305176  0.42034319043159485  1.0000
+  Hg  Hg2       1.0  0.39748221635818476  0.8149546980857849  0.6108344197273254  1.0000
+  Se  Se3       1.0  0.7436646819114685  0.47259438037872314  0.9970923662185669  1.0000

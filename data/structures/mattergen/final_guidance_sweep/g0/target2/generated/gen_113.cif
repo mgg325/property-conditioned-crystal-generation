@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       InSiO4
+_chemical_formula_sum              "In1 Si1 O4"
+_cell_length_a       2.985367795456023
+_cell_length_b       4.734507515456455
+_cell_length_c       4.7248616218566895
+_cell_angle_alpha    86.78831089806982
+_cell_angle_beta     89.80157868660271
+_cell_angle_gamma    89.84464302529415
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.8011336922645569  0.4239859879016876  0.7136949896812439  1.0000
+  Si  Si1       1.0  0.3014833331108093  0.9240745306015015  0.2130090892314911  1.0000
+  O   O1        1.0  0.8022114038467407  0.09271561354398727  0.3813326954841614  1.0000
+  O   O2        1.0  0.301186740398407  0.19399239122867584  0.9429245591163635  1.0000
+  O   O3        1.0  0.8012515902519226  0.7561875581741333  0.045896247029304504  1.0000
+  O   O4        1.0  0.3009374439716339  0.6541779637336731  0.4847297966480255  1.0000

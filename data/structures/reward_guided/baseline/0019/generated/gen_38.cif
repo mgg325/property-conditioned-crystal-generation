@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ZrHoZrLiN4
+_chemical_formula_sum              "Zr2 Ho1 Li1 N4"
+_cell_length_a       3.2849223779192736
+_cell_length_b       5.58756141626511
+_cell_length_c       5.707249641418457
+_cell_angle_alpha    108.92625830358301
+_cell_angle_beta     90.03824473132465
+_cell_angle_gamma    90.34907299982773
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.7413078546524048  0.9924785494804382  0.6421632766723633  1.0000
+  Ho  Ho1       1.0  0.7425417304039001  0.49018698930740356  0.14229688048362732  1.0000
+  Zr  Zr2       1.0  0.2408065497875214  0.49226391315460205  0.6431986689567566  1.0000
+  Li  Li1       1.0  0.24239276349544528  0.992196261882782  0.1420295536518097  1.0000
+  N   N1        1.0  0.24163468182086947  0.7454233169555664  0.40964609384536743  1.0000
+  N   N2        1.0  0.2408757954835892  0.23769211769104  0.875974178314209  1.0000
+  N   N3        1.0  0.7413276433944702  0.25644850730895996  0.41999948024749756  1.0000
+  N   N4        1.0  0.7417863607406616  0.7275799512863159  0.8631657958030701  1.0000

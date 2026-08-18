@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ClO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.06042910
+_cell_length_b   4.16108799
+_cell_length_c   4.69326115
+_cell_angle_alpha   90.51464081
+_cell_angle_beta   89.80947876
+_cell_angle_gamma   90.09378052
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ClO5
+_chemical_formula_sum   'Cl1 O5'
+_cell_volume   79.29267503
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.08044720  0.91778862  0.02799970  1
+  O  O1  1  0.82048959  0.68096346  0.06678987  1
+  O  O2  1  0.89236736  0.20985958  0.56804347  1
+  O  O3  1  0.44784492  0.65754598  0.62259001  1
+  O  O4  1  0.29645675  0.08136716  0.06014833  1
+  Cl  Cl5  1  0.74114394  0.50628680  0.62002301  1

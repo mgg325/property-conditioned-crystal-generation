@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ca3BiSe
+_chemical_formula_sum              "Ca3 Bi1 Se1"
+_cell_length_a       5.483315981085636
+_cell_length_b       5.478990133068018
+_cell_length_c       5.477549076080322
+_cell_angle_alpha    89.99187457930988
+_cell_angle_beta     89.94109895360666
+_cell_angle_gamma    90.08447144710993
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.8239374756813049  0.7281622886657715  0.40616679191589355  1.0000
+  Ca  Ca2       1.0  0.823896050453186  0.22849987447261813  0.9059703350067139  1.0000
+  Ca  Ca3       1.0  0.3238348960876465  0.22802941501140597  0.40563249588012695  1.0000
+  Bi  Bi1       1.0  0.32408615946769714  0.7280142903327942  0.9059794545173645  1.0000
+  Se  Se1       1.0  0.8236038088798523  0.2282097488641739  0.40567535161972046  1.0000

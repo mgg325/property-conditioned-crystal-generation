@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       H2Y2O4
+_chemical_formula_sum              "H2 Y2 O4"
+_cell_length_a       3.6733919127923107
+_cell_length_b       4.275184091264254
+_cell_length_c       6.18848991394043
+_cell_angle_alpha    112.9553722028929
+_cell_angle_beta     89.98705246627264
+_cell_angle_gamma    90.13416790853503
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.29655036330223083  0.525981605052948  0.7780581712722778  1.0000
+  H   H2        1.0  0.796127736568451  0.37937423586845404  0.7112856507301331  1.0000
+  Y   Y1        1.0  0.6685681939125061  0.08952029049396515  0.056061550974845886  1.0000
+  Y   Y2        1.0  0.16911366581916815  0.8105115294456483  0.43495145440101624  1.0000
+  O   O1        1.0  0.6666615605354309  0.668676257133484  0.20250257849693298  1.0000
+  O   O2        1.0  0.16618189215660095  0.7405391335487367  0.7965865135192871  1.0000
+  O   O3        1.0  0.6656057834625244  0.1665051728487015  0.6944902539253235  1.0000
+  O   O4        1.0  0.16639532148838043  0.22826662659645083  0.2869444191455841  1.0000

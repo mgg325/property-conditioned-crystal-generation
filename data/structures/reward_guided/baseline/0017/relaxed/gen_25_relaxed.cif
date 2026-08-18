@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiCa2In3Ag4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.68751347
+_cell_length_b   5.78993729
+_cell_length_c   9.30021855
+_cell_angle_alpha   81.22754083
+_cell_angle_beta   75.40854841
+_cell_angle_gamma   66.12921650
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCa2In3Ag4
+_chemical_formula_sum   'Li1 Ca2 In3 Ag4'
+_cell_volume   223.01093568
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.15228223  0.91430504  0.29891934  1
+  Ca  Ca1  1  0.84051875  0.12599472  0.71129001  1
+  Ca  Ca2  1  0.50194540  0.37992732  0.13350408  1
+  In  In3  1  0.27914870  0.97848686  0.98103964  1
+  In  In4  1  0.51732186  0.03245168  0.45107603  1
+  In  In5  1  0.05636847  0.52934807  0.87602044  1
+  Ag  Ag6  1  0.54678795  0.70893233  0.71462938  1
+  Ag  Ag7  1  0.78589766  0.79947137  0.14686779  1
+  Ag  Ag8  1  0.20147801  0.56616053  0.54842375  1
+  Ag  Ag9  1  0.84975169  0.42548074  0.39203924  1

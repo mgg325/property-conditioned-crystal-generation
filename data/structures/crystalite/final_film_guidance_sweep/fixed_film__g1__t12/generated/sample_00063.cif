@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_BaZnHg2PbSO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29966784
+_cell_length_b   4.21371841
+_cell_length_c   11.19635582
+_cell_angle_alpha   100.81015778
+_cell_angle_beta   101.17969513
+_cell_angle_gamma   90.30290985
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaZnHg2PbSO3
+_chemical_formula_sum   'Ba1 Zn1 Hg2 Pb1 S1 O3'
+_cell_volume   195.28749863
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.72462994  0.11184052  0.15041143  1
+  O  O1  1  0.22796029  0.60805380  0.16999000  1
+  Ba  Ba2  1  0.83657539  0.73429137  0.35594767  1
+  S  S3  1  0.41717440  0.29539621  0.50787932  1
+  O  O4  1  0.06727695  0.93638754  0.82761002  1
+  Pb  Pb5  1  0.64289713  0.55661279  0.00473851  1
+  Zn  Zn6  1  0.22105765  0.10449505  0.15653294  1
+  Hg  Hg7  1  0.49138311  0.88212579  0.70935178  1
+  Hg  Hg8  1  0.98552155  0.35706460  0.68394017  1

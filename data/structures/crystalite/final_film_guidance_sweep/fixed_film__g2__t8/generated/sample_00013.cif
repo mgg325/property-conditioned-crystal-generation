@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiTiMnAs2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44024229
+_cell_length_b   5.54464865
+_cell_length_c   5.66845798
+_cell_angle_alpha   117.52732849
+_cell_angle_beta   118.42990112
+_cell_angle_gamma   90.52652740
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTiMnAs2O7
+_chemical_formula_sum   'Li1 Ti1 Mn1 As2 O7'
+_cell_volume   127.45113002
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.58563709  0.44018590  0.41265857  1
+  O  O1  1  0.87434769  0.24413118  0.63383502  1
+  O  O2  1  0.39459279  0.72199881  0.15219298  1
+  As  As3  1  0.94719106  0.96159410  0.61255312  1
+  O  O4  1  0.38859510  0.22970703  0.11695364  1
+  Li  Li5  1  0.83912051  0.25357062  0.95511758  1
+  O  O6  1  0.36289418  0.72216111  0.63868129  1
+  O  O7  1  0.86680645  0.73818278  0.14272326  1
+  O  O8  1  0.36541557  0.19345859  0.60860479  1
+  Mn  Mn9  1  0.47141132  0.55255371  0.88814622  1
+  O  O10  1  0.84648323  0.70394212  0.63065827  1
+  As  As11  1  0.23164555  0.90049338  0.16103446  1

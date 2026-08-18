@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Zn3InSnTe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94845125
+_cell_length_b   7.40187815
+_cell_length_c   8.65155526
+_cell_angle_alpha   63.30313337
+_cell_angle_beta   63.97580491
+_cell_angle_gamma   61.22913258
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn3InSnTe5
+_chemical_formula_sum   'Zn3 In1 Sn1 Te5'
+_cell_volume   382.17309052
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.94741645  0.94551158  0.37396400  1
+  Zn  Zn1  1  0.31792778  0.33514898  0.29817968  1
+  Zn  Zn2  1  0.68448218  0.66967221  0.84330489  1
+  In  In3  1  0.66739749  0.66229311  0.30128110  1
+  Sn  Sn4  1  0.11401059  0.04562066  0.78358429  1
+  Te  Te5  1  0.93134794  0.55480615  0.54347535  1
+  Te  Te6  1  0.25074107  0.96727346  0.40923119  1
+  Te  Te7  1  0.75117074  0.91755295  0.93385773  1
+  Te  Te8  1  0.35275314  0.59737793  0.96183488  1
+  Te  Te9  1  0.60744203  0.26341107  0.41847849  1

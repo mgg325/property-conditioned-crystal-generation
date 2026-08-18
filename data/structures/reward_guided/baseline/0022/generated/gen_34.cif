@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Y4SnH2Sn
+_chemical_formula_sum              "Y4 Sn2 H2"
+_cell_length_a       4.442315250018737
+_cell_length_b       4.487847844492051
+_cell_length_c       8.645990371704102
+_cell_angle_alpha    88.07942177259947
+_cell_angle_beta     88.42888143048971
+_cell_angle_gamma    88.33434470575814
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.7252371907234192  0.24146646261215207  0.5297430157661438  1.0000
+  Y   Y2        1.0  0.2244293987751007  0.7432049512863158  0.5298669338226318  1.0000
+  Y   Y3        1.0  0.7252939343452454  0.7423051595687865  0.1603112667798996  1.0000
+  Y   Y4        1.0  0.2243148684501648  0.243604376912117  0.8947675824165344  1.0000
+  Sn  Sn1       1.0  0.7250673174858093  0.7421057820320129  0.7918844223022461  1.0000
+  H   H1        1.0  0.22483807802200315  0.7398966550827026  0.031982261687517166  1.0000
+  H   H2        1.0  0.22495035827159884  0.24186934530735013  0.6206315755844116  1.0000
+  Sn  Sn2       1.0  0.22497524321079254  0.24224008619785306  0.2611229121685028  1.0000

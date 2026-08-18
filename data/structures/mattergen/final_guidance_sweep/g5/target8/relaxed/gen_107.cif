@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AgZnTeTiTeAgTe2
+_chemical_formula_sum              "Ag2 Zn1 Te4 Ti1"
+_cell_length_a       6.404734748416004
+_cell_length_b       6.40443975165474
+_cell_length_c       7.7260300209322486
+_cell_angle_alpha    114.46734035157492
+_cell_angle_beta     114.46261264231443
+_cell_angle_gamma    90.02756866606128
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.5699351756934169  0.3467281383881616  0.11634068118392112  1.0000
+  Zn  Zn1       1.0  0.07056422004939757  0.8462294175168981  0.11666852908681041  1.0000
+  Te  Te1       1.0  0.19729011271074715  0.9495269738170982  0.8626461366239929  1.0000
+  Ti  Ti1       1.0  0.3201592550332673  0.5963801604063937  0.6164911695388299  1.0000
+  Te  Te2       1.0  0.689389477114222  0.48939486871232346  0.86236536656698  1.0000
+  Ag  Ag2       1.0  0.8202607801791343  0.0959625009742102  0.6164624431460392  1.0000
+  Te  Te3       1.0  0.4271514838315726  0.719307215865733  0.3702371050889578  1.0000
+  Te  Te4       1.0  0.9670107701086444  0.22724101634932894  0.3699848993223185  1.0000

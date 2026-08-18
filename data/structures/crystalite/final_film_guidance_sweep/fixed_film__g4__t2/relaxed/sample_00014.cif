@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SiN3F8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.65508649
+_cell_length_b   8.37739784
+_cell_length_c   18.51308489
+_cell_angle_alpha   89.59853620
+_cell_angle_beta   91.72873021
+_cell_angle_gamma   92.53633593
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiN3F8
+_chemical_formula_sum   'Si1 N3 F8'
+_cell_volume   1185.51664957
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.31743708  0.13052732  0.53725256  1
+  N  N1  1  0.28441402  0.76308274  0.76241110  1
+  N  N2  1  0.78354646  0.07853206  0.97812717  1
+  N  N3  1  0.69363111  0.11961900  0.39758880  1
+  F  F4  1  0.28825048  0.33145472  0.39753049  1
+  F  F5  1  0.30065675  0.07683321  0.75631555  1
+  F  F6  1  0.30088754  0.08383408  0.75718294  1
+  F  F7  1  0.38537063  0.08424166  0.46080600  1
+  F  F8  1  0.79166597  0.54557144  0.10768120  1
+  F  F9  1  0.78600691  0.02282952  0.67917010  1
+  F  F10  1  0.34608925  1.00558967  0.33635138  1
+  F  F11  1  0.04164361  0.08256009  0.42067368  1

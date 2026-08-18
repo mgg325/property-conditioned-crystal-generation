@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       RhCl3
+_chemical_formula_sum              "Rh1 Cl3"
+_cell_length_a       3.4857091170883248
+_cell_length_b       3.482801744761828
+_cell_length_c       9.116439819335938
+_cell_angle_alpha    90.02407209085571
+_cell_angle_beta     89.94943861265112
+_cell_angle_gamma    119.99551137195375
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.45355495810508734  0.9600107073783876  0.6371651887893677  1.0000
+  Cl  Cl1       1.0  0.7875708937644957  0.6260295510292053  0.782669723033905  1.0000
+  Cl  Cl2       1.0  0.4528104662895203  0.9601639509201051  0.1431693285703659  1.0000
+  Cl  Cl3       1.0  0.11960016191005705  0.29368487000465393  0.4923863708972931  1.0000

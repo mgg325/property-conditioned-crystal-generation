@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_ZrAlRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.31867041
+_cell_length_b   7.38297475
+_cell_length_c   7.38152997
+_cell_angle_alpha   119.99760759
+_cell_angle_beta   89.99719684
+_cell_angle_gamma   90.00343095
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrAlRu
+_chemical_formula_sum   'Zr3 Al3 Ru3'
+_cell_volume   156.63290179
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.06567189  0.62673242  0.36794789  1
+  Zr  Zr1  1  0.06553550  0.22923175  0.57244657  1
+  Zr  Zr2  1  0.06510360  0.02492610  0.97097840  1
+  Al  Al3  1  0.56589774  0.62653384  0.70522947  1
+  Al  Al4  1  0.56586909  0.36131595  0.97006833  1
+  Al  Al5  1  0.56592740  0.89271713  0.23573980  1
+  Ru  Ru6  1  0.56525077  0.96005935  0.63719976  1
+  Ru  Ru7  1  0.56600167  0.29413752  0.30354288  1
+  Ru  Ru8  1  0.06629317  0.62670242  0.97030125  1

@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       PtCaBe
+_chemical_formula_sum              "Pt1 Ca1 Be1"
+_cell_length_a       3.9206498043230784
+_cell_length_b       3.920635087091708
+_cell_length_c       4.340696280255288
+_cell_angle_alpha    90.00091754476837
+_cell_angle_beta     89.9910737096763
+_cell_angle_gamma    120.0082876415432
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.3977689423675316  0.4578993568252987  0.05885510658917207  1.0000
+  Ca  Ca1       1.0  0.06447999690634526  0.7910012054434277  0.5586932371524249  1.0000
+  Be  Be1       1.0  0.731108138157248  0.12462862762412054  0.05862741753922374  1.0000

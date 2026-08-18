@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_BiSO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99836397
+_cell_length_b   3.92757177
+_cell_length_c   5.63886118
+_cell_angle_alpha   89.92626190
+_cell_angle_beta   89.84326172
+_cell_angle_gamma   97.30728149
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BiSO4
+_chemical_formula_sum   'Bi1 S1 O4'
+_cell_volume   87.83225375
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.42060074  0.28254497  0.10671601  1
+  O  O1  1  0.37848648  0.81152397  0.36952281  1
+  O  O2  1  0.39800856  0.76044375  0.86664224  1
+  O  O3  1  0.85204041  0.83899009  0.12105906  1
+  S  S4  1  0.49321178  0.85884488  0.11665323  1
+  Bi  Bi5  1  0.00836381  0.37165618  0.62956142  1

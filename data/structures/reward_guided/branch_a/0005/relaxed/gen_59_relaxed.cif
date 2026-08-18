@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Li6TlZn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.76250253
+_cell_length_b   5.85970977
+_cell_length_c   5.86605258
+_cell_angle_alpha   119.88046911
+_cell_angle_beta   89.77870459
+_cell_angle_gamma   90.11940467
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li6TlZn
+_chemical_formula_sum   'Li6 Tl1 Zn1'
+_cell_volume   141.94055479
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.28852171  0.76491333  0.81055552  1
+  Li  Li1  1  0.78935744  0.93809688  0.15102030  1
+  Li  Li2  1  0.78781872  0.44397187  0.14909094  1
+  Li  Li3  1  0.28901970  0.27634719  0.32577704  1
+  Li  Li4  1  0.78882251  0.93860580  0.64172355  1
+  Li  Li5  1  0.28771662  0.27730584  0.81148340  1
+  Tl  Tl6  1  0.28911974  0.77348935  0.31599789  1
+  Zn  Zn7  1  0.78777039  0.44002713  0.64850292  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ca2ZnP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.02363350
+_cell_length_b   7.31790401
+_cell_length_c   7.31853107
+_cell_angle_alpha   90.00583752
+_cell_angle_beta   89.99870123
+_cell_angle_gamma   90.00035768
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2ZnP2
+_chemical_formula_sum   'Ca4 Zn2 P4'
+_cell_volume   215.49095298
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.50823765  0.62461613  0.35633683  1
+  Ca  Ca1  1  0.50824177  0.48920546  0.85655729  1
+  Ca  Ca2  1  0.50807127  0.12463338  0.22077624  1
+  Ca  Ca3  1  0.50825594  0.98923984  0.72038869  1
+  Zn  Zn4  1  0.00824401  0.80697003  0.03838986  1
+  Zn  Zn5  1  0.00820892  0.30704331  0.53826342  1
+  P  P6  1  0.00827833  0.41776678  0.14975702  1
+  P  P7  1  0.00837862  0.69564300  0.64937877  1
+  P  P8  1  0.00800416  0.19567666  0.92745426  1
+  P  P9  1  0.00827453  0.91785258  0.42716855  1

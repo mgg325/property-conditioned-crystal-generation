@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NiORbORbNiO2
+_chemical_formula_sum              "Ni2 O4 Rb2"
+_cell_length_a       5.707578069242842
+_cell_length_b       4.912214450911403
+_cell_length_c       4.907304763793945
+_cell_angle_alpha    89.79280188455326
+_cell_angle_beta     89.89328079546661
+_cell_angle_gamma    89.76126691232305
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.6302696466445923  0.2922302186489105  0.15179520845413208  1.0000
+  O   O1        1.0  0.4926031231880188  0.040597826242446906  0.40290066599845886  1.0000
+  Rb  Rb1       1.0  0.1303936392068863  0.29146862030029297  0.6527053117752075  1.0000
+  O   O2        1.0  0.7684740424156189  0.04176332801580429  0.9028681516647339  1.0000
+  Rb  Rb2       1.0  0.13054147362709045  0.7914603352546692  0.1525806188583374  1.0000
+  Ni  Ni2       1.0  0.6308013796806335  0.791758120059967  0.65213942527771  1.0000
+  O   O3        1.0  0.7685941457748413  0.5420507788658143  0.40209293365478516  1.0000
+  O   O4        1.0  0.49290671944618225  0.5428001880645752  0.9018445611000061  1.0000

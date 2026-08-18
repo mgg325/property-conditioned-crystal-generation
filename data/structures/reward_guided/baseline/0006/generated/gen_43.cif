@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mo2NiW2Ni
+_chemical_formula_sum              "Mo2 Ni2 W2"
+_cell_length_a       4.6198289446381064
+_cell_length_b       4.722920893993483
+_cell_length_c       4.7544355392456055
+_cell_angle_alpha    60.33981669779857
+_cell_angle_beta     80.47210010971892
+_cell_angle_gamma    71.15716218745855
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.5426499247550963  0.41360428929328924  0.044763125479221295  1.0000
+  Mo  Mo2       1.0  0.5403228402137756  0.0751483291387558  0.7246376872062683  1.0000
+  Ni  Ni1       1.0  0.040846735239028896  0.9190762042999269  0.03805826976895323  1.0000
+  W   W1        1.0  0.04266365990042687  0.5981199741363525  0.6791155338287352  1.0000
+  W   W2        1.0  0.04137123376131057  0.25923955440521246  0.3569176495075226  1.0000
+  Ni  Ni2       1.0  0.5422187447547913  0.7516476511955261  0.3688744604587555  1.0000

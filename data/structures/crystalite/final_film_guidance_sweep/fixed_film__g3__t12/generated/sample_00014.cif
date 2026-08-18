@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaTbU4Tc2GeP2Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.38504171
+_cell_length_b   7.87748957
+_cell_length_c   9.17092323
+_cell_angle_alpha   89.26275635
+_cell_angle_beta   90.93391418
+_cell_angle_gamma   90.49338531
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTbU4Tc2GeP2Se
+_chemical_formula_sum   'Na1 Tb1 U4 Tc2 Ge1 P2 Se1'
+_cell_volume   533.38999381
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.30513021  0.21486902  0.71317899  1
+  U  U1  1  0.55406070  0.69391513  0.66770673  1
+  Ge  Ge2  1  0.01305366  0.72168899  0.72145569  1
+  Na  Na3  1  0.12478110  0.75395298  0.44465840  1
+  Tb  Tb4  1  0.40665478  0.22515288  0.29648590  1
+  P  P5  1  0.69674289  0.77278924  0.38714698  1
+  Tc  Tc6  1  0.01437578  0.25564113  0.12175658  1
+  Se  Se7  1  0.77006501  0.53955483  0.24074247  1
+  U  U8  1  0.82249576  0.70346928  0.96756971  1
+  Tc  Tc9  1  0.82031918  0.23553851  0.79263711  1
+  U  U10  1  0.33329752  0.71688938  0.03579986  1
+  P  P11  1  0.68465614  0.03254312  0.36338246  1

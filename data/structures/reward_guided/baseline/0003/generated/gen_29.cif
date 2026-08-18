@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       GaCuCe2GaCu2Ga2Ni
+_chemical_formula_sum              "Ga4 Cu3 Ce2 Ni1"
+_cell_length_a       4.229444124896994
+_cell_length_b       4.230271339625406
+_cell_length_c       9.95452880859375
+_cell_angle_alpha    90.00056941017662
+_cell_angle_beta     90.01233099566555
+_cell_angle_gamma    90.00458556147335
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.8436694145202637  0.5726011991500854  0.2113640010356903  1.0000
+  Cu  Cu1       1.0  0.34348833560943604  0.07260387390851974  0.7003187537193298  1.0000
+  Ce  Ce1       1.0  0.8431392312049866  0.572493851184845  0.5754482746124268  1.0000
+  Ce  Ce2       1.0  0.34400713443756104  0.07288311421871185  0.09199953079223633  1.0000
+  Ga  Ga2       1.0  0.8436852693557739  0.07239685952663422  0.8337374925613403  1.0000
+  Cu  Cu2       1.0  0.843543529510498  0.5724966526031494  0.9666572213172913  1.0000
+  Cu  Cu3       1.0  0.8434872031211853  0.0730099007487297  0.33330467343330383  1.0000
+  Ga  Ga3       1.0  0.343597412109375  0.5726005434989929  0.8338030576705933  1.0000
+  Ga  Ga4       1.0  0.34361809492111206  0.07266893982887268  0.45595213770866394  1.0000
+  Ni  Ni1       1.0  0.34341251850128174  0.5725476145744324  0.3337521553039551  1.0000

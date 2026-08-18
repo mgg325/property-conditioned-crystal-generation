@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_ZnCd2InTc9SnSb2TePb2Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05392171
+_cell_length_b   3.40574884
+_cell_length_c   5.33779073
+_cell_angle_alpha   92.89836368
+_cell_angle_beta   125.98642819
+_cell_angle_gamma   95.94546891
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCd2InTc9SnSb2TePb2Br
+_chemical_formula_sum   'Zn1 Cd2 In1 Tc9 Sn1 Sb2 Te1 Pb2 Br1'
+_cell_volume   58.74033839
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.07351549  0.87944717  0.84886478  1
+  Cd  Cd1  1  0.58706895  0.67108312  0.08703645  1
+  Cd  Cd2  1  0.81373788  0.18859914  0.49268127  1
+  In  In3  1  0.62779448  0.71640079  0.38289411  1
+  Tc  Tc4  1  0.98651231  0.78359897  0.78379925  1
+  Tc  Tc5  1  0.20819652  0.36328946  0.69016639  1
+  Tc  Tc6  1  0.52698810  0.25885134  0.60671285  1
+  Tc  Tc7  1  0.10113265  0.48965763  0.41273298  1
+  Tc  Tc8  1  0.46554723  0.18356105  0.61987107  1
+  Tc  Tc9  1  0.84657155  0.31975029  0.91719764  1
+  Tc  Tc10  1  0.26814394  0.15001611  0.17811116  1
+  Tc  Tc11  1  0.26933380  0.21170631  0.15703187  1
+  Tc  Tc12  1  0.28280461  0.93136502  0.72998282  1
+  Sn  Sn13  1  0.57601147  0.75178582  0.72776704  1
+  Sb  Sb14  1  0.85249840  0.30718162  0.55352476  1
+  Sb  Sb15  1  0.11579697  0.74726845  0.16158994  1
+  Te  Te16  1  0.68799448  0.72756200  0.33640978  1
+  Pb  Pb17  1  0.05273265  0.63471318  0.16227475  1
+  Pb  Pb18  1  0.38679187  0.40529038  0.94261123  1
+  Br  Br19  1  0.20729284  0.22545447  0.10026247  1

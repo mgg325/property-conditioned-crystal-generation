@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_AlZnSiTcSnGeSb(TeSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.05174530
+_cell_length_b   6.42491643
+_cell_length_c   8.55477094
+_cell_angle_alpha   90.99070301
+_cell_angle_beta   88.21306061
+_cell_angle_gamma   125.70703306
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlZnSiTcSnGeSb(TeSe2)2
+_chemical_formula_sum   'Al1 Zn1 Si1 Tc1 Sn1 Ge1 Sb1 Te2 Se4'
+_cell_volume   359.18381781
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.46305515  0.17679406  0.93457565  1
+  Zn  Zn1  1  0.92860538  0.48490738  0.88381947  1
+  Si  Si2  1  0.43957042  1.19389530  0.59750419  1
+  Tc  Tc3  1  0.14791347  -0.01623035  0.75720745  1
+  Sn  Sn4  1  0.01094226  0.61333471  0.54550637  1
+  Ge  Ge5  1  0.11863190  0.19115843  -0.01018027  1
+  Sb  Sb6  1  0.51141553  0.86953948  0.47071915  1
+  Te  Te7  1  0.15285975  0.40770872  0.31296354  1
+  Te  Te8  1  0.74611686  0.70600355  0.90527772  1
+  Se  Se9  1  0.61258375  0.08392535  0.16136635  1
+  Se  Se10  1  0.29621504  0.73476546  0.82363596  1
+  Se  Se11  1  0.25860257  0.05284723  0.19633998  1
+  Se  Se12  1  0.67097995  0.56429963  0.43916326  1

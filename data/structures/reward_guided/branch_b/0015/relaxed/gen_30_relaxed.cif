@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Sc2MnTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09350501
+_cell_length_b   7.11541691
+_cell_length_c   7.91024270
+_cell_angle_alpha   116.68433482
+_cell_angle_beta   104.92826583
+_cell_angle_gamma   90.03933906
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2MnTe4
+_chemical_formula_sum   'Sc2 Mn1 Te4'
+_cell_volume   197.09909371
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.69454337  0.39492312  0.66752590  1
+  Sc  Sc1  1  0.18513422  0.85995350  0.64637049  1
+  Mn  Mn2  1  0.43957738  0.12717195  0.15672253  1
+  Te  Te3  1  0.06527609  0.09134088  0.40850039  1
+  Te  Te4  1  0.55952229  0.57409048  0.39479914  1
+  Te  Te5  1  0.31976043  0.68048248  0.91842242  1
+  Te  Te6  1  0.81398775  0.16324723  0.90507266  1

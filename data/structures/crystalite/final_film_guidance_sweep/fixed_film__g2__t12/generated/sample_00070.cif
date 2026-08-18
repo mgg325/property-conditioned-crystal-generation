@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_AcGaSnGe2Bi2Sb4TeAs4CN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25773525
+_cell_length_b   6.68446207
+_cell_length_c   17.96234703
+_cell_angle_alpha   97.16820526
+_cell_angle_beta   89.74868011
+_cell_angle_gamma   90.50124359
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcGaSnGe2Bi2Sb4TeAs4CN
+_chemical_formula_sum   'Ac1 Ga1 Sn1 Ge2 Bi2 Sb4 Te1 As4 C1 N1'
+_cell_volume   626.32754028
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.09313565  0.42543936  0.66940701  1
+  As  As1  1  0.59790939  0.70753807  0.62901598  1
+  Ga  Ga2  1  0.08561361  0.81867850  0.61270171  1
+  Sn  Sn3  1  0.08467519  0.77687228  0.94674516  1
+  C  C4  1  0.60971808  0.56011927  0.30358341  1
+  As  As5  1  0.09960568  0.66632229  0.14244011  1
+  Sb  Sb6  1  0.57469130  0.95584202  0.77768087  1
+  Sb  Sb7  1  0.59704751  0.43158931  0.98096550  1
+  Ge  Ge8  1  0.58921599  0.02185306  0.98390400  1
+  Sb  Sb9  1  0.10182756  0.93644357  0.39680377  1
+  Sb  Sb10  1  0.08549049  0.20674673  0.11674389  1
+  As  As11  1  0.59056520  0.37203217  0.64198244  1
+  Bi  Bi12  1  0.59491879  0.01714385  0.21974400  1
+  Ac  Ac13  1  0.06899869  0.57056701  0.37508628  1
+  N  N14  1  0.60235947  0.97360760  0.49821523  1
+  Bi  Bi15  1  0.07309964  0.23051411  0.83132029  1
+  Ge  Ge16  1  0.09349623  0.30504242  0.34349009  1
+  As  As17  1  0.57327104  0.37240928  0.42360988  1

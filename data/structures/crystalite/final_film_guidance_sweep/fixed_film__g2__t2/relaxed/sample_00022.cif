@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NaHClF11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.90410634
+_cell_length_b   5.08747915
+_cell_length_c   9.96709495
+_cell_angle_alpha   86.85534799
+_cell_angle_beta   81.93459831
+_cell_angle_gamma   82.29285403
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaHClF11
+_chemical_formula_sum   'Na1 H1 Cl1 F11'
+_cell_volume   243.82582515
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.43582127  0.83626304  0.71065475  1
+  H  H1  1  0.09881681  0.89768204  0.48834859  1
+  Cl  Cl2  1  0.63275110  0.35104236  -0.01021669  1
+  F  F3  1  0.89737769  0.96387657  0.51431792  1
+  F  F4  1  0.79716848  0.22633520  0.11898885  1
+  F  F5  1  0.43739122  0.45988242  0.84899166  1
+  F  F6  1  0.89702417  0.78001942  0.70614922  1
+  F  F7  1  0.45170338  0.09530766  0.00608700  1
+  F  F8  1  0.38108307  0.13026805  0.53255007  1
+  F  F9  1  0.88398398  0.16060315  0.88272948  1
+  F  F10  1  0.36958806  0.51210458  0.09848065  1
+  F  F11  1  0.38109400  0.82243012  0.48975696  1
+  F  F12  1  0.72285066  0.50313608  0.35012484  1
+  F  F13  1  0.76715339  0.71619843  0.25377568  1

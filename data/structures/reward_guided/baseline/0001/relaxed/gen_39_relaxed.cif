@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na3Tb(YSe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.19556559
+_cell_length_b   7.19547167
+_cell_length_c   7.37070934
+_cell_angle_alpha   99.37216085
+_cell_angle_beta   99.36880466
+_cell_angle_gamma   119.99947257
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Tb(YSe3)2
+_chemical_formula_sum   'Na3 Tb1 Y2 Se6'
+_cell_volume   312.48291162
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.35685066  0.85058747  0.31586038  1
+  Na  Na1  1  0.02372691  0.18380923  0.31574985  1
+  Na  Na2  1  0.69005289  0.51700666  0.31557447  1
+  Tb  Tb3  1  0.85688200  0.35028533  0.81572656  1
+  Y  Y4  1  0.52345418  0.68365013  0.81573049  1
+  Y  Y5  1  0.19030518  0.01723445  0.81568538  1
+  Se  Se6  1  0.26789793  0.42756796  0.04673237  1
+  Se  Se7  1  0.77975381  0.93947516  0.58482192  1
+  Se  Se8  1  0.93401545  0.76135797  0.04664428  1
+  Se  Se9  1  0.60005047  0.09348689  0.04685084  1
+  Se  Se10  1  0.44601787  0.27340999  0.58479650  1
+  Se  Se11  1  0.11382833  0.60702348  0.58452579  1

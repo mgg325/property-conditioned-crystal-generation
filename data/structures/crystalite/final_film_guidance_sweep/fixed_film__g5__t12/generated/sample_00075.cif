@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ac3UTc2XeBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.32317162
+_cell_length_b   8.28353405
+_cell_length_c   2.81966758
+_cell_angle_alpha   139.08520508
+_cell_angle_beta   95.59562683
+_cell_angle_gamma   104.74031067
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ac3UTc2XeBr
+_chemical_formula_sum   'Ac3 U1 Tc2 Xe1 Br1'
+_cell_volume   188.41617925
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.69045085  0.68758452  0.78503311  1
+  Br  Br1  1  0.62718189  0.17448896  0.14375633  1
+  Ac  Ac2  1  0.32551759  0.11326736  0.63265967  1
+  Tc  Tc3  1  0.06330690  0.14907125  0.15436715  1
+  Ac  Ac4  1  0.39186460  0.52020377  0.96874481  1
+  Tc  Tc5  1  0.34990129  0.55747443  0.40691659  1
+  Xe  Xe6  1  0.73820794  0.71336210  0.19658238  1
+  U  U7  1  0.02068478  0.72524673  0.69917542  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrMgAlBiPO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95745568
+_cell_length_b   5.04532443
+_cell_length_c   7.57696423
+_cell_angle_alpha   89.16370026
+_cell_angle_beta   88.48001708
+_cell_angle_gamma   71.67414865
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrMgAlBiPO7
+_chemical_formula_sum   'Sr1 Mg1 Al1 Bi1 P1 O7'
+_cell_volume   179.83612150
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.02955112  0.91134734  0.32053145  1
+  Mg  Mg1  1  0.59954180  0.54619052  0.08956524  1
+  Al  Al2  1  0.37994674  0.26095765  0.72697487  1
+  Bi  Bi3  1  0.95487651  0.81723366  0.88179072  1
+  P  P4  1  0.61563039  0.45843942  0.54374673  1
+  O  O5  1  0.67278315  0.11946432  0.55890805  1
+  O  O6  1  0.60343263  0.46447663  0.78542470  1
+  O  O7  1  0.66762867  0.94892989  0.10005985  1
+  O  O8  1  0.19911784  0.09260457  0.84989543  1
+  O  O9  1  0.20103584  0.57651249  0.08931312  1
+  O  O10  1  0.26772566  0.54282218  0.55075615  1
+  O  O11  1  0.70880580  0.50483512  0.34818429  1

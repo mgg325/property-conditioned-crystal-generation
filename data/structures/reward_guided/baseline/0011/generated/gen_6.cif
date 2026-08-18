@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ZrCu3AlCu
+_chemical_formula_sum              "Zr1 Cu4 Al1"
+_cell_length_a       4.11451535168939
+_cell_length_b       4.9279532396752765
+_cell_length_c       4.893902778625488
+_cell_angle_alpha    120.40387319785663
+_cell_angle_beta     90.05584613173033
+_cell_angle_gamma    90.07620009981811
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.5001631379127502  0.3983241319656372  0.27199429273605347  1.0000
+  Cu  Cu1       1.0  0.5002611875534058  0.06701753288507462  0.6096042394638062  1.0000
+  Cu  Cu2       1.0  0.9999765753746033  0.3979646563529968  0.7716478705406189  1.0000
+  Cu  Cu3       1.0  0.9999187588691711  0.8981004953384399  0.7719653844833375  1.0000
+  Al  Al1       1.0  0.00021684169769287107  0.8986333608627319  0.27196651697158813  1.0000
+  Cu  Cu4       1.0  0.4995928406715393  0.7295225858688354  0.9343180060386658  1.0000

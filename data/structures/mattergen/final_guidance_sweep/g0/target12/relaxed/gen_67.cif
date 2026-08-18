@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       K2BaN4Re
+_chemical_formula_sum              "K2 Ba1 N4 Re1"
+_cell_length_a       3.932644686093432
+_cell_length_b       6.207069006825772
+_cell_length_c       7.473234746749357
+_cell_angle_alpha    114.53687855920805
+_cell_angle_beta     105.26211548439151
+_cell_angle_gamma    89.99492145667553
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.5519839418488095  0.43805931235289003  0.9569795935556293  1.0000
+  K   K2        1.0  0.09914700047412879  0.9856170156342102  0.05187345894084855  1.0000
+  Ba  Ba1       1.0  0.3248046626878309  0.7118544433443739  0.504288299216442  1.0000
+  N   N1        1.0  0.9278990385162237  0.09551983229636724  0.7108726352868192  1.0000
+  N   N2        1.0  0.7231200050711339  0.8890966670900252  0.2978885388627324  1.0000
+  N   N3        1.0  0.7211274283634538  0.32736842963211094  0.29770359775003863  1.0000
+  N   N4        1.0  0.9294516846151463  0.5340649827715419  0.7111532711507926  1.0000
+  Re  Re1       1.0  0.8252449952617741  0.21190924438866643  0.5044721756066437  1.0000

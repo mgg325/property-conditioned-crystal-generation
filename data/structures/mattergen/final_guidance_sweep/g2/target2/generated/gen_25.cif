@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ClRb2Br
+_chemical_formula_sum              "Cl1 Rb2 Br1"
+_cell_length_a       4.904621251935985
+_cell_length_b       4.906890642928067
+_cell_length_c       6.950021743774414
+_cell_angle_alpha    89.90373098109491
+_cell_angle_beta     89.94780619815627
+_cell_angle_gamma    89.97090589579106
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.7335796356201172  0.7083842754364014  0.9711897373199463  1.0000
+  Rb  Rb1       1.0  0.2336280345916748  0.20848193764686584  0.9701523780822754  1.0000
+  Rb  Rb2       1.0  0.7336044311523438  0.7085763216018677  0.47066178917884827  1.0000
+  Br  Br1       1.0  0.23351164162158966  0.2085749059915543  0.4704135060310364  1.0000

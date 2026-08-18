@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cl2InCl2SnCl2
+_chemical_formula_sum              "Cl6 In1 Sn1"
+_cell_length_a       6.416408697437253
+_cell_length_b       6.4290497204010775
+_cell_length_c       6.898342609405518
+_cell_angle_alpha    62.14787104299225
+_cell_angle_beta     81.9289462082924
+_cell_angle_gamma    72.57655034522438
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.7166236639022828  0.22141547501087186  0.34355035424232483  1.0000
+  Cl  Cl2       1.0  0.23770193755626673  0.9845275878906251  0.7661606669425963  1.0000
+  In  In1       1.0  0.47697871923446655  0.602968156337738  0.05550442263484001  1.0000
+  Cl  Cl3       1.0  0.7156305313110352  0.5101795196533203  0.7662819027900696  1.0000
+  Cl  Cl4       1.0  0.23869010806083682  0.6951549649238586  0.3441683351993561  1.0000
+  Sn  Sn1       1.0  0.9767662882804871  0.10315484553575517  0.0550638809800148  1.0000
+  Cl  Cl5       1.0  0.7259660959243774  0.8544386029243469  0.055606268346309724  1.0000
+  Cl  Cl6       1.0  0.22819660604000092  0.3510935604572296  0.05615720897912979  1.0000

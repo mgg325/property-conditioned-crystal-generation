@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Bi2N2O2NO
+_chemical_formula_sum              "Bi2 N3 O3"
+_cell_length_a       3.8997244862985214
+_cell_length_b       3.8966987794987444
+_cell_length_c       9.538247108459473
+_cell_angle_alpha    89.96975159740146
+_cell_angle_beta     90.00217450447295
+_cell_angle_gamma    89.9628531090675
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.8397389054298401  0.494489312171936  0.18144920468330383  1.0000
+  Bi  Bi2       1.0  0.34187743067741394  0.9960767030715941  0.923351526260376  1.0000
+  N   N1        1.0  0.8414101004600525  0.49571999907493586  0.8057997822761536  1.0000
+  N   N2        1.0  0.3398423492908478  0.9935754537582396  0.43800872564315796  1.0000
+  O   O1        1.0  0.340993732213974  0.4956298470497131  0.055235497653484344  1.0000
+  O   O2        1.0  0.8438435196876526  0.4946390092372894  0.675983726978302  1.0000
+  N   N3        1.0  0.3402343988418579  0.995558738708496  0.3094017505645752  1.0000
+  O   O3        1.0  0.8401000499725342  0.9944368600845336  0.05401448532938957  1.0000

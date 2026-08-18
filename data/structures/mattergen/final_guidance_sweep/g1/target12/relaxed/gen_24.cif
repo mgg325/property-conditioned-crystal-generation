@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Br2Ca2
+_chemical_formula_sum              "Br2 Ca2"
+_cell_length_a       3.931688114796536
+_cell_length_b       3.931874315104538
+_cell_length_c       8.483916386547845
+_cell_angle_alpha    89.99215707337312
+_cell_angle_beta     89.99448048318864
+_cell_angle_gamma    119.94476956091191
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.2612129505388768  0.23804576457355456  0.7098643907841913  1.0000
+  Br  Br2       1.0  0.9287801106232343  0.5717333933159324  0.20982257196205453  1.0000
+  Ca  Ca1       1.0  0.5961736233720826  0.9066319049466497  0.46052855910129614  1.0000
+  Ca  Ca2       1.0  0.5938032428057072  0.9031331892294664  0.9584917456984965  1.0000

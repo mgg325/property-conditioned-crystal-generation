@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_UTl3Zn2Bi2XeBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.52047859
+_cell_length_b   8.84146844
+_cell_length_c   10.52486648
+_cell_angle_alpha   109.93923916
+_cell_angle_beta   90.04683196
+_cell_angle_gamma   92.10816384
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UTl3Zn2Bi2XeBr
+_chemical_formula_sum   'U1 Tl3 Zn2 Bi2 Xe1 Br1'
+_cell_volume   744.76656392
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.93336845  0.97486804  0.70107519  1
+  Tl  Tl1  1  0.85585996  0.65534017  0.50141907  1
+  Tl  Tl2  1  0.40319546  0.48592029  -0.01045730  1
+  Tl  Tl3  1  0.33307950  0.74328596  0.14449233  1
+  Zn  Zn4  1  0.42669973  0.85115032  0.36302465  1
+  Zn  Zn5  1  0.70807880  0.42590453  0.49620067  1
+  Bi  Bi6  1  0.99550455  0.30869648  0.77226202  1
+  Bi  Bi7  1  0.26164513  0.12140439  0.60016953  1
+  Xe  Xe8  1  0.77423820  0.64797642  0.13820376  1
+  Br  Br9  1  0.33711304  0.77498003  0.14314521  1

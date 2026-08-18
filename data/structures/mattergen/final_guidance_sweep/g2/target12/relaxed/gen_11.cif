@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BaCuAsCuBaBiAsBi
+_chemical_formula_sum              "Ba2 Cu2 As2 Bi2"
+_cell_length_a       4.493130594299011
+_cell_length_b       4.493754401333458
+_cell_length_c       11.192460860566513
+_cell_angle_alpha    89.97818195332212
+_cell_angle_beta     89.97859903263455
+_cell_angle_gamma    90.00139264311044
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.623743892886898  0.04471905864848735  0.1514098714380666  1.0000
+  Cu  Cu1       1.0  0.124320493516812  0.04521306044324821  0.9272588078179071  1.0000
+  As  As1       1.0  0.6244973121139007  0.04529795928538679  0.818472501253834  1.0000
+  Cu  Cu2       1.0  0.6242774617036142  0.5450613238840185  0.927347928903389  1.0000
+  Ba  Ba2       1.0  0.12461206409099648  0.5455858203722809  0.7032099916994337  1.0000
+  Bi  Bi1       1.0  0.624024752402953  0.5452537236593282  0.4273886490194739  1.0000
+  As  As2       1.0  0.12406448050589632  0.5450324220807518  0.03621650036994879  1.0000
+  Bi  Bi2       1.0  0.1239690619231926  0.045493913372764795  0.4275247835594522  1.0000

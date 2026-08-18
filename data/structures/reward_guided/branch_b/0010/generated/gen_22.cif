@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ErTb2RuTbErRuTb
+_chemical_formula_sum              "Er2 Tb4 Ru2"
+_cell_length_a       3.982332426553879
+_cell_length_b       6.129508466367023
+_cell_length_c       8.966983795166016
+_cell_angle_alpha    89.21321931394107
+_cell_angle_beta     91.26157261717744
+_cell_angle_gamma    108.8330819168034
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.9306083917617798  0.2972639501094818  0.5361670255661011  1.0000
+  Tb  Tb1       1.0  0.6457394957542419  0.7325084209442139  0.7186391949653625  1.0000
+  Tb  Tb2       1.0  0.3637177050113678  0.16590088605880737  0.8536815643310547  1.0000
+  Ru  Ru1       1.0  0.26364922523498535  0.9675061702728271  0.5337707996368408  1.0000
+  Tb  Tb3       1.0  0.3652471899986267  0.16664262115955353  0.21752430498600006  1.0000
+  Er  Er2       1.0  0.08129639178514479  0.6038830280303955  0.0362052395939827  1.0000
+  Ru  Ru2       1.0  0.7463750243186951  0.9319204092025757  0.03539925068616867  1.0000
+  Tb  Tb4       1.0  0.6460437774658203  0.7315264940261841  0.35166946053504944  1.0000

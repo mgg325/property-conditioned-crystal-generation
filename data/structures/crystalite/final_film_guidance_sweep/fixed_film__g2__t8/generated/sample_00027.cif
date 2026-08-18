@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CsCu3Te4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21742105
+_cell_length_b   5.47744989
+_cell_length_c   9.23728275
+_cell_angle_alpha   89.83007050
+_cell_angle_beta   89.85743713
+_cell_angle_gamma   90.17034912
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsCu3Te4
+_chemical_formula_sum   'Cs1 Cu3 Te4'
+_cell_volume   263.98141592
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.59767765  0.05442265  0.87136811  1
+  Cu  Cu1  1  0.04268399  0.61332566  0.36037838  1
+  Te  Te2  1  0.29526383  0.86950672  0.57839906  1
+  Te  Te3  1  0.30971175  0.33910298  0.15839669  1
+  Cu  Cu4  1  0.53275305  0.62434858  0.37296408  1
+  Te  Te5  1  0.80084682  0.36741278  0.58325046  1
+  Cu  Cu6  1  0.02782711  0.09770715  0.34870356  1
+  Te  Te7  1  0.84322482  0.80174553  0.14632440  1

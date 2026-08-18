@@ -1,0 +1,54 @@
+run_name: dielectric_rl_target12
+output_root: outputs/dielectric_rl
+
+source:
+  kind: released_final_evaluation
+  sample_ledger: data/final_evaluations/mattergen/mattergen_final_samples.csv
+  source_evaluation_csv: data/final_evaluations/mattergen/source/adapter_evaluation_master_indexfixed.csv
+  guidance_factor: 1
+  conditions: [2, 4, 8, 12]
+  samples_per_condition: 128
+
+reward:
+  target_dielectric_scalar: 12.0
+  sigma: 2.0
+  gate_on_missing_prediction: true
+  gate_on_composition_valid: true
+  gate_on_structure_valid: true
+  gate_on_structure_comp_valid: true
+  gate_on_stable: false
+  prefilter_on_composition_valid: true
+  prefilter_on_structure_valid: true
+  prefilter_on_structure_comp_valid: true
+  prefilter_on_stable: true
+  prefilter_on_unique: true
+  prefilter_on_novel: true
+
+replay_buffer:
+  enabled: true
+  buffer_size: 100
+  sample_size: 10
+  reward_cutoff: 0.1
+  dedup_method: composition
+
+training:
+  enabled: false
+  checkpoint_path: null
+  config_path: configs/mattergen/dielectric.yaml
+  freeze_strategy: adapter_only
+  trainable_parameter_keywords:
+    - property_embeddings
+    - adapt
+    - mixin
+    - adapter
+    - ctrl
+    - condition
+  eval_size: 16
+  topk_ratio: 0.5
+  learning_rate: 1.0e-05
+  epochs: 3
+  timesteps: 1000
+  accum_steps: 50
+  kl_weight: 1000.0
+  checkpoint_every_epoch: true
+  num_workers: 0

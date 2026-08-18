@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cd2Ga2Sn2
+_chemical_formula_sum              "Cd2 Ga2 Sn2"
+_cell_length_a       4.6685688383946555
+_cell_length_b       4.978326047748271
+_cell_length_c       6.567289352416992
+_cell_angle_alpha    90.8987528682111
+_cell_angle_beta     96.43586482311477
+_cell_angle_gamma    89.33529529209869
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.6670801639556885  0.40516871213912964  0.7988966703414918  1.0000
+  Cd  Cd2       1.0  0.1691935658454895  0.9044536948204042  0.2996876537799835  1.0000
+  Ga  Ga1       1.0  0.1397290825843811  0.4063606560230255  0.5384159684181213  1.0000
+  Ga  Ga2       1.0  0.640763521194458  0.9062073826789857  0.038134362548589706  1.0000
+  Sn  Sn1       1.0  0.6225066781044006  0.40776681900024414  0.27816542983055115  1.0000
+  Sn  Sn2       1.0  0.11677545309066772  0.906884789466858  0.7772017717361451  1.0000

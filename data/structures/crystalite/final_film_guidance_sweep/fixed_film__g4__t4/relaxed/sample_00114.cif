@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_KLiZnSiSO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.47331363
+_cell_length_b   6.89046254
+_cell_length_c   5.35017177
+_cell_angle_alpha   84.00742730
+_cell_angle_beta   96.19044857
+_cell_angle_gamma   74.54211100
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLiZnSiSO9
+_chemical_formula_sum   'K1 Li1 Zn1 Si1 S1 O9'
+_cell_volume   121.50268517
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.42036716  0.18150125  0.45415664  1
+  Li  Li1  1  0.24816243  0.66259516  0.81059669  1
+  Zn  Zn2  1  0.70652899  0.38722026  0.94640647  1
+  Si  Si3  1  0.10152291  0.79451706  0.23145401  1
+  S  S4  1  0.26635148  0.96978746  0.83200018  1
+  O  O5  1  1.03026544  0.24696658  0.73276855  1
+  O  O6  1  0.54140982  0.83927959  0.33714689  1
+  O  O7  1  0.93775960  0.62172799  1.02407634  1
+  O  O8  1  0.71234670  0.41651933  0.32444073  1
+  O  O9  1  0.39351927  0.21951813  0.03613499  1
+  O  O10  1  0.78374726  0.03742707  0.15463056  1
+  O  O11  1  0.43798395  0.18027629  0.45933385  1
+  O  O12  1  0.64228238  0.76463169  0.78595337  1
+  O  O13  1  0.22914793  0.63641497  0.49258748  1

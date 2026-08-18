@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tb2MgGaRh2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75496641
+_cell_length_b   5.74190782
+_cell_length_c   8.39889685
+_cell_angle_alpha   109.99299653
+_cell_angle_beta   110.04379404
+_cell_angle_gamma   89.99494000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2MgGaRh2
+_chemical_formula_sum   'Tb4 Mg2 Ga2 Rh4'
+_cell_volume   242.84935141
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.59887311  0.42515064  0.03812374  1
+  Tb  Tb1  1  0.75115409  0.07735327  0.34266814  1
+  Tb  Tb2  1  0.09903869  0.92061679  0.03822278  1
+  Tb  Tb3  1  0.25119563  0.57274567  0.34271098  1
+  Mg  Mg4  1  0.67513973  0.99902499  0.69041094  1
+  Mg  Mg5  1  0.17513267  0.99898905  0.69049999  1
+  Ga  Ga6  1  0.67498234  0.49886726  0.69019536  1
+  Ga  Ga7  1  0.17501450  0.49886982  0.69028397  1
+  Rh  Rh8  1  0.30248486  0.13866899  0.44526457  1
+  Rh  Rh9  1  0.04762656  0.38424600  0.93547631  1
+  Rh  Rh10  1  0.54759210  0.85859936  0.93538147  1
+  Rh  Rh11  1  0.80242212  0.61414434  0.44526011  1

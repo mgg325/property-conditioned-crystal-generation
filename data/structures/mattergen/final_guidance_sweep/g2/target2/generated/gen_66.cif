@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       F5CaPdF
+_chemical_formula_sum              "F6 Ca1 Pd1"
+_cell_length_a       5.427153167877201
+_cell_length_b       5.425592049671614
+_cell_length_c       5.851142406463623
+_cell_angle_alpha    62.4039956538403
+_cell_angle_beta     62.33281871690083
+_cell_angle_gamma    60.03452892083966
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.09971472620964052  0.7963567972183228  0.49319687485694885  1.0000
+  F   F2        1.0  0.5550705790519714  0.6669378280639648  0.028596019372344017  1.0000
+  F   F3        1.0  0.416561484336853  0.2113444060087204  0.49360039830207825  1.0000
+  F   F4        1.0  0.9712443351745605  0.9347665905952454  0.027871625497937202  1.0000
+  F   F5        1.0  0.28675514459609985  0.3499455153942108  0.02838052809238434  1.0000
+  Ca  Ca1       1.0  0.6931558847427368  0.07309789955615997  0.7605360150337219  1.0000
+  Pd  Pd1       1.0  0.19361212849617004  0.5729696154594421  0.2606893479824066  1.0000
+  F   F6        1.0  0.83165043592453  0.47846230864524836  0.4931670129299164  1.0000

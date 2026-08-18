@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       RhW2Ni
+_chemical_formula_sum              "Rh1 W2 Ni1"
+_cell_length_a       3.90427661598928
+_cell_length_b       3.8290413275915416
+_cell_length_c       3.88999080657959
+_cell_angle_alpha    88.63875939415789
+_cell_angle_beta     88.89560181847745
+_cell_angle_gamma    89.40359721899955
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.8463520407676697  0.6030904650688171  0.8961500525474548  1.0000
+  W   W1        1.0  0.34562066197395325  0.10430967062711716  0.8964031934738159  1.0000
+  W   W2        1.0  0.34364408254623413  0.6046764254570007  0.39629462361335754  1.0000
+  Ni  Ni1       1.0  0.8469718098640442  0.10487586259841919  0.39805877208709717  1.0000

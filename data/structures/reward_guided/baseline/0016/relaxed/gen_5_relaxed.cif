@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiCa2Ag9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.08799092
+_cell_length_b   6.12349521
+_cell_length_c   8.33700698
+_cell_angle_alpha   68.45439235
+_cell_angle_beta   67.37483298
+_cell_angle_gamma   59.83759185
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCa2Ag9
+_chemical_formula_sum   'Li1 Ca2 Ag9'
+_cell_volume   242.07675521
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.22496393  0.07056621  0.45547713  1
+  Ca  Ca1  1  0.44726174  0.78150911  0.80958097  1
+  Ca  Ca2  1  0.00129605  0.35918945  0.10201267  1
+  Ag  Ag3  1  0.49415340  0.33022246  0.14418268  1
+  Ag  Ag4  1  0.72455669  0.57041512  0.45567856  1
+  Ag  Ag5  1  0.49370172  0.85208694  0.14426723  1
+  Ag  Ag6  1  0.95508326  0.28875303  0.76711042  1
+  Ag  Ag7  1  0.95511746  0.80981712  0.76675237  1
+  Ag  Ag8  1  0.46388393  0.29367933  0.76835357  1
+  Ag  Ag9  1  0.98520051  0.84686324  0.14273111  1
+  Ag  Ag10  1  0.72461780  0.07012641  0.45554983  1
+  Ag  Ag11  1  0.22482520  0.56998617  0.45549508  1

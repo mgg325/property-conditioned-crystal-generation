@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_TiTl2(CuTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.11042306
+_cell_length_b   7.86288411
+_cell_length_c   8.41559607
+_cell_angle_alpha   108.15121422
+_cell_angle_beta   89.99914635
+_cell_angle_gamma   105.12433929
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiTl2(CuTe2)2
+_chemical_formula_sum   'Ti1 Tl2 Cu2 Te4'
+_cell_volume   248.52190775
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.09979513  0.22394113  0.89066272  1
+  Tl  Tl1  1  0.96931480  0.96241621  0.33267572  1
+  Tl  Tl2  1  0.23058775  0.48538856  0.44867575  1
+  Cu  Cu3  1  0.78890396  0.60190975  0.88257669  1
+  Cu  Cu4  1  0.41084271  0.84536749  0.89886756  1
+  Te  Te5  1  0.57843029  0.18102803  0.11259877  1
+  Te  Te6  1  0.29314957  0.61048353  0.07800641  1
+  Te  Te7  1  0.62120647  0.26652993  0.66859282  1
+  Te  Te8  1  0.90675929  0.83717963  0.70355836  1

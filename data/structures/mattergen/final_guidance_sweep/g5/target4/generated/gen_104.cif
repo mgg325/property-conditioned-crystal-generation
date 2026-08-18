@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ba2KSbO
+_chemical_formula_sum              "Ba2 K1 Sb1 O1"
+_cell_length_a       5.311816713788772
+_cell_length_b       5.493128715615299
+_cell_length_c       5.500118732452393
+_cell_angle_alpha    89.95954046415254
+_cell_angle_beta     89.99485254210984
+_cell_angle_gamma    89.97180065319732
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.9345693588256836  0.45352253317832947  0.15950241684913635  1.0000
+  Ba  Ba2       1.0  0.9345690011978149  0.9536059498786926  0.6597038507461548  1.0000
+  K   K1        1.0  0.43456196784973145  0.9538105130195617  0.15945419669151306  1.0000
+  Sb  Sb1       1.0  0.4345369040966034  0.45350557565689087  0.6598131060600281  1.0000
+  O   O1        1.0  0.9344717860221863  0.9535192847251892  0.15974901616573334  1.0000

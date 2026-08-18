@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Tb4CdAu5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.78176282
+_cell_length_b   7.90336164
+_cell_length_c   7.90242112
+_cell_angle_alpha   89.99756400
+_cell_angle_beta   90.00017691
+_cell_angle_gamma   90.00112801
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb4CdAu5
+_chemical_formula_sum   'Tb4 Cd1 Au5'
+_cell_volume   236.19261339
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.10491546  0.18960459  0.24909986  1
+  Tb  Tb1  1  0.10459693  0.34929020  0.79522904  1
+  Tb  Tb2  1  0.10483705  0.80311194  0.95483312  1
+  Tb  Tb3  1  0.10469748  0.64347917  0.40873062  1
+  Cd  Cd4  1  0.60520675  0.99638289  0.60205844  1
+  Au  Au5  1  0.60461125  0.88036573  0.24425893  1
+  Au  Au6  1  0.60464452  0.35412979  0.48603431  1
+  Au  Au7  1  0.60455005  0.49637352  0.10197581  1
+  Au  Au8  1  0.60461159  0.63854893  0.71795396  1
+  Au  Au9  1  0.60449070  0.11224027  0.95973845  1

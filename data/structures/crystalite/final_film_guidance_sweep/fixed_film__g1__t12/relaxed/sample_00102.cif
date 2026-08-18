@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YLuSnB4TeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.81003237
+_cell_length_b   3.71541865
+_cell_length_c   13.29810066
+_cell_angle_alpha   97.97155465
+_cell_angle_beta   97.39513094
+_cell_angle_gamma   90.71950740
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YLuSnB4TeO4
+_chemical_formula_sum   'Y1 Lu1 Sn1 B4 Te1 O4'
+_cell_volume   184.78779240
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.51811913  0.92628048  0.64307631  1
+  Lu  Lu1  1  0.76759232  0.20045278  0.18920181  1
+  Sn  Sn2  1  0.35248306  0.76409000  0.33817852  1
+  B  B3  1  -0.01676477  0.53845167  0.82208804  1
+  B  B4  1  0.12086677  0.74035061  0.06873637  1
+  B  B5  1  0.04638515  0.45111638  0.70785593  1
+  B  B6  1  1.06246247  0.32446394  0.58495211  1
+  Te  Te7  1  0.75336034  0.06426219  0.88117811  1
+  O  O8  1  0.24945950  0.07747493  0.10021895  1
+  O  O9  1  0.36970424  0.41640356  0.54792977  1
+  O  O10  1  0.92599754  0.97987599  0.54653363  1
+  O  O11  1  0.81015904  0.64461908  0.10311693  1

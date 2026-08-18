@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ca4MnZn4Se11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17127982
+_cell_length_b   10.49376038
+_cell_length_c   11.83241090
+_cell_angle_alpha   90.18674337
+_cell_angle_beta   79.37294101
+_cell_angle_gamma   77.47137822
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca4MnZn4Se11
+_chemical_formula_sum   'Ca4 Mn1 Zn4 Se11'
+_cell_volume   615.43234230
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.59316935  0.20950323  0.50054360  1
+  Ca  Ca1  1  0.42591119  0.79468466  0.07380679  1
+  Ca  Ca2  1  0.13398331  0.82765159  0.42782185  1
+  Ca  Ca3  1  0.18961129  0.25034847  0.96360488  1
+  Mn  Mn4  1  0.14981160  0.71749049  0.67994456  1
+  Zn  Zn5  1  0.04695027  0.18425311  0.27933119  1
+  Zn  Zn6  1  0.48752167  0.70567332  0.73548257  1
+  Zn  Zn7  1  0.87839179  0.20623676  0.78465271  1
+  Zn  Zn8  1  0.79005582  0.76799482  0.24516682  1
+  Se  Se9  1  0.17152971  0.99403671  0.92078425  1
+  Se  Se10  1  0.91276197  0.57973870  0.72453394  1
+  Se  Se11  1  0.60015589  0.43481353  0.03174734  1
+  Se  Se12  1  0.45654613  1.00666403  0.35494027  1
+  Se  Se13  1  0.93889916  0.41476373  0.16549614  1
+  Se  Se14  1  0.73193363  0.08676546  0.18651767  1
+  Se  Se15  1  0.66540287  0.58414046  0.34680506  1
+  Se  Se16  1  0.76287945  0.88072951  0.66719191  1
+  Se  Se17  1  0.01913700  0.70054022  0.92940631  1
+  Se  Se18  1  0.32060198  0.48219027  0.22229482  1
+  Se  Se19  1  0.48549076  0.65531042  0.80265223  1

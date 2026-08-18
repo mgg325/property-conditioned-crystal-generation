@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_TcSbN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.23828793
+_cell_length_b   7.15504837
+_cell_length_c   4.09018087
+_cell_angle_alpha   90.45850372
+_cell_angle_beta   86.99156952
+_cell_angle_gamma   118.22463989
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TcSbN
+_chemical_formula_sum   'Tc1 Sb1 N1'
+_cell_volume   186.35365711
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  N  N0  1  0.47299293  0.99375468  0.22730920  1
+  Tc  Tc1  1  0.25218248  0.23215094  0.67860568  1
+  Sb  Sb2  1  0.88165861  0.78915954  0.06039831  1

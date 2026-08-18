@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ba(LiIn)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96943015
+_cell_length_b   4.96946073
+_cell_length_c   6.58357750
+_cell_angle_alpha   112.24928134
+_cell_angle_beta   112.21266384
+_cell_angle_gamma   89.88045838
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(LiIn)2
+_chemical_formula_sum   'Ba1 Li2 In2'
+_cell_volume   137.41076340
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.82343787  0.37517443  0.41197022  1
+  Li  Li1  1  0.07328427  0.12477623  0.91202547  1
+  Li  Li2  1  0.57342057  0.62576636  0.91200934  1
+  In  In3  1  0.19198815  0.74315317  0.14871047  1
+  In  In4  1  0.45521349  0.00705331  0.67531967  1

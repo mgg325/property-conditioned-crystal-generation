@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ga3Er4Sn
+_chemical_formula_sum              "Ga3 Er4 Sn1"
+_cell_length_a       4.241707544663848
+_cell_length_b       4.08846159797737
+_cell_length_c       10.811488151550293
+_cell_angle_alpha    90.50224681197395
+_cell_angle_beta     91.10372689346923
+_cell_angle_gamma    90.92889459672789
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.708656370639801  0.09930300712585449  0.842860221862793  1.0000
+  Ga  Ga2       1.0  0.20884452760219574  0.5987048745155334  0.17524880170822144  1.0000
+  Ga  Ga3       1.0  0.20847806334495544  0.09875372797250748  0.33030301332473755  1.0000
+  Er  Er1       1.0  0.2082773894071579  0.5991437435150146  0.8984890580177307  1.0000
+  Er  Er2       1.0  0.7079694271087646  0.09908832609653473  0.11631609499454498  1.0000
+  Er  Er3       1.0  0.7093592286109924  0.5986029505729675  0.3834053575992584  1.0000
+  Er  Er4       1.0  0.20863978564739227  0.09863697737455368  0.60762619972229  1.0000
+  Sn  Sn1       1.0  0.7091063857078552  0.598286509513855  0.6718799471855164  1.0000

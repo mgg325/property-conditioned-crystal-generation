@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mn2ZnOMnO3
+_chemical_formula_sum              "Mn3 Zn1 O4"
+_cell_length_a       3.1122483286575444
+_cell_length_b       5.405787992279693
+_cell_length_c       5.426845550537109
+_cell_angle_alpha    108.67789857479258
+_cell_angle_beta     90.47022690483365
+_cell_angle_gamma    89.93775897344133
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.06968864053487778  0.06254368275403976  0.1773376762866974  1.0000
+  Mn  Mn2       1.0  0.5677547454833984  0.06260469555854797  0.6772605180740356  1.0000
+  Zn  Zn1       1.0  0.06623294949531555  0.5619401335716246  0.677032470703125  1.0000
+  O   O1        1.0  0.5667554140090942  0.3171208798885345  0.4315617382526398  1.0000
+  Mn  Mn3       1.0  0.5679142475128174  0.5631806254386902  0.17773890495300293  1.0000
+  O   O2        1.0  0.06762004643678665  0.3135916590690612  0.9281099438667298  1.0000
+  O   O3        1.0  0.06824040412902832  0.8130354285240173  0.42859375476837164  1.0000
+  O   O4        1.0  0.5677860379219055  0.808009922504425  0.9225293993949891  1.0000

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_ScTi3SnTe10PbAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12717937
+_cell_length_b   9.62145485
+_cell_length_c   14.22582634
+_cell_angle_alpha   96.27397728
+_cell_angle_beta   89.98773228
+_cell_angle_gamma   102.37421317
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScTi3SnTe10PbAu2
+_chemical_formula_sum   'Sc1 Ti3 Sn1 Te10 Pb1 Au2'
+_cell_volume   548.31530588
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.96397394  0.22567125  0.36526063  1
+  Ti  Ti1  1  0.15985422  0.61925245  0.91951024  1
+  Ti  Ti2  1  0.76329461  0.82544284  0.75441161  1
+  Ti  Ti3  1  0.35865872  0.01602552  0.54580798  1
+  Sn  Sn4  1  0.54052718  0.37959064  0.14149661  1
+  Te  Te5  1  0.02610041  0.35059902  0.97703949  1
+  Te  Te6  1  0.50128465  0.30062112  0.50527976  1
+  Te  Te7  1  0.62210554  0.54342073  0.79107394  1
+  Te  Te8  1  0.81379632  0.92601388  0.41780530  1
+  Te  Te9  1  0.89534494  0.08850199  0.17533088  1
+  Te  Te10  1  0.10451332  0.50782920  0.29898218  1
+  Te  Te11  1  0.68674245  0.67306867  0.05884150  1
+  Te  Te12  1  0.30247548  0.90454625  0.89240932  1
+  Te  Te13  1  0.22689022  0.75231423  0.62144413  1
+  Te  Te14  1  0.89787550  0.09468751  0.67390430  1
+  Pb  Pb15  1  0.27882284  0.85549592  0.22096513  1
+  Au  Au16  1  0.11309362  0.52383882  0.49247578  1
+  Au  Au17  1  0.90285634  0.10672915  0.86654459  1

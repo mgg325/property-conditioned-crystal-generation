@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PCa2PBa
+_chemical_formula_sum              "P2 Ca2 Ba1"
+_cell_length_a       4.74226203737226
+_cell_length_b       4.742335293917798
+_cell_length_c       8.00563688308284
+_cell_angle_alpha    89.9993102068474
+_cell_angle_beta     89.99754492902065
+_cell_angle_gamma    120.00073197446977
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.32003436685606873  0.15031718578784503  0.5083937149929404  1.0000
+  Ca  Ca1       1.0  0.32021533070376745  0.15039378920630667  0.13508446439167102  1.0000
+  Ca  Ca2       1.0  0.6533965029502302  0.817060238951032  0.41394907185323304  1.0000
+  P   P2        1.0  0.6535471099175012  0.8170319216350932  0.040788488453227516  1.0000
+  Ba  Ba1       1.0  0.9869126822824033  0.48376145513030533  0.7746447267371502  1.0000

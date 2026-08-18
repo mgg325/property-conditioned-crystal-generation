@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SbAuSiAuSbAu2
+_chemical_formula_sum              "Sb2 Au4 Si1"
+_cell_length_a       4.3135527271594265
+_cell_length_b       4.2820540043433954
+_cell_length_c       10.267649421530054
+_cell_angle_alpha    77.67070377202228
+_cell_angle_beta     90.00463842387566
+_cell_angle_gamma    120.24495062268322
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.5313400208585132  0.8997309141587935  0.34220554882605014  1.0000
+  Au  Au1       1.0  0.23944349993506417  0.31593763920775825  0.20767758212076656  1.0000
+  Si  Si1       1.0  0.33591935120264993  0.5090332909657695  0.9515274098075321  1.0000
+  Au  Au2       1.0  0.6392283437952577  0.1156083734465199  0.03512475782656255  1.0000
+  Sb  Sb2       1.0  0.1397392370002985  0.11680721402816549  0.560847594802005  1.0000
+  Au  Au3       1.0  0.4317040558341568  0.7007368799206631  0.6953741275890266  1.0000
+  Au  Au4       1.0  0.03255995867999695  0.9023542169611816  0.8678887173841886  1.0000

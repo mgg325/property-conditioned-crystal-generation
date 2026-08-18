@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_MgSiPO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27665138
+_cell_length_b   4.81963444
+_cell_length_c   6.15836191
+_cell_angle_alpha   110.91755676
+_cell_angle_beta   91.40368652
+_cell_angle_gamma   91.52070618
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgSiPO6
+_chemical_formula_sum   'Mg1 Si1 P1 O6'
+_cell_volume   118.44962008
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.20717439  0.31387857  0.94907463  1
+  O  O1  1  0.23167905  0.79818714  0.26222014  1
+  Mg  Mg2  1  0.85205209  0.24085927  0.39548469  1
+  O  O3  1  0.20825854  0.29987639  0.49330011  1
+  O  O4  1  0.58629942  0.85117042  0.77448928  1
+  P  P5  1  0.28716287  0.63021117  0.07820413  1
+  O  O6  1  0.61490029  0.19140077  0.60037756  1
+  Si  Si7  1  0.37020767  0.10214314  0.69802880  1
+  O  O8  1  0.55300659  0.46286044  0.15069997  1

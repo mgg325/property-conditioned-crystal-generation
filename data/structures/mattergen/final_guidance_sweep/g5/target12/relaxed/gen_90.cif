@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Bi2Nd2Bi2
+_chemical_formula_sum              "Bi4 Nd2"
+_cell_length_a       5.083030104456334
+_cell_length_b       4.3010814620654045
+_cell_length_c       8.849944068559385
+_cell_angle_alpha    104.06762684857058
+_cell_angle_beta     90.00099407937128
+_cell_angle_gamma    89.9956305144122
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.11773293209781084  0.5789239201303885  0.7231824340479618  1.0000
+  Bi  Bi2       1.0  0.11770504735443656  0.8966220832722761  0.35857354843075007  1.0000
+  Nd  Nd1       1.0  0.11778153994100002  0.23572100060648973  0.036942699549915664  1.0000
+  Nd  Nd2       1.0  0.6177023184379948  0.437805803676022  0.44097196917275716  1.0000
+  Bi  Bi3       1.0  0.6178016474958099  0.09478932167516128  0.75474966434364  1.0000
+  Bi  Bi4       1.0  0.6177650533708702  0.776874133296594  0.11934062901437603  1.0000

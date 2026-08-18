@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Li7Er(GaPt5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80876061
+_cell_length_b   6.92006903
+_cell_length_c   8.05138474
+_cell_angle_alpha   105.67040902
+_cell_angle_beta   102.47801971
+_cell_angle_gamma   115.29151734
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li7Er(GaPt5)2
+_chemical_formula_sum   'Li7 Er1 Ga2 Pt10'
+_cell_volume   305.37112341
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.57344843  0.03517502  0.28559687  1
+  Li  Li1  1  0.31684369  0.17848265  0.05548814  1
+  Li  Li2  1  0.92287549  0.91516454  0.44363123  1
+  Li  Li3  1  0.64269960  0.43493005  0.84888894  1
+  Li  Li4  1  0.98345263  0.83983448  0.13031355  1
+  Li  Li5  1  0.24630763  0.73844969  0.36259994  1
+  Li  Li6  1  0.03316090  0.38136176  0.01793318  1
+  Er  Er7  1  0.92521444  0.47665344  0.58307002  1
+  Ga  Ga8  1  0.66720054  -0.00207645  0.98388221  1
+  Ga  Ga9  1  0.51559219  0.53559787  0.37962513  1
+  Pt  Pt10  1  0.16983949  0.28653654  0.75955853  1
+  Pt  Pt11  1  0.38211791  0.19125935  0.48413958  1
+  Pt  Pt12  1  0.91276772  0.88005543  0.80942494  1
+  Pt  Pt13  1  0.30654449  0.97084099  0.72236672  1
+  Pt  Pt14  1  0.53246006  0.64296083  0.10685341  1
+  Pt  Pt15  1  0.42346796  0.62611764  0.66621480  1
+  Pt  Pt16  1  0.22338225  0.74859022  0.95913594  1
+  Pt  Pt17  1  0.77192715  0.43410945  0.20160247  1
+  Pt  Pt18  1  0.05047201  0.25641453  0.29340214  1
+  Pt  Pt19  1  0.67952372  0.04466138  0.62407415  1

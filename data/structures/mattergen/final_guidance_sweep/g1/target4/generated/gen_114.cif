@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       OZr2SOSO
+_chemical_formula_sum              "O3 Zr2 S2"
+_cell_length_a       3.9495437829933375
+_cell_length_b       5.4485659131066315
+_cell_length_c       6.173353672027588
+_cell_angle_alpha    99.43169506526161
+_cell_angle_beta     89.64426577327907
+_cell_angle_gamma    111.42487821940617
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.3922567665576935  0.9215248823165894  0.1258900910615921  1.0000
+  Zr  Zr1       1.0  0.5724723935127258  0.28423288464546204  0.29383864998817444  1.0000
+  Zr  Zr2       1.0  0.21261270344257355  0.5606329441070557  0.9567396640777588  1.0000
+  S   S1        1.0  0.791185736656189  0.7231721878051758  0.6518512964248657  1.0000
+  O   O2        1.0  0.11532332003116608  0.368007630109787  0.230473130941391  1.0000
+  S   S2        1.0  0.993982195854187  0.1208287850022316  0.5998260378837585  1.0000
+  O   O3        1.0  0.6690947413444519  0.47461527585983276  0.02029144950211048  1.0000

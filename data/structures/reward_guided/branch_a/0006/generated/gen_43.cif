@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NiPtIrPt
+_chemical_formula_sum              "Ni1 Pt2 Ir1"
+_cell_length_a       4.307960043128572
+_cell_length_b       4.314487507479902
+_cell_length_c       4.333436489105225
+_cell_angle_alpha    60.177799496338025
+_cell_angle_beta     59.96504112398483
+_cell_angle_gamma    60.680482219218476
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.05467294901609422  0.8202767968177794  0.31293565034866333  1.0000
+  Pt  Pt1       1.0  0.30744609236717224  0.06966116279363632  0.5608060359954834  1.0000
+  Ir  Ir1       1.0  0.5555338263511658  0.32176923751831055  0.8088945150375366  1.0000
+  Pt  Pt2       1.0  0.8058638572692871  0.5694953203201294  0.06238211318850517  1.0000

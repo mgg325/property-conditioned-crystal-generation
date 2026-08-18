@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_SrLiMg2AlBi2PbS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05731010
+_cell_length_b   5.19484186
+_cell_length_c   11.01025963
+_cell_angle_alpha   90.22069550
+_cell_angle_beta   90.11432648
+_cell_angle_gamma   91.25100708
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLiMg2AlBi2PbS8
+_chemical_formula_sum   'Sr1 Li1 Mg2 Al1 Bi2 Pb1 S8'
+_cell_volume   289.18901073
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.44922474  0.86867702  0.68887579  1
+  Bi  Bi1  1  0.44412294  0.36275220  0.52163011  1
+  S  S2  1  0.93983054  0.37924081  0.47136244  1
+  Pb  Pb3  1  0.91140050  0.88581300  0.53857553  1
+  Li  Li4  1  0.43817887  0.55134475  0.79807442  1
+  Mg  Mg5  1  0.94520789  0.35526896  0.78078264  1
+  Bi  Bi6  1  0.97958779  0.82689118  0.99721789  1
+  S  S7  1  0.43649071  0.32691225  0.93602324  1
+  Mg  Mg8  1  0.45176527  0.85885406  0.26797581  1
+  S  S9  1  0.92400491  0.90524864  0.76396233  1
+  Sr  Sr10  1  0.43523395  0.17283866  0.68950349  1
+  Al  Al11  1  0.00149369  0.33313772  0.32586107  1
+  S  S12  1  0.95555782  0.86786520  0.29253715  1
+  S  S13  1  0.45929369  0.38344350  0.31272262  1
+  S  S14  1  0.96793842  0.36444098  0.10305896  1
+  S  S15  1  0.34448054  0.79156125  0.94572830  1

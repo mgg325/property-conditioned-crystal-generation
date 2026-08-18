@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ac2UTc4Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.37260731
+_cell_length_b   7.44452602
+_cell_length_c   6.02712265
+_cell_angle_alpha   89.22646830
+_cell_angle_beta   84.00497224
+_cell_angle_gamma   90.09790168
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ac2UTc4Pb
+_chemical_formula_sum   'Ac2 U1 Tc4 Pb1'
+_cell_volume   195.10309151
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.29802522  0.12367995  0.30833851  1
+  Ac  Ac1  1  0.17635703  0.43192231  0.84923425  1
+  U  U2  1  0.26735243  0.89466312  0.80812897  1
+  Tc  Tc3  1  0.76481990  0.41246634  0.48856277  1
+  Tc  Tc4  1  0.77033334  0.78139912  0.57367486  1
+  Tc  Tc5  1  0.78839947  0.83359506  0.04007679  1
+  Tc  Tc6  1  0.72561480  0.11871068  0.72546805  1
+  Pb  Pb7  1  0.30473978  0.64267664  0.31689126  1

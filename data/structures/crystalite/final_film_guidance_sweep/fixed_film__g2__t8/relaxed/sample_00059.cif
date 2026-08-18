@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Na3Mn3Te4Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57258594
+_cell_length_b   7.13636834
+_cell_length_c   8.24238243
+_cell_angle_alpha   112.48838860
+_cell_angle_beta   108.21683669
+_cell_angle_gamma   92.20563896
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Mn3Te4Se
+_chemical_formula_sum   'Na3 Mn3 Te4 Se1'
+_cell_volume   333.75456139
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.29596683  0.59054264  0.60536211  1
+  Na  Na1  1  0.80255359  0.76307225  0.57051971  1
+  Na  Na2  1  0.47839066  0.09796901  0.37318703  1
+  Mn  Mn3  1  0.02507207  0.75729607  0.07823501  1
+  Mn  Mn4  1  0.54413710  0.28404577  0.00675040  1
+  Mn  Mn5  1  0.03225729  0.29633662  0.02153054  1
+  Te  Te6  1  0.71150756  0.41634797  0.79458699  1
+  Te  Te7  1  0.88810803  0.26065132  0.28364344  1
+  Te  Te8  1  0.38823409  0.59624890  0.22079110  1
+  Te  Te9  1  0.22786423  0.96149665  0.91982810  1
+  Se  Se10  1  0.03270714  0.94056766  0.40024038  1

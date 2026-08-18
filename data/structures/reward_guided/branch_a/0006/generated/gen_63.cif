@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       La2SnLa3HoLa
+_chemical_formula_sum              "La6 Sn1 Ho1"
+_cell_length_a       5.0754448902573746
+_cell_length_b       4.974351883746404
+_cell_length_c       10.207822799682617
+_cell_angle_alpha    90.93432449092558
+_cell_angle_beta     89.71529973802429
+_cell_angle_gamma    89.89859467860704
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.2843870222568512  0.8446200489997864  0.9386814832687378  1.0000
+  La  La2       1.0  0.7847520112991333  0.8443537950515747  0.1986411064863205  1.0000
+  Sn  Sn1       1.0  0.2841738164424896  0.34458181262016296  0.6957722306251526  1.0000
+  La  La3       1.0  0.7847927212715149  0.34509676694869995  0.939145028591156  1.0000
+  La  La4       1.0  0.7831328511238098  0.8446868658065796  0.6984255313873291  1.0000
+  La  La5       1.0  0.28277018666267395  0.844453752040863  0.4568415880203247  1.0000
+  Ho  Ho1       1.0  0.28615662455558777  0.3455542027950287  0.19743674993515015  1.0000
+  La  La6       1.0  0.784579336643219  0.3465748727321625  0.4573139548301697  1.0000

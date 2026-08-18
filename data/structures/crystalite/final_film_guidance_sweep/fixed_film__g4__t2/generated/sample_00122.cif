@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KBaNaCa(N2F5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.74801636
+_cell_length_b   7.37646914
+_cell_length_c   9.42650318
+_cell_angle_alpha   108.63361359
+_cell_angle_beta   109.75535583
+_cell_angle_gamma   107.40155029
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBaNaCa(N2F5)2
+_chemical_formula_sum   'K1 Ba1 Na1 Ca1 N4 F10'
+_cell_volume   537.84405597
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.23945135  0.84522092  0.79999673  1
+  K  K1  1  0.57497931  0.84662318  0.58367383  1
+  N  N2  1  0.30521747  0.71242470  0.85703087  1
+  F  F3  1  0.14208916  0.74168503  0.81411934  1
+  F  F4  1  0.19119689  0.57867450  0.78023469  1
+  F  F5  1  0.35381156  0.83169758  0.93205863  1
+  F  F6  1  0.80850327  0.18649483  0.69902128  1
+  F  F7  1  0.06673828  0.69788605  0.53832835  1
+  Ba  Ba8  1  0.53150314  0.65359032  0.04157600  1
+  Ca  Ca9  1  0.08058286  0.21333286  0.21178344  1
+  F  F10  1  0.95588619  0.75148976  0.74407983  1
+  F  F11  1  0.18720236  0.59748983  0.66363788  1
+  N  N12  1  0.17018294  0.72311735  0.77374125  1
+  F  F13  1  0.98511863  0.21755373  0.75145555  1
+  N  N14  1  0.27059585  0.95178568  0.66895890  1
+  N  N15  1  0.53290778  0.78154874  0.64074457  1
+  F  F16  1  0.40592492  0.72229278  0.64760381  1
+  F  F17  1  0.18034151  0.28924897  0.36723784  1

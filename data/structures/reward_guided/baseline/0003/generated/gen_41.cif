@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CeTmP2HfTmP2
+_chemical_formula_sum              "Ce1 Tm2 P4 Hf1"
+_cell_length_a       3.903313641212435
+_cell_length_b       6.783736561190247
+_cell_length_c       6.774688720703125
+_cell_angle_alpha    109.51815383670883
+_cell_angle_beta     90.11153266029413
+_cell_angle_gamma    90.17093483456095
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.7144373059272766  0.8269516229629517  0.7858840823173523  1.0000
+  Tm  Tm1       1.0  0.7146530151367188  0.3271806538105011  0.28620362281799316  1.0000
+  P   P1        1.0  0.714442789554596  0.09017260372638702  0.5447127223014832  1.0000
+  P   P2        1.0  0.2142467349767685  0.08845801651477814  0.03485497832298279  1.0000
+  Hf  Hf1       1.0  0.21454758942127228  0.3269581496715546  0.7863031625747681  1.0000
+  Tm  Tm2       1.0  0.21461422741413116  0.8271986842155458  0.28622338175773626  1.0000
+  P   P3        1.0  0.7144234776496887  0.5646040439605713  0.027825722470879555  1.0000
+  P   P4        1.0  0.21455292403697968  0.565613329410553  0.537085235118866  1.0000

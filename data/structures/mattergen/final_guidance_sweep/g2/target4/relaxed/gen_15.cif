@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HLiSeHLiSe
+_chemical_formula_sum              "H2 Li2 Se2"
+_cell_length_a       6.282650638818884
+_cell_length_b       4.861908870869687
+_cell_length_c       4.861869232542508
+_cell_angle_alpha    90.0011862970626
+_cell_angle_beta     90.22643846786556
+_cell_angle_gamma    90.10379355143571
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.21571030007117634  0.13366748613984608  0.966287922782686  1.0000
+  Li  Li1       1.0  0.8214095577011192  0.6326096359179865  0.9638170774482492  1.0000
+  Se  Se1       1.0  0.9833776362499226  0.1329929152080533  0.9647933153567496  1.0000
+  H   H2        1.0  0.4270696524983233  0.6314431596989672  0.46148856414422273  1.0000
+  Li  Li2       1.0  0.8214024356859414  0.1325335662415737  0.4639636766392537  1.0000
+  Se  Se2       1.0  0.6594031558052789  0.6321508947141763  0.46296423888904664  1.0000

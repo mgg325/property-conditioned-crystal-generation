@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BrAgBrTlBr
+_chemical_formula_sum              "Br3 Ag1 Tl1"
+_cell_length_a       5.428560422593575
+_cell_length_b       5.43882903173562
+_cell_length_c       5.440686225891113
+_cell_angle_alpha    89.35747977041818
+_cell_angle_beta     89.4096282406714
+_cell_angle_gamma    89.56651089014063
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.918696403503418  0.027105582877993584  0.717117428779602  1.0000
+  Ag  Ag1       1.0  0.9213675260543823  0.5282633900642395  0.7268906831741332  1.0000
+  Br  Br2       1.0  0.42084625363349915  0.5254344344139099  0.7201563715934753  1.0000
+  Tl  Tl1       1.0  0.4658595323562622  0.07993305474519728  0.2912639379501343  1.0000
+  Br  Br3       1.0  0.9150092601776123  0.51898193359375  0.22531229257583618  1.0000

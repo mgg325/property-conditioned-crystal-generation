@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_U2InGaTc3Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52112722
+_cell_length_b   6.58307600
+_cell_length_c   6.66360283
+_cell_angle_alpha   122.18544006
+_cell_angle_beta   125.00021362
+_cell_angle_gamma   90.55214691
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2InGaTc3Se
+_chemical_formula_sum   'U2 In1 Ga1 Tc3 Se1'
+_cell_volume   149.55384555
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tc  Tc0  1  0.68180346  0.85776502  0.88807625  1
+  Se  Se1  1  0.41229117  0.71846825  0.32438675  1
+  Tc  Tc2  1  0.05564600  0.12200561  0.26853514  1
+  Tc  Tc3  1  0.30187684  0.52709079  0.86216670  1
+  U  U4  1  0.49772909  0.18707520  0.78919935  1
+  In  In5  1  0.65478152  0.32041410  0.38301718  1
+  Ga  Ga6  1  0.97943866  0.53447527  0.34596294  1
+  U  U7  1  0.01581782  0.84105003  0.74577045  1

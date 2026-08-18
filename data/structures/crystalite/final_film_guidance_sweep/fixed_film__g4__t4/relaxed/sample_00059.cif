@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_CsLi2MgH3O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15872969
+_cell_length_b   4.49142723
+_cell_length_c   5.76642191
+_cell_angle_alpha   90.43178940
+_cell_angle_beta   95.26471190
+_cell_angle_gamma   93.90129011
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsLi2MgH3O4
+_chemical_formula_sum   'Cs1 Li2 Mg1 H3 O4'
+_cell_volume   106.99566237
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.79978823  0.08640518  0.32533946  1
+  Li  Li1  1  0.39465571  0.44944995  0.65956089  1
+  Li  Li2  1  -0.02704783  0.52553974  0.02323227  1
+  Mg  Mg3  1  -0.03001604  1.00684582  0.77519550  1
+  H  H4  1  0.26542109  0.75934700  0.46426055  1
+  H  H5  1  0.46670986  0.73708639  0.87943787  1
+  H  H6  1  0.45913546  0.21330009  0.07163047  1
+  O  O7  1  0.46476785  0.88450828  0.75353056  1
+  O  O8  1  0.87125082  0.45618917  0.70237923  1
+  O  O9  1  0.28702061  0.29502917  -0.02200287  1
+  O  O10  1  0.22587421  0.68041466  0.30463212  1

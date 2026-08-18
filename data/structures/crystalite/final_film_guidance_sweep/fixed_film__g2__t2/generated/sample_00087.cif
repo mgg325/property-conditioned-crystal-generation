@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MnSi2O7F2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.56251335
+_cell_length_b   4.97630978
+_cell_length_c   10.40510082
+_cell_angle_alpha   91.18398285
+_cell_angle_beta   90.03958893
+_cell_angle_gamma   66.19094849
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnSi2O7F2
+_chemical_formula_sum   'Mn1 Si2 O7 F2'
+_cell_volume   216.08350163
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.35506001  0.71611249  0.13668454  1
+  O  O1  1  0.29232445  0.21634451  0.86264890  1
+  O  O2  1  0.59251928  0.48103768  0.39965719  1
+  O  O3  1  0.49905258  0.06094173  0.26462862  1
+  Mn  Mn4  1  0.67460424  0.24529061  0.52193969  1
+  F  F5  1  0.78835672  0.37873554  0.67128265  1
+  O  O6  1  0.43395603  0.97805285  0.57558429  1
+  O  O7  1  0.07728076  0.92091560  0.70930374  1
+  F  F8  1  0.98941803  0.75027728  0.30808520  1
+  Si  Si9  1  0.35916865  0.74135923  0.35801214  1
+  O  O10  1  0.15187177  0.02899507  0.41378972  1
+  Si  Si11  1  0.16949275  0.11710662  0.70364028  1

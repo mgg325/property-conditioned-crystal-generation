@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CsLiBeSiF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.08821058
+_cell_length_b   6.44730425
+_cell_length_c   12.07432938
+_cell_angle_alpha   89.73049164
+_cell_angle_beta   90.48282623
+_cell_angle_gamma   119.70023346
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsLiBeSiF14
+_chemical_formula_sum   'Cs1 Li1 Be1 Si1 F14'
+_cell_volume   411.67066516
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.72644520  0.61586767  0.02289212  1
+  F  F1  1  0.25905496  0.57826686  0.04711992  1
+  F  F2  1  0.15279886  0.82113850  0.81322992  1
+  Be  Be3  1  0.41852337  0.55797994  0.32643035  1
+  F  F4  1  0.78791809  0.87916839  0.88554680  1
+  Li  Li5  1  0.46182978  0.81976575  0.34748441  1
+  Si  Si6  1  0.53655392  0.80380464  0.64727205  1
+  Cs  Cs7  1  0.18239686  0.58100265  0.04776061  1
+  F  F8  1  0.31574386  0.68313968  0.69048309  1
+  F  F9  1  0.38146144  0.61902452  0.32840687  1
+  F  F10  1  0.30972767  0.99052227  0.31737873  1
+  F  F11  1  0.52487361  0.08101547  0.80340993  1
+  F  F12  1  0.70401388  0.65511495  0.42372680  1
+  F  F13  1  0.38548437  0.32929391  0.27971143  1
+  F  F14  1  0.51771235  0.20623827  0.47937518  1
+  F  F15  1  0.76866817  0.49826023  0.87072217  1
+  F  F16  1  0.98738408  0.23169124  0.42309153  1
+  F  F17  1  0.29829067  0.39090797  0.87520242  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_AsBrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10353041
+_cell_length_b   4.80463743
+_cell_length_c   5.25605965
+_cell_angle_alpha   62.76457214
+_cell_angle_beta   64.98819733
+_cell_angle_gamma   63.34759521
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AsBrO6
+_chemical_formula_sum   'As1 Br1 O6'
+_cell_volume   98.50556847
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.26876438  0.39289510  0.35610965  1
+  O  O1  1  0.91085398  0.87003809  0.40137368  1
+  O  O2  1  0.32588136  0.18814209  0.92209584  1
+  O  O3  1  0.99687952  0.79681069  0.97482383  1
+  As  As4  1  0.65879840  0.05180532  0.13260227  1
+  O  O5  1  0.79527223  0.39586890  0.95806068  1
+  O  O6  1  0.46913713  0.80783606  0.29297060  1
+  Br  Br7  1  0.15919045  0.59237802  0.61661458  1

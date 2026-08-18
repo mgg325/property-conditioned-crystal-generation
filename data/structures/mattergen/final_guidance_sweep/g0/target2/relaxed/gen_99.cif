@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       LiCuS
+_chemical_formula_sum              "Li1 Cu1 S1"
+_cell_length_a       3.9262846590178424
+_cell_length_b       3.9269109060216008
+_cell_length_c       3.925505438717804
+_cell_angle_alpha    59.95795213076531
+_cell_angle_beta     59.95196967756932
+_cell_angle_gamma    59.96835322677349
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9543371028517244  0.329411915331948  0.7295546464869753  1.0000
+  Cu  Cu1       1.0  0.45510768806000057  0.8293668978045792  0.23047965309840027  1.0000
+  S   S1        1.0  0.7048831495746941  0.07955799760031475  0.47977179830017314  1.0000

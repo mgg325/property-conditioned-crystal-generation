@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Sr2BaBiBaBiCo
+_chemical_formula_sum              "Sr2 Ba2 Bi2 Co1"
+_cell_length_a       5.446973035501724
+_cell_length_b       5.451333760708099
+_cell_length_c       10.252042770385742
+_cell_angle_alpha    105.42095870084133
+_cell_angle_beta     105.36688358986062
+_cell_angle_gamma    89.99072016594141
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.9050011038780212  0.06842377781867981  0.10538523644208914  1.0000
+  Sr  Sr2       1.0  0.40501272678375244  0.5683971047401428  0.10540714859962463  1.0000
+  Ba  Ba1       1.0  0.7297651171684265  0.39228498935699463  0.7545045614242554  1.0000
+  Bi  Bi1       1.0  0.5429514050483704  0.20590135455131534  0.3800671398639679  1.0000
+  Ba  Ba2       1.0  0.08035364001989366  0.7440301179885865  0.4566125273704529  1.0000
+  Bi  Bi2       1.0  0.2681064009666443  0.9302910566329956  0.8330674171447754  1.0000
+  Co  Co1       1.0  0.4072301387786865  0.07005484402179718  0.10917071253061295  1.0000

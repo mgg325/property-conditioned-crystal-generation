@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Lu8Ni3SnTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.47387218
+_cell_length_b   8.31253242
+_cell_length_c   11.20112514
+_cell_angle_alpha   108.19815826
+_cell_angle_beta   90.01526642
+_cell_angle_gamma   90.11032104
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu8Ni3SnTe4
+_chemical_formula_sum   'Lu8 Ni3 Sn1 Te4'
+_cell_volume   307.27219926
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.17360112  0.09390920  0.05896989  1
+  Lu  Lu1  1  0.66651583  0.41920105  0.68790114  1
+  Lu  Lu2  1  0.16085657  0.62992710  0.14252529  1
+  Ni  Ni3  1  0.67772239  0.55784106  0.97249055  1
+  Lu  Lu4  1  0.63308018  0.94194472  0.19704896  1
+  Lu  Lu5  1  0.66644472  0.66272593  0.49013710  1
+  Te  Te6  1  0.65152884  0.11661965  0.78632057  1
+  Sn  Sn7  1  0.15715873  0.82331562  0.35398585  1
+  Lu  Lu8  1  0.16250631  0.01797953  0.59591597  1
+  Lu  Lu9  1  0.68591785  0.79001665  0.90319729  1
+  Te  Te10  1  0.65031707  0.47073951  0.24888638  1
+  Ni  Ni11  1  0.66906530  0.14544424  0.46879733  1
+  Te  Te12  1  0.18485740  0.70945436  0.75778043  1
+  Lu  Lu13  1  0.16071329  0.22497600  0.32656837  1
+  Lu  Lu14  1  0.13973159  0.35788417  0.93713069  1
+  Ni  Ni15  1  0.17762867  0.36912102  0.52128088  1

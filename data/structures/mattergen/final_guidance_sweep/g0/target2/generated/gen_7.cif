@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       ClCaCl
+_chemical_formula_sum              "Cl2 Ca1"
+_cell_length_a       4.1381951560884245
+_cell_length_b       4.136125088396059
+_cell_length_c       6.507124423980713
+_cell_angle_alpha    89.9989779761666
+_cell_angle_beta     90.01369703382998
+_cell_angle_gamma    120.09368778835008
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.983959436416626  0.09128751605749129  0.6348870992660522  1.0000
+  Ca  Ca1       1.0  0.31706330180168146  0.7575715780258178  0.4199284613132477  1.0000
+  Cl  Cl2       1.0  0.6503162384033203  0.4245833158493042  0.20534567534923553  1.0000

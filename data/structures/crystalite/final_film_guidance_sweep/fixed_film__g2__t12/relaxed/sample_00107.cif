@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_DyU3CdTe2RuRh(SBr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75664632
+_cell_length_b   9.34322432
+_cell_length_c   8.50026958
+_cell_angle_alpha   107.64711293
+_cell_angle_beta   106.59084017
+_cell_angle_gamma   113.90118822
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyU3CdTe2RuRh(SBr)2
+_chemical_formula_sum   'Dy1 U3 Cd1 Te2 Ru1 Rh1 S2 Br2'
+_cell_volume   351.85117369
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.00705698  0.47730190  0.46173291  1
+  U  U1  1  0.20509030  0.29537546  1.10956178  1
+  U  U2  1  0.93598690  0.89492657  0.28454677  1
+  U  U3  1  0.61642840  0.62144891  0.98513589  1
+  Cd  Cd4  1  0.62131840  0.27157337  0.67418355  1
+  Te  Te5  1  1.07761774  0.21057829  0.68436804  1
+  Te  Te6  1  0.25880362  0.68173088  0.19286022  1
+  Ru  Ru7  1  0.37458855  0.19761675  0.29777019  1
+  Rh  Rh8  1  0.69419520  0.65209800  0.35621413  1
+  S  S9  1  0.69357240  0.27284758  0.09441853  1
+  S  S10  1  0.53075414  0.48764028  0.50773338  1
+  Br  Br11  1  0.07510068  0.91327088  0.97878764  1
+  Br  Br12  1  0.42978835  0.80709644  0.76524538  1

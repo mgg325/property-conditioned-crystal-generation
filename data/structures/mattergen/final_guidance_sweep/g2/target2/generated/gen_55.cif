@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MnK2F4
+_chemical_formula_sum              "Mn1 K2 F4"
+_cell_length_a       4.252445184423772
+_cell_length_b       4.246175423560087
+_cell_length_c       7.373441219329834
+_cell_angle_alpha    106.87609363590828
+_cell_angle_beta     106.95098747922732
+_cell_angle_gamma    90.05419367780034
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.4112124741077423  0.40524306893348694  0.6624194979667664  1.0000
+  K   K1        1.0  0.7655907273292542  0.7598313689231873  0.3706598281860352  1.0000
+  K   K2        1.0  0.05785662680864334  0.05178842693567276  0.9543009400367738  1.0000
+  F   F1        1.0  0.911067545413971  0.4048506319522857  0.6624624133110046  1.0000
+  F   F2        1.0  0.25148507952690125  0.24556970596313474  0.34289342164993286  1.0000
+  F   F3        1.0  0.4111887812614441  0.9046937227249146  0.6627947688102722  1.0000
+  F   F4        1.0  0.5717509388923645  0.5653414130210876  0.9822031259536744  1.0000

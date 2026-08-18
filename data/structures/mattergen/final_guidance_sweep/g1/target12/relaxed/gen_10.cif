@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BiAs2HgAs2HgBi
+_chemical_formula_sum              "Bi2 As4 Hg2"
+_cell_length_a       4.5306959854303
+_cell_length_b       7.201235832247867
+_cell_length_c       8.082336432009576
+_cell_angle_alpha    90.08184784594474
+_cell_angle_beta     90.04209978966688
+_cell_angle_gamma    89.99225262275557
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.12497890592000391  0.6964751448181588  0.46635091943274537  1.0000
+  As  As1       1.0  0.6249133477372075  0.8005395444736532  0.2638029434667771  1.0000
+  As  As2       1.0  0.6255492687222314  0.7379988603577881  0.9576654340203237  1.0000
+  Hg  Hg1       1.0  0.12540954402762272  0.8894171001352313  0.8497802514422487  1.0000
+  As  As3       1.0  0.1252400212130409  0.2373701428854696  0.7441583997520496  1.0000
+  As  As4       1.0  0.12412801724861237  0.29915403428158155  0.438044811142528  1.0000
+  Hg  Hg2       1.0  0.6254042975071017  0.3902264715085641  0.8509153175222349  1.0000
+  Bi  Bi2       1.0  0.6237898150682043  0.19711858097075707  0.23472518111705903  1.0000

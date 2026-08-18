@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ho6InFeCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.69464253
+_cell_length_b   8.38717687
+_cell_length_c   8.37892668
+_cell_angle_alpha   119.98128750
+_cell_angle_beta   89.99110919
+_cell_angle_gamma   90.00695138
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho6InFeCo
+_chemical_formula_sum   'Ho6 In1 Fe1 Co1'
+_cell_volume   224.89981731
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.80936950  0.00714239  0.11013522  1
+  Ho  Ho1  1  0.80901203  0.22398325  0.58343627  1
+  Ho  Ho2  1  0.30903438  0.79526869  0.29743689  1
+  Ho  Ho3  1  0.30964086  0.62315882  0.79585034  1
+  Ho  Ho4  1  0.30935113  0.29191825  0.96691021  1
+  Ho  Ho5  1  0.80912638  0.48113149  0.36656542  1
+  In  In6  1  0.80946007  0.90373941  0.68692094  1
+  Fe  Fe7  1  0.80904281  0.56921615  0.01998829  1
+  Co  Co8  1  0.30925588  0.23736939  0.35295597  1

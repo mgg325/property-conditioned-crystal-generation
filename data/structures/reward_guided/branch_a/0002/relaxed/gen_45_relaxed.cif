@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Li3Ca3Tl3Au2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.69243818
+_cell_length_b   5.05033665
+_cell_length_c   15.33731111
+_cell_angle_alpha   99.84295464
+_cell_angle_beta   96.92783037
+_cell_angle_gamma   89.99998480
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Ca3Tl3Au2
+_chemical_formula_sum   'Li3 Ca3 Tl3 Au2'
+_cell_volume   279.68132173
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.51231377  0.59625759  0.89956674  1
+  Li  Li1  1  0.36129872  0.94146393  0.59762300  1
+  Li  Li2  1  0.02923051  0.11293155  0.93286512  1
+  Ca  Ca3  1  0.62631332  0.21227980  0.12771466  1
+  Ca  Ca4  1  0.91098783  0.49243392  0.69677998  1
+  Ca  Ca5  1  0.19452582  0.78294930  0.26543707  1
+  Tl  Tl6  1  0.45454567  0.03708385  0.78347100  1
+  Tl  Tl7  1  0.78731490  0.86938526  0.45004888  1
+  Tl  Tl8  1  0.08680327  0.67155712  0.04838025  1
+  Au  Au9  1  0.32908201  0.40832447  0.53337618  1
+  Au  Au10  1  0.23374433  0.32335719  0.34358641  1

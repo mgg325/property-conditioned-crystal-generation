@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AuAsAuZnAu3Zn
+_chemical_formula_sum              "Au5 As1 Zn2"
+_cell_length_a       5.712984697706579
+_cell_length_b       5.6688376782110605
+_cell_length_c       5.677758693695068
+_cell_angle_alpha    98.54213107312229
+_cell_angle_beta     115.02478273911663
+_cell_angle_gamma    114.96056723436683
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.008842110633850087  0.11347892135381697  0.9859071373939514  1.0000
+  As  As1       1.0  0.13883425295352936  0.675948977470398  0.5476251840591431  1.0000
+  Au  Au2       1.0  0.08654005825519562  0.15075057744979858  0.5240343809127808  1.0000
+  Zn  Zn1       1.0  0.5834308862686157  0.13000859320163727  0.5411953926086426  1.0000
+  Au  Au3       1.0  0.08728136867284772  0.6521802544593811  0.026672568172216395  1.0000
+  Au  Au4       1.0  0.585765540599823  0.5982730388641357  0.4712441861629486  1.0000
+  Au  Au5       1.0  0.5790524482727051  0.19737780094146729  0.0702903494238853  1.0000
+  Zn  Zn2       1.0  0.5816306471824646  0.6672416925430298  0.0007096529006957616  1.0000

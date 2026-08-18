@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CsLi2F2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.09584579
+_cell_length_b   5.76769926
+_cell_length_c   5.87885315
+_cell_angle_alpha   118.51178345
+_cell_angle_beta   86.55883123
+_cell_angle_gamma   92.17186829
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsLi2F2
+_chemical_formula_sum   'Cs1 Li2 F2'
+_cell_volume   181.28893737
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  -0.01439384  0.58428726  1.07903850  1
+  Li  Li1  1  0.50803004  0.71730185  0.65428582  1
+  Li  Li2  1  0.51401503  0.12050839  0.25089065  1
+  F  F3  1  0.55678108  0.45765589  0.33607027  1
+  F  F4  1  0.51410365  0.79294456  0.98475805  1

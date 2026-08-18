@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TmPr2Mg
+_chemical_formula_sum              "Tm1 Pr2 Mg1"
+_cell_length_a       3.71224589598587
+_cell_length_b       3.673416953442589
+_cell_length_c       8.906940460205078
+_cell_angle_alpha    89.02879742417684
+_cell_angle_beta     90.02763062011756
+_cell_angle_gamma    90.32074816864439
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.9089173078536987  0.5350162982940674  0.1485440582036972  1.0000
+  Pr  Pr1       1.0  0.40897849202156067  0.03377307206392288  0.8844519257545471  1.0000
+  Pr  Pr2       1.0  0.4107380509376526  0.03457390144467354  0.41200095415115356  1.0000
+  Mg  Mg1       1.0  0.9099564552307129  0.5340710282325745  0.6496545672416687  1.0000

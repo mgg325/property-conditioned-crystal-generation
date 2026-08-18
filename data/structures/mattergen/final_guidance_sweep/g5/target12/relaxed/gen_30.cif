@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Sb2AgCaAgSb2CaSb2
+_chemical_formula_sum              "Sb6 Ag2 Ca2"
+_cell_length_a       4.5290320659783125
+_cell_length_b       4.480905229208391
+_cell_length_c       13.009931786912576
+_cell_angle_alpha    99.90614522104177
+_cell_angle_beta     90.00292410312443
+_cell_angle_gamma    90.00044971255011
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.22237427750056932  0.48612351176490887  0.3768123823993752  1.0000
+  Sb  Sb2       1.0  0.7222959744712881  0.14004080477582115  0.6860925312212977  1.0000
+  Ag  Ag1       1.0  0.7223281942950381  0.5571566176638479  0.5196406909734981  1.0000
+  Ca  Ca1       1.0  0.7222966622539607  0.9543333862459591  0.31343549922473984  1.0000
+  Ag  Ag2       1.0  0.22235642414902765  0.05971673706212107  0.5245262078421861  1.0000
+  Sb  Sb3       1.0  0.2220098457052939  0.8471904697818664  0.11216282097609613  1.0000
+  Sb  Sb4       1.0  0.2220250626964639  0.6427980514951223  0.69203821874974  1.0000
+  Ca  Ca2       1.0  0.7217956613428156  0.7460789268207763  0.8970021166827514  1.0000
+  Sb  Sb5       1.0  0.22171977212679825  0.25859130266005936  0.9215685986273076  1.0000
+  Sb  Sb6       1.0  0.721449620189006  0.35280677353640816  0.11225391397733805  1.0000

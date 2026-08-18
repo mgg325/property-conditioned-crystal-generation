@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_ErTlIO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10558451
+_cell_length_b   5.60805197
+_cell_length_c   5.61618751
+_cell_angle_alpha   119.97641741
+_cell_angle_beta   90.05770105
+_cell_angle_gamma   89.93929368
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErTlIO6
+_chemical_formula_sum   'Er1 Tl1 I1 O6'
+_cell_volume   139.29405252
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.71819513  0.40158304  0.16357499  1
+  Tl  Tl1  1  0.21747627  0.73469220  0.82871216  1
+  I  I2  1  0.71818214  0.06867258  0.49728352  1
+  O  O3  1  0.50611052  0.77855385  0.48136204  1
+  O  O4  1  0.50580800  0.34293887  0.78722639  1
+  O  O5  1  0.50491751  0.08559581  0.22441469  1
+  O  O6  1  0.93089890  0.77899505  0.22372423  1
+  O  O7  1  0.93076485  0.34303294  0.48182521  1
+  O  O8  1  0.93121693  0.08456290  0.78713096  1

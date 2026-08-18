@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CoNb2Si2Co
+_chemical_formula_sum              "Co2 Nb2 Si2"
+_cell_length_a       3.6208813438433114
+_cell_length_b       3.6362930052939455
+_cell_length_c       6.80910062789917
+_cell_angle_alpha    105.17656629242109
+_cell_angle_beta     105.00772359227376
+_cell_angle_gamma    89.67169591547912
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.08582202345132828  0.36768838763237  0.5862595438957214  1.0000
+  Nb  Nb1       1.0  0.2572336792945862  0.039286676794290536  0.9291030764579773  1.0000
+  Nb  Nb2       1.0  0.9140378832817078  0.6962792277336121  0.2435305118560791  1.0000
+  Si  Si1       1.0  0.46919965744018555  0.2515961527824402  0.354661762714386  1.0000
+  Si  Si2       1.0  0.7020641565322876  0.48423758149147034  0.8181681632995605  1.0000
+  Co  Co2       1.0  0.5859216451644897  0.8680581450462341  0.5866754651069641  1.0000

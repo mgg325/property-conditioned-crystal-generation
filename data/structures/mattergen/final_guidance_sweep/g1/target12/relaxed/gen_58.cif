@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       P2SiCaPSiLiP
+_chemical_formula_sum              "P4 Si2 Ca1 Li1"
+_cell_length_a       6.329232620933482
+_cell_length_b       6.329628921687013
+_cell_length_c       6.074094591077433
+_cell_angle_alpha    121.47368934439432
+_cell_angle_beta     121.44592964273635
+_cell_angle_gamma    89.89541915119308
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.21056122840205244  0.13811943395284668  0.9543675426870476  1.0000
+  P   P2        1.0  0.5834219673462194  0.6801673323468778  0.9558077421573953  1.0000
+  Si  Si1       1.0  0.5433034475852888  0.055897408859386835  0.24774047801491259  1.0000
+  Ca  Ca1       1.0  0.044293282325724694  0.556780758404993  0.2490611428481056  1.0000
+  P   P3        1.0  0.46022190680997016  0.015518062102542267  0.5394111672884713  1.0000
+  Si  Si2       1.0  0.2931509924607105  0.3055986278876349  0.7475409543020318  1.0000
+  Li  Li1       1.0  0.793739303673762  0.8062388362647943  0.7491103981917488  1.0000
+  P   P4        1.0  0.9181423685522334  0.3874569850396997  0.5387180321643571  1.0000

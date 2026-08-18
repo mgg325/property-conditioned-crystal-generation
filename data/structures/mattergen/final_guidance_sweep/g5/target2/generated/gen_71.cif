@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AlH3
+_chemical_formula_sum              "Al1 H3"
+_cell_length_a       3.210622635099847
+_cell_length_b       3.2224485913135004
+_cell_length_c       4.9241790771484375
+_cell_angle_alpha    109.27234978469446
+_cell_angle_beta     70.91815511926967
+_cell_angle_gamma    90.02435852734173
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.8827574849128722  0.21379671990871432  0.8359137773513794  1.0000
+  H   H1        1.0  0.7054971456527709  0.3909578025341034  0.19324553012847903  1.0000
+  H   H2        1.0  0.4439911842346191  0.15112797915935516  0.7150348424911499  1.0000
+  H   H3        1.0  0.9390544295310973  0.6541052460670471  0.7175121307373048  1.0000

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Sr3Ca3Hg5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09943229
+_cell_length_b   5.77999768
+_cell_length_c   16.58902927
+_cell_angle_alpha   100.67605514
+_cell_angle_beta   97.13120259
+_cell_angle_gamma   89.96675101
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Ca3Hg5
+_chemical_formula_sum   'Sr3 Ca3 Hg5'
+_cell_volume   383.17896870
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.49122152  0.21454464  0.59581321  1
+  Sr  Sr1  1  0.60225353  0.82217755  0.81853654  1
+  Sr  Sr2  1  0.32836611  0.54982090  0.27067319  1
+  Ca  Ca3  1  0.17054214  0.39442196  0.95517408  1
+  Ca  Ca4  1  0.77237439  0.98910450  0.15641562  1
+  Ca  Ca5  1  0.92762730  0.64837612  0.46701627  1
+  Hg  Hg6  1  0.74440351  0.46171064  0.10223929  1
+  Hg  Hg7  1  0.19479452  0.91962782  0.00455138  1
+  Hg  Hg8  1  0.02054098  0.74315799  0.65524348  1
+  Hg  Hg9  1  0.87785794  0.09692076  0.36540868  1
+  Hg  Hg10  1  0.07445366  0.29506628  0.76123882  1

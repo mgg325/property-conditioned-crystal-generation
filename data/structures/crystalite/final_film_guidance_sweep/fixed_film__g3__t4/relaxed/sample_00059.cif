@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_NaLi3H3O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.31590962
+_cell_length_b   4.88031534
+_cell_length_c   5.90936585
+_cell_angle_alpha   88.80051632
+_cell_angle_beta   91.71723761
+_cell_angle_gamma   89.32027528
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLi3H3O4
+_chemical_formula_sum   'Na1 Li3 H3 O4'
+_cell_volume   95.55804500
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.96626868  1.04366303  0.25899526  1
+  Li  Li1  1  1.02805482  0.55695038  0.83156477  1
+  Li  Li2  1  0.51811235  0.10573212  0.65103815  1
+  Li  Li3  1  0.80185350  0.53340058  0.29672196  1
+  H  H4  1  0.33720095  0.62442921  0.50177843  1
+  H  H5  1  0.51501014  0.70107252  0.00274478  1
+  H  H6  1  0.46510481  0.19107354  1.00649131  1
+  O  O7  1  0.45998191  0.79933585  0.44627848  1
+  O  O8  1  1.01809449  0.34117177  0.56501425  1
+  O  O9  1  0.37490654  0.36209022  0.08022198  1
+  O  O10  1  0.69618710  0.84921448  -0.05401665  1

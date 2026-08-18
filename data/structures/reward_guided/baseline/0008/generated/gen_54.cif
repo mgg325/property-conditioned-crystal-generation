@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ZnK2AuPAuZnP
+_chemical_formula_sum              "Zn2 K2 Au2 P2"
+_cell_length_a       3.926711437061825
+_cell_length_b       3.928783965799256
+_cell_length_c       12.461503028869629
+_cell_angle_alpha    89.93911819597142
+_cell_angle_beta     89.98606208855452
+_cell_angle_gamma    89.9763837112068
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.2315466403961182  0.7670058012008667  0.11616228520870209  1.0000
+  K   K1        1.0  0.7316157817840577  0.7675819396972656  0.3802298903465271  1.0000
+  K   K2        1.0  0.23191317915916446  0.2670014798641205  0.852294921875  1.0000
+  Au  Au1       1.0  0.7311490178108216  0.26793932914733887  0.6164535880088806  1.0000
+  P   P1        1.0  0.731966257095337  0.7674622535705566  0.995987594127655  1.0000
+  Au  Au2       1.0  0.23115332424640658  0.7674574851989746  0.6161760091781616  1.0000
+  Zn  Zn2       1.0  0.7325872778892518  0.26719722151756287  0.11637379974126816  1.0000
+  P   P2        1.0  0.23204125463962558  0.26676201820373535  0.23653572797775269  1.0000

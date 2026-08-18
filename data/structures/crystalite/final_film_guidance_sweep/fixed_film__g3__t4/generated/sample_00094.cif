@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Zn2NO6F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.70911741
+_cell_length_b   5.33691597
+_cell_length_c   6.48425102
+_cell_angle_alpha   102.18817902
+_cell_angle_beta   90.54607391
+_cell_angle_gamma   108.13888550
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2NO6F
+_chemical_formula_sum   'Zn2 N1 O6 F1'
+_cell_volume   86.79796467
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.00052279  0.17166847  0.77690732  1
+  Zn  Zn1  1  0.40754005  0.96362734  0.69785672  1
+  O  O2  1  0.47527897  0.88446754  0.39068231  1
+  F  F3  1  0.41442630  0.87915897  0.23217562  1
+  Zn  Zn4  1  0.06565526  0.25371909  0.26574564  1
+  O  O5  1  0.10968798  0.65507311  0.94822216  1
+  O  O6  1  0.28970098  0.59463036  0.08146682  1
+  O  O7  1  0.08418745  0.28673044  0.49135134  1
+  N  N8  1  0.00004289  0.29976875  0.61672974  1
+  O  O9  1  0.47367641  0.12817115  0.17681894  1

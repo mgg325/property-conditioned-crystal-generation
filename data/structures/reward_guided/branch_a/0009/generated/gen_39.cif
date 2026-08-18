@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li5Au
+_chemical_formula_sum              "Li5 Au1"
+_cell_length_a       2.7949177320674945
+_cell_length_b       4.517957515834095
+_cell_length_c       7.793776988983154
+_cell_angle_alpha    89.36458996362167
+_cell_angle_beta     91.45440934582581
+_cell_angle_gamma    89.62663020909021
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9326223731040955  0.8473628163337708  0.7619832754135133  1.0000
+  Li  Li2       1.0  0.5977840423583984  0.8458042144775391  0.06168458610773087  1.0000
+  Li  Li3       1.0  0.8569419980049133  0.3468279540538788  0.2230849862098694  1.0000
+  Li  Li4       1.0  0.6821460723876953  0.3469632863998413  0.5984792113304138  1.0000
+  Li  Li5       1.0  0.2656664550304413  0.8465496301651002  0.41304233670234686  1.0000
+  Au  Au1       1.0  0.26789677143096924  0.3466564118862152  0.9121496677398683  1.0000

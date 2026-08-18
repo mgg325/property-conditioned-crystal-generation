@@ -1,0 +1,97 @@
+{
+  "iteration": 0,
+  "current_policy_dir": "provenance://mattergen/outputs/dielectric_rl/direct_rl_target12_online/matinvent_style_target12_tri_fixed_scaler_gpu/loop_0020/policy_for_generation",
+  "generated_dir": "provenance://mattergen/outputs/dielectric_rl/direct_rl_target12_online/matinvent_style_target12_eval24_topk025_from_loop0020/loop_0000/generated",
+  "n_generated": 64,
+  "n_prefiltered_eval": 13,
+  "n_topk": 6,
+  "n_replay_sampled": 10,
+  "n_finetune_records": 16,
+  "n_anchor_records": 56,
+  "diversity_tol_hits": 0,
+  "diversity_buff_hits": 0,
+  "reward_summary": {
+    "n_samples": 13,
+    "mean_predicted_dielectric_scalar": 13.046306355647939,
+    "mean_abs_error": 4.605023411228222,
+    "mean_reward_final": 0.3644731452209701,
+    "within_1.0": 2,
+    "within_2.0": 4,
+    "reward_gt_0p1": 8,
+    "reward_gt_0p5": 5
+  },
+  "training_result": {
+    "trainable_parameters": [
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.0.0.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.0.0.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.0.2.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.0.2.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.1.0.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.1.0.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.1.2.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.1.2.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.2.0.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.2.0.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.2.2.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.2.2.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.3.0.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.3.0.bias",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.3.2.weight",
+      "diffusion_module.model.gemnet.cond_adapt_layers.dft_dielectric_scalar.3.2.bias",
+      "diffusion_module.model.gemnet.cond_mixin_layers.dft_dielectric_scalar.0.weight",
+      "diffusion_module.model.gemnet.cond_mixin_layers.dft_dielectric_scalar.1.weight",
+      "diffusion_module.model.gemnet.cond_mixin_layers.dft_dielectric_scalar.2.weight",
+      "diffusion_module.model.gemnet.cond_mixin_layers.dft_dielectric_scalar.3.weight"
+    ],
+    "history": [
+      {
+        "loss_total": 1.3367489984841086,
+        "loss_diffusion": 1.3204690991342067,
+        "loss_reference_kl": 1.627992332955963e-11,
+        "loss_diffusion_raw": 1.6281861471235752,
+        "loss_kl_raw": 1.627992332955963e-11,
+        "loss_pos": 3.1801131375964906,
+        "loss_cell": 1.1821116314786486,
+        "loss_atomic_numbers": 0.12806320003986912,
+        "epoch": 0
+      },
+      {
+        "loss_total": 1.3257258406025358,
+        "loss_diffusion": 1.3196321166306735,
+        "loss_reference_kl": 6.093752379868894e-12,
+        "loss_diffusion_raw": 1.6308577027618885,
+        "loss_kl_raw": 6.093752379868894e-12,
+        "loss_pos": 3.150981012282631,
+        "loss_cell": 1.1873971093893052,
+        "loss_atomic_numbers": 0.1283624814455852,
+        "epoch": 1
+      },
+      {
+        "loss_total": 1.3246779420645907,
+        "loss_diffusion": 1.3208160087764262,
+        "loss_reference_kl": 3.861955113343418e-12,
+        "loss_diffusion_raw": 1.6371887672245502,
+        "loss_kl_raw": 3.861955113343418e-12,
+        "loss_pos": 3.179454241335232,
+        "loss_cell": 1.1904195939572528,
+        "loss_atomic_numbers": 0.1288237435566789,
+        "epoch": 2
+      }
+    ],
+    "topk_stats": {
+      "topk_count": 16.0,
+      "topk_reward_min": 0.3811017870903015,
+      "topk_reward_mean": 0.7976093888282776,
+      "topk_reward_max": 0.9996718764305115,
+      "topk_dielectric_min": 9.927749633789062,
+      "topk_dielectric_mean": 12.517598152160645,
+      "topk_dielectric_max": 14.778040885925293,
+      "topk_within_target_1": 0.375
+    },
+    "anchor_batch_count": 56,
+    "total_trainable_numel": 4198400,
+    "kl_step_trace_path": "provenance://mattergen/outputs/dielectric_rl/direct_rl_target12_online/matinvent_style_target12_eval24_topk025_from_loop0020/loop_0000/rl_update/kl_step_trace.csv",
+    "optimizer_step_count": 60
+  },
+  "next_policy_dir": "provenance://mattergen/outputs/dielectric_rl/direct_rl_target12_online/matinvent_style_target12_eval24_topk025_from_loop0020/loop_0000/policy_for_generation"
+}

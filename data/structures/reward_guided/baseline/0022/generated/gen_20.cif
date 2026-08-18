@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ce2Cd2CePb2
+_chemical_formula_sum              "Ce3 Cd2 Pb2"
+_cell_length_a       5.020646417535829
+_cell_length_b       6.250105626081143
+_cell_length_c       7.023180961608887
+_cell_angle_alpha    99.43971954102199
+_cell_angle_beta     89.91467294754793
+_cell_angle_gamma    114.56466674294452
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.14288538694381714  0.9983386993408203  0.6702151298522949  1.0000
+  Ce  Ce2       1.0  0.4594400227069855  0.6334834098815918  0.8459299802780151  1.0000
+  Cd  Cd1       1.0  0.009237294085323818  0.7308477163314819  0.1505621373653412  1.0000
+  Cd  Cd2       1.0  0.8515815138816833  0.41567665338516235  0.563662052154541  1.0000
+  Ce  Ce3       1.0  0.29891154170036316  0.31273460388183594  0.2573966979980469  1.0000
+  Pb  Pb1       1.0  0.7552697062492371  0.2264735847711563  0.9494733810424805  1.0000
+  Pb  Pb2       1.0  0.5882747769355774  0.8900948166847229  0.37291547656059265  1.0000

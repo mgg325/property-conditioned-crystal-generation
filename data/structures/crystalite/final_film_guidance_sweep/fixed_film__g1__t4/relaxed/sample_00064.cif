@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Li2NbOF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.81302217
+_cell_length_b   5.50894899
+_cell_length_c   5.83874572
+_cell_angle_alpha   87.43274451
+_cell_angle_beta   90.02407065
+_cell_angle_gamma   90.08935200
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2NbOF3
+_chemical_formula_sum   'Li2 Nb1 O1 F3'
+_cell_volume   90.39092012
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.47673907  0.89752965  0.41131110  1
+  Li  Li1  1  0.97596338  0.41145877  0.27218635  1
+  Nb  Nb2  1  0.47210084  0.30569252  0.80082279  1
+  O  O3  1  0.97976708  0.50459497  0.95814935  1
+  F  F4  1  0.47623826  0.54503167  0.45014425  1
+  F  F5  1  0.97692764  0.07221112  0.29344638  1
+  F  F6  1  0.47663796  0.96289521  0.72878294  1

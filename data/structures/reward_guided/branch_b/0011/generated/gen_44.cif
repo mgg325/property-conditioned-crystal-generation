@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CoYbCoYbGe2
+_chemical_formula_sum              "Co2 Yb2 Ge2"
+_cell_length_a       4.062929487428287
+_cell_length_b       5.109311944082973
+_cell_length_c       5.738614082336426
+_cell_angle_alpha    100.68174862447185
+_cell_angle_beta     109.60774725510777
+_cell_angle_gamma    92.04171015513617
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.08432777971029282  0.4671560525894165  0.7559435367584227  1.0000
+  Yb  Yb1       1.0  0.17276200652122498  0.028277505189180378  0.9324891567230223  1.0000
+  Co  Co2       1.0  0.49234008789062494  0.23086416721343994  0.5686966180801392  1.0000
+  Yb  Yb2       1.0  0.4008300602436065  0.6637377738952637  0.39213803410530085  1.0000
+  Ge  Ge1       1.0  0.8921414613723754  0.1587330847978592  0.37065270543098444  1.0000
+  Ge  Ge2       1.0  0.6842968463897705  0.5399433970451355  0.9533082842826842  1.0000

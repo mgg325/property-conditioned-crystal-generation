@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_CaInGa3Ge2BSe2N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.16449946
+_cell_length_b   2.10795217
+_cell_length_c   3.29279321
+_cell_angle_alpha   90.32927564
+_cell_angle_beta   91.44155657
+_cell_angle_gamma   95.09714415
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaInGa3Ge2BSe2N
+_chemical_formula_sum   'Ca1 In1 Ga3 Ge2 B1 Se2 N1'
+_cell_volume   14.95927132
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.47727647  0.40681855  0.10270591  1
+  In  In1  1  0.87179458  0.56867311  0.76593684  1
+  Ga  Ga2  1  0.36108732  0.06831977  0.32052180  1
+  Ga  Ga3  1  0.38423209  0.82177053  0.75151896  1
+  Ga  Ga4  1  0.34906163  0.91158293  0.30178917  1
+  Ge  Ge5  1  0.31205134  1.01474430  0.23199788  1
+  Ge  Ge6  1  0.86299602  0.43328424  0.72544754  1
+  B  B7  1  0.48226168  -0.01225900  0.30758451  1
+  Se  Se8  1  0.38253588  0.73662750  0.77623428  1
+  Se  Se9  1  0.44959947  0.09129451  0.24016203  1
+  N  N10  1  0.33711126  0.01987935  0.25449132  1

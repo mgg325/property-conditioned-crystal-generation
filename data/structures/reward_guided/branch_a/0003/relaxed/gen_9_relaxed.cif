@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Cu3Au2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.83991398
+_cell_length_b   3.64683318
+_cell_length_c   7.35972542
+_cell_angle_alpha   104.34183960
+_cell_angle_beta   101.15281352
+_cell_angle_gamma   89.99602223
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu3Au2
+_chemical_formula_sum   'Cu3 Au2'
+_cell_volume   72.36049995
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.92977153  0.72044819  0.57400306  1
+  Cu  Cu1  1  0.13524707  0.92551319  0.98487427  1
+  Cu  Cu2  1  0.34131378  0.13073904  0.39581482  1
+  Au  Au3  1  0.53103963  0.32219618  0.77731044  1
+  Au  Au4  1  0.73936108  0.52906953  0.19247655  1

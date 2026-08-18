@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ca2TeBr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.43153540
+_cell_length_b   4.43162689
+_cell_length_c   10.48500389
+_cell_angle_alpha   90.01468964
+_cell_angle_beta   89.99157607
+_cell_angle_gamma   119.99394878
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2TeBr2
+_chemical_formula_sum   'Ca2 Te1 Br2'
+_cell_volume   178.33767615
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.21992048  0.57660685  0.10049528  1
+  Ca  Ca1  1  0.88651627  0.91005707  0.46285987  1
+  Te  Te2  1  0.55315868  0.24319702  0.28158502  1
+  Br  Br3  1  0.21998063  0.57689999  0.60503973  1
+  Br  Br4  1  0.88644209  0.90992859  0.95890667  1

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_EuTlInSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47105374
+_cell_length_b   5.46958200
+_cell_length_c   5.46104744
+_cell_angle_alpha   60.08994589
+_cell_angle_beta   59.93601042
+_cell_angle_gamma   59.88978229
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuTlInSn
+_chemical_formula_sum   'Eu1 Tl1 In1 Sn1'
+_cell_volume   115.47991631
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.85953876  0.43920193  0.28321154  1
+  Tl  Tl1  1  0.60873140  0.18878495  0.03268286  1
+  In  In2  1  0.35827797  0.93769134  0.78358247  1
+  Sn  Sn3  1  0.10870326  0.68823622  0.53253426  1

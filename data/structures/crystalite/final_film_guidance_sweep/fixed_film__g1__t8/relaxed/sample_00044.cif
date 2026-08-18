@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Zn3GaTe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.46505355
+_cell_length_b   7.20869796
+_cell_length_c   7.38697130
+_cell_angle_alpha   117.59177644
+_cell_angle_beta   92.29926135
+_cell_angle_gamma   90.47945821
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn3GaTe6
+_chemical_formula_sum   'Zn3 Ga1 Te6'
+_cell_volume   304.72666533
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.92197626  0.77199181  0.56628374  1
+  Zn  Zn1  1  0.44458633  0.31843045  0.52573772  1
+  Zn  Zn2  1  0.91503416  0.32062396  0.15466468  1
+  Ga  Ga3  1  0.41095943  0.64771816  0.17833027  1
+  Te  Te4  1  0.85051351  0.39187081  0.53945104  1
+  Te  Te5  1  0.32436810  0.26666119  0.15318463  1
+  Te  Te6  1  0.31545079  0.96547563  0.54149614  1
+  Te  Te7  1  0.67897628  0.04267714  0.84119115  1
+  Te  Te8  1  0.23121111  0.60075662  0.82585708  1
+  Te  Te9  1  0.81519403  0.69715572  0.18473103  1

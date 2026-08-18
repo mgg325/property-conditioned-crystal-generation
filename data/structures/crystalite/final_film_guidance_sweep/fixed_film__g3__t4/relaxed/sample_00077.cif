@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_BeN2(O2F)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.95483935
+_cell_length_b   3.11501032
+_cell_length_c   12.22618693
+_cell_angle_alpha   88.31167695
+_cell_angle_beta   92.99430990
+_cell_angle_gamma   120.05153252
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeN2(O2F)2
+_chemical_formula_sum   'Be1 N2 O4 F2'
+_cell_volume   97.27310224
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.25325960  0.14233292  0.09459286  1
+  N  N1  1  0.57752362  0.20557394  0.43054839  1
+  N  N2  1  0.88902198  0.54695820  0.12595532  1
+  O  O3  1  0.62475335  0.93420795  0.49594343  1
+  O  O4  1  0.13384966  0.03899981  0.84885796  1
+  O  O5  1  0.33462603  0.11328913  0.34268872  1
+  O  O6  1  0.98952522  0.40476796  1.02433841  1
+  F  F7  1  0.92458122  0.43829394  0.62436662  1
+  F  F8  1  0.72307225  0.81994327  0.77753948  1

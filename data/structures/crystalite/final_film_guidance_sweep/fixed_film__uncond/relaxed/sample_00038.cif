@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsKSi2PbO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70553136
+_cell_length_b   5.79154606
+_cell_length_c   9.19545708
+_cell_angle_alpha   75.20798155
+_cell_angle_beta   73.38850676
+_cell_angle_gamma   60.09149996
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsKSi2PbO7
+_chemical_formula_sum   'Cs1 K1 Si2 Pb1 O7'
+_cell_volume   250.05792081
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.68020152  0.11308418  0.16267655  1
+  K  K1  1  0.84269246  0.36297521  0.78881350  1
+  Si  Si2  1  0.95112778  0.42072883  0.32307074  1
+  Si  Si3  1  0.55052468  1.00866307  0.73564672  1
+  Pb  Pb4  1  0.25909329  0.74600413  0.56669834  1
+  O  O5  1  0.62452212  0.92850515  0.90304494  1
+  O  O6  1  0.32448980  0.91193780  0.72605234  1
+  O  O7  1  0.83288420  0.83068242  0.61166251  1
+  O  O8  1  0.62182191  0.57147687  0.37317641  1
+  O  O9  1  0.12764272  0.12474116  0.40225308  1
+  O  O10  1  0.42065397  0.33763053  0.68580164  1
+  O  O11  1  0.10365947  0.54754061  0.18471739  1

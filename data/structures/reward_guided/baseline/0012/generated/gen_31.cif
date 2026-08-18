@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AlCl5HgCl
+_chemical_formula_sum              "Al1 Cl6 Hg1"
+_cell_length_a       6.6651300670889375
+_cell_length_b       7.345752622757166
+_cell_length_c       7.390632629394531
+_cell_angle_alpha    123.56678330382378
+_cell_angle_beta     90.34051477996483
+_cell_angle_gamma    90.11625915552405
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.03402873501181602  0.405661255121231  0.8199505209922789  1.0000
+  Cl  Cl1       1.0  0.43567100167274475  0.10337554663419722  0.16353535652160645  1.0000
+  Cl  Cl2       1.0  0.9469301700592041  0.09912015497684477  0.5146709084510803  1.0000
+  Cl  Cl3       1.0  0.44339680671691895  0.7369247674942017  0.509023904800415  1.0000
+  Cl  Cl4       1.0  0.3673691749572754  0.4135555624961853  0.8282341957092285  1.0000
+  Cl  Cl5       1.0  0.9267635941505432  0.6837028264999389  0.8232359290122986  1.0000
+  Hg  Hg1       1.0  0.42763569951057434  0.9263939261436462  0.34136641025543213  1.0000
+  Cl  Cl6       1.0  0.9295761585235596  0.40056732296943665  0.09132012724876404  1.0000

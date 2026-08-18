@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CaBiBrN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.88931704
+_cell_length_b   11.64833164
+_cell_length_c   16.01715279
+_cell_angle_alpha   91.32504272
+_cell_angle_beta   89.74674988
+_cell_angle_gamma   93.20792389
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaBiBrN3
+_chemical_formula_sum   'Ca1 Bi1 Br1 N3'
+_cell_volume   1469.22773916
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  N  N0  1  0.43676528  0.61270505  0.45032278  1
+  Br  Br1  1  0.88421226  0.79785156  0.79986274  1
+  N  N2  1  0.89930630  0.57400060  0.55794358  1
+  Bi  Bi3  1  0.94473612  0.08863920  0.38927636  1
+  Ca  Ca4  1  0.51804703  0.26450777  0.96640480  1
+  N  N5  1  0.90021342  0.52754754  0.90532148  1

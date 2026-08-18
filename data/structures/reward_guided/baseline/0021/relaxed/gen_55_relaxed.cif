@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Zn6PdAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.51676549
+_cell_length_b   5.54404001
+_cell_length_c   5.54415957
+_cell_angle_alpha   119.97587390
+_cell_angle_beta   90.08953407
+_cell_angle_gamma   90.06243246
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn6PdAu
+_chemical_formula_sum   'Zn6 Pd1 Au1'
+_cell_volume   120.26084170
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.52385944  0.63841384  0.23509259  1
+  Zn  Zn1  1  0.02348184  0.96974935  0.89767907  1
+  Zn  Zn2  1  0.52350996  0.63756471  0.73959852  1
+  Zn  Zn3  1  0.52345466  0.14290962  0.73990788  1
+  Zn  Zn4  1  0.02370652  0.47915217  0.40902065  1
+  Zn  Zn5  1  0.02348930  0.96825956  0.40769805  1
+  Pd  Pd6  1  0.02403411  0.47280471  0.90564428  1
+  Au  Au7  1  0.52282808  0.13960240  0.23785333  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_TbHoHg6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27767726
+_cell_length_b   5.61203471
+_cell_length_c   6.47975408
+_cell_angle_alpha   90.01174394
+_cell_angle_beta   90.00331832
+_cell_angle_gamma   89.99815436
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbHoHg6
+_chemical_formula_sum   'Tb1 Ho1 Hg6'
+_cell_volume   191.92064363
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.54774026  0.04720251  0.70518834  1
+  Ho  Ho1  1  0.04756043  0.39951122  0.20548631  1
+  Hg  Hg2  1  0.54731110  0.55333051  0.95556113  1
+  Hg  Hg3  1  0.04741382  0.89553172  0.45238794  1
+  Hg  Hg4  1  0.04750987  0.89457572  0.95846508  1
+  Hg  Hg5  1  0.04759076  0.38731122  0.70529643  1
+  Hg  Hg6  1  0.54761580  0.06545205  0.20507679  1
+  Hg  Hg7  1  0.54735857  0.55278715  0.45487698  1

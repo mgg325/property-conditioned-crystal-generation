@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_LiGaH5F10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.29306198
+_cell_length_b   6.39030801
+_cell_length_c   6.48928603
+_cell_angle_alpha   61.03872369
+_cell_angle_beta   62.89102360
+_cell_angle_gamma   60.59018208
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiGaH5F10
+_chemical_formula_sum   'Li1 Ga1 H5 F10'
+_cell_volume   190.60270906
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.38680421  0.26159661  0.98222845  1
+  Ga  Ga1  1  0.26575480  0.75305243  0.58082322  1
+  H  H2  1  0.43538135  0.50960098  0.23517147  1
+  H  H3  1  0.87471672  0.08997559  0.25521217  1
+  H  H4  1  0.56606686  0.84298693  0.76449691  1
+  H  H5  1  0.95883266  0.98282470  0.94358579  1
+  H  H6  1  1.04600048  0.33552654  0.41242560  1
+  F  F7  1  0.57074030  0.97522300  0.79628999  1
+  F  F8  1  0.41631568  0.99946770  0.35183224  1
+  F  F9  1  0.28436828  0.41047273  0.65672591  1
+  F  F10  1  0.07540312  1.03352654  0.78659146  1
+  F  F11  1  0.03951608  0.61363075  0.90087687  1
+  F  F12  1  0.45728096  0.65569371  0.21822137  1
+  F  F13  1  0.77323111  0.19582535  0.13339754  1
+  F  F14  1  0.07003136  0.49525702  0.33967049  1
+  F  F15  1  0.00103546  0.98793755  0.43366025  1
+  F  F16  1  0.51426196  0.59357419  0.75148036  1

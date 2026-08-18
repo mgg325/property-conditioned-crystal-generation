@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CeCuCePbCuPb
+_chemical_formula_sum              "Ce2 Cu2 Pb2"
+_cell_length_a       3.6383140320373024
+_cell_length_b       4.57196946554665
+_cell_length_c       8.424452781677246
+_cell_angle_alpha    90.67931946900089
+_cell_angle_beta     89.1684611278753
+_cell_angle_gamma    88.26253895758884
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.43749064207077026  0.9714605808258056  0.44231608510017395  1.0000
+  Cu  Cu1       1.0  0.9390313625335693  0.9709970355033875  0.8030992746353149  1.0000
+  Ce  Ce2       1.0  0.43802282214164734  0.47114840149879456  0.9441802501678467  1.0000
+  Pb  Pb1       1.0  0.9379104375839233  0.4709979891777038  0.258977323770523  1.0000
+  Cu  Cu2       1.0  0.9386861324310303  0.9730532765388489  0.08297692239284515  1.0000
+  Pb  Pb2       1.0  0.9378623366355896  0.47363126277923584  0.6273255944252014  1.0000

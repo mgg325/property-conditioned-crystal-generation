@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CaF3
+_chemical_formula_sum              "Ca1 F3"
+_cell_length_a       4.509656918550126
+_cell_length_b       4.502157781314137
+_cell_length_c       4.502880573272705
+_cell_angle_alpha    89.98834337188688
+_cell_angle_beta     89.9957472968042
+_cell_angle_gamma    89.95758702891646
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.9031279683113098  0.08622503280639648  0.927666962146759  1.0000
+  F   F1        1.0  0.9033195376396179  0.5861136317253113  0.9261740446090698  1.0000
+  F   F2        1.0  0.903538167476654  0.08635060489177704  0.4276752471923828  1.0000
+  F   F3        1.0  0.4032345116138458  0.08601124584674835  0.9283952713012695  1.0000

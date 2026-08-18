@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_PrNbGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.13376181
+_cell_length_b   4.13270275
+_cell_length_c   8.73638407
+_cell_angle_alpha   103.68061028
+_cell_angle_beta   103.68512136
+_cell_angle_gamma   90.00021551
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrNbGe
+_chemical_formula_sum   'Pr2 Nb2 Ge2'
+_cell_volume   140.65003269
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.02717472  0.63606052  0.32928394  1
+  Pr  Pr1  1  0.68366018  0.29259419  0.64228500  1
+  Nb  Nb2  1  0.35546924  0.46429877  0.98579651  1
+  Nb  Nb3  1  0.85544642  0.96432241  0.98579293  1
+  Ge  Ge4  1  0.47222914  0.08112165  0.21940979  1
+  Ge  Ge5  1  0.23863197  0.84755454  0.75222462  1

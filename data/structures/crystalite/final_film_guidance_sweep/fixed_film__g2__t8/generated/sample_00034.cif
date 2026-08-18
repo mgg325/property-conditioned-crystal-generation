@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ca2Te4As3S4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.85471678
+_cell_length_b   6.93080235
+_cell_length_c   8.40509701
+_cell_angle_alpha   90.31610107
+_cell_angle_beta   90.16340637
+_cell_angle_gamma   121.20235443
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Te4As3S4
+_chemical_formula_sum   'Ca2 Te4 As3 S4'
+_cell_volume   341.53857601
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.31508833  0.85249841  0.11929652  1
+  Te  Te1  1  0.73822767  0.67219079  0.25733182  1
+  As  As2  1  0.62242585  0.22398236  0.62065011  1
+  S  S3  1  0.28220567  0.90957379  0.62373364  1
+  As  As4  1  0.97004056  0.76918918  0.10091430  1
+  S  S5  1  0.53382081  0.52470005  0.59014052  1
+  As  As6  1  0.96430916  0.89115816  0.64706624  1
+  Ca  Ca7  1  0.20732570  0.55107826  0.39066851  1
+  S  S8  1  0.96925020  0.25038284  0.62019265  1
+  Te  Te9  1  0.52662623  0.20152879  0.31945884  1
+  Te  Te10  1  0.78599799  0.61925101  0.87408936  1
+  Ca  Ca11  1  0.28672656  0.56413043  0.85776889  1
+  Te  Te12  1  0.05322510  0.24004522  0.10081208  1

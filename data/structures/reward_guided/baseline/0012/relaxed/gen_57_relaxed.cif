@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CaPrAlGa
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30097749
+_cell_length_b   5.30122444
+_cell_length_c   5.30088489
+_cell_angle_alpha   59.98510391
+_cell_angle_beta   59.98050493
+_cell_angle_gamma   59.98434802
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaPrAlGa
+_chemical_formula_sum   'Ca1 Pr1 Al1 Ga1'
+_cell_volume   105.29341864
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.98025602  0.29679362  0.10727535  1
+  Pr  Pr1  1  0.47990243  0.79681784  0.60729410  1
+  Al  Al2  1  0.22986420  0.54692692  0.35735164  1
+  Ga  Ga3  1  0.72998667  0.04684170  0.85729086  1

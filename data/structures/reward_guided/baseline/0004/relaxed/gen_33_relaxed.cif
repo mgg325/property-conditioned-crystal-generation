@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TiFeAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93919629
+_cell_length_b   3.93914865
+_cell_length_c   6.38381449
+_cell_angle_alpha   90.00037646
+_cell_angle_beta   89.99989437
+_cell_angle_gamma   120.00266911
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiFeAs
+_chemical_formula_sum   'Ti2 Fe2 As2'
+_cell_volume   85.78457431
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.65365902  0.32997749  0.24707994  1
+  Ti  Ti1  1  0.65365882  0.33004540  0.74710093  1
+  Fe  Fe2  1  0.98703599  0.99671193  0.05415276  1
+  Fe  Fe3  1  0.98695604  0.99660324  0.43959711  1
+  As  As4  1  0.32035410  0.66339864  0.98251989  1
+  As  As5  1  0.32027788  0.66329398  0.51164664  1

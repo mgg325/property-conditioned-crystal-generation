@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SmPrAlTl
+_chemical_formula_sum              "Sm1 Pr1 Al1 Tl1"
+_cell_length_a       3.752981235177814
+_cell_length_b       3.7472302738209446
+_cell_length_c       7.754873752593994
+_cell_angle_alpha    90.45698997960221
+_cell_angle_beta     89.73591324846852
+_cell_angle_gamma    90.69509718006975
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.1101333871483803  0.4349389672279358  0.477003663778305  1.0000
+  Pr  Pr1       1.0  0.11000457406044008  0.43586903810501104  0.9519951939582824  1.0000
+  Al  Al1       1.0  0.6097795367240907  0.9351658821105958  0.7068938612937926  1.0000
+  Tl  Tl1       1.0  0.6095046997070314  0.9336308836936952  0.22539013624191281  1.0000

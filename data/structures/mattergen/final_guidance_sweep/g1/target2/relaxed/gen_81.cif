@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       H4Se2H2
+_chemical_formula_sum              "H6 Se2"
+_cell_length_a       5.9910873928398525
+_cell_length_b       7.716564420365464
+_cell_length_c       6.761352641514224
+_cell_angle_alpha    80.58708389922141
+_cell_angle_beta     115.74978731334745
+_cell_angle_gamma    101.98873184581103
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.3903743404873471  0.8064959886103339  0.25123489927609455  1.0000
+  H   H2        1.0  0.9199390517627262  0.2761691260077217  0.7347694194118654  1.0000
+  H   H3        1.0  0.3377910551327855  0.8623823240822305  0.2961847383571848  1.0000
+  H   H4        1.0  0.8477650725597992  0.4340655282212636  0.16135918775713615  1.0000
+  Se  Se1       1.0  0.6741329928171814  0.4778961762199584  0.9281883413068747  1.0000
+  Se  Se2       1.0  0.0645861255603145  0.22238161309171298  0.628256535579404  1.0000
+  H   H5        1.0  0.8650328191201646  0.0745253761551996  0.5223635737324045  1.0000
+  H   H6        1.0  0.8230594430718533  0.6552724045689357  0.9144729596143919  1.0000

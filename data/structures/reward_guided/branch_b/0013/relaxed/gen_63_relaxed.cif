@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LiHg3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.87161944
+_cell_length_b   7.48534282
+_cell_length_c   7.87236555
+_cell_angle_alpha   86.04099611
+_cell_angle_beta   90.03432935
+_cell_angle_gamma   89.94678679
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiHg3
+_chemical_formula_sum   'Li5 Hg15'
+_cell_volume   462.74651978
+_cell_formula_units_Z   5
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.96625077  0.58819500  0.82490913  1
+  Li  Li1  1  0.46478585  0.43565371  0.40936761  1
+  Li  Li2  1  0.46429827  0.98658252  0.59061668  1
+  Li  Li3  1  0.96534765  0.00617016  0.57730152  1
+  Li  Li4  1  0.96447370  0.41543600  0.35462122  1
+  Hg  Hg5  1  0.46682831  0.17629054  0.96405368  1
+  Hg  Hg6  1  0.70960417  0.12653002  0.32168318  1
+  Hg  Hg7  1  0.19881901  0.89608117  0.85090377  1
+  Hg  Hg8  1  0.96437318  0.22334501  -0.00084058  1
+  Hg  Hg9  1  0.21927391  0.12776062  0.32089387  1
+  Hg  Hg10  1  0.17341211  0.69958887  0.50390359  1
+  Hg  Hg11  1  0.74525063  0.30201042  0.65978862  1
+  Hg  Hg12  1  0.73251617  0.89412059  0.84888124  1
+  Hg  Hg13  1  0.68892159  0.50937185  0.10470888  1
+  Hg  Hg14  1  0.75522601  0.69949051  0.50327176  1
+  Hg  Hg15  1  0.46349618  0.81848689  0.23935500  1
+  Hg  Hg16  1  0.46441168  0.58658632  0.76420501  1
+  Hg  Hg17  1  0.18532609  0.30146062  0.66030028  1
+  Hg  Hg18  1  0.24031006  0.50776846  0.10428231  1
+  Hg  Hg19  1  0.96468629  0.81450967  0.17170063  1

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ba2S4
+_chemical_formula_sum              "Ba2 S4"
+_cell_length_a       4.19539031057821
+_cell_length_b       6.23398046368105
+_cell_length_c       6.267065211408554
+_cell_angle_alpha    90.00213082033218
+_cell_angle_beta     89.98465374676343
+_cell_angle_gamma    90.0016671395605
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.33864308084951966  0.8111611532411596  0.6591460004116662  1.0000
+  Ba  Ba2       1.0  0.3392370897443102  0.31210538195784016  0.15962079121685416  1.0000
+  S   S1        1.0  0.838557130810317  0.19272714221476359  0.5384294285304598  1.0000
+  S   S2        1.0  0.8388674735910928  0.9308019645205512  0.039180381029232866  1.0000
+  S   S3        1.0  0.8388747309644433  0.431663557269039  0.7799727087871666  1.0000
+  S   S4        1.0  0.8391524556229658  0.6916227629867947  0.280448302574482  1.0000

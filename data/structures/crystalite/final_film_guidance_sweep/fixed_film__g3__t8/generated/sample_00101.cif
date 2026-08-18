@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Zn5Ge2As
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08505297
+_cell_length_b   4.14718008
+_cell_length_c   10.43496513
+_cell_angle_alpha   89.65067291
+_cell_angle_beta   90.18193817
+_cell_angle_gamma   118.19121552
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn5Ge2As
+_chemical_formula_sum   'Zn5 Ge2 As1'
+_cell_volume   155.80976024
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.45858744  0.97176254  0.72203052  1
+  Zn  Zn1  1  0.45786294  0.94185770  0.97920316  1
+  Zn  Zn2  1  0.13019353  0.24756521  0.38739079  1
+  As  As3  1  0.76612246  0.64781773  0.38844767  1
+  Ge  Ge4  1  0.11435717  0.30455440  0.01452437  1
+  Zn  Zn5  1  0.45379406  0.96150887  0.51907295  1
+  Zn  Zn6  1  0.80615139  0.61244875  0.17950380  1
+  Zn  Zn7  1  0.78769529  0.59192991  0.77900177  1

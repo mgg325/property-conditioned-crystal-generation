@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Li7Ag12Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.18404472
+_cell_length_b   7.10359848
+_cell_length_c   7.25542464
+_cell_angle_alpha   102.67671862
+_cell_angle_beta   98.28253735
+_cell_angle_gamma   100.88347655
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li7Ag12Hg
+_chemical_formula_sum   'Li7 Ag12 Hg1'
+_cell_volume   348.02792852
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.55173761  0.71722910  0.01449435  1
+  Li  Li1  1  0.29777657  1.00148053  0.03918821  1
+  Li  Li2  1  0.28876443  0.45337221  0.53460922  1
+  Li  Li3  1  0.87777134  0.33365626  0.44224130  1
+  Li  Li4  1  0.27442462  0.72161410  0.28285230  1
+  Li  Li5  1  0.71362772  0.86358795  0.45036902  1
+  Li  Li6  1  0.12394460  0.11212671  0.68447112  1
+  Ag  Ag7  1  0.86600712  0.57445733  0.12305086  1
+  Ag  Ag8  1  0.12182506  0.30813129  0.11847656  1
+  Ag  Ag9  1  0.45407749  0.12944522  0.44337563  1
+  Ag  Ag10  1  0.03326030  0.99805598  0.30346322  1
+  Ag  Ag11  1  0.68276105  0.11389360  0.11299192  1
+  Ag  Ag12  1  0.91742579  0.89071145  0.89990599  1
+  Ag  Ag13  1  0.44457561  0.87300792  0.71035149  1
+  Ag  Ag14  1  0.44859886  0.31970297  0.87296549  1
+  Ag  Ag15  1  0.52969365  0.45992674  0.27264306  1
+  Ag  Ag16  1  0.14706415  0.57247938  0.86298082  1
+  Ag  Ag17  1  0.03448869  0.71987407  0.54032184  1
+  Ag  Ag18  1  0.67291017  0.55363672  0.66781063  1
+  Hg  Hg19  1  0.79907596  0.21590199  0.76560998  1

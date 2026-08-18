@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Mg(AlCu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.79917530
+_cell_length_b   3.78477939
+_cell_length_c   6.19332590
+_cell_angle_alpha   107.77707212
+_cell_angle_beta   107.81444749
+_cell_angle_gamma   90.00068365
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(AlCu)2
+_chemical_formula_sum   'Mg1 Al2 Cu2'
+_cell_volume   80.30607238
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.69045003  0.63206866  0.45162249  1
+  Al  Al1  1  0.93995378  0.38176826  0.95057304  1
+  Al  Al2  1  0.44050547  0.88214754  0.95211408  1
+  Cu  Cu3  1  0.08351661  0.02576408  0.23892604  1
+  Cu  Cu4  1  0.29706439  0.23799023  0.66396304  1

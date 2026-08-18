@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Er2Ho2In2Pb2
+_chemical_formula_sum              "Er2 Ho2 In2 Pb2"
+_cell_length_a       4.8852439068269495
+_cell_length_b       4.900462150761154
+_cell_length_c       8.876594543457031
+_cell_angle_alpha    90.0005011082623
+_cell_angle_beta     89.99563801380663
+_cell_angle_gamma    89.99954488180086
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.829714834690094  0.40259698033332825  0.9520564079284668  1.0000
+  Er  Er2       1.0  0.8297310471534729  0.40248367190361023  0.4536818861961365  1.0000
+  Ho  Ho1       1.0  0.32959020137786865  0.9027954339981079  0.4525511562824249  1.0000
+  Ho  Ho2       1.0  0.3294326066970825  0.902711510658264  0.9530020356178284  1.0000
+  In  In1       1.0  0.8297438025474548  0.9023701548576355  0.7032052874565125  1.0000
+  In  In2       1.0  0.8300703167915344  0.9023805856704712  0.20242942869663239  1.0000
+  Pb  Pb1       1.0  0.32979679107666016  0.40209993720054626  0.7027806043624878  1.0000
+  Pb  Pb2       1.0  0.3294164538383484  0.4024944603443146  0.20305892825126648  1.0000

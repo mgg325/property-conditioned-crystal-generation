@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       PrZn2Ce
+_chemical_formula_sum              "Pr1 Zn2 Ce1"
+_cell_length_a       3.7031389797190877
+_cell_length_b       3.699310951623905
+_cell_length_c       7.3301191329956055
+_cell_angle_alpha    89.53421094580693
+_cell_angle_beta     88.8692509786553
+_cell_angle_gamma    88.98525500392054
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.31195399165153503  0.8835752606391907  0.11768144369125366  1.0000
+  Zn  Zn1       1.0  0.8097114562988281  0.38489577174186707  0.861302375793457  1.0000
+  Zn  Zn2       1.0  0.8119623064994812  0.38264030218124384  0.3770475685596466  1.0000
+  Ce  Ce1       1.0  0.30950379371643066  0.8850164413452148  0.6161327958106995  1.0000

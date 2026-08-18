@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfInGe(AuSe2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.35375166
+_cell_length_b   6.84932184
+_cell_length_c   7.45940065
+_cell_angle_alpha   89.85856628
+_cell_angle_beta   90.02182770
+_cell_angle_gamma   89.78631592
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfInGe(AuSe2)3
+_chemical_formula_sum   'Hf1 In1 Ge1 Au3 Se6'
+_cell_volume   324.62156532
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.70834494  0.84090722  0.80155027  1
+  Se  Se1  1  0.55222958  0.13135663  0.90581012  1
+  Au  Au2  1  0.17380819  0.11241028  0.02218384  1
+  Se  Se3  1  0.79614079  0.54183555  0.58626437  1
+  In  In4  1  0.65644550  0.51358849  0.11218306  1
+  Au  Au5  1  0.16239417  0.65429491  0.48917982  1
+  Ge  Ge6  1  0.01641166  0.05920517  0.62744367  1
+  Se  Se7  1  0.30662209  0.60539955  0.88385153  1
+  Se  Se8  1  0.26664126  0.29294920  0.33600867  1
+  Se  Se9  1  0.97063076  0.79591858  0.08606070  1
+  Se  Se10  1  0.51844734  0.85451341  0.39442307  1
+  Au  Au11  1  0.67771524  0.16990691  0.48104724  1

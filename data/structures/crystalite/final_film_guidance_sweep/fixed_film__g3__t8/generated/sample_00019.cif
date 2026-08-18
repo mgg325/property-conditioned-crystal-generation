@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_InBiPbSe6Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.88356686
+_cell_length_b   8.18119526
+_cell_length_c   8.37381935
+_cell_angle_alpha   72.55162048
+_cell_angle_beta   60.90472412
+_cell_angle_gamma   61.20623779
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InBiPbSe6Br
+_chemical_formula_sum   'In1 Bi1 Pb1 Se6 Br1'
+_cell_volume   464.33020683
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.95443356  0.02900770  0.39092600  1
+  Br  Br1  1  0.46971548  0.01209581  0.94864976  1
+  Se  Se2  1  0.40812886  0.49681696  0.50196964  1
+  Se  Se3  1  0.02019688  0.56102967  0.32014912  1
+  Se  Se4  1  0.96059078  0.54460597  0.97651404  1
+  Bi  Bi5  1  0.44415259  0.00450450  0.52525741  1
+  Se  Se6  1  0.74347866  0.08510756  0.12923506  1
+  Pb  Pb7  1  0.98322523  0.48185825  0.38745028  1
+  Se  Se8  1  0.44847274  0.50812286  0.94116449  1
+  Se  Se9  1  0.07326099  0.07881737  0.61897266  1

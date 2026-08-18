@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AlMnTe2AlTe2
+_chemical_formula_sum              "Al2 Mn1 Te4"
+_cell_length_a       6.04075193614595
+_cell_length_b       6.040894482449404
+_cell_length_c       6.337814270917176
+_cell_angle_alpha    90.00332202499723
+_cell_angle_beta     89.97143348104174
+_cell_angle_gamma    89.98758164346586
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.1835738841145255  0.6583783359329201  0.0634706462918416  1.0000
+  Mn  Mn1       1.0  0.6834752790735821  0.6581139892362091  0.5634003867168494  1.0000
+  Te  Te1       1.0  0.42479925693082493  0.9173435834656575  0.8141591537913884  1.0000
+  Te  Te2       1.0  0.4245052424507198  0.3994753577184985  0.3128436448684755  1.0000
+  Al  Al2       1.0  0.6836416953486358  0.15832897608512936  0.06359427155813689  1.0000
+  Te  Te3       1.0  0.9424708657807517  0.39958609262969863  0.8142906888349957  1.0000
+  Te  Te4       1.0  0.9423425595649262  0.9172817643305169  0.3130325167416287  1.0000

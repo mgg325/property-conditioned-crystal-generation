@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       K2NaAs
+_chemical_formula_sum              "K2 Na1 As1"
+_cell_length_a       5.5448257640196195
+_cell_length_b       5.541614276950091
+_cell_length_c       5.545858593662827
+_cell_angle_alpha    119.9028064816778
+_cell_angle_beta     119.8977342113421
+_cell_angle_gamma    90.05759508854894
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.8135348867000574  0.2714507875046402  0.5514198761935878  1.0000
+  K   K2        1.0  0.0635188877006204  0.023128719631718052  0.05046347439795915  1.0000
+  Na  Na1       1.0  0.31394402551366085  0.7714062880393732  0.5515058733752347  1.0000
+  As  As1       1.0  0.5637987898076031  0.5223439092852427  0.051311356281649845  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       FOCO
+_chemical_formula_sum              "F1 O2 C1"
+_cell_length_a       3.8019735968998982
+_cell_length_b       4.981869087998625
+_cell_length_c       3.944511058962198
+_cell_angle_alpha    110.86581818004441
+_cell_angle_beta     95.86876113265023
+_cell_angle_gamma    109.94312681527211
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.5252624564565505  0.19181216308449053  0.5952929012194194  1.0000
+  O   O1        1.0  0.022512541102319553  0.9377564879431837  0.08785054642045159  1.0000
+  C   C1        1.0  0.26924084727001596  0.1902152437446306  0.33747969284686763  1.0000
+  O   O2        1.0  0.26891407046712085  0.44104263470153027  0.339364230444904  1.0000

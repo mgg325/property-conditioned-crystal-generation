@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_In2Te3Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14448842
+_cell_length_b   6.91180403
+_cell_length_c   7.62169132
+_cell_angle_alpha   76.76696492
+_cell_angle_beta   81.48336795
+_cell_angle_gamma   74.08478981
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2Te3Se
+_chemical_formula_sum   'In2 Te3 Se1'
+_cell_volume   203.53538755
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.08928976  0.50445972  0.20100899  1
+  In  In1  1  0.60261671  0.47323379  0.79369772  1
+  Te  Te2  1  0.51488513  0.78582674  1.01227901  1
+  Te  Te3  1  0.04218295  0.69847254  0.52967831  1
+  Te  Te4  1  0.20761014  0.25958223  0.59785524  1
+  Se  Se5  1  0.72139069  0.25674144  0.13202633  1

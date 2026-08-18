@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li2GeF9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31869401
+_cell_length_b   6.27429983
+_cell_length_c   6.25605457
+_cell_angle_alpha   90.14232896
+_cell_angle_beta   90.49094448
+_cell_angle_gamma   99.01614108
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2GeF9
+_chemical_formula_sum   'Li2 Ge1 F9'
+_cell_volume   244.94831106
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.56696005  0.21514730  0.65580937  1
+  Li  Li1  1  0.30891012  0.94421867  0.75089393  1
+  Ge  Ge2  1  0.33204967  0.62199614  0.26473626  1
+  F  F3  1  0.53643974  0.49584951  0.39651886  1
+  F  F4  1  0.18242061  0.37190966  0.15300890  1
+  F  F5  1  0.85542288  0.10655083  0.71348781  1
+  F  F6  1  0.47723670  0.70988318  0.93095498  1
+  F  F7  1  0.28131941  0.78652265  0.49544341  1
+  F  F8  1  0.48896641  0.14175551  0.64411372  1
+  F  F9  1  0.98851702  0.69928621  0.90329831  1
+  F  F10  1  0.66487901  0.89583939  0.39502234  1
+  F  F11  1  0.23014199  0.87419241  0.10380169  1

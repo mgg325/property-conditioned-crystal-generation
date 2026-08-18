@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbAc2Tc7NiXe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.58549738
+_cell_length_b   4.17207956
+_cell_length_c   5.43433475
+_cell_angle_alpha   90.13859558
+_cell_angle_beta   90.64530182
+_cell_angle_gamma   135.58734131
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbAc2Tc7NiXe
+_chemical_formula_sum   'Rb1 Ac2 Tc7 Ni1 Xe1'
+_cell_volume   120.33556676
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.70280623  0.18391687  0.65141237  1
+  Tc  Tc1  1  0.26223427  0.19182846  0.99155122  1
+  Tc  Tc2  1  0.10371855  0.11172798  0.67415416  1
+  Ni  Ni3  1  0.88463974  0.56226462  0.44181544  1
+  Ac  Ac4  1  0.70991766  0.60849410  0.37736574  1
+  Rb  Rb5  1  0.59734094  0.98549116  0.19572300  1
+  Tc  Tc6  1  0.45356607  0.67108864  0.72033346  1
+  Tc  Tc7  1  0.80048245  0.53667134  0.99860275  1
+  Tc  Tc8  1  0.27377576  0.18567911  0.39138672  1
+  Tc  Tc9  1  0.86745495  0.02626416  0.93406761  1
+  Tc  Tc10  1  0.00594932  0.63730931  0.62026954  1
+  Xe  Xe11  1  0.24294195  0.70327425  0.09258947  1

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ga2CsIr2
+_chemical_formula_sum              "Ga2 Cs1 Ir2"
+_cell_length_a       4.274271299725991
+_cell_length_b       4.264200082804053
+_cell_length_c       7.273833751678467
+_cell_angle_alpha    107.31632879497144
+_cell_angle_beta     106.35287567994531
+_cell_angle_gamma    91.48687932895409
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.8020592927932739  0.7332742214202881  0.20979580283164972  1.0000
+  Ga  Ga2       1.0  0.4775178134441376  0.40987059473991394  0.5615110397338867  1.0000
+  Cs  Cs1       1.0  0.14001402258872986  0.07207613438367844  0.8830812573432921  1.0000
+  Ir  Ir1       1.0  0.8891569375991821  0.321365088224411  0.38512426614761347  1.0000
+  Ir  Ir2       1.0  0.3910433053970337  0.8205700516700745  0.38474017381668085  1.0000

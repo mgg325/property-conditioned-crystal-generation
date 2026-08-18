@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       MnGePt
+_chemical_formula_sum              "Mn1 Ge1 Pt1"
+_cell_length_a       4.183147604010782
+_cell_length_b       4.184414920260827
+_cell_length_c       4.181178569793701
+_cell_angle_alpha    60.2407046966542
+_cell_angle_beta     60.25045299415712
+_cell_angle_gamma    60.23787868627874
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.4145618975162506  0.031665410846471786  0.965292751789093  1.0000
+  Ge  Ge1       1.0  0.9144515991210938  0.5312805771827698  0.46515747904777527  1.0000
+  Pt  Pt1       1.0  0.1645227670669556  0.7811431288719176  0.7151032090187073  1.0000

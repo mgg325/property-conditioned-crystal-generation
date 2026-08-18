@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Tb2Nd2YAl2
+_chemical_formula_sum              "Tb2 Nd2 Y1 Al2"
+_cell_length_a       3.7410463681114887
+_cell_length_b       6.603018601472222
+_cell_length_c       8.539727210998535
+_cell_angle_alpha    98.94786497601216
+_cell_angle_beta     89.98233280545844
+_cell_angle_gamma    106.42927695134492
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.4472272992134095  0.8574758768081666  0.5992664098739624  1.0000
+  Tb  Tb2       1.0  0.9256974458694458  0.8147680163383484  0.9203900694847108  1.0000
+  Nd  Nd1       1.0  0.30603882670402527  0.5751118659973145  0.20388413965702057  1.0000
+  Nd  Nd2       1.0  0.0664602518081665  0.09670431911945343  0.31546130776405334  1.0000
+  Y   Y1        1.0  0.18701751530170438  0.33608672022819513  0.7594937086105347  1.0000
+  Al  Al1       1.0  0.7524057030677795  0.4670401811599731  0.5008590221405029  1.0000
+  Al  Al2       1.0  0.6206850409507751  0.2055498659610748  0.018602279946208  1.0000

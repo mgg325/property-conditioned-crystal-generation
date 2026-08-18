@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Er2CuGe4Ir3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14912856
+_cell_length_b   4.14907975
+_cell_length_c   10.27589801
+_cell_angle_alpha   89.99917037
+_cell_angle_beta   90.00362245
+_cell_angle_gamma   89.99999386
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2CuGe4Ir3
+_chemical_formula_sum   'Er2 Cu1 Ge4 Ir3'
+_cell_volume   176.90025486
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.80021543  0.74979082  0.21320227  1
+  Er  Er1  1  0.30043992  0.24961957  0.69858730  1
+  Cu  Cu2  1  0.30016795  0.24962652  0.09192779  1
+  Ge  Ge3  1  0.30035260  0.74962748  0.95642639  1
+  Ge  Ge4  1  0.80013674  0.24951112  0.95642332  1
+  Ge  Ge5  1  0.80035874  0.74972553  0.58971062  1
+  Ge  Ge6  1  0.30036759  0.24980924  0.31850913  1
+  Ir  Ir7  1  0.30032121  0.74980173  0.45161226  1
+  Ir  Ir8  1  0.80037176  0.24974873  0.45159995  1
+  Ir  Ir9  1  0.80036609  0.74945739  0.82546565  1

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AlLaAlCuAlCu
+_chemical_formula_sum              "Al3 La1 Cu2"
+_cell_length_a       4.096729756351392
+_cell_length_b       5.470168228835872
+_cell_length_c       5.468731880187988
+_cell_angle_alpha    119.90950488890819
+_cell_angle_beta     89.99876624031667
+_cell_angle_gamma    90.01333503429127
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.8196821212768555  0.6651650667190552  0.41966646909713745  1.0000
+  La  La1       1.0  0.3198302686214447  0.165005624294281  0.9194477200508118  1.0000
+  Al  Al2       1.0  0.8199029564857483  0.16500040888786316  0.4195091724395752  1.0000
+  Cu  Cu1       1.0  0.3197160065174103  0.49831497669219965  0.5861488580703735  1.0000
+  Al  Al3       1.0  0.8199029564857483  0.6649684906005859  0.9195756912231445  1.0000
+  Cu  Cu2       1.0  0.31975486874580383  0.8315675258636473  0.25276753306388855  1.0000

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_MgGaTeSe7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.29529458
+_cell_length_b   7.03503555
+_cell_length_c   7.71330138
+_cell_angle_alpha   118.06130878
+_cell_angle_beta   122.98718497
+_cell_angle_gamma   90.67488706
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgGaTeSe7
+_chemical_formula_sum   'Mg1 Ga1 Te1 Se7'
+_cell_volume   235.70885189
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.55945095  0.57679979  0.20780481  1
+  Ga  Ga1  1  0.36545105  0.94751186  0.17358964  1
+  Te  Te2  1  0.95706074  0.64964782  0.66978224  1
+  Se  Se3  1  0.14334196  0.15980417  0.34424803  1
+  Se  Se4  1  0.00641873  0.05165370  0.16233943  1
+  Se  Se5  1  0.56310480  0.27246810  0.86853722  1
+  Se  Se6  1  0.45432128  0.71315514  0.51818164  1
+  Se  Se7  1  0.72198788  0.85731426  0.15169681  1
+  Se  Se8  1  0.15439704  0.02630389  0.71977978  1
+  Se  Se9  1  0.91895814  0.30895457  0.69631791  1

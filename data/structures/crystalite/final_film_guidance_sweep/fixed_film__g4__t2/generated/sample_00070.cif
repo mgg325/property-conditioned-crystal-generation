@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BaInSi(NF4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.02946663
+_cell_length_b   6.36534595
+_cell_length_c   12.28223133
+_cell_angle_alpha   74.73591614
+_cell_angle_beta   75.81513977
+_cell_angle_gamma   63.50300980
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaInSi(NF4)3
+_chemical_formula_sum   'Ba1 In1 Si1 N3 F12'
+_cell_volume   469.27959818
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.81632495  0.52784294  0.64454401  1
+  F  F1  1  0.82505023  0.69129050  0.58204424  1
+  F  F2  1  0.07734850  0.71203470  0.47868600  1
+  In  In3  1  0.97230160  0.87498045  0.42833543  1
+  F  F4  1  0.55906713  0.65686077  0.14067355  1
+  F  F5  1  0.76226258  0.70671904  0.24894220  1
+  F  F6  1  0.70515287  0.76661944  0.97413027  1
+  N  N7  1  0.92815381  0.73359591  0.86940831  1
+  F  F8  1  0.64190984  0.84617007  0.09834293  1
+  F  F9  1  0.83977294  0.78907502  0.38708070  1
+  N  N10  1  0.74723971  0.38370144  0.12793735  1
+  F  F11  1  0.62904525  0.73872757  0.10994902  1
+  Si  Si12  1  0.76696122  0.60791761  0.19739920  1
+  F  F13  1  0.08306414  0.94336671  0.24205929  1
+  N  N14  1  0.81138539  0.31272483  0.70088869  1
+  Ba  Ba15  1  0.29384217  0.13576901  0.56451285  1
+  F  F16  1  0.15422937  0.59592521  0.18591407  1
+  F  F17  1  0.82054967  0.70130634  0.55678600  1

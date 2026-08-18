@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Sc2P2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.66032600
+_cell_length_b   5.36448288
+_cell_length_c   5.32708740
+_cell_angle_alpha   107.42882538
+_cell_angle_beta   98.08456421
+_cell_angle_gamma   97.25523376
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2P2O7
+_chemical_formula_sum   'Sc2 P2 O7'
+_cell_volume   123.78583203
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.24399939  0.86106545  0.59737909  1
+  P  P1  1  0.44182450  0.40078098  0.15368024  1
+  Sc  Sc2  1  0.84999102  0.29956520  0.68538463  1
+  O  O3  1  0.05489224  0.70801902  0.77436149  1
+  O  O4  1  0.63026506  0.24517879  0.29913127  1
+  O  O5  1  0.64529455  0.55565286  0.00263217  1
+  O  O6  1  0.12709680  0.23836264  0.99425662  1
+  O  O7  1  0.54937381  0.02428293  0.77509457  1
+  O  O8  1  0.34026605  0.62869376  0.38012299  1
+  O  O9  1  0.05633816  0.01115197  0.45519665  1
+  Sc  Sc10  1  0.84442365  0.95647240  0.07422966  1

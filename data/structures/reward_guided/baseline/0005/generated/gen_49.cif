@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       InLaSrInLaIn
+_chemical_formula_sum              "In3 La2 Sr1"
+_cell_length_a       3.9832340520290943
+_cell_length_b       3.984176549875059
+_cell_length_c       11.934552192687988
+_cell_angle_alpha    90.01585537489366
+_cell_angle_beta     89.98574106919123
+_cell_angle_gamma    90.01034341085287
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.963549256324768  0.2576000392436982  0.23376491665840152  1.0000
+  La  La1       1.0  0.46357026696205134  0.7572772502899171  0.3923509120941162  1.0000
+  Sr  Sr1       1.0  0.46329221129417414  0.7572038173675538  0.058072291314601905  1.0000
+  In  In2       1.0  0.9634409546852111  0.25712674856185913  0.8823162317276002  1.0000
+  La  La2       1.0  0.46352854371070856  0.7572919726371765  0.7232879400253296  1.0000
+  In  In3       1.0  0.9635636806488036  0.25747668743133545  0.5581446886062622  1.0000

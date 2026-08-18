@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2Ag5Pd3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.65498842
+_cell_length_b   6.68609510
+_cell_length_c   5.63298700
+_cell_angle_alpha   89.95490442
+_cell_angle_beta   89.99234039
+_cell_angle_gamma   89.99893792
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Ag5Pd3
+_chemical_formula_sum   'Rb2 Ag5 Pd3'
+_cell_volume   250.64466407
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.47583285  0.77715760  0.56379886  1
+  Rb  Rb1  1  0.97596814  0.27899875  0.56380534  1
+  Ag  Ag2  1  0.72487874  0.52301293  0.07069503  1
+  Ag  Ag3  1  0.22824027  0.52383324  0.06924157  1
+  Ag  Ag4  1  0.72485596  0.03114394  0.07005327  1
+  Ag  Ag5  1  0.22667940  0.03201101  0.06914937  1
+  Ag  Ag6  1  0.97571316  0.77716922  0.80000545  1
+  Pd  Pd7  1  0.97640550  0.77698090  0.31145712  1
+  Pd  Pd8  1  0.47634128  0.27752298  0.81059789  1
+  Pd  Pd9  1  0.47552914  0.27684819  0.32981517  1

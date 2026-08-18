@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_MnGaF7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60759163
+_cell_length_b   5.67595530
+_cell_length_c   5.73642492
+_cell_angle_alpha   60.20928192
+_cell_angle_beta   60.45067978
+_cell_angle_gamma   60.06505585
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnGaF7
+_chemical_formula_sum   'Mn1 Ga1 F7'
+_cell_volume   129.80791979
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.71190208  0.05442911  0.99017739  1
+  F  F1  1  0.25957322  0.59823626  0.45797020  1
+  F  F2  1  0.72936225  0.56436175  0.45631301  1
+  F  F3  1  0.74049497  0.08010459  0.51485854  1
+  Mn  Mn4  1  0.98014444  0.32579038  0.70198572  1
+  F  F5  1  0.73056710  0.56922477  0.97605306  1
+  F  F6  1  0.23208314  0.05661002  0.99296868  1
+  F  F7  1  0.26347294  0.06262875  0.46462068  1
+  Ga  Ga8  1  0.48835909  0.84846473  0.21279886  1

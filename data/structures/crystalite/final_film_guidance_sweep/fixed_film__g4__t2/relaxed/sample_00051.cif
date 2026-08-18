@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_BaSiNF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.47992982
+_cell_length_b   6.80961849
+_cell_length_c   7.02747215
+_cell_angle_alpha   61.83911999
+_cell_angle_beta   62.60078778
+_cell_angle_gamma   61.17234206
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSiNF6
+_chemical_formula_sum   'Ba1 Si1 N1 F6'
+_cell_volume   228.38534299
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.20302740  0.22060638  0.06634818  1
+  Si  Si1  1  0.54492437  0.87013227  0.51563059  1
+  N  N2  1  0.40269580  0.58920611  0.53928977  1
+  F  F3  1  0.43602774  0.98723545  0.85673934  1
+  F  F4  1  0.78349254  0.53141748  0.03646114  1
+  F  F5  1  0.25039554  0.97202646  0.58325500  1
+  F  F6  1  0.72681304  0.58669384  0.56937535  1
+  F  F7  1  0.40955835  0.57501015  0.93482980  1
+  F  F8  1  0.54776126  0.86805738  0.51513008  1

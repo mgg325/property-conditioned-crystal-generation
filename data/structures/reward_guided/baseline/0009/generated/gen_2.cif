@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       TbSiPrTbPrTbSnPrSn
+_chemical_formula_sum              "Tb3 Si1 Pr3 Sn2"
+_cell_length_a       4.407768915942087
+_cell_length_b       8.364580146488954
+_cell_length_c       8.367070198059082
+_cell_angle_alpha    120.03663970046382
+_cell_angle_beta     90.06740964338059
+_cell_angle_gamma    90.01014533436134
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.01344732940196991  0.5639050006866455  0.3391761779785156  1.0000
+  Si  Si1       1.0  0.5131562352180481  0.5638598203659058  0.5850316882133484  1.0000
+  Pr  Pr1       1.0  0.5131576657295227  0.9639776349067688  0.585207760334015  1.0000
+  Tb  Tb2       1.0  0.012804740108549595  0.8099735379219055  0.8310733437538147  1.0000
+  Pr  Pr2       1.0  0.5134081244468689  0.5641148686408997  0.9851786494255066  1.0000
+  Tb  Tb3       1.0  0.013183201663196087  0.318423867225647  0.5850297808647156  1.0000
+  Sn  Sn1       1.0  0.013111172243952751  0.8972108960151672  0.2516161799430848  1.0000
+  Pr  Pr3       1.0  0.512884795665741  0.16424453258514404  0.18533463776111603  1.0000
+  Sn  Sn2       1.0  0.013305315747857094  0.23066632449626923  0.9183145761489868  1.0000

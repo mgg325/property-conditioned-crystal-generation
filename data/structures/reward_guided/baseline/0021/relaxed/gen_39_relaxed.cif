@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SrSm(ZnPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.42772821
+_cell_length_b   4.42460010
+_cell_length_c   8.05570109
+_cell_angle_alpha   90.00264608
+_cell_angle_beta   90.01005991
+_cell_angle_gamma   120.01383390
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrSm(ZnPt)2
+_chemical_formula_sum   'Sr1 Sm1 Zn2 Pt2'
+_cell_volume   136.65589929
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.26117892  0.66430449  0.90440063  1
+  Sm  Sm1  1  0.26090701  0.66502474  0.40419019  1
+  Zn  Zn2  1  0.92797845  0.99819197  0.17758139  1
+  Zn  Zn3  1  0.59480569  0.33132488  0.63093185  1
+  Pt  Pt4  1  0.92839590  0.99836354  0.62878427  1
+  Pt  Pt5  1  0.59426282  0.33096337  0.17971123  1

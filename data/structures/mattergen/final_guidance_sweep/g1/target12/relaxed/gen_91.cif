@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AgSe2Ir
+_chemical_formula_sum              "Ag1 Se2 Ir1"
+_cell_length_a       3.7595306449583
+_cell_length_b       3.759707025460259
+_cell_length_c       7.85305057286179
+_cell_angle_alpha    76.21938132279314
+_cell_angle_beta     76.23696532396195
+_cell_angle_gamma    59.97834566738247
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.592584342321653  0.7313187940850294  0.2536246553073831  1.0000
+  Se  Se1       1.0  0.4791140592702515  0.6183347749491912  0.5873115327427321  1.0000
+  Se  Se2       1.0  0.7025517101623212  0.8412654863634895  0.9199098158830872  1.0000
+  Ir  Ir1       1.0  0.09077206713692548  0.22979473067866982  0.7536660869399976  1.0000

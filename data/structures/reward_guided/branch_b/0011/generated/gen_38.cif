@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tb4Ga4
+_chemical_formula_sum              "Tb4 Ga4"
+_cell_length_a       4.044371368816544
+_cell_length_b       5.745846471297863
+_cell_length_c       7.852458477020264
+_cell_angle_alpha    90.6738758029274
+_cell_angle_beta     91.43161698527483
+_cell_angle_gamma    92.41129826762482
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.5889182686805725  0.031199637800455093  0.28225740790367126  1.0000
+  Tb  Tb2       1.0  0.09000946581363678  0.5340483784675598  0.4206902384757995  1.0000
+  Tb  Tb3       1.0  0.09072833508253098  0.7926052808761597  0.9196998476982116  1.0000
+  Tb  Tb4       1.0  0.5854171514511108  0.2920372188091278  0.782431125640869  1.0000
+  Ga  Ga1       1.0  0.5885210037231445  0.5431512594223022  0.136530339717865  1.0000
+  Ga  Ga2       1.0  0.5885087847709656  0.7811795473098755  0.6385963559150696  1.0000
+  Ga  Ga3       1.0  0.0902562215924263  0.2819112241268158  0.06496105343103409  1.0000
+  Ga  Ga4       1.0  0.08880887180566788  0.04410244524478912  0.5659440755844116  1.0000

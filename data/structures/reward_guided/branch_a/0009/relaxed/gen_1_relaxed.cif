@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaCa7(AlCd)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.84893377
+_cell_length_b   7.87541097
+_cell_length_c   6.83396450
+_cell_angle_alpha   107.08022766
+_cell_angle_beta   106.68384293
+_cell_angle_gamma   89.98979591
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCa7(AlCd)2
+_chemical_formula_sum   'Na1 Ca7 Al2 Cd2'
+_cell_volume   385.16498510
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.34485159  0.44714956  0.78655424  1
+  Ca  Ca1  1  0.98975145  0.58807797  0.36407773  1
+  Ca  Ca2  1  0.84350126  0.95604651  0.78784521  1
+  Ca  Ca3  1  0.84494348  0.44538044  0.79313482  1
+  Ca  Ca4  1  0.34677433  0.96156776  0.79099006  1
+  Ca  Ca5  1  0.48667816  0.10227844  0.36012840  1
+  Ca  Ca6  1  0.48389891  0.58333250  0.34930901  1
+  Ca  Ca7  1  0.98933586  0.10089933  0.36179983  1
+  Al  Al8  1  0.67349134  0.27055528  0.08153250  1
+  Al  Al9  1  0.16089572  0.26848671  0.07414341  1
+  Cd  Cd10  1  0.16526752  0.77473680  0.07440382  1
+  Cd  Cd11  1  0.66801345  0.77519447  0.07724467  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.20125675
+_cell_length_b   4.43383360
+_cell_length_c   5.13074017
+_cell_angle_alpha   92.57267761
+_cell_angle_beta   108.55789948
+_cell_angle_gamma   90.15180969
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SO9
+_chemical_formula_sum   'S1 O9'
+_cell_volume   68.95757997
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.74288154  0.58171666  0.56490457  1
+  S  S1  1  0.86107832  0.39248326  0.01472270  1
+  O  O2  1  0.61858422  0.24995175  0.16190347  1
+  O  O3  1  0.06158867  0.17862201  0.13302875  1
+  O  O4  1  0.27420300  0.00760907  0.59517670  1
+  O  O5  1  0.99082613  0.54660314  0.07110530  1
+  O  O6  1  0.77341914  0.82443762  0.25544026  1
+  O  O7  1  0.62341011  0.23905683  0.80928993  1
+  O  O8  1  0.29970354  0.80485463  0.54333800  1
+  O  O9  1  0.60587823  0.83575046  0.18553001  1

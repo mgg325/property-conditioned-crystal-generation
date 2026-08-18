@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NTi2NMoN
+_chemical_formula_sum              "N3 Ti2 Mo1"
+_cell_length_a       3.2571339949528624
+_cell_length_b       3.383196452185089
+_cell_length_c       6.52076530456543
+_cell_angle_alpha    99.50789811618398
+_cell_angle_beta     100.54674389551761
+_cell_angle_gamma    106.99469416140916
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.8039893507957458  0.6150164008140564  0.16389212012290955  1.0000
+  Ti  Ti1       1.0  0.9689726233482362  0.777897596359253  0.4947536587715149  1.0000
+  Ti  Ti2       1.0  0.17293554544448853  0.23234952986240387  0.15423782169818878  1.0000
+  N   N2        1.0  0.15509495139122015  0.9297351241111756  0.8292388319969177  1.0000
+  Mo  Mo1       1.0  0.5323623418807983  0.5409147143363953  0.8257871270179749  1.0000
+  N   N3        1.0  0.3348890542984009  0.39384678006172186  0.47813481092453003  1.0000

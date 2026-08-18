@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li2DyMgCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.38213271
+_cell_length_b   6.40115366
+_cell_length_c   7.53530442
+_cell_angle_alpha   89.99317245
+_cell_angle_beta   89.99664544
+_cell_angle_gamma   97.15591036
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2DyMgCl8
+_chemical_formula_sum   'Li2 Dy1 Mg1 Cl8'
+_cell_volume   305.44206986
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.85517210  0.84996391  0.74086055  1
+  Li  Li1  1  0.85529266  0.84967897  0.27487405  1
+  Dy  Dy2  1  0.35445075  0.34941471  0.00843888  1
+  Mg  Mg3  1  0.35474414  0.35001216  0.50838928  1
+  Cl  Cl4  1  0.54177727  0.16727638  0.26669659  1
+  Cl  Cl5  1  0.04943803  0.03957595  0.00809154  1
+  Cl  Cl6  1  0.64604501  0.64476498  0.50807618  1
+  Cl  Cl7  1  0.16747452  0.53229949  0.26658167  1
+  Cl  Cl8  1  0.65974222  0.65864698  0.00781202  1
+  Cl  Cl9  1  0.54161150  0.16718889  0.75008772  1
+  Cl  Cl10  1  0.16683309  0.53151600  0.75015612  1
+  Cl  Cl11  1  0.06353078  0.05482853  0.50788186  1

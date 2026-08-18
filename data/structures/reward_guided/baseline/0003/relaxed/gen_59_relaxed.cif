@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrLa2Tb9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.56190386
+_cell_length_b   11.54006841
+_cell_length_c   11.54102140
+_cell_angle_alpha   120.00948491
+_cell_angle_beta   89.99278348
+_cell_angle_gamma   89.99557830
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLa2Tb9
+_chemical_formula_sum   'Sr1 La2 Tb9'
+_cell_volume   410.79384626
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.26941848  0.20547722  0.77741400  1
+  La  La1  1  0.26964455  0.53832457  0.44468516  1
+  La  La2  1  0.26943947  0.87125477  0.11112357  1
+  Tb  Tb3  1  0.76966065  0.56302726  0.95696802  1
+  Tb  Tb4  1  0.26948350  0.70468026  0.27796659  1
+  Tb  Tb5  1  0.76987695  0.02554268  0.95705436  1
+  Tb  Tb6  1  0.76964882  0.84636130  0.59870540  1
+  Tb  Tb7  1  0.26969517  0.20505867  0.27766748  1
+  Tb  Tb8  1  0.76945916  0.38454178  0.59813950  1
+  Tb  Tb9  1  0.76938076  0.02589311  0.41944509  1
+  Tb  Tb10  1  0.26980061  0.70503161  0.77782952  1
+  Tb  Tb11  1  0.76951682  0.38425682  0.13656030  1

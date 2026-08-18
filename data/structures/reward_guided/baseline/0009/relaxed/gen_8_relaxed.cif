@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tb2Dy5Er2ScIn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73485599
+_cell_length_b   7.88016364
+_cell_length_c   9.80368492
+_cell_angle_alpha   90.00022386
+_cell_angle_beta   90.00000002
+_cell_angle_gamma   107.48406237
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Dy5Er2ScIn2
+_chemical_formula_sum   'Tb2 Dy5 Er2 Sc1 In2'
+_cell_volume   348.89032696
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.19152857  0.09841072  0.87691467  1
+  Tb  Tb1  1  0.52887615  0.77309994  0.37692268  1
+  Dy  Dy2  1  0.86477456  0.44480244  0.87693024  1
+  Dy  Dy3  1  0.69532180  0.10594092  0.62035840  1
+  Dy  Dy4  1  0.36162427  0.43851964  0.13667118  1
+  Dy  Dy5  1  0.36163397  0.43851916  0.61717024  1
+  Dy  Dy6  1  0.69533244  0.10592819  0.13347423  1
+  Er  Er7  1  0.02847788  0.77226705  0.12234489  1
+  Er  Er8  1  0.02847316  0.77224934  0.63149274  1
+  Sc  Sc9  1  0.19815830  0.11153803  0.37691147  1
+  In  In10  1  0.85947920  0.43423991  0.37691294  1
+  In  In11  1  0.52687147  0.76901699  0.87691127  1

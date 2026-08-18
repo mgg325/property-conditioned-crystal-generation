@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sr3MgSrMg
+_chemical_formula_sum              "Sr4 Mg2"
+_cell_length_a       4.183237496469172
+_cell_length_b       7.458407653938657
+_cell_length_c       9.070241928100586
+_cell_angle_alpha    107.13975454949058
+_cell_angle_beta     90.21169739733179
+_cell_angle_gamma    106.22476746186948
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.9203903079032898  0.49186685681343084  0.3729746639728546  1.0000
+  Sr  Sr2       1.0  0.2190481722354889  0.0915481597185135  0.5200518369674683  1.0000
+  Sr  Sr3       1.0  0.8676618933677673  0.3883873820304871  0.9352346062660217  1.0000
+  Mg  Mg1       1.0  0.2138960063457489  0.08079221844673157  0.11060259491205215  1.0000
+  Sr  Sr4       1.0  0.5683223605155946  0.7884144783020021  0.7874100208282471  1.0000
+  Mg  Mg2       1.0  0.572794795036316  0.7975001931190492  0.1978464275598526  1.0000

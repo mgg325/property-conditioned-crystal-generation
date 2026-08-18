@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       FNF2PrNCl2
+_chemical_formula_sum              "F3 N2 Pr1 Cl2"
+_cell_length_a       4.665782788720291
+_cell_length_b       4.665108446122706
+_cell_length_c       10.595576660023506
+_cell_angle_alpha    89.9438641466607
+_cell_angle_beta     89.89566391852802
+_cell_angle_gamma    90.00080416388876
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.30103799945502374  0.08012120744870528  0.8526431795681138  1.0000
+  N   N1        1.0  0.2932808656389517  0.5790518245570053  0.4153569214829376  1.0000
+  F   F2        1.0  0.8010894017239353  0.5799959077344784  0.8528383698391934  1.0000
+  F   F3        1.0  0.8015392037547054  0.08081489187120501  0.6162914209392063  1.0000
+  Pr  Pr1       1.0  0.8008602869759625  0.08009413977410494  0.8155048022188183  1.0000
+  N   N2        1.0  0.31263268725201226  0.5794248428518258  0.3106012261019287  1.0000
+  Cl  Cl1       1.0  0.8012183172485684  0.07981902298332054  0.16742613336949252  1.0000
+  Cl  Cl2       1.0  0.8023442501030112  0.07962499372218063  0.3574766579018557  1.0000

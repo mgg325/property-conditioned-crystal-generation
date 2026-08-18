@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Sr2TlMg
+_chemical_formula_sum              "Sr2 Tl1 Mg1"
+_cell_length_a       4.2035407425570535
+_cell_length_b       5.296398563448434
+_cell_length_c       6.923330783843994
+_cell_angle_alpha    89.96701952090513
+_cell_angle_beta     107.70484934043169
+_cell_angle_gamma    90.02265824309336
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.2139582484960556  0.8802388310432434  0.48270174860954285  1.0000
+  Sr  Sr2       1.0  0.5162912011146545  0.38005575537681574  0.0872223973274231  1.0000
+  Tl  Tl1       1.0  0.7965193390846252  0.3810106515884399  0.6466599106788635  1.0000
+  Mg  Mg1       1.0  0.9289195537567139  0.8799400329589844  0.9135873317718506  1.0000

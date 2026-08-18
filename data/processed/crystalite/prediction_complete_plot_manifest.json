@@ -1,0 +1,137 @@
+{
+  "dataset_split_root": "provenance://AnisoNet/mattergen_dielectric_original_split_csv",
+  "sources_used": [
+    {
+      "method": "additive",
+      "label": "additive",
+      "per_sample_csv": "provenance://crystalite/outputs/final report output/evaluation_additive/per_sample_evaluation.csv",
+      "n_rows": 1120,
+      "n_groups": 11,
+      "guidance_factors_plotted": [
+        1,
+        2,
+        3
+      ],
+      "figure_paths": [
+        "provenance://crystalite/outputs/final report output/figures_prediction_complete/additive/additive_prediction_density_g1.png",
+        "provenance://crystalite/outputs/final report output/figures_prediction_complete/additive/additive_prediction_density_g2.png",
+        "provenance://crystalite/outputs/final report output/figures_prediction_complete/additive/additive_prediction_density_g3.png"
+      ],
+      "combined_per_sample_csv": "provenance://crystalite/outputs/final report output/prediction_complete_per_sample_additive.csv"
+    },
+    {
+      "method": "concat_mlp",
+      "label": "concat_mlp",
+      "per_sample_csv": "provenance://crystalite/outputs/final report output/evaluation_concat_mlp/per_sample_evaluation.csv",
+      "n_rows": 1548,
+      "n_groups": 13,
+      "guidance_factors_plotted": [
+        1,
+        2,
+        3
+      ],
+      "figure_paths": [
+        "provenance://crystalite/outputs/final report output/figures_prediction_complete/concat_mlp/concat_mlp_prediction_density_g1.png",
+        "provenance://crystalite/outputs/final report output/figures_prediction_complete/concat_mlp/concat_mlp_prediction_density_g2.png",
+        "provenance://crystalite/outputs/final report output/figures_prediction_complete/concat_mlp/concat_mlp_prediction_density_g3.png"
+      ],
+      "combined_per_sample_csv": "provenance://crystalite/outputs/final report output/prediction_complete_per_sample_concat_mlp.csv"
+    },
+    {
+      "method": "residual_delta",
+      "label": "residual_delta",
+      "per_sample_csv": "provenance://crystalite/outputs/final report output/evaluation_residual_delta/per_sample_evaluation.csv",
+      "n_rows": 2669,
+      "n_groups": 21,
+      "guidance_factors_plotted": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "figure_paths": [
+        "provenance://crystalite/outputs/final report output/figures_prediction_complete/residual_delta/residual_delta_prediction_density_g1.png",
+        "provenance://crystalite/outputs/final report output/figures_prediction_complete/residual_delta/residual_delta_prediction_density_g2.png",
+        "provenance://crystalite/outputs/final report output/figures_prediction_complete/residual_delta/residual_delta_prediction_density_g3.png",
+        "provenance://crystalite/outputs/final report output/figures_prediction_complete/residual_delta/residual_delta_prediction_density_g4.png",
+        "provenance://crystalite/outputs/final report output/figures_prediction_complete/residual_delta/residual_delta_prediction_density_g5.png"
+      ],
+      "combined_per_sample_csv": "provenance://crystalite/outputs/final report output/prediction_complete_per_sample_residual_delta.csv"
+    },
+    {
+      "method": "additive_plus_film",
+      "label": "additive_plus_film",
+      "per_sample_csv": "provenance://crystalite/outputs/final report output/evaluation_additive_plus_film/per_sample_evaluation.csv",
+      "n_rows": 1416,
+      "n_groups": 12,
+      "guidance_factors_plotted": [
+        1,
+        2,
+        3
+      ],
+      "figure_paths": [
+        "provenance://crystalite/outputs/final report output/figures_prediction_complete/additive_plus_film/additive_plus_film_prediction_density_g1.png",
+        "provenance://crystalite/outputs/final report output/figures_prediction_complete/additive_plus_film/additive_plus_film_prediction_density_g2.png",
+        "provenance://crystalite/outputs/final report output/figures_prediction_complete/additive_plus_film/additive_plus_film_prediction_density_g3.png"
+      ],
+      "combined_per_sample_csv": "provenance://crystalite/outputs/final report output/prediction_complete_per_sample_additive_plus_film.csv"
+    },
+    {
+      "method": "fixed_film",
+      "label": "fixed_film",
+      "per_sample_csv": "provenance://crystalite/outputs/final report output/evaluation/per_sample_evaluation.csv",
+      "n_rows": 2119,
+      "n_groups": 21,
+      "guidance_factors_plotted": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "figure_paths": [
+        "provenance://crystalite/outputs/final report output/figures_prediction_complete/fixed_film/fixed_film_prediction_density_g1.png",
+        "provenance://crystalite/outputs/final report output/figures_prediction_complete/fixed_film/fixed_film_prediction_density_g2.png",
+        "provenance://crystalite/outputs/final report output/figures_prediction_complete/fixed_film/fixed_film_prediction_density_g3.png",
+        "provenance://crystalite/outputs/final report output/figures_prediction_complete/fixed_film/fixed_film_prediction_density_g4.png",
+        "provenance://crystalite/outputs/final report output/figures_prediction_complete/fixed_film/fixed_film_prediction_density_g5.png"
+      ],
+      "combined_per_sample_csv": "provenance://crystalite/outputs/final report output/prediction_complete_per_sample_fixed_film.csv"
+    }
+  ],
+  "missing_sources": [],
+  "targets_plotted": [
+    2,
+    4,
+    8,
+    12
+  ],
+  "target_colors": {
+    "2": "#d1495b",
+    "4": "#5e548e",
+    "8": "#2a9d8f",
+    "12": "#f4a261"
+  },
+  "figure_paths": [
+    "provenance://crystalite/outputs/final report output/figures_prediction_complete/additive/additive_prediction_density_g1.png",
+    "provenance://crystalite/outputs/final report output/figures_prediction_complete/additive/additive_prediction_density_g2.png",
+    "provenance://crystalite/outputs/final report output/figures_prediction_complete/additive/additive_prediction_density_g3.png",
+    "provenance://crystalite/outputs/final report output/figures_prediction_complete/concat_mlp/concat_mlp_prediction_density_g1.png",
+    "provenance://crystalite/outputs/final report output/figures_prediction_complete/concat_mlp/concat_mlp_prediction_density_g2.png",
+    "provenance://crystalite/outputs/final report output/figures_prediction_complete/concat_mlp/concat_mlp_prediction_density_g3.png",
+    "provenance://crystalite/outputs/final report output/figures_prediction_complete/residual_delta/residual_delta_prediction_density_g1.png",
+    "provenance://crystalite/outputs/final report output/figures_prediction_complete/residual_delta/residual_delta_prediction_density_g2.png",
+    "provenance://crystalite/outputs/final report output/figures_prediction_complete/residual_delta/residual_delta_prediction_density_g3.png",
+    "provenance://crystalite/outputs/final report output/figures_prediction_complete/residual_delta/residual_delta_prediction_density_g4.png",
+    "provenance://crystalite/outputs/final report output/figures_prediction_complete/residual_delta/residual_delta_prediction_density_g5.png",
+    "provenance://crystalite/outputs/final report output/figures_prediction_complete/additive_plus_film/additive_plus_film_prediction_density_g1.png",
+    "provenance://crystalite/outputs/final report output/figures_prediction_complete/additive_plus_film/additive_plus_film_prediction_density_g2.png",
+    "provenance://crystalite/outputs/final report output/figures_prediction_complete/additive_plus_film/additive_plus_film_prediction_density_g3.png",
+    "provenance://crystalite/outputs/final report output/figures_prediction_complete/fixed_film/fixed_film_prediction_density_g1.png",
+    "provenance://crystalite/outputs/final report output/figures_prediction_complete/fixed_film/fixed_film_prediction_density_g2.png",
+    "provenance://crystalite/outputs/final report output/figures_prediction_complete/fixed_film/fixed_film_prediction_density_g3.png",
+    "provenance://crystalite/outputs/final report output/figures_prediction_complete/fixed_film/fixed_film_prediction_density_g4.png",
+    "provenance://crystalite/outputs/final report output/figures_prediction_complete/fixed_film/fixed_film_prediction_density_g5.png"
+  ]
+}

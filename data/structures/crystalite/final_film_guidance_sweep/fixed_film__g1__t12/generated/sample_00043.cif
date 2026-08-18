@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Zr2CdSnS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.51403737
+_cell_length_b   3.62368417
+_cell_length_c   19.09644508
+_cell_angle_alpha   89.95000458
+_cell_angle_beta   90.06748962
+_cell_angle_gamma   120.26194763
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2CdSnS6
+_chemical_formula_sum   'Zr2 Cd1 Sn1 S6'
+_cell_volume   210.03280984
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.79584420  0.18187967  0.41316301  1
+  Cd  Cd1  1  0.76098919  0.19186929  0.88899410  1
+  S  S2  1  0.46639740  0.48537502  0.07930729  1
+  S  S3  1  0.78532165  0.15814793  0.17931738  1
+  S  S4  1  0.45534098  0.50324827  0.87865222  1
+  Zr  Zr5  1  0.13239390  0.83601117  0.06288430  1
+  Zr  Zr6  1  0.46613911  0.51639414  0.35558015  1
+  S  S7  1  0.12300906  0.84307253  0.75451523  1
+  S  S8  1  0.13040841  0.84136605  0.52437598  1
+  Sn  Sn9  1  0.44175008  0.51545846  0.61505079  1

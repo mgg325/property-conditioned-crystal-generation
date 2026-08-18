@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Er2ZnHg
+_chemical_formula_sum              "Er2 Zn1 Hg1"
+_cell_length_a       3.605161001651711
+_cell_length_b       5.186330285389516
+_cell_length_c       5.136046409606934
+_cell_angle_alpha    90.28959570076057
+_cell_angle_beta     91.03796577724773
+_cell_angle_gamma    88.7367863193315
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.24981778860092163  0.6505045294761658  0.05411221832036972  1.0000
+  Er  Er2       1.0  0.2484874725341797  0.15108074247837067  0.5539911985397339  1.0000
+  Zn  Zn1       1.0  0.7487850785255432  0.6519366502761841  0.5530689358711243  1.0000
+  Hg  Hg1       1.0  0.749453604221344  0.15180487930774691  0.053445447236299515  1.0000

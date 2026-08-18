@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LiAgSnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98527158
+_cell_length_b   6.22291911
+_cell_length_c   6.33239914
+_cell_angle_alpha   119.42109039
+_cell_angle_beta   107.30837886
+_cell_angle_gamma   90.01055796
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAgSnO4
+_chemical_formula_sum   'Li2 Ag2 Sn2 O8'
+_cell_volume   193.07487669
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.35375902  0.62261542  0.92412711  1
+  Li  Li1  1  0.35142066  0.12221530  0.92369451  1
+  Ag  Ag2  1  0.85211753  0.12208255  0.92398553  1
+  Ag  Ag3  1  0.85271988  0.62176035  0.92333145  1
+  Sn  Sn4  1  0.35227761  0.62208080  0.42379298  1
+  Sn  Sn5  1  0.35227192  0.12211563  0.42385141  1
+  O  O6  1  0.60889119  0.31877861  0.81696899  1
+  O  O7  1  0.50756282  0.80728178  0.29406965  1
+  O  O8  1  0.50735428  0.30706632  0.29369064  1
+  O  O9  1  0.09592138  0.92560915  0.03055305  1
+  O  O10  1  0.19724454  0.43716908  0.55404374  1
+  O  O11  1  0.09589670  0.42516445  0.03052257  1
+  O  O12  1  0.19705066  0.93694387  0.55366334  1
+  O  O13  1  0.60889446  0.81834287  0.81695594  1

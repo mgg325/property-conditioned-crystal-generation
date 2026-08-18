@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ce3Hf(TlS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.18121027
+_cell_length_b   8.18101055
+_cell_length_c   9.03094836
+_cell_angle_alpha   63.04546341
+_cell_angle_beta   63.04143736
+_cell_angle_gamma   60.00158007
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3Hf(TlS2)4
+_chemical_formula_sum   'Ce3 Hf1 Tl4 S8'
+_cell_volume   446.03068067
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.96849337  0.44893288  0.31004273  1
+  Ce  Ce1  1  0.96860923  0.94874744  0.30993844  1
+  Ce  Ce2  1  0.46873705  0.94878012  0.30996789  1
+  Hf  Hf3  1  0.46864782  0.44898331  0.30971307  1
+  Tl  Tl4  1  0.46836637  0.44845683  0.81026368  1
+  Tl  Tl5  1  0.96869983  0.94898180  0.80969772  1
+  Tl  Tl6  1  0.96853612  0.44898572  0.81011547  1
+  Tl  Tl7  1  0.46848604  0.94923126  0.80980741  1
+  S  S8  1  0.25283485  0.23323664  0.49780020  1
+  S  S9  1  0.71190907  0.23318149  0.49777806  1
+  S  S10  1  0.20246325  0.18262134  0.10905174  1
+  S  S11  1  0.22524331  0.66452019  0.12213127  1
+  S  S12  1  0.25301742  0.69229254  0.49772228  1
+  S  S13  1  0.68426131  0.66468213  0.12219816  1
+  S  S14  1  0.73482972  0.71516119  0.51122724  1
+  S  S15  1  0.68437609  0.20546051  0.12213450  1

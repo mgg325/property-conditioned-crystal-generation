@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Y2ZnNiSn2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44378488
+_cell_length_b   5.80370095
+_cell_length_c   6.03894233
+_cell_angle_alpha   97.29405526
+_cell_angle_beta   90.06307539
+_cell_angle_gamma   112.51361518
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2ZnNiSn2C
+_chemical_formula_sum   'Y2 Zn1 Ni1 Sn2 C1'
+_cell_volume   142.50253854
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.22990154  0.41871558  0.82313664  1
+  Y  Y1  1  0.79914272  0.55833195  0.35843636  1
+  Zn  Zn2  1  0.92949900  0.81721472  0.86383991  1
+  Ni  Ni3  1  0.45498518  0.87080687  0.20149453  1
+  Sn  Sn4  1  0.51634476  0.99174563  0.64938356  1
+  Sn  Sn5  1  0.08212299  0.12474848  0.27203947  1
+  C  C6  1  0.27750997  0.51540894  0.20345860  1

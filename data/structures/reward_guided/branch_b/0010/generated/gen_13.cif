@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TbInPr2In
+_chemical_formula_sum              "Tb1 In2 Pr2"
+_cell_length_a       5.365928197164258
+_cell_length_b       5.451198653597769
+_cell_length_c       6.578325271606445
+_cell_angle_alpha    65.8084007080677
+_cell_angle_beta     66.0804342012455
+_cell_angle_gamma    60.06038705472981
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.37066882848739624  0.11912145465612411  0.6160255670547485  1.0000
+  In  In1       1.0  0.7834540605545044  0.5312473773956299  0.37974247336387645  1.0000
+  Pr  Pr1       1.0  0.15407444536685944  0.903774321079254  0.26603415608406067  1.0000
+  Pr  Pr2       1.0  0.5856901407241821  0.3377295732498169  0.9703633785247804  1.0000
+  In  In2       1.0  0.9588177800178528  0.7056055665016174  0.8575897812843324  1.0000

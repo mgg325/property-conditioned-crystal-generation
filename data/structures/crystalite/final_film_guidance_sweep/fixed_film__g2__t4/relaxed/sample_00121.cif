@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_K2Li3H3O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02499303
+_cell_length_b   4.76124414
+_cell_length_c   6.94198480
+_cell_angle_alpha   78.16769961
+_cell_angle_beta   72.32143290
+_cell_angle_gamma   87.70178637
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Li3H3O5
+_chemical_formula_sum   'K2 Li3 H3 O5'
+_cell_volume   154.83883386
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.37646580  -0.03700308  1.03954992  1
+  K  K1  1  0.76951890  0.50423821  0.24292627  1
+  Li  Li2  1  0.98626708  0.28570567  0.76939204  1
+  Li  Li3  1  0.43623098  0.62046876  0.63741345  1
+  Li  Li4  1  0.04323469  0.86652179  0.57137960  1
+  H  H5  1  0.52614944  0.09654206  0.52177546  1
+  H  H6  1  0.03743243  0.71248259  0.88600533  1
+  H  H7  1  0.22485722  0.33688974  0.42856402  1
+  O  O8  1  0.21692747  0.46151202  0.91291785  1
+  O  O9  1  0.68139619  0.30304444  0.64649409  1
+  O  O10  1  0.43890476  -0.00383094  0.44299301  1
+  O  O11  1  0.90613207  0.87655485  0.86442603  1
+  O  O12  1  0.14130555  0.51895225  0.46320685  1

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HCuHCl
+_chemical_formula_sum              "H2 Cu1 Cl1"
+_cell_length_a       3.7221830144190298
+_cell_length_b       3.7614073750895085
+_cell_length_c       5.286439418792725
+_cell_angle_alpha    71.99806313061943
+_cell_angle_beta     70.38444899005708
+_cell_angle_gamma    60.541774010276086
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.8946955800056456  0.816203236579895  0.08480167388916016  1.0000
+  Cu  Cu1       1.0  0.7022998929023743  0.8157109022140503  0.4328799545764923  1.0000
+  H   H2        1.0  0.7324045896530151  0.046102143824100494  0.07680229097604752  1.0000
+  Cl  Cl1       1.0  0.3210335373878479  0.4293520748615265  0.5862652063369751  1.0000

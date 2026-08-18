@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sr2Li4BiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.12473079
+_cell_length_b   5.91353284
+_cell_length_c   6.04777752
+_cell_angle_alpha   117.87476817
+_cell_angle_beta   107.97964086
+_cell_angle_gamma   95.76159464
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Li4BiO5
+_chemical_formula_sum   'Sr2 Li4 Bi1 O5'
+_cell_volume   176.19963282
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.86398506  0.92056565  0.01462014  1
+  Sr  Sr1  1  0.59949631  0.17913603  0.60151212  1
+  Li  Li2  1  0.15122095  0.21750792  0.79704648  1
+  Li  Li3  1  0.34185550  0.77148465  0.83156186  1
+  Li  Li4  1  0.26140033  0.69396381  0.17378240  1
+  Li  Li5  1  0.26424357  0.39141360  0.31243142  1
+  Bi  Bi6  1  0.74253631  0.56134558  0.30292256  1
+  O  O7  1  0.47774407  0.75202419  0.56867881  1
+  O  O8  1  0.28733422  0.02204101  0.14098573  1
+  O  O9  1  0.97569352  0.39771916  0.04794332  1
+  O  O10  1  0.44329285  0.50688143  0.93431020  1
+  O  O11  1  0.90210847  0.97837717  0.44556262  1

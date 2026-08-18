@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_RbMgBe2Ga2GeC2Br4N3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   0.85563779
+_cell_length_b   2.20393491
+_cell_length_c   7.61125851
+_cell_angle_alpha   95.75038910
+_cell_angle_beta   91.12475586
+_cell_angle_gamma   94.41535950
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbMgBe2Ga2GeC2Br4N3
+_chemical_formula_sum   'Rb1 Mg1 Be2 Ga2 Ge1 C2 Br4 N3'
+_cell_volume   14.23306270
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.84265888  0.25920004  0.25451750  1
+  N  N1  1  0.82331586  0.84568179  0.25849724  1
+  Mg  Mg2  1  0.14845824  0.75444961  0.41920048  1
+  Br  Br3  1  0.00230795  0.73298860  0.16758215  1
+  Be  Be4  1  0.36083123  0.91617352  0.69054061  1
+  Br  Br5  1  0.46636200  0.68166947  0.34774703  1
+  C  C6  1  0.95751590  0.06919652  0.64463848  1
+  N  N7  1  0.89028072  0.85427570  0.70757318  1
+  Rb  Rb8  1  0.58631057  0.15866655  0.90692830  1
+  C  C9  1  0.48418990  0.05486539  0.19127175  1
+  Br  Br10  1  0.43022564  0.36983597  0.90648711  1
+  Ga  Ga11  1  0.47148496  0.12577420  0.44754034  1
+  N  N12  1  0.93772364  0.87092793  0.62593359  1
+  Ga  Ga13  1  0.02363753  0.50287926  0.70860869  1
+  Be  Be14  1  0.41576555  0.96875972  0.70222652  1
+  Br  Br15  1  0.51774848  0.13165003  0.56364018  1

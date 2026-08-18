@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaPbF4
+_chemical_formula_sum              "Ca1 Pb1 F4"
+_cell_length_a       3.9327049153262155
+_cell_length_b       4.012334470195004
+_cell_length_c       5.866137504577637
+_cell_angle_alpha    90.76154811824163
+_cell_angle_beta     90.1073594151339
+_cell_angle_gamma    92.31568265005252
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.7060919404029846  0.2766364812850952  0.5797653794288635  1.0000
+  Pb  Pb1       1.0  0.20772673189640045  0.7764451503753662  0.07773758471012115  1.0000
+  F   F1        1.0  0.7082704305648804  0.7765074372291565  0.3501276969909668  1.0000
+  F   F2        1.0  0.2049718052148819  0.27604037523269653  0.8092113137245178  1.0000
+  F   F3        1.0  0.7066272497177124  0.7756507992744446  0.8116705417633057  1.0000
+  F   F4        1.0  0.20759060978889465  0.27791550755500793  0.3477238118648529  1.0000

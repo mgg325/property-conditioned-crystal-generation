@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb7Tc3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   30.58682823
+_cell_length_b   5.07255983
+_cell_length_c   53.55384827
+_cell_angle_alpha   87.97747040
+_cell_angle_beta   90.91306305
+_cell_angle_gamma   157.31646729
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb7Tc3
+_chemical_formula_sum   'Rb7 Tc3'
+_cell_volume   3199.33841491
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.69609070  0.55516487  0.06550691  1
+  Rb  Rb1  1  0.37493253  0.60976923  0.30377796  1
+  Rb  Rb2  1  0.35047194  0.03582653  0.06397548  1
+  Rb  Rb3  1  0.42158374  0.13787377  0.80994618  1
+  Rb  Rb4  1  0.28630555  0.45689261  0.65034270  1
+  Rb  Rb5  1  0.86680269  0.88373548  0.64163214  1
+  Rb  Rb6  1  0.95475316  0.09789667  0.22978476  1
+  Tc  Tc7  1  0.48664016  0.09845412  0.46523187  1
+  Tc  Tc8  1  0.98864377  0.56827283  0.42022631  1
+  Tc  Tc9  1  0.95493621  0.49036679  0.86886513  1

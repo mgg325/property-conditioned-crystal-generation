@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ce2Si5B3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.82229780
+_cell_length_b   3.82071708
+_cell_length_c   9.59872159
+_cell_angle_alpha   89.99728937
+_cell_angle_beta   89.98254621
+_cell_angle_gamma   89.99877297
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Si5B3
+_chemical_formula_sum   'Ce2 Si5 B3'
+_cell_volume   140.17894073
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.89497312  0.31122879  0.73322373  1
+  Ce  Ce1  1  0.89537344  0.31146939  0.25030797  1
+  Si  Si2  1  0.89547622  0.81200694  0.01473879  1
+  Si  Si3  1  0.89523539  0.81045428  0.48835390  1
+  Si  Si4  1  0.39629535  0.31185902  0.01500653  1
+  Si  Si5  1  0.39487134  0.31011055  0.48829932  1
+  Si  Si6  1  0.39514071  0.81132847  0.84269182  1
+  B  B7  1  0.39523279  0.81142146  0.33813370  1
+  B  B8  1  0.39552636  0.81115234  0.62926900  1
+  B  B9  1  0.39535603  0.81140218  0.15892604  1

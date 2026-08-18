@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Tl2SiSCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76613542
+_cell_length_b   6.75319773
+_cell_length_c   7.17413414
+_cell_angle_alpha   117.92927767
+_cell_angle_beta   118.03434376
+_cell_angle_gamma   90.11544516
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2SiSCl4
+_chemical_formula_sum   'Tl2 Si1 S1 Cl4'
+_cell_volume   245.05205806
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.37767430  0.17882727  0.71578526  1
+  Tl  Tl1  1  0.87883010  0.67872628  0.71484047  1
+  Si  Si2  1  0.65712096  0.95511580  0.27264060  1
+  S  S3  1  0.85062714  0.14880194  0.65978931  1
+  Cl  Cl4  1  0.82035056  0.11947591  0.15464579  1
+  Cl  Cl5  1  0.37661955  0.67361875  0.15657683  1
+  Cl  Cl6  1  0.82012938  0.67427891  0.15470311  1
+  Cl  Cl7  1  0.37584111  0.11769746  0.15401212  1

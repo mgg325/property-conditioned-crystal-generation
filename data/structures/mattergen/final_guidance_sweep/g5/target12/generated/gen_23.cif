@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cu3AsAgCu
+_chemical_formula_sum              "Cu4 As1 Ag1"
+_cell_length_a       4.963747871968901
+_cell_length_b       4.956293393934765
+_cell_length_c       4.956833839416504
+_cell_angle_alpha    59.63134514890257
+_cell_angle_beta     59.69183180423941
+_cell_angle_gamma    59.73500964652058
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.6688495874404907  0.6011327505111694  0.3761275410652162  1.0000
+  Cu  Cu2       1.0  0.6694283485412598  0.10277969390153885  0.37620136141777044  1.0000
+  Cu  Cu3       1.0  0.6692569851875305  0.602023184299469  0.8772979378700256  1.0000
+  As  As1       1.0  0.04421725496649744  0.9771076440811157  0.751676082611084  1.0000
+  Ag  Ag1       1.0  0.29450300335884094  0.2270232141017914  0.0012326471041887999  1.0000
+  Cu  Cu4       1.0  0.17077536880970004  0.6018689870834351  0.3762087821960449  1.0000

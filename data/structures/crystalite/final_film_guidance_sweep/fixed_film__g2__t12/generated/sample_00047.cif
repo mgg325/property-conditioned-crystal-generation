@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_AcNdUSi5P4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.87285137
+_cell_length_b   6.43834734
+_cell_length_c   6.87189054
+_cell_angle_alpha   89.75453186
+_cell_angle_beta   89.83025360
+_cell_angle_gamma   92.18070984
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcNdUSi5P4
+_chemical_formula_sum   'Ac1 Nd1 U1 Si5 P4'
+_cell_volume   259.64436331
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.55686736  0.29465652  0.32743847  1
+  Si  Si1  1  0.67441213  0.98850393  0.77102768  1
+  P  P2  1  0.68513960  0.77658248  0.96972847  1
+  Ac  Ac3  1  0.93024248  0.70780116  0.48842406  1
+  U  U4  1  0.15915465  0.96905482  0.09807107  1
+  Nd  Nd5  1  0.13149095  0.41452715  0.85496545  1
+  Si  Si6  1  0.52197653  0.67071617  0.24415869  1
+  P  P7  1  0.43020540  0.67867148  0.64782560  1
+  P  P8  1  0.89563155  0.27672723  0.25093421  1
+  Si  Si9  1  0.36277038  0.00613460  0.51411819  1
+  Si  Si10  1  0.69388789  0.25991121  0.60240889  1
+  P  P11  1  0.67701846  0.40567476  0.04604799  1

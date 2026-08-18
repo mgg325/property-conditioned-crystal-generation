@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tb4Dy3ErTm4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.62908023
+_cell_length_b   6.85397968
+_cell_length_c   9.74432435
+_cell_angle_alpha   90.01166185
+_cell_angle_beta   89.99887445
+_cell_angle_gamma   90.00019102
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb4Dy3ErTm4
+_chemical_formula_sum   'Tb4 Dy3 Er1 Tm4'
+_cell_volume   375.95163138
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.14868413  0.30739758  0.33756713  1
+  Tb  Tb1  1  0.64872532  0.80805337  0.50362300  1
+  Tb  Tb2  1  0.64880171  0.30695929  0.83545773  1
+  Tb  Tb3  1  0.14871094  0.80770901  0.00283066  1
+  Dy  Dy4  1  0.14865844  0.30759598  1.00343679  1
+  Dy  Dy5  1  0.14873232  0.80762427  0.33680465  1
+  Dy  Dy6  1  0.64867381  0.80739122  0.83682792  1
+  Er  Er7  1  0.14873562  0.05751775  0.66962767  1
+  Tm  Tm8  1  0.64873583  0.30775687  0.50270318  1
+  Tm  Tm9  1  0.64873407  0.05773243  0.17017503  1
+  Tm  Tm10  1  0.64873572  0.55742355  0.17016905  1
+  Tm  Tm11  1  0.14873346  0.55714299  0.66940516  1

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       H3Zn
+_chemical_formula_sum              "H3 Zn1"
+_cell_length_a       3.5065831791228947
+_cell_length_b       3.507411874948531
+_cell_length_c       3.4945249557495117
+_cell_angle_alpha    90.06215722333828
+_cell_angle_beta     89.8633099406657
+_cell_angle_gamma    89.97313937032861
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.9563691020011902  0.7049874663352966  0.8347638249397277  1.0000
+  H   H2        1.0  0.4566638767719269  0.20501302182674408  0.8354380726814269  1.0000
+  H   H3        1.0  0.9572394490242004  0.20568810403347015  0.33574831485748285  1.0000
+  Zn  Zn1       1.0  0.9571589231491089  0.20495863258838654  0.8352973461151122  1.0000

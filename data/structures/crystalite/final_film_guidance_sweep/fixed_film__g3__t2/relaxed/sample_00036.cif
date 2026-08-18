@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_K2MgSiF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.83932321
+_cell_length_b   6.42952044
+_cell_length_c   10.11226604
+_cell_angle_alpha   90.96342583
+_cell_angle_beta   89.78339276
+_cell_angle_gamma   121.73076300
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2MgSiF14
+_chemical_formula_sum   'K2 Mg1 Si1 F14'
+_cell_volume   378.14655764
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.33760683  0.61320212  0.71358631  1
+  K  K1  1  0.86850953  0.88734480  0.20418299  1
+  Mg  Mg2  1  0.67191842  0.27326559  0.92761853  1
+  Si  Si3  1  0.63611927  0.24852398  0.45676519  1
+  F  F4  1  0.41761247  0.78698690  0.07482275  1
+  F  F5  1  0.86325352  0.13103588  -0.00348371  1
+  F  F6  1  0.41210281  0.94569889  0.44470454  1
+  F  F7  1  0.80213214  0.07610240  0.80971839  1
+  F  F8  1  0.66545848  0.26420477  0.92500360  1
+  F  F9  1  0.59484128  0.24678621  0.62658669  1
+  F  F10  1  0.51210660  0.32658723  0.07571986  1
+  F  F11  1  0.38376283  0.26764035  0.45990325  1
+  F  F12  1  0.81814693  0.14845950  0.45560014  1
+  F  F13  1  0.63932322  0.28912026  0.29083717  1
+  F  F14  1  0.36601025  0.99822962  0.86173075  1
+  F  F15  1  0.64610917  0.63489125  0.40742672  1
+  F  F16  1  0.93296348  0.60674337  -0.05281376  1
+  F  F17  1  0.87152425  0.54675626  0.47795555  1

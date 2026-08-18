@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_AgHg2GeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.87449215
+_cell_length_b   5.87702639
+_cell_length_c   7.18328760
+_cell_angle_alpha   114.10315733
+_cell_angle_beta   114.08437921
+_cell_angle_gamma   90.03775790
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgHg2GeS4
+_chemical_formula_sum   'Ag1 Hg2 Ge1 S4'
+_cell_volume   202.46175277
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.08327873  0.14114196  0.63531921  1
+  Hg  Hg1  1  0.33302499  0.89093418  0.13698248  1
+  Hg  Hg2  1  0.83409750  0.39102577  0.13597527  1
+  Ge  Ge3  1  0.58405390  0.64243126  0.63690169  1
+  S  S4  1  0.24552278  0.30329237  0.41729317  1
+  S  S5  1  0.92261958  0.52209613  0.85466999  1
+  S  S6  1  0.70343420  0.76105147  0.41718016  1
+  S  S7  1  0.46416254  0.98048744  0.85541092  1

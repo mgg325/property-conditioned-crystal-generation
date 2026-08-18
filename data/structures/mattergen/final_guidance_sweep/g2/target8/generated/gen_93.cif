@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TeSrTeSr2Te
+_chemical_formula_sum              "Te3 Sr3"
+_cell_length_a       4.684657642722862
+_cell_length_b       4.686622762414631
+_cell_length_c       12.288331031799316
+_cell_angle_alpha    90.14459760486841
+_cell_angle_beta     89.87563158672351
+_cell_angle_gamma    90.02423601736936
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.8172444701194763  0.08888242393732071  0.011197274550795557  1.0000
+  Sr  Sr1       1.0  0.31614795327186584  0.591605007648468  0.558117151260376  1.0000
+  Te  Te2       1.0  0.3158281445503235  0.5897036194801331  0.2904931902885437  1.0000
+  Sr  Sr2       1.0  0.8166629076004028  0.0901319831609726  0.29066672921180725  1.0000
+  Sr  Sr3       1.0  0.317829430103302  0.58758544921875  0.02217345498502255  1.0000
+  Te  Te3       1.0  0.8165386319160461  0.09159509092569351  0.5697823166847229  1.0000

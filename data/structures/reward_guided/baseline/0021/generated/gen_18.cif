@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ba2Zn2AuZnAuZnAu2
+_chemical_formula_sum              "Ba2 Zn4 Au4"
+_cell_length_a       6.216085277595977
+_cell_length_b       6.62879870636681
+_cell_length_c       7.075830936431885
+_cell_angle_alpha    55.51409473290503
+_cell_angle_beta     70.48294549222112
+_cell_angle_gamma    71.44555171420261
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.19596394896507263  0.622918963432312  0.6881797909736633  1.0000
+  Ba  Ba2       1.0  0.84720379114151  0.1277073323726654  0.8126621842384338  1.0000
+  Zn  Zn1       1.0  0.3956204056739807  0.1935053467750549  0.21068722009658813  1.0000
+  Zn  Zn2       1.0  0.7273634076118469  0.8118684887886047  0.43568843603134166  1.0000
+  Au  Au1       1.0  0.09954214841127396  0.5615675449371338  0.26211604475975037  1.0000
+  Zn  Zn3       1.0  0.6478282809257508  0.5580934286117554  0.2887426018714905  1.0000
+  Au  Au2       1.0  0.6102495789527892  0.6089358329772949  0.9061294794082642  1.0000
+  Zn  Zn4       1.0  0.31566071510314936  0.9420465230941772  0.06456581503152847  1.0000
+  Au  Au3       1.0  0.9441099762916565  0.19207669794559482  0.23670166730880737  1.0000
+  Au  Au4       1.0  0.4331846535205841  0.14188608527183533  0.5956888794898987  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TlAgTeAgTlTe
+_chemical_formula_sum              "Tl2 Ag2 Te2"
+_cell_length_a       4.722673643409009
+_cell_length_b       4.719829725564388
+_cell_length_c       8.243358979159854
+_cell_angle_alpha    90.01143433757896
+_cell_angle_beta     89.97586454561849
+_cell_angle_gamma    90.00012509466636
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.8238515548034472  0.9152860442234315  0.32990625429637027  1.0000
+  Ag  Ag1       1.0  0.824111687356815  0.41517746444160847  0.976265148094455  1.0000
+  Te  Te1       1.0  0.8237475353715048  0.915099395564479  0.7670497505463998  1.0000
+  Ag  Ag2       1.0  0.3235212003058157  0.9150997959564445  0.9758471762464997  1.0000
+  Tl  Tl2       1.0  0.3239509506024542  0.4150497703910414  0.622378728093848  1.0000
+  Te  Te2       1.0  0.3239408583327001  0.415195077749512  0.18503749315598111  1.0000

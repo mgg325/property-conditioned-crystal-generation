@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SmMgHoSmMg2
+_chemical_formula_sum              "Sm2 Mg3 Ho1"
+_cell_length_a       3.8051350011843534
+_cell_length_b       3.8581937020742063
+_cell_length_c       11.227514266967773
+_cell_angle_alpha    90.40449997577001
+_cell_angle_beta     90.50623567248924
+_cell_angle_gamma    90.16616735399239
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.37182450294494634  0.1052009090781212  0.6824504137039185  1.0000
+  Mg  Mg1       1.0  0.8725544810295106  0.6049188375473022  0.8572422266006472  1.0000
+  Ho  Ho1       1.0  0.3729314506053925  0.10832720994949342  0.013362224213778973  1.0000
+  Sm  Sm2       1.0  0.3706346452236176  0.10632473975419998  0.34448522329330444  1.0000
+  Mg  Mg2       1.0  0.8737906813621522  0.6044662594795227  0.1773141324520111  1.0000
+  Mg  Mg3       1.0  0.8735589385032655  0.606637716293335  0.5120388865470886  1.0000

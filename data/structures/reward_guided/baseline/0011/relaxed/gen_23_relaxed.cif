@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_TlAgBr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43212728
+_cell_length_b   5.43158843
+_cell_length_c   5.43337533
+_cell_angle_alpha   88.86270790
+_cell_angle_beta   89.02833206
+_cell_angle_gamma   89.19493354
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlAgBr3
+_chemical_formula_sum   'Tl1 Ag1 Br3'
+_cell_volume   160.24246224
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.46555481  0.07967501  0.29109210  1
+  Ag  Ag1  1  0.92133277  0.52808684  0.72659520  1
+  Br  Br2  1  0.91893010  0.02709866  0.71735252  1
+  Br  Br3  1  0.42075543  0.52568322  0.72039217  1
+  Br  Br4  1  0.91520587  0.51917467  0.22530873  1

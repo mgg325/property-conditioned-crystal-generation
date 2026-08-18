@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_MgCuSiPdSe3Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44051943
+_cell_length_b   4.70137834
+_cell_length_c   6.81566321
+_cell_angle_alpha   89.72598584
+_cell_angle_beta   89.68178075
+_cell_angle_gamma   88.70334626
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCuSiPdSe3Br
+_chemical_formula_sum   'Mg1 Cu1 Si1 Pd1 Se3 Br1'
+_cell_volume   142.24744221
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.29551891  0.27164513  0.31209470  1
+  Cu  Cu1  1  0.75493147  0.89776130  0.55510787  1
+  Si  Si2  1  0.77013477  0.70323688  0.24295507  1
+  Pd  Pd3  1  0.22839121  0.85467710  0.75200481  1
+  Se  Se4  1  0.62295306  0.55928744  0.26100441  1
+  Se  Se5  1  1.05475603  0.06709180  0.10678765  1
+  Se  Se6  1  0.53928255  0.34218227  0.79367140  1
+  Br  Br7  1  0.75439869  0.30360655  0.81703539  1

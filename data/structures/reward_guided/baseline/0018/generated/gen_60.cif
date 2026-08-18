@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ce2Pr3InPrIn
+_chemical_formula_sum              "Ce2 Pr4 In2"
+_cell_length_a       4.658191484476399
+_cell_length_b       5.001809926024103
+_cell_length_c       11.032865524291992
+_cell_angle_alpha    102.22701857623156
+_cell_angle_beta     100.77408016632918
+_cell_angle_gamma    88.62539249769773
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.7756185531616211  0.019297374412417415  0.6518380045890808  1.0000
+  Ce  Ce2       1.0  0.2760275602340698  0.5192240476608276  0.6503169536590576  1.0000
+  Pr  Pr1       1.0  0.3964865207672119  0.14027722179889682  0.8930717706680298  1.0000
+  Pr  Pr2       1.0  0.038119733333587646  0.2786356508731842  0.17504580318927765  1.0000
+  Pr  Pr3       1.0  0.9111448526382446  0.6534940004348755  0.9248995780944824  1.0000
+  In  In1       1.0  0.6620028614997864  0.40264788269996643  0.42080628871917725  1.0000
+  Pr  Pr4       1.0  0.15375837683677673  0.893874228000641  0.40445876121520996  1.0000
+  In  In2       1.0  0.5281364321708679  0.7676532864570618  0.15478850901126862  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TlHgTlAu
+_chemical_formula_sum              "Tl2 Hg1 Au1"
+_cell_length_a       4.464914843727944
+_cell_length_b       4.5103334997224875
+_cell_length_c       7.169886589050293
+_cell_angle_alpha    108.44375202083401
+_cell_angle_beta     89.9079110617246
+_cell_angle_gamma    119.90812749294477
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.18324826657772064  0.14206553995609283  0.4493824541568756  1.0000
+  Hg  Hg1       1.0  0.9479876160621643  0.666532039642334  0.7370859384536743  1.0000
+  Tl  Tl2       1.0  0.7081932425498962  0.1896151006221771  0.02546047233045101  1.0000
+  Au  Au1       1.0  0.4480385184288024  0.6664249300956725  0.23592700064182281  1.0000

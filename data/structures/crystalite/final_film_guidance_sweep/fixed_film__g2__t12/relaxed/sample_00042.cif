@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaSi4SnGeSbAs2PbAu5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.24765126
+_cell_length_b   6.75514087
+_cell_length_c   8.63762012
+_cell_angle_alpha   88.67597471
+_cell_angle_beta   90.96839876
+_cell_angle_gamma   88.78398674
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSi4SnGeSbAs2PbAu5
+_chemical_formula_sum   'Na1 Si4 Sn1 Ge1 Sb1 As2 Pb1 Au5'
+_cell_volume   364.30551930
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.55056117  0.64254635  0.71986138  1
+  Si  Si1  1  0.80966292  0.00378606  0.85148413  1
+  Si  Si2  1  1.00072099  0.44795525  0.50162372  1
+  Si  Si3  1  0.76437132  0.84726163  0.10097520  1
+  Si  Si4  1  0.13129736  0.08709487  0.00382638  1
+  Sn  Sn5  1  0.65680040  0.44808399  0.11567557  1
+  Ge  Ge6  1  0.44832300  0.10793486  0.57924563  1
+  Sb  Sb7  1  1.03519112  0.83856709  0.57291458  1
+  As  As8  1  0.79670680  1.03390798  0.33636919  1
+  As  As9  1  0.28240457  0.58648502  0.34165585  1
+  Pb  Pb10  1  0.09677771  0.58671157  0.92568647  1
+  Au  Au11  1  1.07269827  0.28378163  0.23264221  1
+  Au  Au12  1  0.48829021  0.21408200  0.87257196  1
+  Au  Au13  1  1.08270595  0.22965750  0.72100790  1
+  Au  Au14  1  0.37502383  0.82929541  0.10700266  1
+  Au  Au15  1  0.62818261  0.40597353  0.43939765  1

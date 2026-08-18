@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClLiCl2BrCl
+_chemical_formula_sum              "Cl4 Li1 Br1"
+_cell_length_a       3.9401803930389003
+_cell_length_b       6.7598530196523345
+_cell_length_c       8.460611573230604
+_cell_angle_alpha    129.9368925098291
+_cell_angle_beta     101.62582921353204
+_cell_angle_gamma    88.04686265958829
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.8282994258584532  0.22379959211716519  0.3108593888373293  1.0000
+  Li  Li1       1.0  0.27429108528698476  0.9195606380827308  0.18427666242765517  1.0000
+  Cl  Cl2       1.0  0.21112813325454677  0.7803361583868283  0.8367857505944253  1.0000
+  Cl  Cl3       1.0  0.5467104415535535  0.9670664544592187  0.4906958708907536  1.0000
+  Br  Br1       1.0  0.8837089329694024  0.37237012904328565  0.6644513046866612  1.0000
+  Cl  Cl4       1.0  0.9434418413426692  0.5124115302393031  0.008767575203171467  1.0000

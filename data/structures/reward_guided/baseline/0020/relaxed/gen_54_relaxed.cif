@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Tb3ZrAg4Se7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.00816031
+_cell_length_b   7.93924367
+_cell_length_c   7.91328033
+_cell_angle_alpha   61.87816459
+_cell_angle_beta   61.43406357
+_cell_angle_gamma   61.24449442
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3ZrAg4Se7
+_chemical_formula_sum   'Tb3 Zr1 Ag4 Se7'
+_cell_volume   367.86240916
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.42849208  0.03173861  0.92734803  1
+  Tb  Tb1  1  0.93959362  0.52064478  0.92691741  1
+  Tb  Tb2  1  0.42850069  0.52104068  0.43799829  1
+  Zr  Zr3  1  0.92942904  0.02134218  0.42768319  1
+  Ag  Ag4  1  0.84014448  0.93794140  1.00696519  1
+  Ag  Ag5  1  0.42710039  0.52194893  0.93064530  1
+  Ag  Ag6  1  0.84244937  0.59878052  0.34853466  1
+  Ag  Ag7  1  0.50034310  -0.05419317  0.35319334  1
+  Se  Se8  1  0.69208352  0.78001661  0.66955557  1
+  Se  Se9  1  0.16898565  0.79647353  0.67388654  1
+  Se  Se10  1  0.16876077  0.26581718  0.20494337  1
+  Se  Se11  1  0.17764614  0.78067651  0.18499905  1
+  Se  Se12  1  0.18991903  0.27607825  0.68008957  1
+  Se  Se13  1  0.69958862  0.26576707  0.67373422  1
+  Se  Se14  1  0.69243713  0.26533082  0.18462030  1

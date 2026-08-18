@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CuHgTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.27612868
+_cell_length_b   6.27613941
+_cell_length_c   7.58537451
+_cell_angle_alpha   114.44759303
+_cell_angle_beta   114.47935749
+_cell_angle_gamma   89.97184672
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuHgTe2
+_chemical_formula_sum   'Cu2 Hg2 Te4'
+_cell_volume   242.21808100
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.27598087  0.23675604  0.48870599  1
+  Cu  Cu1  1  0.77619479  0.73672545  0.48873337  1
+  Hg  Hg2  1  0.02636293  0.48686471  0.98906009  1
+  Hg  Hg3  1  0.52615645  0.98694904  0.98876046  1
+  Te  Te4  1  0.63178374  0.09228098  0.70013535  1
+  Te  Te5  1  0.13182830  0.59236220  0.70022333  1
+  Te  Te6  1  0.92061758  0.88119903  0.27784215  1
+  Te  Te7  1  0.42096133  0.38099330  0.27789625  1

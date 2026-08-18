@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Na2KNaAg2Na
+_chemical_formula_sum              "Na4 K1 Ag2"
+_cell_length_a       4.9745146375123515
+_cell_length_b       4.709073711993608
+_cell_length_c       9.858081817626953
+_cell_angle_alpha    103.87717759739172
+_cell_angle_beta     89.97116544538713
+_cell_angle_gamma    89.56955034649387
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.5012350082397461  0.10497907549142838  0.5665977001190186  1.0000
+  Na  Na2       1.0  0.0010297644184902326  0.9879141449928283  0.33750304579734797  1.0000
+  K   K1        1.0  0.5011751055717468  0.7506840229034424  0.8608978390693665  1.0000
+  Na  Na3       1.0  0.0007828474044799804  0.34627553820610046  0.051897335797548294  1.0000
+  Ag  Ag1       1.0  0.0016876282170414925  0.6033223867416382  0.5636588931083679  1.0000
+  Ag  Ag2       1.0  0.0011595439864322543  0.18743517994880676  0.7329312562942505  1.0000
+  Na  Na4       1.0  0.5009487271308899  0.48041638731956476  0.3189941644668579  1.0000

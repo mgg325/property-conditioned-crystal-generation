@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_KSn2HgAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.74261643
+_cell_length_b   4.76523870
+_cell_length_c   8.07600610
+_cell_angle_alpha   92.07503142
+_cell_angle_beta   88.33442972
+_cell_angle_gamma   119.40268383
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSn2HgAu
+_chemical_formula_sum   'K1 Sn2 Hg1 Au1'
+_cell_volume   158.88803680
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.29434906  0.10841063  0.43623693  1
+  Sn  Sn1  1  0.95616973  0.45845607  0.83902221  1
+  Sn  Sn2  1  0.63651533  0.76061165  0.09489627  1
+  Hg  Hg3  1  0.62574916  0.78824931  0.70316759  1
+  Au  Au4  1  0.96941573  0.42709731  0.18253380  1

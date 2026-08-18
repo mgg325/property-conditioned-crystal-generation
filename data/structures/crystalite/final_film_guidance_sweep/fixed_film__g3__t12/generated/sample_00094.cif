@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Tc3GeP4SXe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.69419527
+_cell_length_b   8.62294197
+_cell_length_c   8.35365582
+_cell_angle_alpha   89.45481110
+_cell_angle_beta   88.91899872
+_cell_angle_gamma   111.72957611
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tc3GeP4SXe
+_chemical_formula_sum   'Tc3 Ge1 P4 S1 Xe1'
+_cell_volume   314.00441412
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tc  Tc0  1  0.30326927  0.83756542  0.30451387  1
+  Tc  Tc1  1  0.51080954  0.92205966  0.80913711  1
+  P  P2  1  0.89312315  0.74578410  0.52094889  1
+  P  P3  1  0.74595654  0.84584665  0.04709950  1
+  Xe  Xe4  1  0.82518780  0.47130492  0.72615111  1
+  Ge  Ge5  1  0.15070605  0.32289410  0.88340950  1
+  P  P6  1  0.92039859  0.57783639  0.12758222  1
+  P  P7  1  0.45275906  0.09312114  0.50574398  1
+  Tc  Tc8  1  0.20257053  0.37312698  0.32004741  1
+  S  S9  1  0.40638608  0.41850626  0.05571762  1

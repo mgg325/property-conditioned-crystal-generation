@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_U2Tc
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.88039970
+_cell_length_b   3.75606370
+_cell_length_c   3.25546622
+_cell_angle_alpha   90.43033600
+_cell_angle_beta   90.24608612
+_cell_angle_gamma   130.72396851
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2Tc
+_chemical_formula_sum   'U2 Tc1'
+_cell_volume   82.28568121
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tc  Tc0  1  0.29485613  0.11041185  0.25511706  1
+  U  U1  1  0.99229670  0.43177742  0.90248585  1
+  U  U2  1  0.67214727  0.74874073  0.55374980  1

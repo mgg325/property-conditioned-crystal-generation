@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LaDyLaIn2Dy
+_chemical_formula_sum              "La2 Dy2 In2"
+_cell_length_a       4.459181234570802
+_cell_length_b       5.090693449753473
+_cell_length_c       8.350136756896973
+_cell_angle_alpha    88.50645863394621
+_cell_angle_beta     104.66506066918073
+_cell_angle_gamma    89.62531884496929
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.5654627084732056  0.8746454119682312  0.6943497657775879  1.0000
+  Dy  Dy1       1.0  0.2585098147392273  0.8725879788398743  0.07788712531328201  1.0000
+  La  La2       1.0  0.4196034371852875  0.3740862011909485  0.4033333361148834  1.0000
+  In  In1       1.0  0.09087066352367401  0.3732706606388092  0.7459558844566346  1.0000
+  In  In2       1.0  0.8938034772872925  0.8761332035064698  0.3498120903968811  1.0000
+  Dy  Dy2       1.0  0.7256520986557007  0.3738704323768616  0.01625947654247284  1.0000

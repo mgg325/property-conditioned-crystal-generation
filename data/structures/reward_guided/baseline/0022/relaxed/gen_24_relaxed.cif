@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K2AuI2Cl7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.62741273
+_cell_length_b   7.41263589
+_cell_length_c   9.89027943
+_cell_angle_alpha   70.08113942
+_cell_angle_beta   71.89203755
+_cell_angle_gamma   79.65779804
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2AuI2Cl7
+_chemical_formula_sum   'K2 Au1 I2 Cl7'
+_cell_volume   497.99806385
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.62902260  0.29506548  0.29706496  1
+  K  K1  1  0.93437379  0.65675658  0.72693861  1
+  Au  Au2  1  0.98443899  0.27194756  0.54236263  1
+  I  I3  1  0.43933035  0.87886531  0.10780613  1
+  I  I4  1  0.14851285  0.03370161  0.88296382  1
+  Cl  Cl5  1  0.75205284  0.07849028  0.60157377  1
+  Cl  Cl6  1  0.28471283  0.78225915  0.75385353  1
+  Cl  Cl7  1  0.99288851  0.29998004  0.99861344  1
+  Cl  Cl8  1  0.68176683  0.74349655  0.28051047  1
+  Cl  Cl9  1  0.21138473  0.47074442  0.48110812  1
+  Cl  Cl10  1  0.31896600  0.13494305  0.23030664  1
+  Cl  Cl11  1  0.57699136  0.60352149  0.00004304  1

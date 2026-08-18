@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BaSiN5ClF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.99967211
+_cell_length_b   8.07334315
+_cell_length_c   9.59408856
+_cell_angle_alpha   90.20611078
+_cell_angle_beta   89.84184890
+_cell_angle_gamma   122.52295746
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSiN5ClF8
+_chemical_formula_sum   'Ba1 Si1 N5 Cl1 F8'
+_cell_volume   522.44982313
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.17652909  0.31004755  0.21719386  1
+  Si  Si1  1  0.40158958  0.85203738  0.09944445  1
+  N  N2  1  0.38099026  0.61523578  0.50049631  1
+  N  N3  1  0.73104303  0.23787724  0.29127982  1
+  N  N4  1  0.57178885  0.80691314  0.16623045  1
+  N  N5  1  0.23858032  0.46827928  0.51486923  1
+  N  N6  1  0.69128650  0.15692823  0.39177852  1
+  Cl  Cl7  1  0.56952432  0.45315659  0.48445060  1
+  F  F8  1  0.75422970  0.40403501  0.69489938  1
+  F  F9  1  0.03752711  0.94034269  0.10399142  1
+  F  F10  1  0.39329672  0.03576216  0.14148610  1
+  F  F11  1  0.19174439  0.66685673  0.14909649  1
+  F  F12  1  0.51814499  0.38360310  0.21052798  1
+  F  F13  1  0.91429542  0.37432060  0.54361782  1
+  F  F14  1  0.34886100  0.79220893  0.56993523  1
+  F  F15  1  0.40253238  0.85923577  0.92723095  1

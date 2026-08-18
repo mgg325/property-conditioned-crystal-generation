@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SbHgSbIHgIHg2
+_chemical_formula_sum              "Sb2 Hg4 I2"
+_cell_length_a       6.884365609335193
+_cell_length_b       6.879345794224085
+_cell_length_c       8.335500616399466
+_cell_angle_alpha    114.4427184828947
+_cell_angle_beta     114.47084708475462
+_cell_angle_gamma    89.87744089156143
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.546477942459419  0.031098485650367894  0.09697970232016474  1.0000
+  Hg  Hg1       1.0  0.4199927232361026  0.3471715072569565  0.34616338453247614  1.0000
+  Sb  Sb2       1.0  0.29646121151981214  0.2807692557417024  0.5965006882229319  1.0000
+  I   I1        1.0  0.04589922679181929  0.5301762275800621  0.09501170812027299  1.0000
+  Hg  Hg2       1.0  0.6120506693961117  0.1543666449368736  0.8460989480930363  1.0000
+  I   I2        1.0  0.7957043462645204  0.7805995086280885  0.5955594751624667  1.0000
+  Hg  Hg3       1.0  0.2300846706807997  0.6566531997274792  0.8458651929497412  1.0000
+  Hg  Hg4       1.0  0.9222581693297504  0.9638591145414009  0.3457476547911454  1.0000

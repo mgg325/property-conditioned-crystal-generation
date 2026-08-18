@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       SnHgTl2SrHgSnSrHg2
+_chemical_formula_sum              "Sn2 Hg4 Tl2 Sr2"
+_cell_length_a       4.815799697094578
+_cell_length_b       7.01845478790643
+_cell_length_c       9.058816909790039
+_cell_angle_alpha    103.09283331808913
+_cell_angle_beta     104.33980639253787
+_cell_angle_gamma    90.1379790594628
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.9911134839057923  0.6989074945449829  0.04208763316273689  1.0000
+  Hg  Hg1       1.0  0.775255024433136  0.1690949946641922  0.6080464124679565  1.0000
+  Tl  Tl1       1.0  0.7936756014823914  0.6574658155441285  0.6453793048858643  1.0000
+  Tl  Tl2       1.0  0.37280869483947754  0.40881061553955084  0.8046625256538391  1.0000
+  Sr  Sr1       1.0  0.9768805503845216  0.190912127494812  0.014549840241670609  1.0000
+  Hg  Hg2       1.0  0.5835496783256531  0.03355925530195236  0.22839194536209106  1.0000
+  Sn  Sn2       1.0  0.5759897232055664  0.5494582056999208  0.2112862765789032  1.0000
+  Sr  Sr2       1.0  0.19319021701812744  0.8677343726158142  0.4449063837528229  1.0000
+  Hg  Hg3       1.0  0.39417922496795654  0.8949389457702637  0.8472669124603271  1.0000
+  Hg  Hg4       1.0  0.17821550369262698  0.3662978410720826  0.4144987463951111  1.0000

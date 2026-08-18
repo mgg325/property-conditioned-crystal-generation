@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tm2NiTmNiRuTmRu
+_chemical_formula_sum              "Tm4 Ni2 Ru2"
+_cell_length_a       4.011563709443767
+_cell_length_b       5.321468251485278
+_cell_length_c       7.4562602043151855
+_cell_angle_alpha    109.63141434974911
+_cell_angle_beta     90.18710188754511
+_cell_angle_gamma    91.18779974062139
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.6183674931526184  0.3391420543193817  0.10476911067962645  1.0000
+  Tm  Tm2       1.0  0.11927755922079086  0.7536921501159668  0.9676575660705565  1.0000
+  Ni  Ni1       1.0  0.6181362271308899  0.9006244540214539  0.7497123479843139  1.0000
+  Tm  Tm3       1.0  0.11745253205299377  0.7556031942367554  0.4631322622299194  1.0000
+  Ni  Ni2       1.0  0.11988178640604019  0.19082307815551758  0.32616823911666865  1.0000
+  Ru  Ru1       1.0  0.6208620667457581  0.9112133383750916  0.2568928301334381  1.0000
+  Tm  Tm4       1.0  0.6179256439208984  0.33669981360435486  0.6127797961235045  1.0000
+  Ru  Ru2       1.0  0.11819073557853699  0.180775448679924  0.8194973468780516  1.0000

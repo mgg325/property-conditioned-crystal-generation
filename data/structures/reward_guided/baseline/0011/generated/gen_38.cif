@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LaCa2Sm
+_chemical_formula_sum              "La1 Ca2 Sm1"
+_cell_length_a       3.721927083349798
+_cell_length_b       3.7148065842204336
+_cell_length_c       12.947704315185547
+_cell_angle_alpha    81.6687223595825
+_cell_angle_beta     81.6139508984974
+_cell_angle_gamma    59.940996223001356
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.15115725994110107  0.19993466138839722  0.5398169159889221  1.0000
+  Ca  Ca1       1.0  0.3997411131858826  0.44785699248313904  0.7945655584335327  1.0000
+  Ca  Ca2       1.0  0.9033214449882506  0.9515927433967591  0.2847381830215454  1.0000
+  Sm  Sm1       1.0  0.6508128046989441  0.6995368003845215  0.03937869891524314  1.0000

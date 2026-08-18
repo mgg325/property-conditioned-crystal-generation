@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K3BaSiS4Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55983357
+_cell_length_b   9.29821666
+_cell_length_c   9.21049495
+_cell_angle_alpha   119.42364671
+_cell_angle_beta   116.40649803
+_cell_angle_gamma   88.50187176
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3BaSiS4Cl
+_chemical_formula_sum   'K3 Ba1 Si1 S4 Cl1'
+_cell_volume   359.99330464
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.98420302  1.13151565  1.27258695  1
+  K  K1  1  0.30178542  0.47006261  0.19223224  1
+  K  K2  1  0.45731457  0.73883029  0.91572760  1
+  Ba  Ba3  1  -0.08542323  0.87533024  0.51330455  1
+  Si  Si4  1  0.44310070  0.28175530  0.82879429  1
+  S  S5  1  0.36496840  0.89117646  0.27126666  1
+  S  S6  1  0.46984462  0.10472237  0.91730623  1
+  S  S7  1  0.73922686  0.53038032  0.09835098  1
+  S  S8  1  0.14556722  1.07433146  0.95808703  1
+  Cl  Cl9  1  0.44729405  0.72289697  0.58238937  1

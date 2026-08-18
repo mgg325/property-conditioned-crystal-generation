@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       O2BeAsLiO2
+_chemical_formula_sum              "O4 Be1 As1 Li1"
+_cell_length_a       4.585346902189328
+_cell_length_b       4.583222818798534
+_cell_length_c       4.914618654808137
+_cell_angle_alpha    117.79461388409898
+_cell_angle_beta     117.80010306009576
+_cell_angle_gamma    89.99785149480739
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.5342050545065826  0.894274710566626  0.5176277073245601  1.0000
+  O   O2        1.0  0.697975450787313  0.5848429121223641  0.01942294801217987  1.0000
+  Be  Be1       1.0  0.6464432343084221  0.94621194137494  0.26872403107559245  1.0000
+  As  As1       1.0  0.39640600748391713  0.19605043923088475  0.7685474873720961  1.0000
+  Li  Li1       1.0  0.8969889619361348  0.6964290448017123  0.7696071387030791  1.0000
+  O   O3        1.0  0.345747033339201  0.05805058491707262  0.019452906090158477  1.0000
+  O   O4        1.0  0.007615106753778943  0.24686453192478508  0.5179152265425496  1.0000

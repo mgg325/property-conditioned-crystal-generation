@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_RbCaMg2BiClO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17806625
+_cell_length_b   5.21758127
+_cell_length_c   8.08543301
+_cell_angle_alpha   89.61360931
+_cell_angle_beta   90.54716492
+_cell_angle_gamma   117.87158966
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCaMg2BiClO
+_chemical_formula_sum   'Rb1 Ca1 Mg2 Bi1 Cl1 O1'
+_cell_volume   155.80365441
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.74872172  0.34308481  0.63597494  1
+  O  O1  1  0.44067326  0.62435281  0.67633867  1
+  Ca  Ca2  1  0.37341341  0.65956277  0.03531340  1
+  Mg  Mg3  1  0.45281276  0.58060884  0.37794822  1
+  Mg  Mg4  1  0.08335909  0.95778722  0.54657143  1
+  Cl  Cl5  1  0.40502268  0.60476667  0.68472052  1
+  Rb  Rb6  1  0.73967874  0.39987370  0.13525504  1

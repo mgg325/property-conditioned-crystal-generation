@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_PrNi2PbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54362267
+_cell_length_b   5.50842983
+_cell_length_c   5.50511016
+_cell_angle_alpha   88.15193991
+_cell_angle_beta   121.16517089
+_cell_angle_gamma   120.44104663
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrNi2PbO6
+_chemical_formula_sum   'Pr1 Ni2 Pb1 O6'
+_cell_volume   117.83878416
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.61448490  0.47298902  0.39863092  1
+  Ni  Ni1  1  0.10666322  0.23142477  0.63654828  1
+  Ni  Ni2  1  0.10666193  0.72732364  0.13204884  1
+  Pb  Pb3  1  0.54931051  0.95099238  0.85516355  1
+  O  O4  1  0.60968052  0.02921487  0.47298952  1
+  O  O5  1  0.11737538  0.92565304  0.82768177  1
+  O  O6  1  0.60934978  0.39275621  0.83846502  1
+  O  O7  1  0.98510737  0.99414925  0.24756675  1
+  O  O8  1  0.11987082  0.54730294  0.44957365  1
+  O  O9  1  0.24187293  0.52385298  0.97531396  1

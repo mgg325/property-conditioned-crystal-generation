@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SnCuS2
+_chemical_formula_sum              "Sn1 Cu1 S2"
+_cell_length_a       3.8281796294422508
+_cell_length_b       3.82808424169442
+_cell_length_c       6.507291793823242
+_cell_angle_alpha    89.94263573970383
+_cell_angle_beta     90.02952941491226
+_cell_angle_gamma    120.05945027106613
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.6398002505302428  0.06741106510162355  0.613618791103363  1.0000
+  Cu  Cu1       1.0  0.9730877876281737  0.7348167896270752  0.02654218301177025  1.0000
+  S   S1        1.0  0.30645436048507696  0.40278768539428716  0.9029884934425354  1.0000
+  S   S2        1.0  0.9734753966331482  0.7349758744239808  0.3862762153148651  1.0000

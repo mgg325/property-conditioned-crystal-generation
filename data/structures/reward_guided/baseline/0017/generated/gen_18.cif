@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       InTbInLu
+_chemical_formula_sum              "In2 Tb1 Lu1"
+_cell_length_a       4.318799211137252
+_cell_length_b       4.857238054216256
+_cell_length_c       4.825466632843018
+_cell_angle_alpha    90.4042199624494
+_cell_angle_beta     90.70179082989883
+_cell_angle_gamma    90.4129079730999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.6145859956741333  0.3714160919189453  0.5993964076042175  1.0000
+  Tb  Tb1       1.0  0.11385942250490189  0.3727605640888214  0.09881815314292908  1.0000
+  In  In2       1.0  0.6149171590805054  0.870212972164154  0.09864003211259842  1.0000
+  Lu  Lu1       1.0  0.11393189430236816  0.8721833825111388  0.5994780659675598  1.0000

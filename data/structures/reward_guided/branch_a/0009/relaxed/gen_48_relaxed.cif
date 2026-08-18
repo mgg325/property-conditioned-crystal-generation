@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_YMgTlPb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87202495
+_cell_length_b   5.22819418
+_cell_length_c   5.28174989
+_cell_angle_alpha   89.99444649
+_cell_angle_beta   89.97140969
+_cell_angle_gamma   90.00011946
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YMgTlPb
+_chemical_formula_sum   'Y1 Mg1 Tl1 Pb1'
+_cell_volume   106.92213758
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.40946141  0.20235611  0.73333465  1
+  Mg  Mg1  1  0.41065726  0.70287263  0.23299499  1
+  Tl  Tl2  1  0.90932510  0.20332054  0.23335784  1
+  Pb  Pb3  1  0.90998822  0.70243213  0.73303560  1

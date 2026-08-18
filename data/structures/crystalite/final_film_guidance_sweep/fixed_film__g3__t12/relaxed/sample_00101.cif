@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ac2ThSiTc2SbPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33311551
+_cell_length_b   6.69934329
+_cell_length_c   5.29721980
+_cell_angle_alpha   87.27279870
+_cell_angle_beta   86.65887675
+_cell_angle_gamma   106.79485430
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ac2ThSiTc2SbPt
+_chemical_formula_sum   'Ac2 Th1 Si1 Tc2 Sb1 Pt1'
+_cell_volume   214.30812462
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.79636643  0.31484623  -0.01501413  1
+  Ac  Ac1  1  0.08286602  0.02118606  0.51814943  1
+  Th  Th2  1  0.32585285  0.81567592  1.02583390  1
+  Si  Si3  1  0.58868940  0.01575397  0.49247220  1
+  Tc  Tc4  1  0.62983949  0.71183423  0.76195582  1
+  Tc  Tc5  1  0.65407484  0.70920637  0.27275709  1
+  Sb  Sb6  1  1.23992514  0.52506125  0.54358001  1
+  Pt  Pt7  1  0.31109637  0.33230285  0.99103401  1

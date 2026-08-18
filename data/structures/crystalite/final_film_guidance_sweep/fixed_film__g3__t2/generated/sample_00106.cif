@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BaLi2Al2F9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.66221237
+_cell_length_b   6.61508560
+_cell_length_c   7.01804161
+_cell_angle_alpha   60.97805405
+_cell_angle_beta   62.14462280
+_cell_angle_gamma   59.68584442
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLi2Al2F9
+_chemical_formula_sum   'Ba1 Li2 Al2 F9'
+_cell_volume   223.11696536
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.02109349  0.87315536  0.89216006  1
+  F  F1  1  0.01639819  0.13932693  0.10476765  1
+  Al  Al2  1  0.00200850  0.23946279  0.04678622  1
+  F  F3  1  0.20711812  0.45976058  0.92925072  1
+  Li  Li4  1  0.56530792  0.59702718  0.18474251  1
+  F  F5  1  0.75906223  0.63244033  0.37564117  1
+  F  F6  1  0.30294576  0.86942565  0.95558375  1
+  F  F7  1  0.86488354  0.56822395  0.69366962  1
+  F  F8  1  0.04054621  0.63896233  0.31882340  1
+  F  F9  1  0.76599395  0.59606081  0.01531282  1
+  Al  Al10  1  0.11881930  0.64064121  0.94696468  1
+  Li  Li11  1  0.95128900  0.67088246  0.52657229  1
+  F  F12  1  0.97083664  0.26275325  0.79669011  1
+  Ba  Ba13  1  0.49114549  0.13129508  0.51192367  1

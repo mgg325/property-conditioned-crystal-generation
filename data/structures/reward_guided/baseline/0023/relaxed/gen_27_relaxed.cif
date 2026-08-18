@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_PrSmTlGa
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.39578699
+_cell_length_b   5.39497198
+_cell_length_c   5.39523224
+_cell_angle_alpha   60.04559937
+_cell_angle_beta   60.05058311
+_cell_angle_gamma   60.04737310
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrSmTlGa
+_chemical_formula_sum   'Pr1 Sm1 Tl1 Ga1'
+_cell_volume   111.17571013
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.79893726  0.05172292  0.59777490  1
+  Sm  Sm1  1  0.29906272  0.55327194  0.09778874  1
+  Tl  Tl2  1  0.05053538  0.30290231  0.84844511  1
+  Ga  Ga3  1  0.55006846  0.80263743  0.34814553  1

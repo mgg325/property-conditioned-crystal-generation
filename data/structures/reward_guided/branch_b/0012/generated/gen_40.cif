@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       KNaSr2
+_chemical_formula_sum              "K1 Na1 Sr2"
+_cell_length_a       4.450785208955288
+_cell_length_b       4.35109839441226
+_cell_length_c       10.856283187866211
+_cell_angle_alpha    89.82887211029517
+_cell_angle_beta     90.0084924296312
+_cell_angle_gamma    89.51568061556611
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.9501447081565857  0.057976573705673225  0.2286226749420166  1.0000
+  Na  Na1       1.0  0.9465204477310181  0.059852734208106995  0.7302232384681702  1.0000
+  Sr  Sr1       1.0  0.4496687054634094  0.5609661936759949  0.9334143400192261  1.0000
+  Sr  Sr2       1.0  0.44676128029823303  0.5602598190307617  0.5245709419250488  1.0000

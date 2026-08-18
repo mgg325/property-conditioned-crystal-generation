@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ca2Cd2GaBCNO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.13024068
+_cell_length_b   3.28427148
+_cell_length_c   13.06389236
+_cell_angle_alpha   89.78054047
+_cell_angle_beta   90.23224640
+_cell_angle_gamma   119.37593842
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Cd2GaBCNO
+_chemical_formula_sum   'Ca2 Cd2 Ga1 B1 C1 N1 O1'
+_cell_volume   117.03406890
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.16999289  0.59532040  0.28938255  1
+  Cd  Cd1  1  0.49267220  0.26770857  0.96253890  1
+  Ca  Ca2  1  0.15274704  0.60089874  0.79494333  1
+  C  C3  1  0.83202171  0.92759109  0.53265834  1
+  B  B4  1  0.83731806  0.93959558  0.84154928  1
+  Ga  Ga5  1  0.48102763  0.26423973  0.49109453  1
+  O  O6  1  0.84136474  0.93679070  0.59109545  1
+  N  N7  1  0.17022410  0.61356515  0.05198032  1
+  Ca  Ca8  1  0.82410371  0.94165105  0.13348457  1

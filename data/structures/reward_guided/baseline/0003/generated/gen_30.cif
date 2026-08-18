@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sr5Ca
+_chemical_formula_sum              "Sr5 Ca1"
+_cell_length_a       4.626327697236984
+_cell_length_b       6.585373537834907
+_cell_length_c       10.599964141845703
+_cell_angle_alpha    108.20288001111638
+_cell_angle_beta     90.108459065849
+_cell_angle_gamma    90.00093141066394
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.1429147571325302  0.5038116574287415  0.6598203778266907  1.0000
+  Sr  Sr2       1.0  0.6426222324371338  0.01309030782431364  0.6779462099075317  1.0000
+  Sr  Sr3       1.0  0.6424111127853394  0.673612117767334  0.9987716674804686  1.0000
+  Sr  Sr4       1.0  0.14334437251091003  0.8434924483299255  0.33765536546707153  1.0000
+  Sr  Sr5       1.0  0.6433345079421997  0.3337763845920563  0.31888553500175476  1.0000
+  Ca  Ca1       1.0  0.14303067326545715  0.17374606430530548  0.9983355402946471  1.0000

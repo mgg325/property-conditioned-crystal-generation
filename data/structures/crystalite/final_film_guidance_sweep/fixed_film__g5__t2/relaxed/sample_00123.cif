@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_P2N5Cl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   25.99637308
+_cell_length_b   21.02110373
+_cell_length_c   18.35023991
+_cell_angle_alpha   103.45053312
+_cell_angle_beta   89.59693744
+_cell_angle_gamma   93.13740975
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   P2N5Cl3
+_chemical_formula_sum   'P2 N5 Cl3'
+_cell_volume   9738.06084071
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.12770849  0.72246420  0.95001137  1
+  P  P1  1  0.58043073  0.79480613  0.90615443  1
+  N  N2  1  0.60351980  0.81158608  0.19562955  1
+  N  N3  1  0.55295175  0.80578152  0.84059680  1
+  N  N4  1  0.10352701  0.80794996  0.48516405  1
+  N  N5  1  0.08928034  0.29540247  0.31761289  1
+  N  N6  1  0.56987143  0.37739694  0.36645949  1
+  Cl  Cl7  1  0.38062241  0.91446006  0.72154761  1
+  Cl  Cl8  1  0.29856193  0.90913563  0.75625934  1
+  Cl  Cl9  1  0.40798650  1.00932309  0.72801905  1

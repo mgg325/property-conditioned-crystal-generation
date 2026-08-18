@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaAl3Cu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21484062
+_cell_length_b   6.56201575
+_cell_length_c   6.56111860
+_cell_angle_alpha   104.08821722
+_cell_angle_beta   90.00062021
+_cell_angle_gamma   89.99509586
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaAl3Cu2
+_chemical_formula_sum   'La2 Al6 Cu4'
+_cell_volume   217.76749077
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.56918584  0.34705644  0.49723856  1
+  La  La1  1  0.06944915  0.67358213  0.82400466  1
+  Al  Al2  1  0.06902558  0.47968423  0.24259845  1
+  Al  Al3  1  0.56945898  0.92761708  0.69069406  1
+  Al  Al4  1  0.06932263  0.09188463  0.62956479  1
+  Al  Al5  1  0.56851191  0.94377122  0.09369303  1
+  Al  Al6  1  0.06954681  0.07705858  0.22685060  1
+  Al  Al7  1  0.56940319  0.54048531  0.07807106  1
+  Cu  Cu8  1  0.31930035  0.80552376  0.36470866  1
+  Cu  Cu9  1  0.31916376  0.21500881  0.95564670  1
+  Cu  Cu10  1  0.81904267  0.80599431  0.36414906  1
+  Cu  Cu11  1  0.81893448  0.21457739  0.95567215  1

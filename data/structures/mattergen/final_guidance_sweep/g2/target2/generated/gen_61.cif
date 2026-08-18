@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       H4O2
+_chemical_formula_sum              "H4 O2"
+_cell_length_a       3.183365724623067
+_cell_length_b       3.3571078006919604
+_cell_length_c       3.354448080062866
+_cell_angle_alpha    90.19987434774521
+_cell_angle_beta     90.39080540260359
+_cell_angle_gamma    90.22711311941354
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.07049140334129333  0.6964011192321777  0.7633419036865234  1.0000
+  H   H2        1.0  0.5713391304016113  0.1973697543144226  0.5989890694618225  1.0000
+  H   H3        1.0  0.5713433623313904  0.867782711982727  0.2623617351055145  1.0000
+  H   H4        1.0  0.06786049157381058  0.36657965183258057  0.09782733023166656  1.0000
+  O   O1        1.0  0.8845722675323487  0.5328956842422485  0.9303073883056641  1.0000
+  O   O2        1.0  0.3845160007476807  0.030576512217521667  0.43245917558670044  1.0000

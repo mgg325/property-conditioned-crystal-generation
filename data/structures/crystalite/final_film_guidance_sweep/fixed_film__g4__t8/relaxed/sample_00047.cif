@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_AcAlSi2GeBP4SCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.36590985
+_cell_length_b   4.35991253
+_cell_length_c   8.58477399
+_cell_angle_alpha   89.42106019
+_cell_angle_beta   89.91961279
+_cell_angle_gamma   117.23942319
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcAlSi2GeBP4SCl
+_chemical_formula_sum   'Ac1 Al1 Si2 Ge1 B1 P4 S1 Cl1'
+_cell_volume   145.27827326
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.15140941  0.18736152  0.90065020  1
+  Al  Al1  1  0.42135322  0.69093669  0.50547840  1
+  Si  Si2  1  0.43501007  0.89818117  0.10806363  1
+  Si  Si3  1  0.48465812  0.83898985  0.77041748  1
+  Ge  Ge4  1  0.31248844  0.18481518  0.48417909  1
+  B  B5  1  0.46302341  0.70753445  0.54749702  1
+  P  P6  1  0.39975968  0.89336439  0.32100377  1
+  P  P7  1  0.81447240  0.51710208  0.78849978  1
+  P  P8  1  0.86050285  0.22143939  0.48347872  1
+  P  P9  1  0.90169513  0.70855868  0.57511090  1
+  S  S10  1  0.75549447  0.63768088  0.30269544  1
+  Cl  Cl11  1  0.80933463  0.56398604  0.06371348  1

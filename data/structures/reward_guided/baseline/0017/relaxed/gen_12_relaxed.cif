@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na(SnHg)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.40354650
+_cell_length_b   6.45039358
+_cell_length_c   8.13536563
+_cell_angle_alpha   89.90152099
+_cell_angle_beta   109.42944305
+_cell_angle_gamma   90.08605516
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na(SnHg)2
+_chemical_formula_sum   'Na2 Sn4 Hg4'
+_cell_volume   267.40954176
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.28951211  0.72074243  0.19954992  1
+  Na  Na1  1  0.90061314  0.22238169  0.42697037  1
+  Sn  Sn2  1  0.49065279  0.47427894  0.60580471  1
+  Sn  Sn3  1  0.69902172  0.97524305  0.01897868  1
+  Sn  Sn4  1  0.69808467  0.46827485  0.01878028  1
+  Sn  Sn5  1  0.49019795  0.96771960  0.60593850  1
+  Hg  Hg6  1  0.09445893  0.47233892  0.81266582  1
+  Hg  Hg7  1  0.28838694  0.22071073  0.20381827  1
+  Hg  Hg8  1  0.89955543  0.72231573  0.41956990  1
+  Hg  Hg9  1  0.09424343  0.97127336  0.81172118  1

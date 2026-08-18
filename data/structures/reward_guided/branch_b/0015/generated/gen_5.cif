@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CuCaCuSbCaSb3
+_chemical_formula_sum              "Cu2 Ca2 Sb4"
+_cell_length_a       4.4091034592868805
+_cell_length_b       5.150405174322293
+_cell_length_c       8.99338436126709
+_cell_angle_alpha    92.42758833709976
+_cell_angle_beta     104.73954160598262
+_cell_angle_gamma    90.99424573977976
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.8594211339950562  0.037255268543958664  0.20297561585903168  1.0000
+  Ca  Ca1       1.0  0.07857989519834518  0.03182446211576462  0.6392760872840881  1.0000
+  Cu  Cu2       1.0  0.49826109409332275  0.5365849733352661  0.4860794246196747  1.0000
+  Sb  Sb1       1.0  0.9211638569831848  0.5351555943489075  0.32780733704566956  1.0000
+  Ca  Ca2       1.0  0.2789112329483032  0.5367454290390015  0.04752392321825028  1.0000
+  Sb  Sb2       1.0  0.43747076392173767  0.036478277295827866  0.3610505163669586  1.0000
+  Sb  Sb3       1.0  0.714546799659729  0.03539625182747841  0.9179444909095764  1.0000
+  Sb  Sb4       1.0  0.6405037641525269  0.5331258773803711  0.7694603204727173  1.0000

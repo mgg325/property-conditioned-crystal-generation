@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sm2BeZn3Ge4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18575159
+_cell_length_b   4.18649117
+_cell_length_c   10.65619756
+_cell_angle_alpha   90.00068389
+_cell_angle_beta   89.97259432
+_cell_angle_gamma   89.99843001
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2BeZn3Ge4
+_chemical_formula_sum   'Sm2 Be1 Zn3 Ge4'
+_cell_volume   186.73505071
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.58948062  0.85976932  0.50808929  1
+  Sm  Sm1  1  0.08855147  0.36029332  0.98395669  1
+  Be  Be2  1  0.58831808  0.35976389  0.74583684  1
+  Zn  Zn3  1  0.08910519  0.85942505  0.74608911  1
+  Zn  Zn4  1  0.58864762  0.86060435  0.10289875  1
+  Zn  Zn5  1  0.09006905  0.35957650  0.38902893  1
+  Ge  Ge6  1  0.59002417  0.36083186  0.24573577  1
+  Ge  Ge7  1  0.58877348  0.86024568  0.87215253  1
+  Ge  Ge8  1  0.08866269  0.35955989  0.61996151  1
+  Ge  Ge9  1  0.08867210  0.86016465  0.24590626  1

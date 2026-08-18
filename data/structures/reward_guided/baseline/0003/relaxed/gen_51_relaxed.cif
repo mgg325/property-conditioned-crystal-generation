@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaLi3Ti2(CdI6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.02705137
+_cell_length_b   8.66359840
+_cell_length_c   13.90979836
+_cell_angle_alpha   103.95978574
+_cell_angle_beta   116.45664540
+_cell_angle_gamma   104.34719087
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLi3Ti2(CdI6)2
+_chemical_formula_sum   'Na1 Li3 Ti2 Cd2 I12'
+_cell_volume   862.51770140
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  -0.01376973  0.88851685  0.13070150  1
+  Li  Li1  1  0.05457351  0.87552599  0.46314764  1
+  Li  Li2  1  0.40752849  0.19178896  0.13387368  1
+  Li  Li3  1  0.42563404  0.34037395  0.83169935  1
+  Ti  Ti4  1  0.55140343  0.91069217  0.79663571  1
+  Ti  Ti5  1  0.86321832  0.19632364  0.45200437  1
+  Cd  Cd6  1  0.40563008  0.17321690  0.43646202  1
+  Cd  Cd7  1  0.04825939  0.93894943  0.82554417  1
+  I  I8  1  0.59044879  0.71970566  0.92645400  1
+  I  I9  1  0.18362818  0.81978196  0.67035868  1
+  I  I10  1  0.66627756  0.80424893  0.65271622  1
+  I  I11  1  0.71132984  0.84977843  0.34255445  1
+  I  I12  1  0.23266839  0.27611930  0.57801272  1
+  I  I13  1  0.19559968  0.83012327  0.00947870  1
+  I  I14  1  0.71873971  0.25515206  0.91600844  1
+  I  I15  1  0.24787960  0.30276754  0.94675536  1
+  I  I16  1  0.78327326  0.34052642  0.29767447  1
+  I  I17  1  0.24901436  0.28562731  0.25775685  1
+  I  I18  1  0.78251739  0.31532887  0.61375628  1
+  I  I19  1  0.21235846  0.80792981  0.34261913  1

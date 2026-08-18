@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SrNd2Sc2Mn(CuO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.00294253
+_cell_length_b   6.96205861
+_cell_length_c   7.01793597
+_cell_angle_alpha   111.89228077
+_cell_angle_beta   109.21138535
+_cell_angle_gamma   107.58789275
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrNd2Sc2Mn(CuO6)2
+_chemical_formula_sum   'Sr1 Nd2 Sc2 Mn1 Cu2 O12'
+_cell_volume   262.20244510
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.62616932  0.31509255  0.05385787  1
+  Nd  Nd1  1  0.64810170  0.82674645  0.04198299  1
+  Nd  Nd2  1  0.14479435  0.83237070  0.53805541  1
+  Sc  Sc3  1  0.14576251  0.35690023  0.04681607  1
+  Sc  Sc4  1  0.66886207  0.35857641  0.57092762  1
+  Mn  Mn5  1  0.13964585  0.30829285  0.52076619  1
+  Cu  Cu6  1  0.65222483  0.84620035  0.55138106  1
+  Cu  Cu7  1  0.17043461  0.88620441  0.06985427  1
+  O  O8  1  0.16883465  0.20747674  0.74719344  1
+  O  O9  1  0.35372348  0.20530915  0.20431839  1
+  O  O10  1  0.78979307  0.65188565  0.52448862  1
+  O  O11  1  1.04635307  0.95756650  0.26662662  1
+  O  O12  1  0.81124397  0.20486273  0.38904879  1
+  O  O13  1  0.11484978  0.46590942  0.34481296  1
+  O  O14  1  0.51657419  0.03955656  0.58098852  1
+  O  O15  1  0.31951486  0.85783320  0.89471141  1
+  O  O16  1  0.96806815  0.55357706  0.93848835  1
+  O  O17  1  0.81484153  0.03733162  0.87977806  1
+  O  O18  1  0.48350907  0.65174948  0.21991353  1
+  O  O19  1  0.47269369  0.46563565  0.69978776  1

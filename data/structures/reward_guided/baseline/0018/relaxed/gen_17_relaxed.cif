@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_KCd2InRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14114466
+_cell_length_b   5.34308071
+_cell_length_c   5.34304161
+_cell_angle_alpha   90.00953753
+_cell_angle_beta   89.90326689
+_cell_angle_gamma   89.94331079
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCd2InRu
+_chemical_formula_sum   'K1 Cd2 In1 Ru1'
+_cell_volume   146.77067005
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.41766422  0.09172656  0.42564872  1
+  Cd  Cd1  1  0.91831104  0.08999851  0.92647495  1
+  Cd  Cd2  1  0.91820374  0.59044124  0.42582602  1
+  In  In3  1  0.41700095  0.58992975  0.92618333  1
+  Ru  Ru4  1  0.91724348  0.58976127  0.92598087  1

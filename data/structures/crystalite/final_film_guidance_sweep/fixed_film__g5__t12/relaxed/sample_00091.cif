@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_RbTc2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   15.80425944
+_cell_length_b   2.90144710
+_cell_length_c   2.88686950
+_cell_angle_alpha   60.79827515
+_cell_angle_beta   97.30860211
+_cell_angle_gamma   143.03846478
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbTc2
+_chemical_formula_sum   'Rb1 Tc2'
+_cell_volume   60.15646410
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00438056  0.11931551  1.09129441  1
+  Tc  Tc1  1  0.37998871  0.60987625  0.33157528  1
+  Tc  Tc2  1  0.62357635  0.42668850  0.32915619  1

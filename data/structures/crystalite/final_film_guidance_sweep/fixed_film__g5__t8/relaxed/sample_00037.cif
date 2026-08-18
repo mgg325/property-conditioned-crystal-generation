@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_LiNbTlZnGaCuSbTeAsPbSe5Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.80737636
+_cell_length_b   5.47953348
+_cell_length_c   7.76094575
+_cell_angle_alpha   89.39813564
+_cell_angle_beta   90.46346165
+_cell_angle_gamma   90.76225624
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiNbTlZnGaCuSbTeAsPbSe5Br
+_chemical_formula_sum
+'Li1 Nb1 Tl1 Zn1 Ga1 Cu1 Sb1 Te1 As1 Pb1 Se5 Br1'
+_cell_volume   204.40439709
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.25878558  1.02620384  0.44158282  1
+  Nb  Nb1  1  0.34258798  0.22698499  0.07407506  1
+  Tl  Tl2  1  0.23551255  0.44507214  0.35787892  1
+  Zn  Zn3  1  0.86436318  0.54023227  0.79563680  1
+  Ga  Ga4  1  0.77669833  0.19503676  0.03587539  1
+  Cu  Cu5  1  0.93532218  0.02441407  0.74980990  1
+  Sb  Sb6  1  0.59171679  0.25871865  0.62130947  1
+  Te  Te7  1  0.69454366  0.61647825  0.31028255  1
+  As  As8  1  0.56087548  0.82185213  0.88171393  1
+  Pb  Pb9  1  0.07957973  0.83002480  0.10653874  1
+  Se  Se10  1  0.82425816  0.49217950  0.29466531  1
+  Se  Se11  1  0.35442563  0.26111987  0.81356502  1
+  Se  Se12  1  0.23161441  0.34003262  0.00795349  1
+  Se  Se13  1  0.31072463  0.74723131  0.62606881  1
+  Se  Se14  1  0.79245899  0.31985275  0.30732371  1
+  Br  Br15  1  0.35991998  0.32986794  0.79739570  1

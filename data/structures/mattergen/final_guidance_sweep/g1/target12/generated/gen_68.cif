@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CMnN2
+_chemical_formula_sum              "C1 Mn1 N2"
+_cell_length_a       3.351098310064715
+_cell_length_b       3.352162641768629
+_cell_length_c       5.13688325881958
+_cell_angle_alpha    70.98179710806147
+_cell_angle_beta     70.95731227091616
+_cell_angle_gamma    60.02422216705617
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.6230328083038329  0.9917343854904176  0.42359215021133423  1.0000
+  Mn  Mn1       1.0  0.12215698510408403  0.49248963594436646  0.9244114756584167  1.0000
+  N   N1        1.0  0.7088159918785095  0.07883543521165848  0.16570259630680084  1.0000
+  N   N2        1.0  0.5361492037773131  0.9067262411117555  0.6817657947540283  1.0000

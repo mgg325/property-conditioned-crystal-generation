@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CaNd3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.71231526
+_cell_length_b   3.71283819
+_cell_length_c   10.62813767
+_cell_angle_alpha   89.92292752
+_cell_angle_beta   89.96370468
+_cell_angle_gamma   90.07640613
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaNd3
+_chemical_formula_sum   'Ca1 Nd3'
+_cell_volume   146.48972982
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.12689209  0.50444734  0.19826626  1
+  Nd  Nd1  1  0.62835455  0.00477997  0.46039797  1
+  Nd  Nd2  1  0.12784099  0.50425652  0.69936747  1
+  Nd  Nd3  1  0.62689607  0.00419486  0.93732501  1

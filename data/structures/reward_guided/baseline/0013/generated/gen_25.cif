@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       InPdInRh
+_chemical_formula_sum              "In2 Pd1 Rh1"
+_cell_length_a       3.1896608087017526
+_cell_length_b       4.614458924332903
+_cell_length_c       5.219081401824951
+_cell_angle_alpha    103.97148232824404
+_cell_angle_beta     107.6103477696004
+_cell_angle_gamma    90.41243048951067
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.8131927251815796  0.6706640124320984  0.3572809398174286  1.0000
+  Pd  Pd1       1.0  0.5571420788764954  0.7918351888656616  0.8463065028190613  1.0000
+  In  In2       1.0  0.04904114827513695  0.28173813223838806  0.8303631544113159  1.0000
+  Rh  Rh1       1.0  0.30825719237327576  0.16971009969711304  0.34899213910102844  1.0000

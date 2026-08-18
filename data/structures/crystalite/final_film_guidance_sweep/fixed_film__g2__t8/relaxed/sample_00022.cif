@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cs3KNaSnTeO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.52763938
+_cell_length_b   6.67227559
+_cell_length_c   8.60965875
+_cell_angle_alpha   93.85650761
+_cell_angle_beta   94.75560588
+_cell_angle_gamma   95.02369742
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3KNaSnTeO7
+_chemical_formula_sum   'Cs3 K1 Na1 Sn1 Te1 O7'
+_cell_volume   371.21017613
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.79776845  0.29731218  0.80919944  1
+  Cs  Cs1  1  0.19637405  0.84328379  0.82395394  1
+  Cs  Cs2  1  0.86751326  0.32619348  0.32302504  1
+  K  K3  1  0.24887748  0.90227327  0.31288602  1
+  Na  Na4  1  0.64977242  0.83740416  0.04402156  1
+  Sn  Sn5  1  0.34685002  0.34258849  0.05630733  1
+  Te  Te6  1  0.67050514  0.77119284  0.55497329  1
+  O  O7  1  0.93573720  0.77117802  0.49106724  1
+  O  O8  1  0.25616127  0.39242841  0.83820204  1
+  O  O9  1  0.71709277  0.78481404  0.77654830  1
+  O  O10  1  0.11908067  0.16285044  0.13004699  1
+  O  O11  1  0.59226764  0.02654802  0.51705756  1
+  O  O12  1  0.43490620  0.60758113  0.17524734  1
+  O  O13  1  0.57418387  0.16073506  0.06840643  1

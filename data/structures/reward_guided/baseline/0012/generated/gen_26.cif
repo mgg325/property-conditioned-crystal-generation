@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tb2ZnTbPTbSe2
+_chemical_formula_sum              "Tb4 Zn1 P1 Se2"
+_cell_length_a       4.021579315106415
+_cell_length_b       7.108132423231143
+_cell_length_c       7.14424467086792
+_cell_angle_alpha    108.609017377823
+_cell_angle_beta     90.06893277172614
+_cell_angle_gamma    89.97147963403637
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.7151899933815002  0.04672661423683166  0.4490860104560852  1.0000
+  Tb  Tb2       1.0  0.21501202881336212  0.039510887116193764  0.9294160008430481  1.0000
+  Zn  Zn1       1.0  0.21526116132736206  0.30133312940597534  0.6937500238418579  1.0000
+  Tb  Tb3       1.0  0.21499809622764587  0.5633265376091003  0.45716947317123413  1.0000
+  P   P1        1.0  0.7149211764335632  0.8012796640396118  0.693613588809967  1.0000
+  Tb  Tb4       1.0  0.7153459191322327  0.5560956597328186  0.9385414719581604  1.0000
+  Se  Se1       1.0  0.715180516242981  0.30114054679870605  0.19375866651535034  1.0000
+  Se  Se2       1.0  0.21523317694664001  0.801280379295349  0.19371198117733  1.0000

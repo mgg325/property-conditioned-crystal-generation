@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OMoNbO3
+_chemical_formula_sum              "O4 Mo1 Nb1"
+_cell_length_a       3.2005394741896915
+_cell_length_b       4.844764808123659
+_cell_length_c       4.846214819980615
+_cell_angle_alpha    88.84946251327324
+_cell_angle_beta     90.00666289939385
+_cell_angle_gamma    89.99592091198826
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.9237972408130354  0.4162901161543376  0.959654097857368  1.0000
+  Mo  Mo1       1.0  0.42384091149296277  0.20858182003413533  0.16747621118776285  1.0000
+  Nb  Nb1       1.0  0.9235584193314462  0.7089148454494983  0.6674056502283378  1.0000
+  O   O2        1.0  0.4236707320473463  0.8956949536523935  0.8544259065258192  1.0000
+  O   O3        1.0  0.42362623393968346  0.5212273856086113  0.48122187308033704  1.0000
+  O   O4        1.0  0.9240866508241795  0.000921737850610366  0.37550957939304963  1.0000

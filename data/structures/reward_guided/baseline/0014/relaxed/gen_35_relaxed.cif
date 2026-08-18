@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li3Bi2Pd7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31251304
+_cell_length_b   6.90759173
+_cell_length_c   6.83405815
+_cell_angle_alpha   90.01543432
+_cell_angle_beta   89.99881706
+_cell_angle_gamma   108.18727046
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Bi2Pd7
+_chemical_formula_sum   'Li3 Bi2 Pd7'
+_cell_volume   193.40971045
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.72226344  0.57099843  0.30905077  1
+  Li  Li1  1  0.06180556  0.25065239  0.30913631  1
+  Li  Li2  1  0.39203657  0.91070269  0.30902223  1
+  Bi  Bi3  1  0.04105306  0.20856700  0.80947834  1
+  Bi  Bi4  1  0.74345936  0.61293882  0.80889953  1
+  Pd  Pd5  1  0.22510007  0.57653508  0.52604934  1
+  Pd  Pd6  1  0.39228302  0.91077103  0.80927275  1
+  Pd  Pd7  1  0.89217258  0.91105039  0.51336510  1
+  Pd  Pd8  1  0.55922581  0.24527286  0.09217671  1
+  Pd  Pd9  1  0.89208891  0.91042426  0.10476886  1
+  Pd  Pd10  1  0.22506978  0.57602384  0.09178130  1
+  Pd  Pd11  1  0.55929604  0.24536875  0.52626744  1

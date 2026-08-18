@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_K2PrTmSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27822232
+_cell_length_b   7.41942917
+_cell_length_c   8.06935184
+_cell_angle_alpha   107.79681166
+_cell_angle_beta   90.00146676
+_cell_angle_gamma   90.00143048
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2PrTmSe4
+_chemical_formula_sum   'K2 Pr1 Tm1 Se4'
+_cell_volume   243.88002138
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.74074737  0.96249920  0.93386434  1
+  K  K1  1  0.24082280  0.46285642  0.93399381  1
+  Pr  Pr2  1  0.24090540  0.96287635  0.43388365  1
+  Tm  Tm3  1  0.74088836  0.46288411  0.43401835  1
+  Se  Se4  1  0.74083898  0.21086055  0.64408547  1
+  Se  Se5  1  0.74086622  0.71472086  0.22384923  1
+  Se  Se6  1  0.24074831  0.23890903  0.22965811  1
+  Se  Se7  1  0.24089234  0.68693699  0.63830757  1

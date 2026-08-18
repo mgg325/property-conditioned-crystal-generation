@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_NaNd(ErSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08925798
+_cell_length_b   7.14120684
+_cell_length_c   7.21745386
+_cell_angle_alpha   108.95043200
+_cell_angle_beta   89.96636763
+_cell_angle_gamma   90.03036952
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaNd(ErSe2)2
+_chemical_formula_sum   'Na1 Nd1 Er2 Se4'
+_cell_volume   199.34221978
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.94470197  0.65934163  0.28018598  1
+  Nd  Nd1  1  0.44446480  0.15881766  0.27949788  1
+  Er  Er2  1  0.44556191  0.65869373  0.77940140  1
+  Er  Er3  1  0.94496991  0.15954789  0.78054268  1
+  Se  Se4  1  0.94501106  0.90083792  0.01754421  1
+  Se  Se5  1  0.44502783  0.91241747  0.54352148  1
+  Se  Se6  1  0.44475816  0.40668008  0.01748065  1
+  Se  Se7  1  0.94509529  0.41649753  0.54149951  1

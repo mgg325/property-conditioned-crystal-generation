@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_TbZnHg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.86301452
+_cell_length_b   7.74373346
+_cell_length_c   7.74374775
+_cell_angle_alpha   120.00130112
+_cell_angle_beta   90.00035260
+_cell_angle_gamma   89.99061780
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbZnHg
+_chemical_formula_sum   'Tb3 Zn3 Hg3'
+_cell_volume   200.61013222
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.22832653  0.72930299  0.33443194  1
+  Tb  Tb1  1  0.22833241  0.33088430  0.73306437  1
+  Tb  Tb2  1  0.22830787  0.12749076  0.13124324  1
+  Zn  Zn3  1  0.72828683  0.39582458  0.06633780  1
+  Zn  Zn4  1  0.22837864  0.72904205  0.73266130  1
+  Zn  Zn5  1  0.72829864  0.06269758  0.39970430  1
+  Hg  Hg6  1  0.72834403  0.99806372  0.73284298  1
+  Hg  Hg7  1  0.72834069  0.46030604  0.46396976  1
+  Hg  Hg8  1  0.72832860  0.72921122  0.00166322  1

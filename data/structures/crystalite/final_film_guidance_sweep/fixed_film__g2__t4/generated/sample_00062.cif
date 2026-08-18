@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_MnFeP2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.94996738
+_cell_length_b   4.87896061
+_cell_length_c   5.20141029
+_cell_angle_alpha   113.72158051
+_cell_angle_beta   100.17588043
+_cell_angle_gamma   97.75942993
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnFeP2O7
+_chemical_formula_sum   'Mn1 Fe1 P2 O7'
+_cell_volume   110.19525149
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.62152809  0.64480364  0.77397740  1
+  P  P1  1  0.44649917  0.42165953  0.14067972  1
+  Fe  Fe2  1  0.79280663  0.36846593  0.52815264  1
+  P  P3  1  0.23623198  0.97654438  0.43394098  1
+  O  O4  1  0.58190519  0.35567176  0.13665736  1
+  O  O5  1  0.53348762  0.80168533  0.34604552  1
+  O  O6  1  0.00738201  0.98275119  0.16192031  1
+  O  O7  1  0.64568436  0.17999709  0.72070909  1
+  O  O8  1  0.26118672  0.41651973  0.36624476  1
+  O  O9  1  0.10426268  0.89025301  0.61373115  1
+  Mn  Mn10  1  0.79284298  0.97744107  0.88272703  1

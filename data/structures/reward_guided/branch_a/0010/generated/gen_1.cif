@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SrAsSrRh
+_chemical_formula_sum              "Sr2 As1 Rh1"
+_cell_length_a       4.585103534740819
+_cell_length_b       4.715587275088312
+_cell_length_c       5.674585342407227
+_cell_angle_alpha    112.75708693012578
+_cell_angle_beta     90.40988216965248
+_cell_angle_gamma    88.95390433881482
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.38903942704200745  0.9142987728118896  0.9522353410720826  1.0000
+  As  As1       1.0  0.8872196674346924  0.3185070753097534  0.7611877918243408  1.0000
+  Sr  Sr2       1.0  0.8911870718002319  0.6300650238990784  0.3726862072944641  1.0000
+  Rh  Rh1       1.0  0.3863672614097595  0.22390705347061157  0.5692489743232727  1.0000

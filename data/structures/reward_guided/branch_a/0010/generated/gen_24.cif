@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       LiPrEr
+_chemical_formula_sum              "Li1 Pr1 Er1"
+_cell_length_a       3.750843831360611
+_cell_length_b       3.7422521319206687
+_cell_length_c       6.5335259437561035
+_cell_angle_alpha    104.54438356088322
+_cell_angle_beta     105.49990534727733
+_cell_angle_gamma    89.35478219193774
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5997021198272705  0.32559478282928467  0.28932884335517883  1.0000
+  Pr  Pr1       1.0  0.26262879371643066  0.9901420474052429  0.6192129254341125  1.0000
+  Er  Er1       1.0  0.9544263482093811  0.6783847212791443  0.9972853660583497  1.0000

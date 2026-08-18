@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_K2CaCoSe2S
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.21765757
+_cell_length_b   7.06531715
+_cell_length_c   6.37718058
+_cell_angle_alpha   102.42942047
+_cell_angle_beta   112.25839996
+_cell_angle_gamma   112.34040070
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2CaCoSe2S
+_chemical_formula_sum   'K2 Ca1 Co1 Se2 S1'
+_cell_volume   217.67570787
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.56652868  0.15870160  0.86076826  1
+  S  S1  1  0.19014773  0.80098081  0.03928268  1
+  Ca  Ca2  1  0.48166761  0.67728055  0.99130118  1
+  Co  Co3  1  0.93636715  0.50821036  0.18492928  1
+  Se  Se4  1  0.92206395  0.37286684  0.49654174  1
+  K  K5  1  0.88282824  0.95444381  0.75886273  1
+  K  K6  1  0.45017046  0.24889952  0.45456314  1

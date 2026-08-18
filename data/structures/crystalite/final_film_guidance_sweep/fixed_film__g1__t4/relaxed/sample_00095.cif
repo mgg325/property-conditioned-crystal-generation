@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li7Ti2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.23398624
+_cell_length_b   5.56086995
+_cell_length_c   6.41673548
+_cell_angle_alpha   90.04582566
+_cell_angle_beta   90.11688046
+_cell_angle_gamma   92.43432997
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li7Ti2O7
+_chemical_formula_sum   'Li7 Ti2 O7'
+_cell_volume   186.59339878
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.66488829  0.46743682  0.94410685  1
+  Li  Li1  1  0.77969512  0.94405749  0.18177476  1
+  Li  Li2  1  0.00072390  0.57551107  0.68659990  1
+  Li  Li3  1  0.30150212  0.27523016  0.68284671  1
+  Li  Li4  1  0.22909043  0.81427077  0.43801186  1
+  Li  Li5  1  0.23042847  0.81854251  0.92754761  1
+  Li  Li6  1  0.66774835  0.46626266  0.42540360  1
+  Ti  Ti7  1  0.72386134  0.97230753  0.68143644  1
+  Ti  Ti8  1  0.14656442  0.36273510  0.18286263  1
+  O  O9  1  0.80959113  0.29828379  0.18424192  1
+  O  O10  1  0.28519167  0.47158613  0.42539054  1
+  O  O11  1  0.37599467  0.94710392  0.68157500  1
+  O  O12  1  0.85096729  0.80229114  0.45816168  1
+  O  O13  1  0.84998704  0.80294759  0.90509487  1
+  O  O14  1  0.78723056  0.29527986  0.68553108  1
+  O  O15  1  0.28380128  0.47593864  0.94126217  1

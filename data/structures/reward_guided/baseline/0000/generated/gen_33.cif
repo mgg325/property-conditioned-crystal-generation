@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaSiMoSi2
+_chemical_formula_sum              "Ca1 Si3 Mo1"
+_cell_length_a       3.796200999529976
+_cell_length_b       3.973120451763679
+_cell_length_c       6.282954692840576
+_cell_angle_alpha    108.38139285980114
+_cell_angle_beta     107.59252646236196
+_cell_angle_gamma    90.11203168979421
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.9000070095062256  0.7663047313690187  0.9763692617416382  1.0000
+  Si  Si1       1.0  0.15022024512290955  0.5144528150558472  0.4765326678752899  1.0000
+  Mo  Mo1       1.0  0.6503720283508301  0.01728815957903862  0.4762853980064392  1.0000
+  Si  Si2       1.0  0.2920627295970917  0.15880168974399567  0.7606131434440613  1.0000
+  Si  Si3       1.0  0.5100477337837219  0.37591946125030523  0.1953962743282318  1.0000

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Ba8Ir2Au5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.06225967
+_cell_length_b   8.06246133
+_cell_length_c   7.98004807
+_cell_angle_alpha   89.99641227
+_cell_angle_beta   89.99479902
+_cell_angle_gamma   89.98535524
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba8Ir2Au5
+_chemical_formula_sum   'Ba8 Ir2 Au5'
+_cell_volume   518.71632595
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.20833950  0.03573276  0.27044471  1
+  Ba  Ba1  1  0.67565236  0.56888234  0.77562530  1
+  Ba  Ba2  1  0.67563034  0.03564415  0.77548883  1
+  Ba  Ba3  1  0.20887735  0.56886453  0.27050054  1
+  Ba  Ba4  1  0.67509305  0.03542602  0.27041037  1
+  Ba  Ba5  1  0.67585611  0.56847881  0.27037730  1
+  Ba  Ba6  1  0.20880898  0.56920787  0.77578663  1
+  Ba  Ba7  1  0.20891849  0.03580149  0.77581906  1
+  Ir  Ir8  1  0.44308424  0.80271684  0.02282753  1
+  Ir  Ir9  1  0.44151217  0.80209051  0.52279686  1
+  Au  Au10  1  0.44275469  0.30272081  0.52295757  1
+  Au  Au11  1  0.94192534  0.80185121  0.02331254  1
+  Au  Au12  1  0.94193750  0.30260628  0.02305630  1
+  Au  Au13  1  0.44149329  0.30248099  0.02306661  1
+  Au  Au14  1  0.94218635  0.80259304  0.52285082  1

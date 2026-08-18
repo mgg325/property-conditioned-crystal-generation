@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       F4TaF2Ca
+_chemical_formula_sum              "F6 Ta1 Ca1"
+_cell_length_a       6.07066015875981
+_cell_length_b       6.070301280324789
+_cell_length_c       6.06892936330187
+_cell_angle_alpha    59.98627755544379
+_cell_angle_beta     59.99660521433509
+_cell_angle_gamma    59.97553033255634
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.16369917510142779  0.8424153240679044  0.4392185944720618  1.0000
+  F   F2        1.0  0.7006204488158734  0.37865723903198195  0.9030528399485904  1.0000
+  F   F3        1.0  0.7012246585130432  0.8421622248783205  0.43878826289755607  1.0000
+  F   F4        1.0  0.1638842927364958  0.3789996260939543  0.4391778476162551  1.0000
+  Ta  Ta1       1.0  0.9320813990348251  0.61057149765503  0.6711736220272712  1.0000
+  F   F5        1.0  0.1634408657975804  0.3786472035585218  0.9033926554869703  1.0000
+  F   F6        1.0  0.700211497503488  0.8420086444563019  0.9029741873410296  1.0000
+  Ca  Ca1       1.0  0.43226305754731  0.1104405110903458  0.17119411483563862  1.0000

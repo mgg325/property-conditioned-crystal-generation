@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_DyLu2Ag3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.59152378
+_cell_length_b   3.59178164
+_cell_length_c   10.77428800
+_cell_angle_alpha   89.99914974
+_cell_angle_beta   89.99646310
+_cell_angle_gamma   90.06944046
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyLu2Ag3
+_chemical_formula_sum   'Dy1 Lu2 Ag3'
+_cell_volume   138.98788065
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.88952266  0.69551247  0.27690097  1
+  Lu  Lu1  1  0.89108988  0.69406068  0.61316460  1
+  Lu  Lu2  1  0.88901285  0.69287306  0.94088550  1
+  Ag  Ag3  1  0.39200006  0.19304781  0.77805319  1
+  Ag  Ag4  1  0.39110927  0.19530619  0.45232640  1
+  Ag  Ag5  1  0.38840287  0.19340201  0.10204244  1

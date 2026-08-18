@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       H2CH
+_chemical_formula_sum              "H3 C1"
+_cell_length_a       3.6506620329126394
+_cell_length_b       4.171504460972218
+_cell_length_c       3.809238910675049
+_cell_angle_alpha    113.74318736326171
+_cell_angle_beta     90.01254956156241
+_cell_angle_gamma    111.98822275960198
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.25848954916000366  0.9821440577507019  0.03724515065550804  1.0000
+  H   H2        1.0  0.9753974080085754  0.45501708984375  0.7698777318000792  1.0000
+  C   C1        1.0  0.2218666821718216  0.7182226777076721  0.793900430202484  1.0000
+  H   H3        1.0  0.4298495650291443  0.7186833024024963  0.5874769687652588  1.0000

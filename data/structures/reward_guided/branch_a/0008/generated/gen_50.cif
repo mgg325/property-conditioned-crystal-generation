@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MgInMgSnInSn3
+_chemical_formula_sum              "Mg2 In2 Sn4"
+_cell_length_a       5.181145724987681
+_cell_length_b       5.178000514685852
+_cell_length_c       8.832452774047852
+_cell_angle_alpha    72.58471988460224
+_cell_angle_beta     73.29454893083906
+_cell_angle_gamma    60.22698495670469
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.6558778285980226  0.21706844866275785  0.7105095982551575  1.0000
+  In  In1       1.0  0.9072879552841187  0.4690983891487121  0.9643826484680176  1.0000
+  Mg  Mg2       1.0  0.1554096937179566  0.7185724377632141  0.21070456504821777  1.0000
+  Sn  Sn1       1.0  0.032075386494398096  0.5920689702033997  0.5909126400947571  1.0000
+  In  In2       1.0  0.4051986038684845  0.9673673510551453  0.46284690499305725  1.0000
+  Sn  Sn2       1.0  0.7812007665634156  0.34404584765434265  0.33381515741348267  1.0000
+  Sn  Sn3       1.0  0.28091168403625494  0.8428500890731812  0.8368302583694458  1.0000
+  Sn  Sn4       1.0  0.529977560043335  0.09583869576454161  0.08522070944309236  1.0000

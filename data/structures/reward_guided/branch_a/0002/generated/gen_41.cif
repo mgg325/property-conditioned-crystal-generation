@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Sm2Ge3CoSmGeSmCo
+_chemical_formula_sum              "Sm4 Ge4 Co2"
+_cell_length_a       4.169681171750387
+_cell_length_b       7.075521811409022
+_cell_length_c       7.160325527191162
+_cell_angle_alpha    89.80753460721166
+_cell_angle_beta     91.83743968789408
+_cell_angle_gamma    88.75587660789121
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.268308162689209  0.5675724744796754  0.09305983781814575  1.0000
+  Sm  Sm2       1.0  0.26785770058631897  0.7015282511711121  0.5818080306053162  1.0000
+  Ge  Ge1       1.0  0.7681992053985596  0.49499979615211487  0.7928570508956909  1.0000
+  Ge  Ge2       1.0  0.7682162523269653  0.8915443420410157  0.9224462509155273  1.0000
+  Ge  Ge3       1.0  0.7691685557365417  0.993202269077301  0.5203806161880493  1.0000
+  Co  Co1       1.0  0.7683635354042053  0.26013121008872986  0.031394366174936295  1.0000
+  Sm  Sm3       1.0  0.2675173282623291  0.07016180455684662  0.2194480299949646  1.0000
+  Ge  Ge4       1.0  0.7685241103172302  0.3944026529788971  0.3889791965484619  1.0000
+  Sm  Sm4       1.0  0.26827186346054077  0.20072376728057864  0.7301735281944275  1.0000
+  Co  Co2       1.0  0.7689564824104309  0.7586321234703065  0.28002116084098816  1.0000

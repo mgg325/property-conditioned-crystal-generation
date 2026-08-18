@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2InAuF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.44393305
+_cell_length_b   6.79589144
+_cell_length_c   6.44177787
+_cell_angle_alpha   107.09198003
+_cell_angle_beta   110.34491092
+_cell_angle_gamma   112.18114463
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2InAuF6
+_chemical_formula_sum   'K2 In1 Au1 F6'
+_cell_volume   213.55091744
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.71001483  0.10436690  0.79762131  1
+  K  K1  1  0.58361022  0.53611050  0.23922394  1
+  In  In2  1  0.14683069  0.32026747  0.51844516  1
+  Au  Au3  1  0.14676976  0.82023664  0.01841542  1
+  F  F4  1  0.92288889  1.00579308  0.51608625  1
+  F  F5  1  0.80803818  0.28497906  0.27434083  1
+  F  F6  1  0.14728491  0.13088130  0.16469834  1
+  F  F7  1  0.48565276  0.35543947  0.76231283  1
+  F  F8  1  0.14634153  0.50963314  0.87218343  1
+  F  F9  1  0.37077262  0.63484603  0.52097757  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_LiCaBiS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89624468
+_cell_length_b   3.93700301
+_cell_length_c   9.94104459
+_cell_angle_alpha   70.78736162
+_cell_angle_beta   70.93785040
+_cell_angle_gamma   58.44156784
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCaBiS2
+_chemical_formula_sum   'Li1 Ca1 Bi1 S2'
+_cell_volume   120.42236553
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.59392529  0.89352990  0.47197326  1
+  Ca  Ca1  1  0.09500883  0.38243956  0.18958175  1
+  Bi  Bi2  1  0.71103168  0.96981522  0.79114103  1
+  S  S3  1  0.87272555  0.15748207  0.99905167  1
+  S  S4  1  0.32235420  0.62083988  0.36481901  1

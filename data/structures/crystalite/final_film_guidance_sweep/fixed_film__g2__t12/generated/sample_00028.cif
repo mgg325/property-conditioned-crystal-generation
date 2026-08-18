@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Sr2Ga3SiSnGe3(SbAs2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51756334
+_cell_length_b   7.28379250
+_cell_length_c   8.42147541
+_cell_angle_alpha   110.75581360
+_cell_angle_beta   89.64880371
+_cell_angle_gamma   89.95478058
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Ga3SiSnGe3(SbAs2)2
+_chemical_formula_sum   'Sr2 Ga3 Si1 Sn1 Ge3 Sb2 As4'
+_cell_volume   316.47576075
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.10680482  0.73273599  0.38951683  1
+  Sr  Sr1  1  0.68184996  0.05082747  0.83748770  1
+  Ga  Ga2  1  0.13780457  0.26485896  0.23504794  1
+  Sr  Sr3  1  0.57077730  0.71236169  0.51346290  1
+  As  As4  1  0.39666346  0.57820451  0.84970677  1
+  As  As5  1  0.81122577  0.65293926  0.07247874  1
+  Ge  Ge6  1  0.12321255  0.85351777  0.87084162  1
+  Si  Si7  1  0.79764557  0.18022192  0.37912944  1
+  Ge  Ge8  1  0.93290043  0.93444669  0.29988861  1
+  Sn  Sn9  1  0.38687956  0.79209876  0.09998161  1
+  As  As10  1  0.85841590  0.56152105  0.73396504  1
+  As  As11  1  0.38674781  0.20568097  0.42280623  1
+  Ga  Ga12  1  0.01712269  0.43686572  0.90785193  1
+  Sb  Sb13  1  0.67225778  0.45333189  0.15574113  1
+  Ga  Ga14  1  0.09610265  0.08624575  0.61223447  1
+  Ge  Ge15  1  0.13908982  0.19264689  0.01033953  1

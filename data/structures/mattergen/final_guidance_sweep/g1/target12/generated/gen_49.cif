@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Zn2PIZn2PI
+_chemical_formula_sum              "Zn4 P2 I2"
+_cell_length_a       4.157834326749943
+_cell_length_b       4.163217155432141
+_cell_length_c       14.61841869354248
+_cell_angle_alpha    81.93352130943248
+_cell_angle_beta     81.89702736623369
+_cell_angle_gamma    59.93845588002235
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.39542773365974426  0.8469309210777283  0.5781773924827576  1.0000
+  Zn  Zn2       1.0  0.6688154339790344  0.1193220242857933  0.7623572945594788  1.0000
+  P   P1        1.0  0.45831349492073054  0.9083093404769897  0.39045462012290955  1.0000
+  I   I1        1.0  0.8748294711112977  0.3256050646305084  0.14124754071235657  1.0000
+  Zn  Zn3       1.0  0.5102245807647704  0.959600031375885  0.23541256785392764  1.0000
+  Zn  Zn4       1.0  0.7832684516906738  0.2337106466293335  0.4179001748561859  1.0000
+  P   P2        1.0  0.719779372215271  0.1716461479663849  0.6070535778999329  1.0000
+  I   I2        1.0  0.3027517795562744  0.753851294517517  0.8571183681488037  1.0000

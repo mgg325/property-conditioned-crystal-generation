@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_BaO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21313438
+_cell_length_b   4.20193603
+_cell_length_c   4.89937506
+_cell_angle_alpha   96.31464765
+_cell_angle_beta   84.83125528
+_cell_angle_gamma   97.23608662
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaO4
+_chemical_formula_sum   'Ba1 O4'
+_cell_volume   85.26636771
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.26039481  0.24138118  0.20699887  1
+  O  O1  1  0.16464273  0.68586138  0.84691273  1
+  O  O2  1  0.86592786  0.63100804  0.96064456  1
+  O  O3  1  0.63962922  0.82807496  0.41298375  1
+  O  O4  1  0.71705115  0.12489529  0.54179671  1

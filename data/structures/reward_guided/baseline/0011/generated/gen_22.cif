@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CuPt2Rh
+_chemical_formula_sum              "Cu1 Pt2 Rh1"
+_cell_length_a       2.739682409985432
+_cell_length_b       3.8236761299080193
+_cell_length_c       5.484631538391113
+_cell_angle_alpha    89.99405340983782
+_cell_angle_beta     90.04064213179737
+_cell_angle_gamma    89.87303613288049
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.8382335901260376  0.49395701289176935  0.17495650053024292  1.0000
+  Pt  Pt1       1.0  0.8381298184394836  0.4947208166122436  0.684247612953186  1.0000
+  Pt  Pt2       1.0  0.3381953835487366  0.9945852756500244  0.4139341413974762  1.0000
+  Rh  Rh1       1.0  0.33795297145843506  0.9946699738502501  0.9288759231567383  1.0000

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Be2AlCu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.59951893
+_cell_length_b   6.48964566
+_cell_length_c   6.49299143
+_cell_angle_alpha   89.99579750
+_cell_angle_beta   90.00157728
+_cell_angle_gamma   90.00193764
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be2AlCu2
+_chemical_formula_sum   'Be4 Al2 Cu4'
+_cell_volume   109.53648411
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.04633234  0.62087269  0.50045088  1
+  Be  Be1  1  0.04691842  0.12124888  0.76775934  1
+  Be  Be2  1  0.04637884  0.35459915  0.00049909  1
+  Be  Be3  1  0.04635906  0.85435150  0.26762316  1
+  Al  Al4  1  0.04643686  0.73782909  0.88378080  1
+  Al  Al5  1  0.04674018  0.23759524  0.38393937  1
+  Cu  Cu6  1  0.54675297  0.56064426  0.20679493  1
+  Cu  Cu7  1  0.54655243  0.41469532  0.70683306  1
+  Cu  Cu8  1  0.54630700  0.06042025  0.06108136  1
+  Cu  Cu9  1  0.54705489  0.91507684  0.56127872  1

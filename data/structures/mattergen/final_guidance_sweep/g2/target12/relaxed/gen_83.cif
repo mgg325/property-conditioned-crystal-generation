@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cu2Hf2Mo2
+_chemical_formula_sum              "Cu2 Hf2 Mo2"
+_cell_length_a       3.2110551474102933
+_cell_length_b       3.211039165249849
+_cell_length_c       9.602049320355125
+_cell_angle_alpha    89.98790535298068
+_cell_angle_beta     89.99065794915364
+_cell_angle_gamma    89.9985503741062
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.7855741376214727  0.7544254159063045  0.16760117502433539  1.0000
+  Cu  Cu2       1.0  0.2851259435903744  0.25376405000630375  0.29788943581693716  1.0000
+  Hf  Hf1       1.0  0.7847024678652623  0.7534634906491661  0.4718161684769778  1.0000
+  Hf  Hf2       1.0  0.2858166317331818  0.25495905525271906  0.993444663379928  1.0000
+  Mo  Mo1       1.0  0.28491772934382736  0.25396097509584065  0.6577814328318278  1.0000
+  Mo  Mo2       1.0  0.7854335292884126  0.7546769392149918  0.8073256333403419  1.0000

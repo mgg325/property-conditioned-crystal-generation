@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CuHoSmCu
+_chemical_formula_sum              "Cu2 Ho1 Sm1"
+_cell_length_a       3.464114828582686
+_cell_length_b       4.907288443436645
+_cell_length_c       4.928520202636719
+_cell_angle_alpha    89.77724953440993
+_cell_angle_beta     90.90854733949857
+_cell_angle_gamma    90.07624790515591
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.7041980624198914  0.14871107041835785  0.019934412091970444  1.0000
+  Ho  Ho1       1.0  0.2061169147491455  0.6494511961936951  0.019073542207479477  1.0000
+  Sm  Sm1       1.0  0.20488670468330383  0.14914225041866302  0.5223780870437622  1.0000
+  Cu  Cu2       1.0  0.7049809098243713  0.6491739749908447  0.5209144949913025  1.0000

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CeAgHg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12752580
+_cell_length_b   5.12671843
+_cell_length_c   5.12634062
+_cell_angle_alpha   60.00500852
+_cell_angle_beta   59.97865548
+_cell_angle_gamma   59.98771327
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeAgHg2
+_chemical_formula_sum   'Ce1 Ag1 Hg2'
+_cell_volume   95.26772045
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.45805707  0.59894632  0.92690960  1
+  Ag  Ag1  1  0.95809753  0.09887823  0.42682372  1
+  Hg  Hg2  1  0.70794812  0.84894668  0.17671498  1
+  Hg  Hg3  1  0.20823555  0.34911956  0.67729174  1

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BeNb2BeBNb2B
+_chemical_formula_sum              "Be2 Nb4 B2"
+_cell_length_a       3.269735059789696
+_cell_length_b       4.792895394998805
+_cell_length_c       6.280313014984131
+_cell_angle_alpha    89.98966842851902
+_cell_angle_beta     89.97031850163377
+_cell_angle_gamma    90.00823971214693
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.4044348299503326  0.6860730051994324  0.6396660208702087  1.0000
+  Nb  Nb1       1.0  0.4043075740337371  0.1670522838830948  0.784369945526123  1.0000
+  Nb  Nb2       1.0  0.9044293761253356  0.6779516339302063  0.9316393733024597  1.0000
+  Be  Be2       1.0  0.4045731127262115  0.4047323167324066  0.13937725126743317  1.0000
+  B   B1        1.0  0.9043301939964293  0.9045324325561522  0.5740412473678589  1.0000
+  Nb  Nb3       1.0  0.4044001102447509  0.9235582947731018  0.28444716334342957  1.0000
+  Nb  Nb4       1.0  0.9044530987739562  0.4128616750240326  0.4317536950111389  1.0000
+  B   B2        1.0  0.9044342637062072  0.18709222972393036  0.07458522915840149  1.0000

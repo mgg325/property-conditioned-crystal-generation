@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AgLiO2
+_chemical_formula_sum              "Ag1 Li1 O2"
+_cell_length_a       3.1591560280332054
+_cell_length_b       3.1582713458224227
+_cell_length_c       4.232786178588867
+_cell_angle_alpha    90.07756612434716
+_cell_angle_beta     89.94210298405372
+_cell_angle_gamma    89.62861094852352
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.30058538913726807  0.22969253361225125  0.4721657335758209  1.0000
+  Li  Li1       1.0  0.8007837533950806  0.7291385531425476  0.9717000722885132  1.0000
+  O   O1        1.0  0.8005560040473938  0.7298845052719116  0.47197872400283813  1.0000
+  O   O2        1.0  0.30063003301620483  0.22954350709915158  0.971663773059845  1.0000

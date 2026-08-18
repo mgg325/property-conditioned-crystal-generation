@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       RuVHRuPt
+_chemical_formula_sum              "Ru2 V1 H1 Pt1"
+_cell_length_a       3.912939976130964
+_cell_length_b       3.895543986106452
+_cell_length_c       3.823906183242798
+_cell_angle_alpha    90.09125381973968
+_cell_angle_beta     90.67169697690636
+_cell_angle_gamma    90.82372332536686
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ru  Ru1       1.0  0.3933666944503785  0.10470036417245865  0.619723379611969  1.0000
+  V   V1        1.0  0.8939542174339296  0.10441462695598602  0.11936920881271362  1.0000
+  H   H1        1.0  0.39409968256950384  0.6043107509613038  0.6187070608139038  1.0000
+  Ru  Ru2       1.0  0.8936453461647035  0.6052528023719788  0.6192882657051086  1.0000
+  Pt  Pt1       1.0  0.3942654132843018  0.6048139929771423  0.1191774308681488  1.0000

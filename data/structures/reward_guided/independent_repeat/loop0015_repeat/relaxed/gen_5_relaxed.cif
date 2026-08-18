@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaCa2Ag9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66192413
+_cell_length_b   5.66238548
+_cell_length_c   9.79929202
+_cell_angle_alpha   73.23151433
+_cell_angle_beta   73.23833954
+_cell_angle_gamma   60.01667917
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCa2Ag9
+_chemical_formula_sum   'Na1 Ca2 Ag9'
+_cell_volume   256.58048254
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.77661593  0.62198582  0.94911791  1
+  Ca  Ca1  1  0.90301300  0.74869675  0.56838602  1
+  Ca  Ca2  1  0.39531141  0.24050996  0.09152994  1
+  Ag  Ag3  1  0.83695663  0.18236347  0.26748290  1
+  Ag  Ag4  1  0.58786416  0.43338543  0.51428106  1
+  Ag  Ag5  1  0.27116111  0.11825864  0.46108819  1
+  Ag  Ag6  1  0.83698318  0.68257408  0.26699891  1
+  Ag  Ag7  1  0.08809345  0.93290578  0.01536529  1
+  Ag  Ag8  1  0.83981411  0.18269095  0.76315945  1
+  Ag  Ag9  1  0.33707796  0.18429241  0.76309396  1
+  Ag  Ag10  1  0.33776220  0.68517159  0.76262231  1
+  Ag  Ag11  1  0.33639370  0.68280726  0.26735958  1

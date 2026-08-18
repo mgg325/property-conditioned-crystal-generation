@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CeY(Cd2Au)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.57687629
+_cell_length_b   5.72156888
+_cell_length_c   7.84771557
+_cell_angle_alpha   89.99845655
+_cell_angle_beta   89.98402910
+_cell_angle_gamma   113.58238450
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeY(Cd2Au)2
+_chemical_formula_sum   'Ce1 Y1 Cd4 Au2'
+_cell_volume   188.34463968
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  1.00472507  0.44635858  0.34167944  1
+  Y  Y1  1  0.85263030  0.14169593  0.84082713  1
+  Cd  Cd2  1  0.29632435  0.03075763  0.53769498  1
+  Cd  Cd3  1  0.56236180  0.56089460  0.03539647  1
+  Cd  Cd4  1  0.56254264  0.56096195  0.64736121  1
+  Cd  Cd5  1  0.29742465  0.03091854  0.14491517  1
+  Au  Au6  1  0.14604721  0.72792580  0.84153031  1
+  Au  Au7  1  0.71236770  0.86194696  0.34136478  1

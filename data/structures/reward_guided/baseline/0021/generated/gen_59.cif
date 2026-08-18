@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2CoSb
+_chemical_formula_sum              "Li2 Co1 Sb1"
+_cell_length_a       4.2843354931162825
+_cell_length_b       4.321523714026093
+_cell_length_c       4.297183513641357
+_cell_angle_alpha    119.15528850531076
+_cell_angle_beta     119.65799113800942
+_cell_angle_gamma    91.12983191642853
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9087492823600769  0.07736453413963318  0.5064836144447327  1.0000
+  Li  Li2       1.0  0.15736424922943115  0.8288699984550476  0.0076042371802032506  1.0000
+  Co  Co1       1.0  0.4084603786468506  0.5784124135971069  0.5083326101303101  1.0000
+  Sb  Sb1       1.0  0.6592881083488464  0.3269733786582947  0.00723994430154562  1.0000

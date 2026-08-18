@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Li4Nd2RhAu3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.32206016
+_cell_length_b   4.32283304
+_cell_length_c   10.43514633
+_cell_angle_alpha   90.00138134
+_cell_angle_beta   89.99599789
+_cell_angle_gamma   89.99958947
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4Nd2RhAu3
+_chemical_formula_sum   'Li4 Nd2 Rh1 Au3'
+_cell_volume   194.96551991
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.63559663  0.66402337  0.04352461  1
+  Li  Li1  1  0.63555370  0.16398775  0.42777081  1
+  Li  Li2  1  0.13564083  0.16398009  0.04352790  1
+  Li  Li3  1  0.13541539  0.66407898  0.65945155  1
+  Nd  Nd4  1  0.13548175  0.66400052  0.32160329  1
+  Nd  Nd5  1  0.63543765  0.16412446  0.76566448  1
+  Rh  Rh6  1  0.13541033  0.16413399  0.54376121  1
+  Au  Au7  1  0.13555879  0.66395702  0.89818746  1
+  Au  Au8  1  0.63566133  0.16403679  0.18908700  1
+  Au  Au9  1  0.63547239  0.66396269  0.54358169  1

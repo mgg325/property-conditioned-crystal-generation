@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Zn3(BiSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96106100
+_cell_length_b   4.09492493
+_cell_length_c   16.33621979
+_cell_angle_alpha   89.86517334
+_cell_angle_beta   90.12402344
+_cell_angle_gamma   118.73343658
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn3(BiSe2)2
+_chemical_formula_sum   'Zn3 Bi2 Se4'
+_cell_volume   232.34891761
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.01000571  0.36077380  0.24429789  1
+  Zn  Zn1  1  0.32346827  0.03436023  0.62139350  1
+  Se  Se2  1  0.98621964  0.39086646  0.03280854  1
+  Bi  Bi3  1  0.66153395  0.68933499  0.87964082  1
+  Se  Se4  1  0.34070569  0.03261271  0.79481196  1
+  Se  Se5  1  0.35073555  0.03337538  0.29165483  1
+  Se  Se6  1  0.01308599  0.37824893  0.54941815  1
+  Zn  Zn7  1  0.32837814  0.03193972  0.09605828  1
+  Bi  Bi8  1  0.64856303  0.73828143  0.42463237  1

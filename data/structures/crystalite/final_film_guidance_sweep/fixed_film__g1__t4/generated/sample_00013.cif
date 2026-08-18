@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K2SiAsO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.41310501
+_cell_length_b   5.37391710
+_cell_length_c   7.23857737
+_cell_angle_alpha   111.01069641
+_cell_angle_beta   111.67733765
+_cell_angle_gamma   90.25243378
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2SiAsO8
+_chemical_formula_sum   'K2 Si1 As1 O8'
+_cell_volume   180.37877141
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.28062719  0.86113989  0.84850794  1
+  K  K1  1  0.77832735  0.36941484  0.85096532  1
+  O  O2  1  0.71710449  0.60581040  0.23324084  1
+  As  As3  1  0.49550155  0.60937870  0.35996863  1
+  O  O4  1  0.59010398  0.40628844  0.47972098  1
+  K  K5  1  0.02979040  0.09312838  0.33979923  1
+  O  O6  1  0.22415906  0.04213735  0.74087095  1
+  O  O7  1  0.09829313  0.86638153  0.98924679  1
+  O  O8  1  0.27295607  0.58842933  0.70645291  1
+  O  O9  1  0.55674857  0.95494330  0.02278265  1
+  O  O10  1  0.64396191  0.88007700  0.54003423  1
+  O  O11  1  0.21976402  0.51019788  0.19294989  1

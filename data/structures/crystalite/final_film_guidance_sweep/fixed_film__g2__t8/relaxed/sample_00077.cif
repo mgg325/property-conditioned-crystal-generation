@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Cd2BiTePb2S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17092984
+_cell_length_b   4.27841779
+_cell_length_c   15.96027898
+_cell_angle_alpha   89.84631280
+_cell_angle_beta   90.00373490
+_cell_angle_gamma   119.24536725
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd2BiTePb2S3
+_chemical_formula_sum   'Cd2 Bi1 Te1 Pb2 S3'
+_cell_volume   248.50644789
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.90271170  0.34803755  0.46238459  1
+  Cd  Cd1  1  0.56296615  0.66314281  0.90046945  1
+  Bi  Bi2  1  0.23479922  0.01268096  0.03294953  1
+  Te  Te3  1  0.90571845  0.33844321  0.79320221  1
+  Pb  Pb4  1  0.23034460  0.00646058  0.26003003  1
+  Pb  Pb5  1  0.57396307  0.67362867  0.65378270  1
+  S  S6  1  0.24415186  0.01811428  0.54402028  1
+  S  S7  1  0.56890803  0.67052240  0.35102896  1
+  S  S8  1  0.89699101  0.33269763  0.12815287  1

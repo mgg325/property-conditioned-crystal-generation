@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ca(Zn3Au)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03503982
+_cell_length_b   4.03484965
+_cell_length_c   10.05864190
+_cell_angle_alpha   90.00355296
+_cell_angle_beta   90.00167260
+_cell_angle_gamma   89.99909691
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(Zn3Au)2
+_chemical_formula_sum   'Ca1 Zn6 Au2'
+_cell_volume   163.76252554
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.96355088  0.82339456  0.99633741  1
+  Zn  Zn1  1  0.96367161  0.32332885  0.68558742  1
+  Zn  Zn2  1  0.46358773  0.32328370  0.49645386  1
+  Zn  Zn3  1  0.96352542  0.32327534  0.30702679  1
+  Zn  Zn4  1  0.96362238  0.82330464  0.49627654  1
+  Zn  Zn5  1  0.46380854  0.82329350  0.68560329  1
+  Zn  Zn6  1  0.46349662  0.82334903  0.30705402  1
+  Au  Au7  1  0.46359249  0.32332952  0.85916825  1
+  Au  Au8  1  0.46355399  0.32338965  0.13344199  1

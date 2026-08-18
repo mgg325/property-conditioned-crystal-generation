@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ZrHf3N4
+_chemical_formula_sum              "Zr1 Hf3 N4"
+_cell_length_a       4.549558864945035
+_cell_length_b       4.535973866769114
+_cell_length_c       4.535674095153809
+_cell_angle_alpha    89.34548595887372
+_cell_angle_beta     89.45069823753902
+_cell_angle_gamma    88.62412235370837
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.7232964634895325  0.2530699074268341  0.36929994821548456  1.0000
+  Hf  Hf1       1.0  0.22364626824855804  0.7528343796730042  0.36954712867736816  1.0000
+  Hf  Hf2       1.0  0.22300487756729126  0.25298553705215454  0.8691824078559875  1.0000
+  Hf  Hf3       1.0  0.7237184047698975  0.7534980773925781  0.8698047399520874  1.0000
+  N   N1        1.0  0.723028838634491  0.7535017728805542  0.36986857652664185  1.0000
+  N   N2        1.0  0.22281038761138916  0.2532018423080445  0.36890920996665955  1.0000
+  N   N3        1.0  0.7234342098236084  0.2522761225700379  0.8683843612670898  1.0000
+  N   N4        1.0  0.22408141195774078  0.7523673176765443  0.8698323965072632  1.0000

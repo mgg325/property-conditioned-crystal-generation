@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_NdUCuTe2PSeS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90010142
+_cell_length_b   5.66470337
+_cell_length_c   9.91773510
+_cell_angle_alpha   102.02589417
+_cell_angle_beta   90.33309174
+_cell_angle_gamma   108.92346954
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdUCuTe2PSeS
+_chemical_formula_sum   'Nd1 U1 Cu1 Te2 P1 Se1 S1'
+_cell_volume   202.08177329
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.94423699  0.44730550  0.53302747  1
+  Se  Se1  1  0.35103965  0.23569638  0.59934753  1
+  Nd  Nd2  1  0.19868472  0.99385154  0.22345549  1
+  Te  Te3  1  0.56403399  0.68715745  0.00189796  1
+  Te  Te4  1  0.54135340  0.65918130  0.38222554  1
+  S  S5  1  0.83056378  0.26518226  0.17932132  1
+  U  U6  1  0.76619756  0.10502264  0.83980203  1
+  P  P7  1  0.11054692  0.80679286  0.75170916  1

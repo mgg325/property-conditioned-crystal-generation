@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ErCuAl2Cu2
+_chemical_formula_sum              "Er1 Cu3 Al2"
+_cell_length_a       3.9837625139634016
+_cell_length_b       5.259666658661705
+_cell_length_c       5.263757228851318
+_cell_angle_alpha    119.92807011398234
+_cell_angle_beta     89.99568582500827
+_cell_angle_gamma    89.99294691973482
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.912413477897644  0.07903505116701126  0.6490325331687927  1.0000
+  Cu  Cu1       1.0  0.4125432074069977  0.5789433717727661  0.6491363644599915  1.0000
+  Al  Al1       1.0  0.912294864654541  0.7455241084098817  0.9824029207229614  1.0000
+  Al  Al2       1.0  0.9122942686080933  0.4123402237892151  0.3162420094013214  1.0000
+  Cu  Cu2       1.0  0.41258475184440613  0.5792844891548157  0.14961858093738553  1.0000
+  Cu  Cu3       1.0  0.4124044179916382  0.07907918095588684  0.14902421832084656  1.0000

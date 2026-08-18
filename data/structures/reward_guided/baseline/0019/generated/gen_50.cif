@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       SmSn3CuSmSnCu2Ir
+_chemical_formula_sum              "Sm2 Sn4 Cu3 Ir1"
+_cell_length_a       4.495878799009992
+_cell_length_b       4.431821894489781
+_cell_length_c       10.605511665344238
+_cell_angle_alpha    89.48042318822914
+_cell_angle_beta     88.66084138686615
+_cell_angle_gamma    89.27986833141453
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.4470078945159912  0.35055413842201233  0.4019362032413484  1.0000
+  Sn  Sn1       1.0  0.9475709199905396  0.8499132990837097  0.298307329416275  1.0000
+  Sn  Sn2       1.0  0.4471340477466583  0.8501142263412476  0.6653578877449036  1.0000
+  Sn  Sn3       1.0  0.9490616321563721  0.3498437702655792  0.6663197278976442  1.0000
+  Cu  Cu1       1.0  0.4484204053878784  0.3508310317993164  0.8012304306030273  1.0000
+  Sm  Sm2       1.0  0.9482115507125854  0.850263774394989  0.9316310882568359  1.0000
+  Sn  Sn4       1.0  0.44792377948760986  0.3505741059780121  0.03352651745080948  1.0000
+  Cu  Cu2       1.0  0.9481824040412903  0.35072365403175354  0.16591709852218628  1.0000
+  Cu  Cu3       1.0  0.9471433758735657  0.8505758047103882  0.5311662554740906  1.0000
+  Ir  Ir1       1.0  0.4467686116695404  0.8510719537734985  0.16671109199523926  1.0000

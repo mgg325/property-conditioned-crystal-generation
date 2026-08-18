@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MnGeCl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.60065667
+_cell_length_b   6.56815134
+_cell_length_c   11.21103562
+_cell_angle_alpha   112.31001035
+_cell_angle_beta   118.74473404
+_cell_angle_gamma   82.95333470
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnGeCl5
+_chemical_formula_sum   'Mn2 Ge2 Cl10'
+_cell_volume   452.73956061
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.03954888  0.47240814  0.72802609  1
+  Mn  Mn1  1  0.40746154  0.66356202  0.10535576  1
+  Ge  Ge2  1  0.85469322  0.87849687  0.54251459  1
+  Ge  Ge3  1  0.59230302  0.25747899  0.29087433  1
+  Cl  Cl4  1  0.38582263  0.63849657  0.87337164  1
+  Cl  Cl5  1  0.69987972  0.26271681  0.58503923  1
+  Cl  Cl6  1  0.57063644  0.29404193  0.07982016  1
+  Cl  Cl7  1  0.17063795  0.08682112  0.66650611  1
+  Cl  Cl8  1  0.00494183  0.49548344  0.49738090  1
+  Cl  Cl9  1  0.87635299  0.84191905  0.75356179  1
+  Cl  Cl10  1  0.06118809  0.49748193  0.96001207  1
+  Cl  Cl11  1  0.27636213  0.04914760  0.16688747  1
+  Cl  Cl12  1  0.44205002  0.64046381  0.33599759  1
+  Cl  Cl13  1  0.74712709  0.87324237  0.24835332  1

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Co2MoRe
+_chemical_formula_sum              "Co2 Mo1 Re1"
+_cell_length_a       2.6550493467712144
+_cell_length_b       4.26548021427834
+_cell_length_c       4.5908098220825195
+_cell_angle_alpha    89.87774895692245
+_cell_angle_beta     89.91213212145931
+_cell_angle_gamma    89.95073635143211
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.3679625988006592  0.1271018385887146  0.8082275390625001  1.0000
+  Co  Co2       1.0  0.36863550543785095  0.6276142597198486  0.48024407029151917  1.0000
+  Mo  Mo1       1.0  0.8680671453475952  0.12750321626663208  0.3181714117527008  1.0000
+  Re  Re1       1.0  0.8685342669487  0.6273676156997681  0.960038959980011  1.0000

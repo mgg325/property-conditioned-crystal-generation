@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cd4In3Sn7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73277387
+_cell_length_b   7.37559658
+_cell_length_c   8.84488504
+_cell_angle_alpha   113.99055555
+_cell_angle_beta   112.21214806
+_cell_angle_gamma   76.81143545
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd4In3Sn7
+_chemical_formula_sum   'Cd4 In3 Sn7'
+_cell_volume   370.05735615
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.95731375  0.40560905  0.93625987  1
+  Cd  Cd1  1  0.10605067  0.68500099  0.37814752  1
+  Cd  Cd2  1  0.45203895  0.40203760  0.93422849  1
+  Cd  Cd3  1  0.03088378  0.54358464  0.65973165  1
+  In  In4  1  0.17387620  0.82498247  0.09005165  1
+  In  In5  1  0.81092911  0.12081065  0.50641207  1
+  In  In6  1  0.60977706  0.68690184  0.37796111  1
+  Sn  Sn7  1  0.38003256  0.26369449  0.21496878  1
+  Sn  Sn8  1  0.67623468  0.82443620  0.08505681  1
+  Sn  Sn9  1  0.23349243  0.97014276  0.79810221  1
+  Sn  Sn10  1  0.73746454  0.98129128  0.80292831  1
+  Sn  Sn11  1  0.30552195  0.11705622  0.51042587  1
+  Sn  Sn12  1  0.52759501  0.54340002  0.65920697  1
+  Sn  Sn13  1  0.88697079  0.26866199  0.21747948  1

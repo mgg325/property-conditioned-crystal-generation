@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Cs2K2Na7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.06157011
+_cell_length_b   9.78601187
+_cell_length_c   10.41517331
+_cell_angle_alpha   118.20922391
+_cell_angle_beta   112.79989382
+_cell_angle_gamma   89.99354312
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2K2Na7
+_chemical_formula_sum   'Cs2 K2 Na7'
+_cell_volume   650.32463626
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.47370518  0.21747588  0.40545638  1
+  Cs  Cs1  1  0.90159792  0.64714519  0.25804739  1
+  K  K2  1  0.55638186  0.79907839  0.56766400  1
+  K  K3  1  0.81894497  0.06471767  0.09581914  1
+  Na  Na4  1  0.45892258  0.24341184  0.83127197  1
+  Na  Na5  1  0.45855145  0.62004787  0.83078197  1
+  Na  Na6  1  0.18779481  0.93191291  0.83176201  1
+  Na  Na7  1  0.91702358  0.24382276  0.83262851  1
+  Na  Na8  1  0.31117059  0.55562929  0.07672399  1
+  Na  Na9  1  0.06412800  0.30869360  0.58679901  1
+  Na  Na10  1  0.91654844  0.62074490  0.83231804  1

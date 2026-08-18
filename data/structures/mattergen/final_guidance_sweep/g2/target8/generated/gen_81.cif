@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NbCuSiNbCuSi
+_chemical_formula_sum              "Nb2 Cu2 Si2"
+_cell_length_a       3.9154132656926643
+_cell_length_b       3.914402932877341
+_cell_length_c       6.3259100914001465
+_cell_angle_alpha    90.19272312774272
+_cell_angle_beta     90.48547867993611
+_cell_angle_gamma    120.10315470624926
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.4962698519229889  0.15472234785556793  0.30194541811943054  1.0000
+  Cu  Cu1       1.0  0.8298496007919312  0.8217681646347046  0.052069734781980515  1.0000
+  Si  Si1       1.0  0.8296723365783691  0.8216784596443176  0.5524867177009583  1.0000
+  Nb  Nb2       1.0  0.49635693430900574  0.1549219042062759  0.8020966649055481  1.0000
+  Cu  Cu2       1.0  0.16234633326530454  0.48851418495178217  0.5519527196884155  1.0000
+  Si  Si2       1.0  0.16271913051605222  0.48871263861656183  0.05184086412191391  1.0000

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Zn5CdSiP2S2Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.56808400
+_cell_length_b   2.93105984
+_cell_length_c   22.37111664
+_cell_angle_alpha   89.54743958
+_cell_angle_beta   90.33866119
+_cell_angle_gamma   121.33390808
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn5CdSiP2S2Cl
+_chemical_formula_sum   'Zn5 Cd1 Si1 P2 S2 Cl1'
+_cell_volume   143.82746454
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.41773736  0.11990377  0.28200603  1
+  Cl  Cl1  1  0.34064686  0.01210427  0.73532617  1
+  S  S2  1  0.41056588  0.11810216  0.68878430  1
+  Zn  Zn3  1  0.01943889  0.42412826  0.56194317  1
+  Si  Si4  1  0.99213696  0.35352913  0.80892020  1
+  Zn  Zn5  1  0.68225199  0.78126723  0.71044350  1
+  S  S6  1  0.69365668  0.81158972  0.48384354  1
+  Cd  Cd7  1  0.35966575  0.05001205  0.42217967  1
+  Zn  Zn8  1  0.02707332  0.35602200  0.17769438  1
+  P  P9  1  0.65229577  0.71633875  0.06073105  1
+  Zn  Zn10  1  0.69870114  0.71436107  0.86884457  1
+  Zn  Zn11  1  0.35409361  0.05043495  0.97927129  1

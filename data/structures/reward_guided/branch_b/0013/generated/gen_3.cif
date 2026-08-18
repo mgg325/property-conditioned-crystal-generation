@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ga2CuSrCu
+_chemical_formula_sum              "Ga2 Cu2 Sr1"
+_cell_length_a       4.330049344013975
+_cell_length_b       4.420348996146273
+_cell_length_c       5.8707780838012695
+_cell_angle_alpha    110.8447962791542
+_cell_angle_beta     109.47550958860677
+_cell_angle_gamma    91.61196793008644
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.8729854226112366  0.7035167813301086  0.46892175078392034  1.0000
+  Ga  Ga2       1.0  0.6083147525787354  0.4360455274581909  0.928408682346344  1.0000
+  Cu  Cu1       1.0  0.49118587374687195  0.8198859691619873  0.6971563100814819  1.0000
+  Sr  Sr1       1.0  0.24412861466407776  0.06846563518047333  0.19976533949375153  1.0000
+  Cu  Cu2       1.0  0.9931421279907227  0.31861236691474915  0.6975966095924377  1.0000

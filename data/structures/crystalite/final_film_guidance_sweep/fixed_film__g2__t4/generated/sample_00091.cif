@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_TiBeN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.18666792
+_cell_length_b   3.09255219
+_cell_length_c   3.44374514
+_cell_angle_alpha   90.07273865
+_cell_angle_beta   89.85252380
+_cell_angle_gamma   121.72210693
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiBeN
+_chemical_formula_sum   'Ti1 Be1 N1'
+_cell_volume   28.86775579
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  N  N0  1  0.10159051  0.20619696  0.75769502  1
+  Be  Be1  1  0.77245259  0.51439732  0.72604340  1
+  Ti  Ti2  1  0.45959982  0.85448670  0.23443308  1

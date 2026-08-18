@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CuOCrAgO3
+_chemical_formula_sum              "Cu1 O4 Cr1 Ag1"
+_cell_length_a       5.1942950410076945
+_cell_length_b       5.200077705365001
+_cell_length_c       5.501745700836182
+_cell_angle_alpha    118.2742195382904
+_cell_angle_beta     118.20293704060539
+_cell_angle_gamma    90.05031460963521
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.8840183615684509  0.42381298542022705  0.23415961861610415  1.0000
+  O   O1        1.0  0.913203775882721  0.01669672504067421  0.9784129261970521  1.0000
+  Cr  Cr1       1.0  0.634698748588562  0.6739575862884521  0.734986424446106  1.0000
+  Ag  Ag1       1.0  0.3843728303909301  0.924002170562744  0.23580434918403628  1.0000
+  O   O2        1.0  0.5988888740539551  0.5740231275558471  0.9766978025436402  1.0000
+  O   O3        1.0  0.2930223047733307  0.7094751000404358  0.49224272370338445  1.0000
+  O   O4        1.0  0.7322890758514404  0.39641597867012024  0.49132990837097174  1.0000

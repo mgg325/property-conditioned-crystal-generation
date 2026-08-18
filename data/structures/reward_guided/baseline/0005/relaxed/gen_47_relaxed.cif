@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Na2Cd2In5Hg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55949788
+_cell_length_b   4.52080194
+_cell_length_c   15.38355587
+_cell_angle_alpha   98.46636972
+_cell_angle_beta   98.52783502
+_cell_angle_gamma   90.01402311
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Cd2In5Hg2
+_chemical_formula_sum   'Na2 Cd2 In5 Hg2'
+_cell_volume   310.09269706
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.15716898  0.09139423  0.96161837  1
+  Na  Na1  1  0.36246291  0.29646143  0.36983493  1
+  Cd  Cd2  1  0.61162629  0.54501560  0.86836940  1
+  Cd  Cd3  1  0.70259968  0.63703358  0.05306624  1
+  In  In4  1  0.27203683  0.70698432  0.19209682  1
+  In  In5  1  0.77217300  0.20732293  0.19315565  1
+  In  In6  1  0.04091321  0.47468182  0.72849319  1
+  In  In7  1  0.95091284  0.88565744  0.55165439  1
+  In  In8  1  0.53944180  0.97290979  0.72568503  1
+  Hg  Hg9  1  0.45997126  0.39476899  0.56960656  1
+  Hg  Hg10  1  0.85249147  0.78636208  0.34953412  1

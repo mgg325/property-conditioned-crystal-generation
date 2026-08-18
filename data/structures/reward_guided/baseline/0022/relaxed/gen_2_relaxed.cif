@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Pr2Dy3TmMg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03170682
+_cell_length_b   4.75965503
+_cell_length_c   10.65252834
+_cell_angle_alpha   102.90835804
+_cell_angle_beta   103.66249164
+_cell_angle_gamma   89.99997016
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2Dy3TmMg2
+_chemical_formula_sum   'Pr2 Dy3 Tm1 Mg2'
+_cell_volume   241.26049471
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.21074484  0.21685015  0.95643678  1
+  Pr  Pr1  1  0.71082907  0.71692353  0.95657171  1
+  Dy  Dy2  1  0.08290069  0.58873858  0.70007274  1
+  Dy  Dy3  1  0.33888135  0.84508830  0.21310899  1
+  Dy  Dy4  1  0.95980473  0.96592938  0.45447657  1
+  Tm  Tm5  1  0.46199607  0.46788164  0.45866087  1
+  Mg  Mg6  1  0.58174433  0.08749322  0.69779096  1
+  Mg  Mg7  1  0.83984244  0.34610627  0.21497371  1

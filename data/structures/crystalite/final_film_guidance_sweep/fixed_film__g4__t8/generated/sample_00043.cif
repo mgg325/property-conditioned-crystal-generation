@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cd2TcSe3BrO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.70987296
+_cell_length_b   6.52391338
+_cell_length_c   6.20347071
+_cell_angle_alpha   98.28189850
+_cell_angle_beta   106.93185425
+_cell_angle_gamma   112.27333069
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd2TcSe3BrO3
+_chemical_formula_sum   'Cd2 Tc1 Se3 Br1 O3'
+_cell_volume   92.99256716
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.73634118  0.21649957  0.14662591  1
+  Br  Br1  1  0.63628179  0.57792670  0.00428262  1
+  Se  Se2  1  0.53312659  0.58711481  0.20286709  1
+  Se  Se3  1  0.86355114  0.22358665  0.57939655  1
+  Se  Se4  1  0.73159933  0.66546935  0.89427644  1
+  Cd  Cd5  1  0.79123855  0.10817122  0.36941028  1
+  Tc  Tc6  1  0.21260545  0.12098405  0.95016539  1
+  O  O7  1  0.11884844  0.77894759  0.17981794  1
+  O  O8  1  0.45094463  0.17469203  0.72853959  1
+  Cd  Cd9  1  0.15149125  0.44554815  0.52921414  1

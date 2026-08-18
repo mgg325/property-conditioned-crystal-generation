@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_UGaTc3SbXe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.79690922
+_cell_length_b   7.23168118
+_cell_length_c   6.10968739
+_cell_angle_alpha   111.63251938
+_cell_angle_beta   127.81988421
+_cell_angle_gamma   87.25684847
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UGaTc3SbXe
+_chemical_formula_sum   'U1 Ga1 Tc3 Sb1 Xe1'
+_cell_volume   150.97907372
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.59612694  0.30693155  0.51883599  1
+  Ga  Ga1  1  0.99947871  0.84552080  1.01989903  1
+  Tc  Tc2  1  0.10440012  0.55900954  0.23155960  1
+  Tc  Tc3  1  0.48216022  0.36599453  0.09189839  1
+  Tc  Tc4  1  0.85513505  0.16347291  0.89743834  1
+  Sb  Sb5  1  0.12299056  0.99976730  0.57194531  1
+  Xe  Xe6  1  0.28857328  0.61490641  0.78257491  1

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnLiTl2
+_chemical_formula_sum              "Mn1 Li1 Tl2"
+_cell_length_a       3.3552316341516537
+_cell_length_b       3.3545400823789473
+_cell_length_c       9.229901313781738
+_cell_angle_alpha    79.38701507034229
+_cell_angle_beta     79.54993618267233
+_cell_angle_gamma    60.16738219698417
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.14378517866134646  0.15481708943843842  0.36268165707588196  1.0000
+  Li  Li1       1.0  0.644526481628418  0.6552677154541016  0.8625423908233643  1.0000
+  Tl  Tl1       1.0  0.891491949558258  0.9016494750976562  0.11935130506753922  1.0000
+  Tl  Tl2       1.0  0.3959631025791168  0.4079008102416992  0.6051998734474182  1.0000

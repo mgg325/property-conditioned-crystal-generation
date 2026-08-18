@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pr3GeTePrSTe
+_chemical_formula_sum              "Pr4 Ge1 Te2 S1"
+_cell_length_a       4.360244601996713
+_cell_length_b       7.5116776327027
+_cell_length_c       7.75723306630279
+_cell_angle_alpha    108.81328058152103
+_cell_angle_beta     90.00130218096896
+_cell_angle_gamma    89.99891461561675
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.5257084579324103  0.11304205950437046  0.19291176221337047  1.0000
+  Pr  Pr2       1.0  0.02573356423626404  0.6126944024536646  0.18996516951702339  1.0000
+  Pr  Pr3       1.0  0.025683810992352115  0.1292537884185598  0.7517253383275236  1.0000
+  Ge  Ge1       1.0  0.02565411287137645  0.8709560891245808  0.9708274269302051  1.0000
+  Te  Te1       1.0  0.02566111733816362  0.3709511604325742  0.47083811012942445  1.0000
+  Pr  Pr4       1.0  0.5256784858482157  0.6290737630284201  0.7486043405715648  1.0000
+  S   S1        1.0  0.5256773304930098  0.37097145018701305  0.9707129869980883  1.0000
+  Te  Te2       1.0  0.5256845839078113  0.8710123013909997  0.4707839394510422  1.0000

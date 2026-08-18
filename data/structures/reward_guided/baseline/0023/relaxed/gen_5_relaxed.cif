@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_NaCaGa
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21588109
+_cell_length_b   4.35543077
+_cell_length_c   11.03825230
+_cell_angle_alpha   90.01516096
+_cell_angle_beta   90.07091647
+_cell_angle_gamma   89.99996249
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCaGa
+_chemical_formula_sum   'Na2 Ca2 Ga2'
+_cell_volume   202.68398572
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.21477705  0.73690922  0.28977030  1
+  Na  Na1  1  0.21207944  0.23608816  0.56216923  1
+  Ca  Ca2  1  0.71388629  0.23653204  0.07046124  1
+  Ca  Ca3  1  0.71306703  0.73649520  0.78111008  1
+  Ga  Ga4  1  0.21338248  0.23639180  0.85688758  1
+  Ga  Ga5  1  0.21358725  0.73660248  -0.00522935  1

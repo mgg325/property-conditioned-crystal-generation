@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CuScTmCu
+_chemical_formula_sum              "Cu2 Sc1 Tm1"
+_cell_length_a       4.722144009413431
+_cell_length_b       4.72341470384237
+_cell_length_c       4.721948623657227
+_cell_angle_alpha    59.99382379030009
+_cell_angle_beta     59.999454697364854
+_cell_angle_gamma    59.99149361189798
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.5720483660697937  0.07789242267608643  0.026081757619976997  1.0000
+  Sc  Sc1       1.0  0.3214046061038971  0.8286648988723755  0.776049792766571  1.0000
+  Tm  Tm1       1.0  0.822163999080658  0.3280656337738037  0.2762086093425751  1.0000
+  Cu  Cu2       1.0  0.07168060541152951  0.5786306262016296  0.5261326432228088  1.0000

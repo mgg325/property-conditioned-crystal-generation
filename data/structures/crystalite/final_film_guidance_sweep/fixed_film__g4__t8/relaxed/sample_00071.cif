@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ZnSe4S
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64881720
+_cell_length_b   5.23410916
+_cell_length_c   5.93339417
+_cell_angle_alpha   88.90394514
+_cell_angle_beta   86.59902242
+_cell_angle_gamma   92.10255682
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnSe4S
+_chemical_formula_sum   'Zn1 Se4 S1'
+_cell_volume   174.96307297
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.17157993  0.84876321  0.48277198  1
+  Se  Se1  1  0.89860425  0.82434871  -0.16851928  1
+  Se  Se2  1  0.99099684  0.37758190  0.51489784  1
+  Se  Se3  1  0.13193484  0.20126401  0.84979641  1
+  Se  Se4  1  0.53565092  1.07051741  0.30837416  1
+  S  S5  1  0.43939381  0.45321430  0.24136167  1

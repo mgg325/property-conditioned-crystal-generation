@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SbHf2Sb3
+_chemical_formula_sum              "Sb4 Hf2"
+_cell_length_a       5.645351274597573
+_cell_length_b       5.636660410795248
+_cell_length_c       5.6953206062316895
+_cell_angle_alpha    106.1819558819708
+_cell_angle_beta     107.94518403782196
+_cell_angle_gamma    114.2778499802906
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.9529621005058289  0.7983648777008057  0.8836740255355835  1.0000
+  Hf  Hf1       1.0  0.5539879202842712  0.902043879032135  0.08785180002450943  1.0000
+  Hf  Hf2       1.0  0.055503230541944476  0.4015404284000396  0.08668836206197736  1.0000
+  Sb  Sb2       1.0  0.15575791895389557  0.2971976101398468  0.5859517455101013  1.0000
+  Sb  Sb3       1.0  0.6570740938186646  0.5029736757278442  0.28782764077186584  1.0000
+  Sb  Sb4       1.0  0.4525927007198334  0.0025357063859701157  0.5864724516868591  1.0000

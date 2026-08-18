@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CePr3(AgS3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99310002
+_cell_length_b   4.02567857
+_cell_length_c   23.17145686
+_cell_angle_alpha   90.78082550
+_cell_angle_beta   90.61775162
+_cell_angle_gamma   90.14285673
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CePr3(AgS3)3
+_chemical_formula_sum   'Ce1 Pr3 Ag3 S9'
+_cell_volume   372.42217884
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.06955985  0.72609347  0.33591660  1
+  Pr  Pr1  1  0.05537981  0.70120531  0.16158473  1
+  Pr  Pr2  1  0.57734296  0.21967786  0.57434313  1
+  Pr  Pr3  1  0.58042561  0.30490159  0.90390241  1
+  Ag  Ag4  1  0.07524266  0.22511276  0.45443042  1
+  Ag  Ag5  1  0.56984205  0.75469760  0.75804800  1
+  Ag  Ag6  1  0.09412778  0.06143031  0.03980539  1
+  S  S7  1  0.56401734  0.72947358  0.25358039  1
+  S  S8  1  0.54623225  0.20596006  0.12150180  1
+  S  S9  1  0.60250167  0.79760422  -0.01066582  1
+  S  S10  1  0.58433832  0.72488498  0.65460313  1
+  S  S11  1  0.07663191  0.82863879  0.87290728  1
+  S  S12  1  0.07388991  0.72576907  0.52629434  1
+  S  S13  1  0.06489015  0.21759839  0.25444109  1
+  S  S14  1  0.57141942  0.23440017  0.38368267  1
+  S  S15  1  0.09546787  0.16067575  0.80173969  1

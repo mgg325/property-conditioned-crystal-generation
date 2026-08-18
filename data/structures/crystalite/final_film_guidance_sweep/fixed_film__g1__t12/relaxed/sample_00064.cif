@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_ZrCu3Te2I
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88158933
+_cell_length_b   6.03521349
+_cell_length_c   6.09721004
+_cell_angle_alpha   91.87301613
+_cell_angle_beta   91.93854977
+_cell_angle_gamma   92.12875410
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCu3Te2I
+_chemical_formula_sum   'Zr1 Cu3 Te2 I1'
+_cell_volume   216.03251235
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.83717165  0.68542496  0.58022186  1
+  Cu  Cu1  1  0.79637472  0.65531262  0.06148995  1
+  Cu  Cu2  1  0.32733112  0.65695131  0.55373998  1
+  Cu  Cu3  1  0.80050105  0.16827955  0.54979957  1
+  Te  Te4  1  0.54805279  0.90363817  0.28983455  1
+  Te  Te5  1  0.54733679  0.39230739  0.79767988  1
+  I  I6  1  0.06229994  0.38935698  0.28103887  1

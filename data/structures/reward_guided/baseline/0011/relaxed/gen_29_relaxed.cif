@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Tb2Zn7Cu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15137411
+_cell_length_b   4.15107882
+_cell_length_c   10.41901167
+_cell_angle_alpha   90.00542785
+_cell_angle_beta   89.99614195
+_cell_angle_gamma   89.99952931
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Zn7Cu
+_chemical_formula_sum   'Tb2 Zn7 Cu1'
+_cell_volume   179.54750463
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.59838930  0.31642875  0.76633891  1
+  Tb  Tb1  1  0.09845800  0.81618705  0.25431541  1
+  Zn  Zn2  1  0.09852788  0.31645084  0.01025733  1
+  Zn  Zn3  1  0.59847004  0.31614409  0.13923939  1
+  Zn  Zn4  1  0.59842055  0.31614525  0.37142427  1
+  Zn  Zn5  1  0.09845664  0.81640879  0.64915820  1
+  Zn  Zn6  1  0.59842156  0.81626364  0.51026014  1
+  Zn  Zn7  1  0.09837568  0.81639260  0.88125607  1
+  Zn  Zn8  1  0.09838049  0.31636463  0.51028130  1
+  Cu  Cu9  1  0.59834308  0.81613304  0.01023040  1

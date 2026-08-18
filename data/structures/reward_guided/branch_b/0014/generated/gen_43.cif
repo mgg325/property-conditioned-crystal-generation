@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TbNdCuAg
+_chemical_formula_sum              "Tb1 Nd1 Cu1 Ag1"
+_cell_length_a       5.093683517810088
+_cell_length_b       5.079612087268624
+_cell_length_c       5.032962799072266
+_cell_angle_alpha    60.60555959662559
+_cell_angle_beta     61.63240335086875
+_cell_angle_gamma    59.988984006256445
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.05419411882758142  0.6254590749740601  0.38401433825492853  1.0000
+  Nd  Nd1       1.0  0.548627495765686  0.12419493496417999  0.8822222948074341  1.0000
+  Cu  Cu1       1.0  0.2984780967235565  0.8751008510589601  0.6348249316215514  1.0000
+  Ag  Ag1       1.0  0.7989446520805358  0.3767073750495911  0.1321777105331421  1.0000

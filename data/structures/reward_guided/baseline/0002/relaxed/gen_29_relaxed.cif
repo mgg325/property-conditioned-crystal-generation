@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_VZnMo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.67796155
+_cell_length_b   2.67796838
+_cell_length_c   13.18156001
+_cell_angle_alpha   90.01188629
+_cell_angle_beta   89.97847314
+_cell_angle_gamma   108.96581979
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VZnMo
+_chemical_formula_sum   'V2 Zn2 Mo2'
+_cell_volume   89.39963541
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.57147881  0.77358686  0.93908170  1
+  V  V1  1  0.07344978  0.27439167  0.43895486  1
+  Zn  Zn2  1  0.57376266  0.77362072  0.27154287  1
+  Zn  Zn3  1  0.07175452  0.27258204  0.10635876  1
+  Mo  Mo4  1  0.07218210  0.27423623  0.77560701  1
+  Mo  Mo5  1  0.57291475  0.77454516  0.60244103  1

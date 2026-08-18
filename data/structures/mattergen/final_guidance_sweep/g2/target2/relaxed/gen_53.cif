@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HCaH2CaH
+_chemical_formula_sum              "H4 Ca2"
+_cell_length_a       3.818432537050599
+_cell_length_b       3.8182665833900367
+_cell_length_c       5.400698824191762
+_cell_angle_alpha    89.99644065627278
+_cell_angle_beta     89.99396344444833
+_cell_angle_gamma    89.99797142669738
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.648881642419701  0.1884295971817831  0.33277872734228175  1.0000
+  Ca  Ca1       1.0  0.6488152847090713  0.6882339625433309  0.5828931464286008  1.0000
+  H   H2        1.0  0.1489430126864128  0.6882444892771836  0.8327044012334495  1.0000
+  H   H3        1.0  0.6489644162367919  0.18832841869606406  0.8326529098296391  1.0000
+  Ca  Ca2       1.0  0.1487134962709268  0.1883961954955951  0.0826705289842041  1.0000
+  H   H4        1.0  0.149197359466021  0.6881401191711359  0.33292987367817584  1.0000

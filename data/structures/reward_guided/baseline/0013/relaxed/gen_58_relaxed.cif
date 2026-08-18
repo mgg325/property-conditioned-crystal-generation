@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs2TiTlOF5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.61582208
+_cell_length_b   6.61717967
+_cell_length_c   6.61512219
+_cell_angle_alpha   90.78178050
+_cell_angle_beta   119.52693198
+_cell_angle_gamma   119.55483679
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2TiTlOF5
+_chemical_formula_sum   'Cs2 Ti1 Tl1 O1 F5'
+_cell_volume   206.20357900
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.37378772  0.15677199  0.25268956  1
+  Cs  Cs1  1  0.37306244  0.65632922  0.75225342  1
+  Ti  Ti2  1  0.87314579  0.92314479  0.51937216  1
+  Tl  Tl3  1  0.87374505  0.39857941  0.99506514  1
+  O  O4  1  0.87402265  0.10933655  0.70501357  1
+  F  F5  1  0.45865215  0.69315418  0.28897988  1
+  F  F6  1  0.87202147  0.69260189  0.28928001  1
+  F  F7  1  0.87266268  0.10639658  0.28822412  1
+  F  F8  1  0.28734407  0.10646747  0.70268942  1
+  F  F9  1  0.87225633  0.69249062  0.70332357  1

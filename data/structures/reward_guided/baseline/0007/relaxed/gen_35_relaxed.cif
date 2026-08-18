@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Cd7(GaAg)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.79472609
+_cell_length_b   7.43799499
+_cell_length_c   6.84743356
+_cell_angle_alpha   68.40207304
+_cell_angle_beta   84.41337028
+_cell_angle_gamma   68.89545845
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd7(GaAg)4
+_chemical_formula_sum   'Cd7 Ga4 Ag4'
+_cell_volume   299.93664981
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.61116575  0.68216789  0.87314835  1
+  Cd  Cd1  1  0.08341479  0.49054305  0.00170967  1
+  Cd  Cd2  1  0.54945762  0.27844327  0.14094986  1
+  Cd  Cd3  1  0.02057881  0.09159599  0.27636734  1
+  Cd  Cd4  1  0.82042017  0.88557868  0.07452519  1
+  Cd  Cd5  1  0.29295741  0.68009531  0.21878899  1
+  Cd  Cd6  1  0.68537812  0.09799292  0.60865241  1
+  Ga  Ga7  1  0.33686639  0.09147073  0.93082209  1
+  Ga  Ga8  1  0.48725308  0.87695204  0.41808391  1
+  Ga  Ga9  1  0.20735774  0.28346642  0.49333014  1
+  Ga  Ga10  1  0.95476226  0.67647442  0.54570379  1
+  Ag  Ag11  1  0.75400530  0.49559371  0.34807065  1
+  Ag  Ag12  1  0.41472228  0.48597831  0.67416590  1
+  Ag  Ag13  1  0.15458339  0.88870135  0.73561915  1
+  Ag  Ag14  1  0.88684547  0.28832539  0.80291870  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CaBrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.50134897
+_cell_length_b   4.84900141
+_cell_length_c   9.69916344
+_cell_angle_alpha   90.07937622
+_cell_angle_beta   90.08583069
+_cell_angle_gamma   93.63756561
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaBrO6
+_chemical_formula_sum   'Ca1 Br1 O6'
+_cell_volume   164.34071985
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.18531966  0.77529222  0.63864917  1
+  O  O1  1  0.17267904  0.62910974  0.33842570  1
+  Br  Br2  1  0.53191364  0.09258842  0.49528694  1
+  O  O3  1  0.12300444  0.29303908  0.46392018  1
+  O  O4  1  0.62870800  0.96626186  0.14449990  1
+  Ca  Ca5  1  0.15688431  0.68952858  0.95519495  1
+  O  O6  1  0.71661454  0.20346394  0.93532681  1
+  O  O7  1  0.67286056  0.28997162  0.79536521  1

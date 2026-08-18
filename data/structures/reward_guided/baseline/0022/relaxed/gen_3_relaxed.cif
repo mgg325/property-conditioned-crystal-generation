@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na2TiNbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97775470
+_cell_length_b   5.59254674
+_cell_length_c   5.59247615
+_cell_angle_alpha   89.96422966
+_cell_angle_beta   90.00472796
+_cell_angle_gamma   90.00033642
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2TiNbO6
+_chemical_formula_sum   'Na2 Ti1 Nb1 O6'
+_cell_volume   124.40896455
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.86413747  0.88197818  0.31434876  1
+  Na  Na1  1  0.86316156  0.38290904  0.81631828  1
+  Ti  Ti2  1  0.36282395  0.88120123  0.81519027  1
+  Nb  Nb3  1  0.36431743  0.38086813  0.31546837  1
+  O  O4  1  0.36355093  0.63304242  0.56771691  1
+  O  O5  1  0.36382157  0.12866551  0.06157599  1
+  O  O6  1  0.36260398  0.63349532  0.06145562  1
+  O  O7  1  0.86256807  0.88254420  0.81445371  1
+  O  O8  1  0.36347728  0.12772269  0.56700275  1
+  O  O9  1  0.86409384  0.38110087  0.31452200  1

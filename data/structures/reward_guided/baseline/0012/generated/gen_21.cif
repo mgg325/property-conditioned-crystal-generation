@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       InBa3InPdInPd
+_chemical_formula_sum              "In3 Ba3 Pd2"
+_cell_length_a       4.810621516123993
+_cell_length_b       5.974119816664983
+_cell_length_c       10.125768661499023
+_cell_angle_alpha    107.02298533395182
+_cell_angle_beta     89.96840604679817
+_cell_angle_gamma    89.85633630024988
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.5567966103553772  0.8561883568763732  0.9876307845115662  1.0000
+  Ba  Ba1       1.0  0.5574097037315369  0.910106360912323  0.6367583274841309  1.0000
+  Ba  Ba2       1.0  0.05687563493847847  0.3860376477241516  0.9881953597068787  1.0000
+  Ba  Ba3       1.0  0.5571961402893066  0.2588847577571869  0.34012535214424133  1.0000
+  In  In2       1.0  0.05707891657948494  0.7686745524406432  0.3529703915119171  1.0000
+  Pd  Pd1       1.0  0.5576679706573486  0.7083592414855956  0.21953877806663513  1.0000
+  In  In3       1.0  0.05702044814825058  0.4108399748802185  0.623898983001709  1.0000
+  Pd  Pd2       1.0  0.5571279525756836  0.47815048694610596  0.7552641034126282  1.0000

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ca2SiF9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.66190123
+_cell_length_b   5.18676011
+_cell_length_c   7.15056808
+_cell_angle_alpha   95.21986705
+_cell_angle_beta   94.39436910
+_cell_angle_gamma   92.50589206
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2SiF9
+_chemical_formula_sum   'Ca2 Si1 F9'
+_cell_volume   171.45480264
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.24713150  0.38769442  0.37385389  1
+  Ca  Ca1  1  0.87724177  0.36098389  0.81526810  1
+  Si  Si2  1  0.39750998  0.90145133  0.05077963  1
+  F  F3  1  0.51648259  0.52578588  0.64465514  1
+  F  F4  1  0.23992107  0.76612785  0.22939148  1
+  F  F5  1  0.54671330  1.04687276  0.87575558  1
+  F  F6  1  0.63428153  0.66298635  0.03952115  1
+  F  F7  1  0.60369560  0.09781335  0.21742596  1
+  F  F8  1  0.06722726  0.16341481  0.58308650  1
+  F  F9  1  0.14683818  0.15697936  1.06151950  1
+  F  F10  1  0.78445190  0.54381200  0.43323851  1
+  F  F11  1  0.15987188  0.72744094  0.89059905  1

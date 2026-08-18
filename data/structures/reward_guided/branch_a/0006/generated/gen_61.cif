@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       GeNbRu
+_chemical_formula_sum              "Ge1 Nb1 Ru1"
+_cell_length_a       2.979872567870364
+_cell_length_b       4.213956836747661
+_cell_length_c       4.292768955230713
+_cell_angle_alpha    119.30734212930732
+_cell_angle_beta     89.5564978166871
+_cell_angle_gamma    90.32614406454658
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.36667948961257935  0.1195845678448677  0.5627356767654419  1.0000
+  Nb  Nb1       1.0  0.8675653338432312  0.7873109579086305  0.8959860801696777  1.0000
+  Ru  Ru1       1.0  0.36805394291877747  0.45359784364700323  0.22902119159698492  1.0000

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_ZnCu2Sn(PdS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.25541822
+_cell_length_b   7.17337724
+_cell_length_c   7.19012057
+_cell_angle_alpha   119.92922852
+_cell_angle_beta   120.32507452
+_cell_angle_gamma   89.93200766
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCu2Sn(PdS4)2
+_chemical_formula_sum   'Zn1 Cu2 Sn1 Pd2 S8'
+_cell_volume   263.74551542
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.45597554  0.44729974  0.05194365  1
+  Cu  Cu1  1  0.69923624  0.16332311  0.54028137  1
+  Cu  Cu2  1  0.07474592  0.29693147  0.28982507  1
+  Sn  Sn3  1  0.07610824  0.80591103  0.29312796  1
+  Pd  Pd4  1  0.57933816  0.80429607  0.79644366  1
+  Pd  Pd5  1  0.07627086  0.80416274  0.79640525  1
+  S  S6  1  0.82387897  0.05407055  0.27432107  1
+  S  S7  1  0.83694283  0.04488983  0.81522525  1
+  S  S8  1  0.30880892  0.05393730  0.27424052  1
+  S  S9  1  0.32986168  0.03196335  0.80084353  1
+  S  S10  1  0.31358364  0.56211777  0.76728787  1
+  S  S11  1  0.82257009  0.56951575  0.78585931  1
+  S  S12  1  0.32650715  0.55343272  0.31933085  1
+  S  S13  1  0.85285812  0.55344436  0.31942868  1

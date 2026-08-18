@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_SrCa2InSnPb2O11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67636216
+_cell_length_b   6.27922895
+_cell_length_c   8.88926597
+_cell_angle_alpha   93.99892705
+_cell_angle_beta   87.14436355
+_cell_angle_gamma   119.35569743
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCa2InSnPb2O11
+_chemical_formula_sum   'Sr1 Ca2 In1 Sn1 Pb2 O11'
+_cell_volume   275.44016523
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.36162760  0.31515678  0.72293438  1
+  Ca  Ca1  1  0.94860582  0.92764656  0.35061618  1
+  Ca  Ca2  1  -0.01517354  0.68952425  0.99538063  1
+  In  In3  1  0.02515231  0.54537211  0.49799236  1
+  Sn  Sn4  1  0.65152904  0.04211073  0.03563570  1
+  Pb  Pb5  1  0.64639168  -0.05304214  0.68685743  1
+  Pb  Pb6  1  0.41249772  0.38471560  0.19363784  1
+  O  O7  1  1.02504774  0.33704725  0.10932613  1
+  O  O8  1  0.31040282  0.99734341  0.17808110  1
+  O  O9  1  0.73825097  0.70399968  0.56208054  1
+  O  O10  1  0.32138095  0.91532152  0.55379474  1
+  O  O11  1  0.58295219  0.32572458  0.96663340  1
+  O  O12  1  0.82846088  0.51246699  0.29506899  1
+  O  O13  1  0.37603878  0.78113476  0.87678866  1
+  O  O14  1  0.66839501  0.78272831  0.15240185  1
+  O  O15  1  0.84728330  0.33948971  0.68572934  1
+  O  O16  1  0.21916399  0.33926325  0.41616059  1
+  O  O17  1  0.92741352  0.00867026  0.86772390  1

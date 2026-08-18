@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BaOLiBaOLiOLi
+_chemical_formula_sum              "Ba2 O3 Li3"
+_cell_length_a       3.7330885319140825
+_cell_length_b       3.732192403644326
+_cell_length_c       11.907698631286621
+_cell_angle_alpha    89.80194069326542
+_cell_angle_beta     89.81896152500312
+_cell_angle_gamma    89.91467295179564
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.5969796776771544  0.6269411444664001  0.850802719593048  1.0000
+  O   O1        1.0  0.09446001052856444  0.1267353594303131  0.13476470112800598  1.0000
+  Li  Li1       1.0  0.09760866314172743  0.12735116481781006  0.6428353786468506  1.0000
+  Ba  Ba2       1.0  0.5963621139526366  0.6276566386222839  0.4368011355400085  1.0000
+  O   O2        1.0  0.09595774859189986  0.12634363770484924  0.794893443584442  1.0000
+  Li  Li2       1.0  0.09436860680580138  0.627177357673645  0.13978323340415955  1.0000
+  O   O3        1.0  0.09814076125621794  0.12821798026561737  0.48726180195808405  1.0000
+  Li  Li3       1.0  0.5934510827064513  0.12738285958766937  0.13998711109161377  1.0000

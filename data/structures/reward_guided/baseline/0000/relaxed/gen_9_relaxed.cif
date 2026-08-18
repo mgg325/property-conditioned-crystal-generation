@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Cs2Zn2Sn6Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.03510831
+_cell_length_b   6.84468009
+_cell_length_c   10.02664643
+_cell_angle_alpha   70.10426163
+_cell_angle_beta   75.35428940
+_cell_angle_gamma   91.55201156
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Zn2Sn6Pd
+_chemical_formula_sum   'Cs2 Zn2 Sn6 Pd1'
+_cell_volume   373.88415809
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.62323153  0.12575327  0.47041835  1
+  Cs  Cs1  1  0.29965517  0.48561656  0.76406140  1
+  Zn  Zn2  1  0.21932371  0.49555450  0.18951186  1
+  Zn  Zn3  1  0.70326078  0.11500437  0.04536493  1
+  Sn  Sn4  1  0.40061857  0.90003866  0.92861063  1
+  Sn  Sn5  1  0.69742546  0.53245530  0.04654646  1
+  Sn  Sn6  1  0.52199291  0.71072592  0.30586243  1
+  Sn  Sn7  1  0.94863075  0.96283505  0.82197153  1
+  Sn  Sn8  1  0.97376506  0.64837731  0.41275577  1
+  Sn  Sn9  1  0.22486453  0.07820443  0.18776926  1
+  Pd  Pd10  1  0.96132419  0.80491885  0.11729236  1

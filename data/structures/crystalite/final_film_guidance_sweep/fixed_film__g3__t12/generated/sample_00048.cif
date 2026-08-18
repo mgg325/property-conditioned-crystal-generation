@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_U2Tl2InTcAsP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.29166174
+_cell_length_b   6.80349255
+_cell_length_c   7.15301180
+_cell_angle_alpha   120.49748230
+_cell_angle_beta   121.19145203
+_cell_angle_gamma   90.67260742
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2Tl2InTcAsP
+_chemical_formula_sum   'U2 Tl2 In1 Tc1 As1 P1'
+_cell_volume   209.44482892
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tc  Tc0  1  0.45066559  0.02067187  0.16656262  1
+  As  As1  1  0.76034534  0.69625980  0.37510139  1
+  P  P2  1  0.86115861  0.88712507  0.22664183  1
+  U  U3  1  0.08377045  0.61367297  0.76580030  1
+  U  U4  1  0.60809499  0.90590864  0.70424658  1
+  In  In5  1  0.10805860  0.39860523  0.30760592  1
+  Tl  Tl6  1  0.33712423  0.26612496  0.80309397  1
+  Tl  Tl7  1  0.23333243  0.22534549  0.34704918  1

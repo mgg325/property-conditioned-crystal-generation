@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_LiPrEr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.73363461
+_cell_length_b   3.73526592
+_cell_length_c   6.66570948
+_cell_angle_alpha   106.20283316
+_cell_angle_beta   106.23350677
+_cell_angle_gamma   90.00082904
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPrEr
+_chemical_formula_sum   'Li1 Pr1 Er1'
+_cell_volume   85.40183861
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.60094551  0.32653575  0.29249563  1
+  Pr  Pr1  1  0.26133693  0.98760216  0.61372784  1
+  Er  Er2  1  0.95447482  0.67998363  0.99960366  1

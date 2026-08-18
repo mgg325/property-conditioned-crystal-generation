@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_TlHgAsF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43902520
+_cell_length_b   5.96432049
+_cell_length_c   6.02904344
+_cell_angle_alpha   66.83174750
+_cell_angle_beta   89.30979906
+_cell_angle_gamma   89.56496117
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlHgAsF6
+_chemical_formula_sum   'Tl1 Hg1 As1 F6'
+_cell_volume   179.79573121
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.06189026  0.15464315  0.11373826  1
+  Hg  Hg1  1  0.85393283  0.46520829  0.42714999  1
+  As  As2  1  0.46823936  0.82207998  0.79177682  1
+  F  F3  1  0.19940955  0.71598446  0.69882144  1
+  F  F4  1  0.73590871  0.92948372  0.88868491  1
+  F  F5  1  0.60102661  0.52619088  0.88143624  1
+  F  F6  1  0.59479536  0.91163218  0.49618371  1
+  F  F7  1  0.33026524  0.11677138  0.70863179  1
+  F  F8  1  0.33620016  0.73944330  0.08639619  1

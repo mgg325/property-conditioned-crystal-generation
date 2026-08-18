@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ReNiRh2
+_chemical_formula_sum              "Re1 Ni1 Rh2"
+_cell_length_a       3.7798196636283885
+_cell_length_b       3.777148936037678
+_cell_length_c       4.624028980994974
+_cell_angle_alpha    114.08952641990929
+_cell_angle_beta     114.12401210166834
+_cell_angle_gamma    90.00455145758626
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  0.7324822744983912  0.4788824802569065  0.8310587698341008  1.0000
+  Ni  Ni1       1.0  0.9819529229606141  0.22787875842696842  0.3299046027335602  1.0000
+  Rh  Rh1       1.0  0.48261268396807666  0.7291588536135521  0.33128975033385555  1.0000
+  Rh  Rh2       1.0  0.23251362774043344  0.9798137242865713  0.8310453638613992  1.0000

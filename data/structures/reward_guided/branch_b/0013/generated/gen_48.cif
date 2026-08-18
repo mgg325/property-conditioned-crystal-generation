@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SmAgSmCu
+_chemical_formula_sum              "Sm2 Ag1 Cu1"
+_cell_length_a       3.623580751749286
+_cell_length_b       3.6562127916194664
+_cell_length_c       7.271116733551025
+_cell_angle_alpha    88.87273435708607
+_cell_angle_beta     88.30269362572433
+_cell_angle_gamma    90.0823814181467
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.340121865272522  0.20379085838794708  0.4153752624988556  1.0000
+  Ag  Ag1       1.0  0.8404213190078735  0.7072305083274841  0.15268462896347046  1.0000
+  Sm  Sm2       1.0  0.3430003523826599  0.20430651307106018  0.8936275243759155  1.0000
+  Cu  Cu1       1.0  0.8432304859161377  0.7035557031631471  0.657580554485321  1.0000

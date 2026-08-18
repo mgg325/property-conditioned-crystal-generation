@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Nd2GaIrGaIrGa
+_chemical_formula_sum              "Nd2 Ga3 Ir2"
+_cell_length_a       4.180072691701486
+_cell_length_b       5.676336461512918
+_cell_length_c       7.115366458892822
+_cell_angle_alpha    67.08646747993139
+_cell_angle_beta     72.9604547381653
+_cell_angle_gamma    68.44537172750464
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.805949866771698  0.8575888276100158  0.03532159700989723  1.0000
+  Nd  Nd2       1.0  0.09813243895769125  0.8090836405754088  0.4995082020759583  1.0000
+  Ga  Ga1       1.0  0.45205968618392944  0.3336622416973114  0.26698020100593567  1.0000
+  Ir  Ir1       1.0  0.08644265681505205  0.2680352032184601  0.06323593109846115  1.0000
+  Ga  Ga2       1.0  0.5913088321685791  0.4955625534057617  0.8278141617774963  1.0000
+  Ir  Ir2       1.0  0.8178233504295349  0.39831602573394775  0.47144556045532227  1.0000
+  Ga  Ga3       1.0  0.31242871284484863  0.17082177102565765  0.7078831791877747  1.0000

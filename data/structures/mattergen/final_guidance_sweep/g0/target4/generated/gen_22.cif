@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Al2O2
+_chemical_formula_sum              "Al2 O2"
+_cell_length_a       2.914452177551375
+_cell_length_b       2.9098368604185345
+_cell_length_c       7.452569961547852
+_cell_angle_alpha    90.92729629239166
+_cell_angle_beta     90.4319778396486
+_cell_angle_gamma    121.1933184028366
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.6920439004898071  0.784715473651886  0.9495205283164978  1.0000
+  Al  Al2       1.0  0.6930997967720032  0.7891271710395813  0.2931375503540039  1.0000
+  O   O1        1.0  0.35794198513031006  0.11795642226934433  0.8525254130363464  1.0000
+  O   O2        1.0  0.026861380785703638  0.4558350443840027  0.38688740134239197  1.0000

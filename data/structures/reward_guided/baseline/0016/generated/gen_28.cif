@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Sm2PbHg
+_chemical_formula_sum              "Sm2 Pb1 Hg1"
+_cell_length_a       5.412433991596548
+_cell_length_b       5.40671099632657
+_cell_length_c       5.408757209777832
+_cell_angle_alpha    60.34147843747861
+_cell_angle_beta     60.35675694937175
+_cell_angle_gamma    60.388777411685
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.21230199933052066  0.745256245136261  0.46253398060798645  1.0000
+  Sm  Sm2       1.0  0.7100299596786499  0.243954598903656  0.9606655836105347  1.0000
+  Pb  Pb1       1.0  0.9610438346862793  0.49499091506004333  0.21233732998371124  1.0000
+  Hg  Hg1       1.0  0.45941999554634094  0.9930925965309143  0.7116448879241943  1.0000

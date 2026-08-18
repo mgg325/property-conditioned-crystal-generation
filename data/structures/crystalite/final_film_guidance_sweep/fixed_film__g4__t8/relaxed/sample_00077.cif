@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_BaCd2B2N3F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.30059779
+_cell_length_b   3.75342323
+_cell_length_c   13.42240963
+_cell_angle_alpha   90.89336126
+_cell_angle_beta   89.82264296
+_cell_angle_gamma   120.26458829
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCd2B2N3F
+_chemical_formula_sum   'Ba1 Cd2 B2 N3 F1'
+_cell_volume   143.60110366
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.45083579  0.78623756  0.11552316  1
+  Cd  Cd1  1  0.82317146  0.50373341  0.33282101  1
+  Cd  Cd2  1  0.54604268  0.90484045  0.64204951  1
+  B  B3  1  0.33324629  0.30465685  0.91693891  1
+  B  B4  1  0.18788165  0.19390941  0.52413787  1
+  N  N5  1  0.59682341  0.49146828  0.49563790  1
+  N  N6  1  0.70981181  0.37169240  0.96122607  1
+  N  N7  1  0.13565408  0.14338965  0.25175416  1
+  F  F8  1  0.80804790  0.53738506  0.72846379  1

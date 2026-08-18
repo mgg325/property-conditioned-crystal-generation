@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Nd2Te2
+_chemical_formula_sum              "Nd2 Te2"
+_cell_length_a       4.409217992744164
+_cell_length_b       4.4036950228984
+_cell_length_c       6.490454196929932
+_cell_angle_alpha    89.79034985156804
+_cell_angle_beta     89.98464823845418
+_cell_angle_gamma    89.91688592789173
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.3283681571483612  0.88100266456604  0.5282045602798462  1.0000
+  Nd  Nd2       1.0  0.8284578323364258  0.3809168040752411  0.12046882510185242  1.0000
+  Te  Te1       1.0  0.32754504680633545  0.8801192045211792  0.04094905033707619  1.0000
+  Te  Te2       1.0  0.8289536237716675  0.3811569809913635  0.6075215339660645  1.0000

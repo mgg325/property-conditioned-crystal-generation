@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       InCsTl2
+_chemical_formula_sum              "In1 Cs1 Tl2"
+_cell_length_a       3.9058581750430417
+_cell_length_b       4.005756804768623
+_cell_length_c       9.002074241638184
+_cell_angle_alpha    88.85312496430909
+_cell_angle_beta     89.11605990361834
+_cell_angle_gamma    89.58496602087843
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.48189973831176763  0.8049035072326659  0.9894689321517944  1.0000
+  Cs  Cs1       1.0  0.9800003170967103  0.3046039640903473  0.3003511130809784  1.0000
+  Tl  Tl1       1.0  0.9809337854385377  0.3055771589279175  0.8110241293907166  1.0000
+  Tl  Tl2       1.0  0.4815561175346375  0.8049015402793884  0.6152659058570862  1.0000

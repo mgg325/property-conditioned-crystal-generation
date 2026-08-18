@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_BaBeSnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.76258087
+_cell_length_b   3.16401410
+_cell_length_c   5.14494658
+_cell_angle_alpha   67.04651642
+_cell_angle_beta   68.51109314
+_cell_angle_gamma   61.11990356
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaBeSnO4
+_chemical_formula_sum   'Ba1 Be1 Sn1 O4'
+_cell_volume   35.36603548
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.43753842  0.70501924  0.22984126  1
+  O  O1  1  0.90770757  0.52014804  0.02439260  1
+  Be  Be2  1  0.56752485  0.81519169  0.81328434  1
+  Ba  Ba3  1  0.18190008  0.37868676  0.98900384  1
+  O  O4  1  0.94263810  0.11507797  0.00101531  1
+  O  O5  1  0.47998512  0.74354124  0.90339941  1
+  Sn  Sn6  1  0.50555456  0.77982998  0.85375237  1

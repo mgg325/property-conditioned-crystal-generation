@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsRbAc2YbU2Ga(SbP)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.79114223
+_cell_length_b   2.76898980
+_cell_length_c   30.00974464
+_cell_angle_alpha   89.78272247
+_cell_angle_beta   90.12523651
+_cell_angle_gamma   122.87828064
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsRbAc2YbU2Ga(SbP)2
+_chemical_formula_sum   'Cs1 Rb1 Ac2 Yb1 U2 Ga1 Sb2 P2'
+_cell_volume   194.78327336
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.79747808  0.70885360  0.48955920  1
+  Ac  Ac1  1  0.13220206  0.35301775  0.47189155  1
+  P  P2  1  0.79854655  0.69914913  0.80564433  1
+  P  P3  1  0.14697248  0.36369091  0.25527084  1
+  U  U4  1  0.45324793  0.03964224  0.61339217  1
+  U  U5  1  0.46685547  0.02842700  0.04447970  1
+  Cs  Cs6  1  0.45368782  0.03923863  0.87010944  1
+  Ga  Ga7  1  0.15682283  0.38322717  0.88856936  1
+  Sb  Sb8  1  0.80625844  0.71370566  0.17695522  1
+  Yb  Yb9  1  0.45819134  0.04041365  0.31384343  1
+  Rb  Rb10  1  0.13389990  0.36921775  0.69421446  1
+  Sb  Sb11  1  0.14960918  0.36033314  0.06147191  1

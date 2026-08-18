@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LiZnAsO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.90120959
+_cell_length_b   4.62497902
+_cell_length_c   5.32396364
+_cell_angle_alpha   91.07952118
+_cell_angle_beta   90.03836823
+_cell_angle_gamma   90.12324524
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiZnAsO3
+_chemical_formula_sum   'Li1 Zn1 As1 O3'
+_cell_volume   71.42425985
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.61966485  0.95803404  0.73933005  1
+  O  O1  1  0.12968102  0.11069840  0.25973600  1
+  As  As2  1  0.12258449  0.81244791  0.01464081  1
+  Li  Li3  1  0.12199140  0.33022669  0.73918027  1
+  O  O4  1  0.63005346  0.57928163  0.04974878  1
+  Zn  Zn5  1  0.62837911  0.30050197  0.38443702  1

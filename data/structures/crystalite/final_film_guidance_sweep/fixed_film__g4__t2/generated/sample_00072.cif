@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_PbN2ClF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.56030130
+_cell_length_b   12.89523506
+_cell_length_c   12.01185513
+_cell_angle_alpha   56.56924057
+_cell_angle_beta   87.03897095
+_cell_angle_gamma   83.79087830
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PbN2ClF6
+_chemical_formula_sum   'Pb1 N2 Cl1 F6'
+_cell_volume   329.00986521
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.80521947  0.81199288  0.75390124  1
+  Cl  Cl1  1  0.83194220  0.22078121  0.79612350  1
+  N  N2  1  0.78806293  0.05793050  0.38555577  1
+  N  N3  1  0.79409307  0.98883796  0.39357644  1
+  F  F4  1  0.39666876  0.08945939  0.43572116  1
+  Pb  Pb5  1  0.95570320  0.79924500  0.65526104  1
+  F  F6  1  0.78363192  0.88733107  0.53654873  1
+  F  F7  1  0.90094715  0.41040960  0.29479772  1
+  F  F8  1  0.39859813  0.75865662  0.72758901  1
+  F  F9  1  0.69814253  0.99593407  0.26194602  1

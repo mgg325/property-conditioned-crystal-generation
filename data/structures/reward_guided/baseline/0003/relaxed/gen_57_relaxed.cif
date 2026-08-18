@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ca(ZnGe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31852575
+_cell_length_b   4.31531086
+_cell_length_c   6.16971195
+_cell_angle_alpha   110.43947622
+_cell_angle_beta   110.46399544
+_cell_angle_gamma   90.01037794
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(ZnGe)2
+_chemical_formula_sum   'Ca1 Zn2 Ge2'
+_cell_volume   99.95560660
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.83903433  0.62489022  0.76267971  1
+  Zn  Zn1  1  0.08896038  0.37480924  0.26230238  1
+  Zn  Zn2  1  0.58916731  0.87498008  0.26305826  1
+  Ge  Ge3  1  0.22121997  0.00720018  0.52706681  1
+  Ge  Ge4  1  0.45689307  0.24263984  0.99833704  1

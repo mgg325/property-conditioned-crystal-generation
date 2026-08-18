@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Na3Zr3RhS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35528611
+_cell_length_b   7.35531090
+_cell_length_c   8.08997305
+_cell_angle_alpha   62.95311183
+_cell_angle_beta   62.95163878
+_cell_angle_gamma   60.00067574
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Zr3RhS8
+_chemical_formula_sum   'Na3 Zr3 Rh1 S8'
+_cell_volume   322.58030885
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.54690745  0.24146648  0.65164324  1
+  Na  Na1  1  0.54670264  0.74156027  0.65160874  1
+  Na  Na2  1  0.04674786  0.74156285  0.65170726  1
+  Zr  Zr3  1  0.04692735  0.74154697  0.15156288  1
+  Zr  Zr4  1  0.04671573  0.24164650  0.15167539  1
+  Zr  Zr5  1  0.54679497  0.24158346  0.15165808  1
+  Rh  Rh6  1  0.54683658  0.74136445  0.15168140  1
+  S  S7  1  0.31787097  0.99258975  0.35840499  1
+  S  S8  1  0.80698193  0.00178316  0.37092103  1
+  S  S9  1  0.31770625  0.51233096  0.35867613  1
+  S  S10  1  0.77585194  0.97047475  0.94483556  1
+  S  S11  1  0.79794505  0.51252148  0.35850906  1
+  S  S12  1  0.77587327  0.49033026  0.94469481  1
+  S  S13  1  0.29574634  0.97045254  0.94485187  1
+  S  S14  1  0.28656368  0.48136490  0.93238668  1

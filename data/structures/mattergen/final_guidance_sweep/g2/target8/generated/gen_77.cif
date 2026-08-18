@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LaTeLaSe
+_chemical_formula_sum              "La2 Te1 Se1"
+_cell_length_a       4.424810569659278
+_cell_length_b       4.423946424178097
+_cell_length_c       7.763612270355225
+_cell_angle_alpha    73.4119379816845
+_cell_angle_beta     73.42875478040094
+_cell_angle_gamma    60.04053207544366
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.5951757431030272  0.2306226193904877  0.8666868209838867  1.0000
+  Te  Te1       1.0  0.8358346223831176  0.47125178575515747  0.14568780362606049  1.0000
+  La  La2       1.0  0.07654196023941034  0.7115924954414369  0.42468786239624023  1.0000
+  Se  Se1       1.0  0.33606657385826105  0.9712926149368286  0.6453498005867004  1.0000

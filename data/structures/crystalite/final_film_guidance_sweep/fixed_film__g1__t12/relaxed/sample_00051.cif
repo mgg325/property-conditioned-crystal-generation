@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Pr2Cu3As3N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.77273922
+_cell_length_b   5.46235964
+_cell_length_c   8.64013621
+_cell_angle_alpha   83.71033003
+_cell_angle_beta   89.92967839
+_cell_angle_gamma   110.22752649
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2Cu3As3N
+_chemical_formula_sum   'Pr2 Cu3 As3 N1'
+_cell_volume   165.92345047
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.63126682  0.54115252  0.88870527  1
+  Pr  Pr1  1  0.74536507  0.77497822  0.48071447  1
+  Cu  Cu2  1  0.04434094  0.37565923  0.18731626  1
+  Cu  Cu3  1  0.37137977  0.02495849  0.74859824  1
+  Cu  Cu4  1  0.32792854  0.93312472  0.15005850  1
+  As  As5  1  0.89883493  0.07463629  0.97922989  1
+  As  As6  1  0.00946950  0.30189891  0.62514469  1
+  As  As7  1  0.47440678  0.23722714  0.35318475  1
+  N  N8  1  0.19405271  0.66683352  0.68623248  1

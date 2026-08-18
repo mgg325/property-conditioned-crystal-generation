@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Er2ClCo2Cl
+_chemical_formula_sum              "Er2 Cl2 Co2"
+_cell_length_a       3.844103757003945
+_cell_length_b       3.8439664239366897
+_cell_length_c       11.004635457831936
+_cell_angle_alpha    79.91024417813657
+_cell_angle_beta     79.92885038700248
+_cell_angle_gamma    59.98228913878151
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.6320531118149042  0.22712215327516663  0.28510679293480623  1.0000
+  Er  Er2       1.0  0.7463531260874241  0.34190135888734197  0.9410467791636907  1.0000
+  Cl  Cl1       1.0  0.4662493874910136  0.06280469120493083  0.7803104732549557  1.0000
+  Co  Co1       1.0  0.024501165331789622  0.6196592748869977  0.10744059433031948  1.0000
+  Co  Co2       1.0  0.3540238442981824  0.9492051735344388  0.11875083194295977  1.0000
+  Cl  Cl2       1.0  0.9118798341357214  0.5066983539325869  0.4457997847301676  1.0000

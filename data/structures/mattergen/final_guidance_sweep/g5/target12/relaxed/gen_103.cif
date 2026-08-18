@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BiTe2Bi2
+_chemical_formula_sum              "Bi3 Te2"
+_cell_length_a       4.463746715004948
+_cell_length_b       4.463900389132078
+_cell_length_c       10.580609319691003
+_cell_angle_alpha    77.82220296024494
+_cell_angle_beta     77.79687740562329
+_cell_angle_gamma    59.97826641629622
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.9222626823330607  0.761227566020854  0.46357331926198814  1.0000
+  Te  Te1       1.0  0.7204679405908381  0.5618344477496814  0.060864461007426526  1.0000
+  Te  Te2       1.0  0.5085473790313776  0.349556051225337  0.6985342205731903  1.0000
+  Bi  Bi2       1.0  0.1141871033226555  0.9556729412650703  0.8798383214424647  1.0000
+  Bi  Bi3       1.0  0.31114863561929373  0.14982162553827824  0.29643518966765664  1.0000

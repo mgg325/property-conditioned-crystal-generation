@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_KAlSi3H3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46274567
+_cell_length_b   5.49904346
+_cell_length_c   6.38594103
+_cell_angle_alpha   111.17666626
+_cell_angle_beta   99.45957947
+_cell_angle_gamma   111.35127258
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAlSi3H3O8
+_chemical_formula_sum   'K1 Al1 Si3 H3 O8'
+_cell_volume   156.63486865
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.12173879  0.38614270  0.27729127  1
+  H  H1  1  0.37860888  0.87669921  0.90900517  1
+  O  O2  1  0.63826001  0.17682791  0.51178741  1
+  O  O3  1  0.58693677  0.36519963  0.17502028  1
+  Si  Si4  1  0.38236228  0.48803890  0.33947408  1
+  O  O5  1  0.24290115  0.14392394  0.97464925  1
+  K  K6  1  0.96223152  0.93483996  0.48568338  1
+  Al  Al7  1  0.28623945  0.45709378  0.00783211  1
+  Si  Si8  1  0.66568983  0.37673023  0.20364445  1
+  O  O9  1  0.50003338  0.40993696  0.85355079  1
+  H  H10  1  0.11118472  0.67672646  0.90803421  1
+  Si  Si11  1  0.67828381  0.39186603  0.76082766  1
+  H  H12  1  0.08158794  0.16799048  0.94763505  1
+  O  O13  1  0.93260330  0.55369639  0.80822217  1
+  O  O14  1  0.54869682  0.84227759  0.67332751  1
+  O  O15  1  0.38892883  0.71668822  0.20760447  1

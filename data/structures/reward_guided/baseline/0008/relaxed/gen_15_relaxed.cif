@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_ZnInHg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.56582267
+_cell_length_b   3.56582211
+_cell_length_c   7.46338358
+_cell_angle_alpha   89.62990982
+_cell_angle_beta   90.37423306
+_cell_angle_gamma   89.88515022
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnInHg2
+_chemical_formula_sum   'Zn1 In1 Hg2'
+_cell_volume   94.89338597
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.26733511  0.37787811  0.34243291  1
+  In  In1  1  0.26724052  0.37797128  0.84242063  1
+  Hg  Hg2  1  0.76874343  0.87647223  0.11858346  1
+  Hg  Hg3  1  0.76579885  0.87938521  0.56625233  1

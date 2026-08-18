@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TlZn5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.34014290
+_cell_length_b   5.47600706
+_cell_length_c   5.47666295
+_cell_angle_alpha   120.05822680
+_cell_angle_beta   90.00161144
+_cell_angle_gamma   90.00112426
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlZn5
+_chemical_formula_sum   'Tl1 Zn5'
+_cell_volume   112.65735762
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.93337283  0.40726356  0.28038466  1
+  Zn  Zn1  1  0.43403638  0.90761195  0.28060506  1
+  Zn  Zn2  1  0.43402709  0.90727427  0.78063812  1
+  Zn  Zn3  1  0.93420621  0.74031027  0.94695931  1
+  Zn  Zn4  1  0.93421762  0.07389802  0.61415166  1
+  Zn  Zn5  1  0.43414559  0.40712863  0.78069254  1

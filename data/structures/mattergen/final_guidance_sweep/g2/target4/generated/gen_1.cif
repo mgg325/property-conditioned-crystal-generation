@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OMgWO3
+_chemical_formula_sum              "O4 Mg1 W1"
+_cell_length_a       6.1552523701157975
+_cell_length_b       6.180470007784658
+_cell_length_c       6.162511825561523
+_cell_angle_alpha    59.67258573357061
+_cell_angle_beta     60.07457487625663
+_cell_angle_gamma    59.966740240574325
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.5638154149055482  0.6397601962089539  0.8641780614852906  1.0000
+  Mg  Mg1       1.0  0.6925628185272218  0.24904349446296692  0.9941377043724061  1.0000
+  W   W1        1.0  0.4439154863357543  0.9991524815559387  0.7459422945976257  1.0000
+  O   O2        1.0  0.08334960788488388  0.11965443193912506  0.8654546141624452  1.0000
+  O   O3        1.0  0.563705563545227  0.11949963122606279  0.865945875644684  1.0000
+  O   O4        1.0  0.5631086230278015  0.11987106502056122  0.3850078284740448  1.0000

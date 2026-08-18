@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CsBaHg3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72737636
+_cell_length_b   5.72863979
+_cell_length_c   13.28027422
+_cell_angle_alpha   90.07549318
+_cell_angle_beta   89.97075540
+_cell_angle_gamma   89.96615779
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsBaHg3
+_chemical_formula_sum   'Cs2 Ba2 Hg6'
+_cell_volume   435.72629638
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.14240462  0.83012131  0.50729983  1
+  Cs  Cs1  1  0.64140797  0.32955209  0.09618221  1
+  Ba  Ba2  1  0.14198318  0.33234576  0.80193934  1
+  Ba  Ba3  1  0.64200491  0.83005860  0.80180460  1
+  Hg  Hg4  1  0.14248785  0.33076220  0.30250880  1
+  Hg  Hg5  1  0.64271283  0.32936092  0.64588440  1
+  Hg  Hg6  1  0.14118300  0.83357292  0.95722344  1
+  Hg  Hg7  1  0.64038348  0.82831520  0.30221565  1
+  Hg  Hg8  1  0.64258066  0.32900380  0.41099159  1
+  Hg  Hg9  1  0.14029619  0.83012302  0.19281046  1

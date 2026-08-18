@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Tb2CuAg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.39163542
+_cell_length_b   7.50606778
+_cell_length_c   7.19697359
+_cell_angle_alpha   110.47035110
+_cell_angle_beta   90.00291272
+_cell_angle_gamma   90.00233960
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2CuAg2
+_chemical_formula_sum   'Tb4 Cu2 Ag4'
+_cell_volume   222.25945917
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.22364791  0.60130809  0.37306145  1
+  Tb  Tb1  1  0.72409216  0.33756343  0.64935612  1
+  Tb  Tb2  1  0.22381261  0.77044168  0.97538583  1
+  Tb  Tb3  1  0.72389331  0.16982184  0.04930033  1
+  Cu  Cu4  1  0.72444470  0.55882345  0.07262522  1
+  Cu  Cu5  1  0.22400199  0.38041786  0.95029161  1
+  Ag  Ag6  1  0.22411480  0.02752235  0.68243944  1
+  Ag  Ag7  1  0.72397269  0.91105967  0.34236321  1
+  Ag  Ag8  1  0.72415404  0.77585936  0.68452862  1
+  Ag  Ag9  1  0.22391746  0.16259509  0.33989411  1

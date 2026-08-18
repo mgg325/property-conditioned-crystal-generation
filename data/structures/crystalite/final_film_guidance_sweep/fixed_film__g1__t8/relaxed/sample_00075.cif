@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_RbGa2Se5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.66071738
+_cell_length_b   7.10291818
+_cell_length_c   7.00341166
+_cell_angle_alpha   77.43300221
+_cell_angle_beta   65.68228001
+_cell_angle_gamma   60.99542522
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbGa2Se5
+_chemical_formula_sum   'Rb1 Ga2 Se5'
+_cell_volume   264.00231906
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.37071519  0.97423330  -0.00636625  1
+  Ga  Ga1  1  0.34011931  0.54432980  0.52073084  1
+  Ga  Ga2  1  0.88882645  0.52969807  0.50396446  1
+  Se  Se3  1  0.28340160  0.47221060  0.22750155  1
+  Se  Se4  1  0.49961649  0.80536206  0.46626821  1
+  Se  Se5  1  0.97846924  0.53744327  0.80559024  1
+  Se  Se6  1  0.70171719  0.25031679  0.63301996  1
+  Se  Se7  1  0.85533898  -0.03178908  0.41212837  1

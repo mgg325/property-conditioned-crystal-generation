@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Na4B2PbNO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23154931
+_cell_length_b   6.28169760
+_cell_length_c   6.34557755
+_cell_angle_alpha   109.54543222
+_cell_angle_beta   105.04644147
+_cell_angle_gamma   111.51126599
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4B2PbNO6
+_chemical_formula_sum   'Na4 B2 Pb1 N1 O6'
+_cell_volume   195.98558648
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.84662692  0.74418007  0.78017417  1
+  Na  Na1  1  0.82595728  0.25533372  0.84275947  1
+  Na  Na2  1  0.29070198  0.17318253  0.44749607  1
+  Na  Na3  1  0.27963427  0.67885650  0.37615968  1
+  B  B4  1  0.33676340  0.73526904  0.85064146  1
+  B  B5  1  0.82248462  0.19375383  0.32729957  1
+  Pb  Pb6  1  0.42581857  0.35368222  1.04234660  1
+  N  N7  1  0.74556866  0.79874757  0.38157660  1
+  O  O8  1  0.85345113  0.05914471  0.47641957  1
+  O  O9  1  0.44580207  0.58050204  0.77354090  1
+  O  O10  1  0.18072119  0.67899566  0.96852998  1
+  O  O11  1  0.66471835  0.29122118  0.36704423  1
+  O  O12  1  0.97679611  0.23534774  0.21204174  1
+  O  O13  1  0.38292834  0.94006805  0.78581415  1

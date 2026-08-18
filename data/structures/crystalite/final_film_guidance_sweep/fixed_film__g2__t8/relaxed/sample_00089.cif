@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Tl3Co3Ge(Se2S)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.25169882
+_cell_length_b   6.53483752
+_cell_length_c   9.44843154
+_cell_angle_alpha   93.06992558
+_cell_angle_beta   98.13036678
+_cell_angle_gamma   91.02746301
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl3Co3Ge(Se2S)3
+_chemical_formula_sum   'Tl3 Co3 Ge1 Se6 S3'
+_cell_volume   381.44946486
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.92209838  -0.05849448  0.08541473  1
+  Tl  Tl1  1  0.47463776  0.50826314  0.50816473  1
+  Tl  Tl2  1  0.98161707  0.30856652  0.55509182  1
+  Co  Co3  1  0.46192653  0.45593101  0.06727685  1
+  Co  Co4  1  0.96291082  0.37353842  0.06797385  1
+  Co  Co5  1  0.93915069  0.84430990  0.37167260  1
+  Ge  Ge6  1  0.39522791  0.00194804  0.69230421  1
+  Se  Se7  1  0.41836635  0.75971335  0.95169892  1
+  Se  Se8  1  0.65516238  0.27385338  0.91666947  1
+  Se  Se9  1  0.68378878  0.74597838  0.78648839  1
+  Se  Se10  1  0.78315305  0.52741595  0.24153821  1
+  Se  Se11  1  0.18193834  0.30637069  0.89304625  1
+  Se  Se12  1  0.30178140  0.94464663  0.31540785  1
+  S  S13  1  0.10943787  0.78035218  0.59065166  1
+  S  S14  1  0.64597610  -0.01168528  0.44113258  1
+  S  S15  1  0.24351813  0.42089447  0.21982026  1

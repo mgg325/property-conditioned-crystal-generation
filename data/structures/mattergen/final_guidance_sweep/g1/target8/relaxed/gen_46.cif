@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CaInCaInCaCd2
+_chemical_formula_sum              "Ca3 In2 Cd2"
+_cell_length_a       5.087881063345576
+_cell_length_b       6.000465553341237
+_cell_length_c       7.2948046618206215
+_cell_angle_alpha    100.85602558658759
+_cell_angle_beta     90.00286398175916
+_cell_angle_gamma    115.08300341567866
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.6678408638540584  0.9937651723967367  0.5051584128445479  1.0000
+  In  In1       1.0  0.7033548123491691  0.06532472207047767  0.0017087676169695273  1.0000
+  Ca  Ca2       1.0  0.4046744511058114  0.4681800733722953  0.05235121976410949  1.0000
+  In  In2       1.0  0.3691636169651627  0.3966976754080505  0.555880767826112  1.0000
+  Ca  Ca3       1.0  0.036297190733718676  0.7310215778521321  0.7787908358212888  1.0000
+  Cd  Cd1       1.0  0.15181570286215762  0.9619462767595759  0.21576081521514953  1.0000
+  Cd  Cd2       1.0  0.920559286226774  0.4999337942436595  0.34187113929714186  1.0000

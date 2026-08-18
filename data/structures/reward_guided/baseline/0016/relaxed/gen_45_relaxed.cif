@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tb4Ho5Al3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21700453
+_cell_length_b   6.41516669
+_cell_length_c   10.91837080
+_cell_angle_alpha   88.80578357
+_cell_angle_beta   89.98443039
+_cell_angle_gamma   113.98394216
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb4Ho5Al3
+_chemical_formula_sum   'Tb4 Ho5 Al3'
+_cell_volume   333.77752837
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.80415996  0.52124091  0.47786143  1
+  Tb  Tb1  1  0.45580816  0.82518517  0.03485443  1
+  Tb  Tb2  1  0.50739830  0.92750247  0.46021012  1
+  Tb  Tb3  1  0.85563326  0.62479905  0.90398520  1
+  Ho  Ho4  1  0.61035954  0.13393872  0.75296725  1
+  Ho  Ho5  1  0.31633790  0.54552670  0.70554764  1
+  Ho  Ho6  1  -0.00484572  0.90460220  0.23351387  1
+  Ho  Ho7  1  0.15584398  0.22503094  0.96923074  1
+  Ho  Ho8  1  0.70111826  0.31538768  0.18485282  1
+  Al  Al9  1  0.30939350  0.53275650  0.27728944  1
+  Al  Al10  1  0.15547787  0.22420577  0.46991009  1
+  Al  Al11  1  0.00144119  0.91511943  0.66161799  1

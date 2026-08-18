@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LiSi4Au2S9BrCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.28253365
+_cell_length_b   8.33267689
+_cell_length_c   8.17274666
+_cell_angle_alpha   110.56681824
+_cell_angle_beta   108.87178040
+_cell_angle_gamma   108.17395782
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSi4Au2S9BrCl
+_chemical_formula_sum   'Li1 Si4 Au2 S9 Br1 Cl1'
+_cell_volume   385.37403141
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.37515813  0.64085448  0.58474958  1
+  S  S1  1  0.08068854  0.52744550  0.64831334  1
+  S  S2  1  0.38920614  0.95377421  0.04166940  1
+  S  S3  1  0.86928415  0.68168557  0.31569642  1
+  Au  Au4  1  0.68377441  0.96906918  0.92777121  1
+  S  S5  1  0.92425644  0.01794600  0.82735354  1
+  S  S6  1  0.27131307  0.28022331  0.30018806  1
+  Cl  Cl7  1  0.57264221  0.32776567  0.94863069  1
+  Br  Br8  1  0.25134990  0.00616342  0.58463889  1
+  Li  Li9  1  0.16353369  0.74294960  0.04838282  1
+  S  S10  1  0.09512866  0.46213001  0.06650439  1
+  Au  Au11  1  0.67690480  0.55287498  0.52023107  1
+  S  S12  1  0.63517624  0.71918523  0.82422602  1
+  Si  Si13  1  0.22455862  0.38077644  0.17395204  1
+  Si  Si14  1  0.92424577  0.49411759  0.31350428  1
+  Si  Si15  1  0.15316379  0.85461766  0.77623802  1
+  S  S16  1  0.48015752  0.75259686  0.43008792  1
+  S  S17  1  0.78265715  0.24928412  0.27179030  1

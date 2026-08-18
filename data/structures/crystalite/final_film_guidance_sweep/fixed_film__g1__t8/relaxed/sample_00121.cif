@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_K7GaGe2BCO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.54217590
+_cell_length_b   6.26212217
+_cell_length_c   8.84804972
+_cell_angle_alpha   73.50559528
+_cell_angle_beta   74.41007023
+_cell_angle_gamma   86.85241898
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K7GaGe2BCO
+_chemical_formula_sum   'K7 Ga1 Ge2 B1 C1 O1'
+_cell_volume   334.69186689
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.61598976  0.82422835  0.47963146  1
+  K  K1  1  0.11684663  0.83267967  0.75496121  1
+  K  K2  1  0.34578382  0.79994878  0.14420157  1
+  K  K3  1  0.41104619  0.37742984  0.60357711  1
+  K  K4  1  0.95869346  0.27452401  0.90769203  1
+  K  K5  1  0.06632390  0.18415394  0.37717278  1
+  K  K6  1  0.86923184  0.63679569  0.13813732  1
+  Ga  Ga7  1  0.48045892  0.26837620  0.99262908  1
+  Ge  Ge8  1  0.66592551  0.00380050  0.79131111  1
+  Ge  Ge9  1  0.55567515  0.25400753  0.25002431  1
+  B  B10  1  0.06068592  0.72499546  0.49191904  1
+  C  C11  1  0.28624687  0.53150224  0.94521330  1
+  O  O12  1  0.07710736  0.73879656  0.45223208  1

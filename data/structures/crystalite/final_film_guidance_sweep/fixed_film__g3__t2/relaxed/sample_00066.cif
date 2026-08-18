@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_BeSi2ClF16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94748686
+_cell_length_b   7.95567672
+_cell_length_c   8.36163459
+_cell_angle_alpha   68.58403159
+_cell_angle_beta   69.76740505
+_cell_angle_gamma   94.64227189
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeSi2ClF16
+_chemical_formula_sum   'Be1 Si2 Cl1 F16'
+_cell_volume   448.63183750
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.17792557  -0.07654816  0.88798398  1
+  Si  Si1  1  0.38812617  0.29311071  0.20490606  1
+  Si  Si2  1  0.36527547  0.70527100  0.37023109  1
+  Cl  Cl3  1  0.58546786  0.39830899  0.55510943  1
+  F  F4  1  0.93474430  0.84129951  0.67344457  1
+  F  F5  1  0.87381592  0.27149366  0.13768436  1
+  F  F6  1  0.57204725  0.78993949  0.21587606  1
+  F  F7  1  0.81641372  0.14852769  0.06524229  1
+  F  F8  1  0.13251713  0.73796272  1.01420395  1
+  F  F9  1  0.23667167  0.11151697  0.84263903  1
+  F  F10  1  0.28715048  0.51288346  0.36844921  1
+  F  F11  1  0.35847670  0.66916657  0.57133432  1
+  F  F12  1  0.47344480  0.38155763  0.77317881  1
+  F  F13  1  0.54188622  0.36919301  0.25716421  1
+  F  F14  1  0.23182714  0.83405211  0.32144131  1
+  F  F15  1  0.23321420  0.37277874  0.14695228  1
+  F  F16  1  0.46723274  0.16784886  1.10193001  1
+  F  F17  1  0.70900013  0.10068088  0.44317741  1
+  F  F18  1  0.75147764  0.59322489  0.61696961  1
+  F  F19  1  0.11711937  0.86107522  0.68585440  1

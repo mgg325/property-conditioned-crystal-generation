@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TaWO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.19444155
+_cell_length_b   4.86000571
+_cell_length_c   4.85885509
+_cell_angle_alpha   91.24401829
+_cell_angle_beta   90.00411331
+_cell_angle_gamma   89.99964110
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaWO4
+_chemical_formula_sum   'Ta1 W1 O4'
+_cell_volume   75.41596552
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.83001415  0.32113113  0.85362502  1
+  W  W1  1  0.33011263  0.82110756  0.35362218  1
+  O  O2  1  0.83007881  0.61073389  0.14299292  1
+  O  O3  1  0.33041074  0.50551815  0.66918926  1
+  O  O4  1  0.33047011  0.13685377  0.03813598  1
+  O  O5  1  0.83017211  0.03176269  0.56415290  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_HgBiSbSeS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16636705
+_cell_length_b   4.35957003
+_cell_length_c   8.82668400
+_cell_angle_alpha   88.32600403
+_cell_angle_beta   87.74444580
+_cell_angle_gamma   61.93991470
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgBiSbSeS
+_chemical_formula_sum   'Hg1 Bi1 Sb1 Se1 S1'
+_cell_volume   175.28726734
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.52581197  0.02611682  0.62251794  1
+  Bi  Bi1  1  0.83429658  0.34762508  0.32672027  1
+  Hg  Hg2  1  0.17967296  0.60758752  0.78002131  1
+  S  S3  1  0.92838448  0.30559605  0.86398268  1
+  Se  Se4  1  0.37103829  0.84128034  0.06426549  1

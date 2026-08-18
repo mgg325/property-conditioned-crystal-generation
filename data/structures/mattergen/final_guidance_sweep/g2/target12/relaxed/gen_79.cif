@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SiAg2SBaS3
+_chemical_formula_sum              "Si1 Ag2 S4 Ba1"
+_cell_length_a       6.303961106216401
+_cell_length_b       6.305305740639626
+_cell_length_c       6.304954001287367
+_cell_angle_alpha    99.78479391843095
+_cell_angle_beta     114.4859471585119
+_cell_angle_gamma    114.53265626657543
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.4355263812983549  0.47512615181872464  0.94237832754135  1.0000
+  Ag  Ag1       1.0  0.9353097912206839  0.7256129674228421  0.6927810457136037  1.0000
+  Ag  Ag2       1.0  0.9354326351177278  0.224853831240469  0.19225368143189897  1.0000
+  S   S1        1.0  0.06815585576417676  0.14166973171475747  0.6090810172447731  1.0000
+  Ba  Ba1       1.0  0.4358332012303297  0.9755453606300586  0.44274195176694264  1.0000
+  S   S2        1.0  0.43561137155822766  0.44120102388154564  0.2758736064080788  1.0000
+  S   S3        1.0  0.4355226377806161  0.8084683643389202  0.9080097390608406  1.0000
+  S   S4        1.0  0.8023786781177685  0.5082262450760849  0.9753806417422197  1.0000

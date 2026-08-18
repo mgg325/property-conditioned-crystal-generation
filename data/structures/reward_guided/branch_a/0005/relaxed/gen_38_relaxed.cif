@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_La6InGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.68283989
+_cell_length_b   8.45108733
+_cell_length_c   8.44559909
+_cell_angle_alpha   120.11327977
+_cell_angle_beta   89.99668248
+_cell_angle_gamma   90.00292187
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La6InGe2
+_chemical_formula_sum   'La6 In1 Ge2'
+_cell_volume   289.12531546
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.24403749  0.73738088  0.71199522  1
+  La  La1  1  0.24409054  0.27164938  0.98019509  1
+  La  La2  1  0.24422204  0.00351715  0.44483713  1
+  La  La3  1  0.74424757  0.42013916  0.71276115  1
+  La  La4  1  0.74440182  0.00473930  0.12900135  1
+  La  La5  1  0.74417035  0.58673657  0.29469191  1
+  In  In6  1  0.74406647  0.00528620  0.71295289  1
+  Ge  Ge7  1  0.24462795  0.33704610  0.37948035  1
+  Ge  Ge8  1  0.24434346  0.67046883  0.04470372  1

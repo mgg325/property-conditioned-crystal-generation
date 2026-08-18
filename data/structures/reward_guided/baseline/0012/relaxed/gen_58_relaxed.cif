@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_ScMn6(SnGe)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.26177973
+_cell_length_b   5.26172529
+_cell_length_c   8.54835720
+_cell_angle_alpha   89.99768043
+_cell_angle_beta   89.99814453
+_cell_angle_gamma   119.99382381
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScMn6(SnGe)3
+_chemical_formula_sum   'Sc1 Mn6 Sn3 Ge3'
+_cell_volume   204.97512097
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.65765950  0.71975657  0.37782216  1
+  Mn  Mn1  1  0.65756677  0.21898048  0.14241119  1
+  Mn  Mn2  1  0.65783067  0.21939618  0.60880873  1
+  Mn  Mn3  1  0.15783527  0.71939385  0.60888021  1
+  Mn  Mn4  1  0.15797967  0.21953515  0.60893798  1
+  Mn  Mn5  1  0.15763875  0.71911782  0.14250820  1
+  Mn  Mn6  1  0.15745125  0.21904985  0.14232954  1
+  Sn  Sn7  1  0.65763805  0.71887830  0.03750238  1
+  Sn  Sn8  1  0.99106943  0.38568780  0.87430446  1
+  Sn  Sn9  1  0.32441618  0.05218535  0.87431245  1
+  Ge  Ge10  1  0.32411350  0.05274800  0.37461505  1
+  Ge  Ge11  1  0.99119860  0.38599123  0.37462334  1
+  Ge  Ge12  1  0.65783428  0.71914706  0.69499265  1

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       AsPrIrLiPrAs2IrAsIr
+_chemical_formula_sum              "As4 Pr2 Ir3 Li1"
+_cell_length_a       4.366618889477995
+_cell_length_b       4.372223364431971
+_cell_length_c       9.912856101989746
+_cell_angle_alpha    90.09259254913835
+_cell_angle_beta     90.12426413789795
+_cell_angle_gamma    90.19229963833223
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.41732510924339294  0.2724716365337372  0.16132473945617676  1.0000
+  Pr  Pr1       1.0  0.41714948415756226  0.772495210170746  0.4082341194152832  1.0000
+  Ir  Ir1       1.0  0.9173510074615479  0.7724568843841553  0.6611119508743286  1.0000
+  Li  Li1       1.0  0.4174248278141022  0.27236831188201904  0.6612635254859924  1.0000
+  Pr  Pr2       1.0  0.9170989990234375  0.27257341146469116  0.9142810702323914  1.0000
+  As  As2       1.0  0.41745802760124207  0.7724271416664124  0.7949566841125488  1.0000
+  As  As3       1.0  0.9172666668891907  0.2724662721157074  0.5274165272712708  1.0000
+  Ir  Ir2       1.0  0.9172993898391724  0.2725723385810852  0.27732202410697937  1.0000
+  As  As4       1.0  0.9171474575996399  0.7725928425788879  0.16125130653381348  1.0000
+  Ir  Ir3       1.0  0.4171195924282074  0.7726161479949951  0.04509356617927551  1.0000

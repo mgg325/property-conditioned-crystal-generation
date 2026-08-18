@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       FeZrBCoB
+_chemical_formula_sum              "Fe1 Zr1 B2 Co1"
+_cell_length_a       3.4385602542307256
+_cell_length_b       3.4116530492041055
+_cell_length_c       5.048460960388184
+_cell_angle_alpha    109.7778460482656
+_cell_angle_beta     110.39730854346082
+_cell_angle_gamma    91.79787894336634
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.5709323287010193  0.7836878299713135  0.3129647970199585  1.0000
+  Zr  Zr1       1.0  0.8215864300727843  0.5361660122871399  0.8120582103729248  1.0000
+  B   B1        1.0  0.4349100291728973  0.14929361641407013  0.03816934674978256  1.0000
+  Co  Co1       1.0  0.07129500061273575  0.2835420072078705  0.31256571412086487  1.0000
+  B   B2        1.0  0.2077686637639999  0.9233593940734863  0.5855918526649475  1.0000

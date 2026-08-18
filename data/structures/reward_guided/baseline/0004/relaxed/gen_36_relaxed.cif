@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tb5(HoTm)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00897976
+_cell_length_b   6.13505350
+_cell_length_c   10.63044100
+_cell_angle_alpha   106.74495148
+_cell_angle_beta   89.99951413
+_cell_angle_gamma   114.09348892
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb5(HoTm)2
+_chemical_formula_sum   'Tb5 Ho2 Tm2'
+_cell_volume   282.97577419
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.26610124  0.85246470  0.97782452  1
+  Tb  Tb1  1  0.26581321  0.85145706  0.64286203  1
+  Tb  Tb2  1  0.93207502  0.18361968  0.53088029  1
+  Tb  Tb3  1  0.59869061  0.51720894  0.41993643  1
+  Tb  Tb4  1  0.59919366  0.51891049  0.08836376  1
+  Ho  Ho5  1  0.59927915  0.51828576  0.75481181  1
+  Ho  Ho6  1  0.93244927  0.18474779  0.86608809  1
+  Tm  Tm7  1  0.93280696  0.18582470  0.19907452  1
+  Tm  Tm8  1  0.26594803  0.85161055  0.30924667  1

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       SbAu2Ca3Sb3
+_chemical_formula_sum              "Sb4 Au2 Ca3"
+_cell_length_a       4.170466632647797
+_cell_length_b       4.567446605636231
+_cell_length_c       12.986380577087402
+_cell_angle_alpha    89.96503193592427
+_cell_angle_beta     89.98183419924513
+_cell_angle_gamma    90.05021122542057
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.6377261877059937  0.6165775060653685  0.11106471717357634  1.0000
+  Au  Au1       1.0  0.639527440071106  0.1159938797354698  0.43002176284790034  1.0000
+  Au  Au2       1.0  0.6382567286491394  0.11614337563514708  0.2225074619054794  1.0000
+  Ca  Ca1       1.0  0.1375914216041565  0.11684589087963103  0.028092335909605023  1.0000
+  Ca  Ca2       1.0  0.13957765698432922  0.6165679693222045  0.3254595994949341  1.0000
+  Ca  Ca3       1.0  0.13987009227275848  0.11699535697698593  0.6259402632713318  1.0000
+  Sb  Sb2       1.0  0.13895511627197266  0.6167269349098204  0.8259026408195494  1.0000
+  Sb  Sb3       1.0  0.638330340385437  0.1167001649737358  0.8268500566482543  1.0000
+  Sb  Sb4       1.0  0.6405284404754639  0.616199791431427  0.5406867861747742  1.0000

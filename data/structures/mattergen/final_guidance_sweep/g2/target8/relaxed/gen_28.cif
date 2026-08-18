@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       TlCuTlHgCuHgTe4
+_chemical_formula_sum              "Tl2 Cu2 Hg2 Te4"
+_cell_length_a       6.040142637177949
+_cell_length_b       7.627667887633781
+_cell_length_c       7.758469610021051
+_cell_angle_alpha    104.70784166625977
+_cell_angle_beta     89.96284101926125
+_cell_angle_gamma    90.05805556866336
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.9099232421871526  0.7260943310906584  0.7376189310646601  1.0000
+  Cu  Cu1       1.0  0.7034730872684276  0.97630087723971  0.2369918692762419  1.0000
+  Tl  Tl2       1.0  0.4972590523017479  0.22619578706349638  0.7369142188128757  1.0000
+  Hg  Hg1       1.0  0.21453183323592903  0.22615590435771624  0.23718683180897795  1.0000
+  Cu  Cu2       1.0  0.7036426566488261  0.4760764790020957  0.23692113894647698  1.0000
+  Hg  Hg2       1.0  0.19261048312692447  0.7260479161315934  0.23724815836253113  1.0000
+  Te  Te1       1.0  0.9817636094615715  0.03884823680924391  0.46813784105178985  1.0000
+  Te  Te2       1.0  0.9822742884192849  0.4129550037861957  0.005904150260680918  1.0000
+  Te  Te3       1.0  0.4250499579475851  0.9133048059973595  0.005971512065207296  1.0000
+  Te  Te4       1.0  0.42528595168335337  0.5392095083977003  0.46817204192392353  1.0000

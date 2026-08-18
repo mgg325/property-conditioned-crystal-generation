@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2NiIO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22123103
+_cell_length_b   5.96894442
+_cell_length_c   5.97469703
+_cell_angle_alpha   120.09845147
+_cell_angle_beta   90.05211060
+_cell_angle_gamma   90.10271770
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NiIO6
+_chemical_formula_sum   'K2 Ni1 I1 O6'
+_cell_volume   161.09557623
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.89099481  0.51414862  0.96304887  1
+  K  K1  1  0.38903360  0.18174983  0.29661102  1
+  Ni  Ni2  1  0.13995251  0.84624588  0.62970304  1
+  I  I3  1  0.63991032  0.84613030  0.63057992  1
+  O  O4  1  0.41031189  0.13244202  0.77303981  1
+  O  O5  1  0.86963554  0.98930347  0.48730279  1
+  O  O6  1  0.86903088  0.55928663  0.48690841  1
+  O  O7  1  0.41030577  0.70300705  0.77416973  1
+  O  O8  1  0.41002821  0.70138209  0.34356190  1
+  O  O9  1  0.87070296  0.99142425  0.91682294  1

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SeRbCuSeRbAgCuAg
+_chemical_formula_sum              "Se2 Rb2 Cu2 Ag2"
+_cell_length_a       4.009267400925224
+_cell_length_b       4.050574362266301
+_cell_length_c       12.961772918701172
+_cell_angle_alpha    92.56745015715296
+_cell_angle_beta     89.71345560316406
+_cell_angle_gamma    89.90823890297037
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.06362652033567429  0.6089634299278259  0.21570102870464325  1.0000
+  Rb  Rb1       1.0  0.56510329246521  0.10844383388757706  0.07280097156763077  1.0000
+  Cu  Cu1       1.0  0.5662128925323486  0.6069654822349548  0.3278364837169647  1.0000
+  Se  Se2       1.0  0.5648936629295349  0.10854952037334442  0.44027087092399597  1.0000
+  Rb  Rb2       1.0  0.06501572579145432  0.6086491346359253  0.5820828080177307  1.0000
+  Ag  Ag1       1.0  0.565214216709137  0.6089559793472291  0.8279717564582825  1.0000
+  Cu  Cu2       1.0  0.06367193162441254  0.10978283733129503  0.3281293213367462  1.0000
+  Ag  Ag2       1.0  0.06321685016155243  0.10741003602743149  0.8281417489051819  1.0000

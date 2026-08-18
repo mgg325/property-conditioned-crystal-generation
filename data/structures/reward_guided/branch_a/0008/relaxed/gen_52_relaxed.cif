@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CsK2RbAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80317910
+_cell_length_b   6.77899143
+_cell_length_c   6.99668651
+_cell_angle_alpha   91.01366371
+_cell_angle_beta   91.69075685
+_cell_angle_gamma   89.99687965
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsK2RbAu
+_chemical_formula_sum   'Cs1 K2 Rb1 Au1'
+_cell_volume   322.48704182
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.87117582  0.37760389  0.25234680  1
+  K  K1  1  0.37389483  0.37775447  0.74985786  1
+  K  K2  1  0.87347638  0.87715932  0.75283637  1
+  Rb  Rb3  1  0.37011820  0.87670886  0.25306355  1
+  Au  Au4  1  0.87398143  0.37719257  0.75153612  1

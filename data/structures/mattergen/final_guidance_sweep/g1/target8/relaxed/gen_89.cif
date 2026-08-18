@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sc2LiScO3N
+_chemical_formula_sum              "Sc3 Li1 O3 N1"
+_cell_length_a       4.401427095744877
+_cell_length_b       4.400938139812818
+_cell_length_c       4.399483038689712
+_cell_angle_alpha    89.98730623219669
+_cell_angle_beta     90.00411504834048
+_cell_angle_gamma    89.98771690837461
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.9714078480075151  0.4910202934659424  0.25724310471658185  1.0000
+  Sc  Sc2       1.0  0.9716528774191309  0.9907350062014313  0.7572139597683997  1.0000
+  Li  Li1       1.0  0.47133303682009314  0.49079527148138075  0.7572539362742242  1.0000
+  Sc  Sc3       1.0  0.4718081121853945  0.9907084744482066  0.25701661787238556  1.0000
+  O   O1        1.0  0.9714099207547952  0.49110437380893973  0.7574084675318433  1.0000
+  O   O2        1.0  0.4715570587680646  0.49054065436512645  0.2571955977949103  1.0000
+  O   O3        1.0  0.4715225881187706  0.9904904949235469  0.7572811496045931  1.0000
+  N   N1        1.0  0.9717991514277926  0.9908420639292498  0.25741469892373786  1.0000
